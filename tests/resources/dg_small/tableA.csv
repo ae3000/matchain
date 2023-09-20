@@ -1,0 +1,21 @@
+id,name,owner,capacity,fuel
+0,Spurness II,SSE,10.0,Wind
+1,Upper Holton Airfield,Temporis Capital,10.0,Wind
+2,Wear Point,John Laing Environmental Asset Group,10.0,Wind
+3,Westfield 2,Venitent Energy Services,10.0,Wind
+4,Wolf Bog,Scottish Power,10.0,Wind
+5,Woolley Hill,RES Group,10.0,Wind
+6,Bryn Titli,Venitent Energy Services,9.9,Wind
+7,Bambers,Ecotricity,9.6,Wind
+8,Bears Down,Venitent Energy Services,9.6,Wind
+9,Lochelbank,RWE Npower,9.6,Wind
+10,Cia Aig,RWE Npower,3.0,Hydro
+11,Llangwyryfon,EDF Energy,9.4,Wind
+12,Galsworthy,Ecotricity,9.2,Wind
+13,Hellrigg,RWE Npower,9.2,Wind
+14,Out Newton,E.ON UK,9.1,Wind
+15,Bessy Bell 2,SSE,9.0,Wind
+16,Abbots Ripton,Octopus Investments,24.7,Solar
+17,Finvoy,Lightsource BP,6.0,Solar
+18,Abergelli,Anesco,7.7,Solar
+19,Aberthaw B,RWE Npower,1559.0,Coal

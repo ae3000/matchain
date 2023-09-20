@@ -1,0 +1,96 @@
+dir_data: ./data
+
+test:
+  type: dataset
+  data_1: null
+  data_2: null
+  file_matches: null
+  props: null
+  props_sim: null
+  blocking_props: null
+
+fz:
+  type: dataset
+  data_1: "{dir_data}/Structured/Fodors-Zagats/tableA.csv"
+  data_2: "{dir_data}/Structured/Fodors-Zagats/tableB.csv"
+  file_matches: "{dir_data}/Structured/Fodors-Zagats"
+  props_sim: 
+    name: [tfidf, embedding]
+    addr: [tfidf, embedding]
+    city: [tfidf, embedding]
+    type: [tfidf, embedding]
+    phone: [tfidf, embedding]
+  blocking_props: [name, addr, phone]
+
+dg:
+  type: dataset
+  data_1: "{dir_data}/Structured/DUKES-GPPDgbr/tableA.csv"
+  data_2: "{dir_data}/Structured/DUKES-GPPDgbr/tableB.csv"
+  file_matches: "{dir_data}/Structured/DUKES-GPPDgbr"
+  props_sim:
+    capacity: relative
+    fuel: equal
+    name: [tfidf, embedding]
+    owner: [tfidf, embedding]
+  blocking_props: [name, owner]
+
+kg:
+  type: dataset
+  data_1: "{dir_data}/Structured/KWL-GPPDdeu/tableA.csv"
+  data_2: "{dir_data}/Structured/KWL-GPPDdeu/tableB.csv"
+  file_matches: "{dir_data}/Structured/KWL-GPPDdeu"
+  props_sim:
+    year: absolute
+    capacity: relative
+    fuel: equal
+    name: [tfidf, embedding]
+    owner: [tfidf, embedding]
+  blocking_props: [name, owner]
+  
+kgloc:
+  type: dataset
+  data_1: "{dir_data}/Structured/KWL-GPPDdeu/tableA_full.csv"
+  data_2: "{dir_data}/Structured/KWL-GPPDdeu/tableB.csv"
+  file_matches: "{dir_data}/Structured/KWL-GPPDdeu"
+  props_sim:
+    year: absolute
+    capacity: relative
+    fuel: equal
+    name: [tfidf, embedding]
+    owner: [tfidf, embedding]
+  blocking_props: [name, owner, locality]
+  
+ag:
+  type: dataset
+  data_1: "{dir_data}/Structured/Amazon-Google/tableA.csv"
+  data_2: "{dir_data}/Structured/Amazon-Google/tableB.csv"
+  file_matches: "{dir_data}/Structured/Amazon-Google"
+  props_sim: 
+    price: relative
+    title: [tfidf, embedding]
+    manufacturer: [tfidf, embedding]
+  blocking_props: [title, manufacturer]
+  
+da:
+  type: dataset
+  data_1: "{dir_data}/Structured/DBLP-ACM/tableA.csv"
+  data_2: "{dir_data}/Structured/DBLP-ACM/tableB.csv"
+  file_matches: "{dir_data}/Structured/DBLP-ACM"
+  props_sim: 
+    year: equal
+    title: [tfidf, embedding]
+    authors: [tfidf, embedding]
+    venue: [tfidf, embedding]
+  blocking_props: [title, authors, venue]
+  
+ds:
+  type: dataset
+  data_1: "{dir_data}/Structured/DBLP-GoogleScholar/tableA.csv"
+  data_2: "{dir_data}/Structured/DBLP-GoogleScholar/tableB.csv"
+  file_matches: "{dir_data}/Structured/DBLP-GoogleScholar"
+  props_sim: 
+    year: equal
+    title: [tfidf, embedding]
+    authors: [tfidf, embedding]
+    venue: [tfidf, embedding]
+  blocking_props: [title, authors, venue]

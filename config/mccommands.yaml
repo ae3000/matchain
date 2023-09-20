@@ -1,0 +1,67 @@
+include:
+- ./config/mcdatasets.yaml
+
+select_datasets: [fz,dg,kg,kgloc,ag,da,ds]
+#select_datasets: [dg]
+
+#chains
+chain: [prepare,mtoken,blocking,similarity,autocal,evaluate]
+#chain: [prepare,blocking,similarity,autocal,evaluate]
+#chain: [prepare,blocking,evaluate]
+
+#variables and additional parameters
+#tag: "node2vec_{current_time}"
+tag: test
+
+output:
+  file_embedding: "{dir_experiments}/{dataset_name}.emb"
+  file_embedding_id: "{dir_experiments}/{dataset_name}_indices.emb"
+
+#chain commands and parameters
+prepare:
+  seed: 1
+  dir_experiments: "./experiments/{tag}"
+  dir_conf: "./config"
+  log_file: "{dir_experiments}/{dataset_name}_log.txt"
+  log_config_file: "{dir_conf}/logging.yaml"
+
+mtoken:
+  minimum_token_length: 3
+  maximum_token_frequency: 50
+  readable: false
+  tfidf_index: false
+
+blocking:
+  name: token
+  #name: bruteforce
+  #name: sklearn
+  #name: sparsedottopn
+  #name: nmslib
+  #vector_type: shingle_tfidf
+  #shingle_size: 3
+  #name: faiss
+  #vector_type: embedding
+  #query_strategy: smaller
+  #njobs: 4
+  #ntop: 10
+  #ntop: 3
+  #blocking_threshold: 0.5
+
+similarity:
+  embedding_batch_size: 64
+  embedding_model: stsb-roberta-base
+  #embedding_model: all-MiniLM-L6-v2
+  #embedding_device: cpu
+  #embedding_device: cuda
+  tfidf_maxidf: 30
+
+autocal:
+  delta: 0.025
+  #threshold: estimated
+  #threshold: majority
+  #dir_dump: "{dir_experiments}/autocal_dump_{dataset_name}"
+  #file_candidates: "{file_matches}/test.csv"
+
+evaluate:
+  compute_max_f1: true
+  leak_n_matches: false
