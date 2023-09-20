@@ -130,7 +130,7 @@ class TestAutoCal(TestBase):
 
         mat = matchain.api.MatChain(df1, df2)
         mat.property('name', simfct='equal')
-        # "fuel" generate 62 candidate pairs
+        # "fuel" generates 62 candidate pairs
         mat.token(blocking_props=['fuel'])
 
         mat.autocal(threshold_method='majority')
