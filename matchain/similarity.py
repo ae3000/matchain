@@ -20,7 +20,7 @@ the words in the bag have TFIDF scores as weights
 import collections
 import logging
 import time
-from typing import Any, Callable, List, Optional, Tuple, cast
+from typing import Any, Callable, List, Optional, Set, Tuple, cast
 
 import numpy as np
 import pandas as pd
@@ -241,6 +241,50 @@ class VectorizedSimilarity():
         sim_fct = VectorizedSimilarity._convert_to_similarity_fct(
             dist_fct, cut_off_value)
         return sim_fct
+
+
+class ShingleWrapper:
+    """Creates vectors of shingles with TF-IDF weights.
+    """
+
+    def __init__(self, shingle_size: int):
+        """Init the ShingleWrapper
+
+        :param shingle_size: size of the shingles
+        :type shingle_size: int
+        """
+        self.shingle_size = shingle_size
+
+    def create_shingles(self, s: str) -> Set[str]:
+        """Creates the shingles for the given string.
+        Example: The shingles of size 3 for string 'matching' are
+        {'mat', 'atc', 'tch', 'chi', 'hin', 'ing'}.
+
+        :param s: The string to create the shingles for.
+        :type s: str
+        :return: The set of shingles.
+        :rtype: Set[str]
+        """
+        k = self.shingle_size
+        return set(s[i:i + k] for i in range(len(s) - k + 1))
+
+    def generate_vectors(self, values: pd.Series) -> scipy.sparse.csr_matrix:
+        """Creates shingles from the values
+        and computes the TF-IDF weights of the shingles.
+
+        :param values: series containing the data
+        :type values: pd.Series
+        :return: sparse matrix with TF-IDF weights
+        :rtype: scipy.sparse.csr_matrix
+        """
+
+        start_time = time.time()
+        analyzer = self.create_shingles
+        vectorizer = TfidfVectorizer(min_df=1, analyzer=analyzer)
+        tf_idf_matrix = vectorizer.fit_transform(values)
+        logging.debug('tf_idf_matrix=%s, time=%s', tf_idf_matrix.shape, time.time() - start_time)
+
+        return cast(scipy.sparse.csr_matrix, tf_idf_matrix)
 
 
 class SentenceTransformerWrapper():
@@ -487,7 +531,7 @@ class TfidfSimilarity():
 
         m_tfidf_norm = TfidfSimilarity._normalize_tfidf_matrix(m_tfidf)
 
-        tfidf_sim = TfidfSimilarity._dot_for_candidate_pairs(
+        tfidf_sim = TfidfSimilarity.dot_for_candidate_pairs(
             candidate_pairs, m_tfidf_norm, size_1)
 
         #df_sim[prop_column] = tfidf_sim
@@ -567,9 +611,20 @@ class TfidfSimilarity():
         return m_tfidf_norm
 
     @staticmethod
-    def _dot_for_candidate_pairs(candidate_pairs: pd.MultiIndex,
+    def dot_for_candidate_pairs(candidate_pairs: pd.MultiIndex,
                                  matrix: scipy.sparse.csr_matrix,
                                  size_1: int) -> np.ndarray:
+        """Computes the dot product for sparse tfidf vectors of all candidate pairs.
+
+        :param candidate_pairs: the set of candidate pairs
+        :type candidate_pairs: pd.MultiIndex
+        :param matrix: the sparse tfidf matrix, rows correspond to entities
+        :type matrix: scipy.sparse.csr_matrix
+        :param size_1: the size of the first dataset
+        :type size_1: int
+        :return: the dot product for all candidate pairs
+        :rtype: np.ndarray
+        """
         m_a = matrix[:size_1, ]
         l_idx1 = candidate_pairs.get_level_values(level=0)
         m_a_lifted = cast(scipy.sparse.csr_matrix, m_a[l_idx1])
@@ -837,6 +892,8 @@ class SimilarityManager():
         :type df_sim: pd.DataFrame
         :param df_token_index: dataframe with the token index
         :type df_token_index: pd.DataFrame
+        :param df_data: dataframe with the stacked data of the first and second dataset
+        :type df_data: pd.DataFrame
         :return: dataframe with additional new similarity values
         :rtype: pd.DataFrame
         """
@@ -846,37 +903,23 @@ class SimilarityManager():
         prop_columns = []
         for propmap in property_mapping:
 
-            # TODO-AE 230926 NEW
             prop = propmap['prop1']
             column = propmap['column_name']
             prop_columns.append(column)
             name = propmap['sim_fct_name']
             if name == 'tfidf_sklearn':
-
-                start_time = time.time()
-
+                # use shingles of strings to create sparse vectors with tfidf weights
                 str_series = df_data[prop]
                 str_series = str_series.fillna('', inplace=False)
-
-                # TODO-AE 230926 two sklearn TFIDF versions in similarity
-                # TODO-AE 230926 use configurable shingle size
-                # NEW - as done originally in blocking
-                analyzer = lambda s : set(s[i:i + 3] for i in range(len(s) - 3 + 1))
-                vectorizer = TfidfVectorizer(min_df=1, analyzer=analyzer)
-                # ORIG (from pseudo-vectorized)
-                #vectorizer = TfidfVectorizer(norm='l2',
-                #                            analyzer='char',
-                #                           ngram_range=(3, 3))
-
-                tfidf_matrix = vectorizer.fit_transform(str_series)
-                logging.info('NEW tfidf_matrix=%s, time=%s', tfidf_matrix.shape, time.time() - start_time)
-                tfidf_matrix = cast(scipy.sparse.csr_matrix, tfidf_matrix)
-                df_sim[column] = TfidfSimilarity._dot_for_candidate_pairs(candidate_pairs, tfidf_matrix, size_1)
+                wrapper = ShingleWrapper(shingle_size=3)
+                tfidf_matrix = wrapper.generate_vectors(str_series)
+                df_sim[column] = TfidfSimilarity.dot_for_candidate_pairs(
+                    candidate_pairs, tfidf_matrix, size_1)
 
             elif name == 'tfidf':
-                # TODO-AE 230926: 'tfidf' is only for backward compatibility, i.e. to check whether we
-                # obtain the same results as published in the paper. Maybe use TfidfVectorizer with
-                # token / word (instead of shingle)
+                # use tokens (words) of string to create sparse vectors with tfidf weights
+                # this is faster implementation of the code originally used for the autocal
+                # the implemention ensures to obtain the same results
                 max_idf = propmap['sim_fct_params']['maxidf']
                 TfidfSimilarity.compute_similarity(prop, column, df_token_index,
                                                 candidate_pairs, df_sim, size_1,

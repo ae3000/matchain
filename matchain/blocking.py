@@ -23,7 +23,7 @@ or dense vectors. This module wraps some search algorithms of some of these libr
 import itertools
 import logging
 import time
-from typing import Callable, List, Optional, Set, Tuple, Union, cast
+from typing import Callable, List, Optional, Set, Tuple, Union
 
 import numpy as np
 import pandas as pd
@@ -122,51 +122,6 @@ def _read_candidate_pairs(file: str, offset: int) -> pd.MultiIndex:
 
     cand_index = matchain.util.sort_pairs(df_all)
     return cand_index
-
-
-class ShingleWrapper:
-    """Creates vectors of shingles with TF-IDF weights.
-    """
-
-    def __init__(self, shingle_size: int):
-        """Init the ShingleWrapper
-
-        :param shingle_size: size of the shingles
-        :type shingle_size: int
-        """
-        self.shingle_size = shingle_size
-
-    def create_shingles(self, s: str) -> Set[str]:
-        """Creates the shingles for the given string.
-        Example: The shingles of size 3 for string 'matching' are
-        {'mat', 'atc', 'tch', 'chi', 'hin', 'ing'}.
-
-        :param s: The string to create the shingles for.
-        :type s: str
-        :return: The set of shingles.
-        :rtype: Set[str]
-        """
-        k = self.shingle_size
-        return set(s[i:i + k] for i in range(len(s) - k + 1))
-
-    def generate_vectors(self, values: pd.Series) -> scipy.sparse.csr_matrix:
-        """Creates shingles from the values
-        and computes the TF-IDF weights of the shingles.
-
-        :param values: series containing the data
-        :type values: pd.Series
-        :return: sparse matrix with TF-IDF weights
-        :rtype: scipy.sparse.csr_matrix
-        """
-
-        start_time = time.time()
-        analyzer = self.create_shingles
-        vectorizer = sklearn.feature_extraction.text.TfidfVectorizer(
-            min_df=1, analyzer=analyzer)
-        tf_idf_matrix = vectorizer.fit_transform(values)
-        logging.debug('tf_idf_matrix=%s, time=%s', tf_idf_matrix.shape, time.time() - start_time)
-
-        return cast(scipy.sparse.csr_matrix, tf_idf_matrix)
 
 
 class NNWrapperBase():
@@ -825,7 +780,7 @@ def run(
 
         elif vector_type == 'shingle_tfidf':
             shingle_size = config_blocking['shingle_size']
-            wrapper = ShingleWrapper(shingle_size)
+            wrapper = matchain.similarity.ShingleWrapper(shingle_size)
             generate_vectors = wrapper.generate_vectors
 
         else:
