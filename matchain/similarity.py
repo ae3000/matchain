@@ -22,7 +22,6 @@ import logging
 import time
 from typing import Any, Callable, List, Optional, Tuple, cast
 
-import matchain.util
 import numpy as np
 import pandas as pd
 import scipy.sparse
@@ -31,6 +30,8 @@ import sentence_transformers.util
 from sklearn.feature_extraction.text import TfidfVectorizer
 from thefuzz import fuzz
 from tqdm import tqdm
+
+import matchain.util
 
 
 def get_similarity_function_names() -> List[str]:
@@ -148,67 +149,6 @@ class PseudoVectorizedSimilarity():
             v = lifted_array[:, 2 * i_prop]
             w = lifted_array[:, 2 * i_prop + 1]
             result = vect_fct(v, w)
-
-            col = propmap['column_name']
-            df_sim[col] = result
-
-        return df_sim
-
-    @staticmethod
-    def _tfidf_sklearn(str_series: pd.Series):
-
-        def _tfidf_sklearn_internal(idx_1: int, idx_2: int):
-            v = tfidf_matrix[idx_1].toarray()
-            w = tfidf_matrix[idx_2].toarray()
-            vwdot = np.dot(v, w.T)
-            return vwdot.item()
-
-        str_series = str_series.fillna('', inplace=False)
-        vectorizer = TfidfVectorizer(norm='l2',
-                                     analyzer='char',
-                                     ngram_range=(3, 3))
-        tfidf_matrix = cast(scipy.sparse.csr_matrix,
-                            vectorizer.fit_transform(str_series))
-        return _tfidf_sklearn_internal
-
-    @staticmethod
-    def compute_tfidf_sklearn_similarity(df_data: pd.DataFrame,
-                                         candidate_pairs: pd.MultiIndex,
-                                         property_mapping: List[dict],
-                                         df_sim: pd.DataFrame) -> pd.DataFrame:
-        """Computes the similarity values for the given property mapping
-        and adds them to the given dataframe.
-        The similarity values are the dot products of the tfidf vectors
-        computed by sklearn's TfidfVectorizer for shingle size 3.
-
-        :param df_data: the stacked data of the first and second dataset
-        :type df_data: pd.DataFrame
-        :param candidate_pairs: the set of candidate pairs
-        :type candidate_pairs: pd.MultiIndex
-        :param property_mapping: describes the similarity functions to be used
-        :type property_mapping: List[dict]
-        :param df_sim: the dataframe to which the similarity values are added
-        :type df_sim: pd.DataFrame
-        :return: the dataframe with the similarity values added
-        :rtype: pd.DataFrame
-        """
-
-        # TODO-AE 230501 this tfidf sklearn implementation is experimental, non-vectorized, slow
-        # Currently, TFidfVectorizer is configured for shingles of size 3. Could be summarized
-        # with the code in the blocking module to avoid duplicate calculation.
-        for propmap in property_mapping:
-
-            logging.debug('learning tfidf sklearn matrix for prop=%s',
-                          propmap['column_name'])
-            sim_fct = PseudoVectorizedSimilarity._tfidf_sklearn(
-                df_data[propmap['prop1']])
-            logging.debug('finished learning tfidf sklearn matrix for prop=%s',
-                          propmap['column_name'])
-
-            result = []
-            for idx_1, idx_2 in candidate_pairs:
-                sim_value = sim_fct(idx_1, idx_2)
-                result.append(sim_value)
 
             col = propmap['column_name']
             df_sim[col] = result
@@ -631,20 +571,23 @@ class TfidfSimilarity():
                                  matrix: scipy.sparse.csr_matrix,
                                  size_1: int) -> np.ndarray:
         m_a = matrix[:size_1, ]
-        m_b = cast(scipy.sparse.csr_matrix, matrix[size_1:, ])
-        m_prod = m_a * m_b.T
-        #nonzero = m_prod.nonzero()
-        #logging.debug('matrix=%s, m_a=%s, m_b=%s, m_prod=%s, nonzero=%s',
-        #              matrix.shape, m_a.shape, m_b.shape, m_prod.shape,
-        #              len(nonzero[0]))
-
         l_idx1 = candidate_pairs.get_level_values(level=0)
-        l_idx2 = candidate_pairs.get_level_values(level=1) - size_1
-        m_candidate_pairs = (l_idx1, l_idx2)
+        m_a_lifted = cast(scipy.sparse.csr_matrix, m_a[l_idx1])
 
-        # getA1() converts a matrix to a flattened ndarray of shape (len(candidate_pairs),)
-        tfidf_sim = m_prod[m_candidate_pairs].getA1()
-        return tfidf_sim
+        m_b = matrix[size_1:, ]
+        l_idx2 = candidate_pairs.get_level_values(level=1) - size_1
+        m_b_lifted = cast(scipy.sparse.csr_matrix, m_b[l_idx2])
+
+        #logging.debug('m_a_lifted=%s, m_b_lifted=%s', m_a_lifted.shape, m_b_lifted.shape)
+        # element-wise multiplication of two sparse matrices in scipy's csr format
+        m_prod = m_a_lifted.multiply(m_b_lifted)
+        #logging.debug('m_prod=%s', m_prod.shape)
+
+        m_dot = m_prod.sum(axis=1)
+        logging.debug('m_dot=%s, type=%s', m_dot.shape, type(m_dot))
+
+         # getA1() converts a matrix to a flattened ndarray of shape (len(candidate_pairs),)
+        return m_dot.getA1()
 
 
 class SimilarityManager():
@@ -687,6 +630,7 @@ class SimilarityManager():
         self.embedding_model = embedding_model
         self.embedding_device = embedding_device
 
+        self.df_token_index = None
         if df_token_index is not None:
             self.df_token_index = df_token_index.copy()
             self.df_token_index.index.names = ['token']
@@ -729,11 +673,11 @@ class SimilarityManager():
             name = mapping['sim_fct_name']
             if name == 'embedding':
                 mapping_categories[name].append(mapping)
-            elif name == 'tfidf':
-                mapping_categories[name].append(mapping)
+            elif name in ['tfidf', 'tfidf_sklearn']:
+                mapping_categories['tfidf'].append(mapping)
             elif name in ['absolute', 'relative', 'equal']:
                 mapping_categories['vectorized'].append(mapping)
-            elif name in ['fuzzy', 'tfidf_sklearn']:
+            elif name in ['fuzzy']:
                 mapping_categories['pseudo'].append(mapping)
             else:
                 raise ValueError(f'unknown similarity function: {name}')
@@ -758,7 +702,7 @@ class SimilarityManager():
             size_2 = len(self.df_data) - self.size_1
             df_sim = SimilarityManager._compute_tfidf_similarity(
                 self.size_1, size_2, property_mapping, self.candidate_pairs,
-                df_sim, self.df_token_index)
+                df_sim, self.df_token_index, self.df_data)
 
         property_mapping = mapping_categories['embedding']
         if property_mapping:
@@ -809,13 +753,6 @@ class SimilarityManager():
 
             PseudoVectorizedSimilarity.compute_similarity(
                 propmaps_pseudo, lifted_array, df_sim)
-
-        propmaps_tfidf = [
-            m for m in property_mapping if m['sim_fct_name'] == 'tfidf_sklearn'
-        ]
-        if propmaps_tfidf:
-            PseudoVectorizedSimilarity.compute_tfidf_sklearn_similarity(
-                df_data, candidate_pairs, propmaps_tfidf, df_sim)
 
         prop_columns = [t['column_name'] for t in property_mapping]
         diff = time.time() - starttime
@@ -882,7 +819,7 @@ class SimilarityManager():
     def _compute_tfidf_similarity(
             size_1: int, size_2: int, property_mapping: List[dict],
             candidate_pairs: pd.MultiIndex, df_sim: pd.DataFrame,
-            df_token_index: pd.DataFrame) -> pd.DataFrame:
+            df_token_index: pd.DataFrame, df_data: pd.DataFrame) -> pd.DataFrame:
         """Computes the similarity values for all candidate pairs
         for each given property and adds the resulting columns to df_sim.
         The implementation is specific to the tfidf similarity function and
@@ -908,13 +845,42 @@ class SimilarityManager():
 
         prop_columns = []
         for propmap in property_mapping:
+
+            # TODO-AE 230926 NEW
             prop = propmap['prop1']
             column = propmap['column_name']
             prop_columns.append(column)
-            max_idf = propmap['sim_fct_params']['maxidf']
-            TfidfSimilarity.compute_similarity(prop, column, df_token_index,
-                                               candidate_pairs, df_sim, size_1,
-                                               size_2, max_idf)
+            name = propmap['sim_fct_name']
+            if name == 'tfidf_sklearn':
+
+                start_time = time.time()
+
+                str_series = df_data[prop]
+                str_series = str_series.fillna('', inplace=False)
+
+                # TODO-AE 230926 two sklearn TFIDF versions in similarity
+                # TODO-AE 230926 use configurable shingle size
+                # NEW - as done originally in blocking
+                analyzer = lambda s : set(s[i:i + 3] for i in range(len(s) - 3 + 1))
+                vectorizer = TfidfVectorizer(min_df=1, analyzer=analyzer)
+                # ORIG (from pseudo-vectorized)
+                #vectorizer = TfidfVectorizer(norm='l2',
+                #                            analyzer='char',
+                #                           ngram_range=(3, 3))
+
+                tfidf_matrix = vectorizer.fit_transform(str_series)
+                logging.info('NEW tfidf_matrix=%s, time=%s', tfidf_matrix.shape, time.time() - start_time)
+                tfidf_matrix = cast(scipy.sparse.csr_matrix, tfidf_matrix)
+                df_sim[column] = TfidfSimilarity._dot_for_candidate_pairs(candidate_pairs, tfidf_matrix, size_1)
+
+            elif name == 'tfidf':
+                # TODO-AE 230926: 'tfidf' is only for backward compatibility, i.e. to check whether we
+                # obtain the same results as published in the paper. Maybe use TfidfVectorizer with
+                # token / word (instead of shingle)
+                max_idf = propmap['sim_fct_params']['maxidf']
+                TfidfSimilarity.compute_similarity(prop, column, df_token_index,
+                                                candidate_pairs, df_sim, size_1,
+                                                size_2, max_idf)
 
         diff = time.time() - starttime
         logging.info('computed similarity tfidf=%s, sim columns=%s, time=%s',

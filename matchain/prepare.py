@@ -4,11 +4,12 @@ setting the seed etc."""
 import logging
 import logging.config
 import os
-from typing import Optional
+from typing import Optional, Tuple
 
-import matchain.util
 import pandas as pd
 import yaml
+
+import matchain.util
 
 
 def init_logging(log_config_file: str, log_file: str) -> None:
@@ -67,7 +68,7 @@ def concat_data(df1: pd.DataFrame, df2: pd.DataFrame) -> pd.DataFrame:
 
 def run(config: dict,
         df1: Optional[pd.DataFrame] = None,
-        df2: Optional[pd.DataFrame] = None):
+        df2: Optional[pd.DataFrame] = None) -> Tuple[pd.DataFrame, int, int]:
     """Entry point as part of the command chain
     for preparing the data etc. """
     seed = config['prepare']['seed']

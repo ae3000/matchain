@@ -158,11 +158,14 @@ class ShingleWrapper:
         :return: sparse matrix with TF-IDF weights
         :rtype: scipy.sparse.csr_matrix
         """
+
+        start_time = time.time()
         analyzer = self.create_shingles
         vectorizer = sklearn.feature_extraction.text.TfidfVectorizer(
             min_df=1, analyzer=analyzer)
         tf_idf_matrix = vectorizer.fit_transform(values)
-        logging.debug('tf_idf_matrix=%s', tf_idf_matrix.shape)
+        logging.debug('tf_idf_matrix=%s, time=%s', tf_idf_matrix.shape, time.time() - start_time)
+
         return cast(scipy.sparse.csr_matrix, tf_idf_matrix)
 
 
@@ -503,7 +506,10 @@ class NNBruteForce(NNWrapperBase):
                            ntop: int) -> pd.DataFrame:
         """see NNWrapperBase.nearest_neighbours
         """
+
+        start_time = time.time()
         scores = np.dot(query_vectors, index_vectors.T)
+        logging.debug("dot product time=%s", time.time() - start_time)
         if isinstance(scores, scipy.sparse.spmatrix):
             scores = scores.toarray()
 
