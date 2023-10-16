@@ -432,9 +432,11 @@ class NNWrapperSklearn(NNWrapperBase):
 
         df_scores = NNWrapperBase._create_dataframe_for_search_result(
             search_index, search_score)
-        # use < 1 and < since search_score contains distances (not similarities)
-        if self.threshold < 1:
-            df_scores = df_scores[df_scores['score'] < self.threshold]
+        # search_score contains distances (not similarities)
+        # thus, filter scores by condition <= 1 - threshold
+        if self.threshold > 0:
+            df_scores = df_scores[df_scores['score'] <= 1 - self.threshold]
+
 
         logging.debug('df_scores (after applying threshold)=%s',
                       len(df_scores))

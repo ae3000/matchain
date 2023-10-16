@@ -44,7 +44,6 @@ blocking:
   #query_strategy: smaller
   #njobs: 4
   #ntop: 10
-  #ntop: 3
   #blocking_threshold: 0.5
 
 similarity:

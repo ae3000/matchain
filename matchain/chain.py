@@ -202,21 +202,13 @@ def execute_command(command: str, board: matchain.base.PinBoard) -> None:
     diff = time.time() - startime
     logging.info('finished command=%s, time=%s', command, diff)
 
+def run_config_file(config_file: str) -> None:
+    """Runs matcha for a configuration file.
 
-def main() -> None:
+    :param config_file: the configuration file
+    :type config_file: str
     """
-    Entry point to start matcha in a command line shell.
-    The parameter --config allows to specify the configuration file.
-    The configuration file may specify multiple dataset pairs for matching.
-    Matching is performed for each dataset pair independently from each other.
-    """
-
-    print('current working directory=', os.getcwd())
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--config', type=str)
-    args = parser.parse_args()
-
-    config = matchain.config.read_yaml(args.config)
+    config = matchain.config.read_yaml(config_file)
     if config.get('dataset'):
         single_config = matchain.config.resolve_config(config)
         split_configs = [single_config]
@@ -239,6 +231,21 @@ def main() -> None:
             # the current dataset pair
             print(exc)
             logging.exception(exc)
+
+def main() -> None:
+    """
+    Entry point to start matcha in a command line shell.
+    The parameter --config allows to specify the configuration file.
+    The configuration file may specify multiple dataset pairs for matching.
+    Matching is performed for each dataset pair independently from each other.
+    """
+
+    print('current working directory=', os.getcwd())
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--config', type=str)
+    args = parser.parse_args()
+    config_file = args.config
+    run_config_file(config_file)
 
 
 if __name__ == '__main__':

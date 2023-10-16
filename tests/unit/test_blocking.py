@@ -43,17 +43,34 @@ class TestBlocking(TestBase):
 
         self.assertEqual(len(candidates), 4)
 
-    def test_run_and_sparsedottopn_blocking(self):
-        df_data, _, _, size_1, _, _ = self.load_test_data_dg()
+    def get_config_blocking_sparse_vectors(self, blocking_name: str, blocking_threshold: float):
         config = {
             'blocking': {
-                'name': 'sparsedottopn',
+                'name': blocking_name,
                 'vector_type': 'shingle_tfidf',
                 'shingle_size': 3,
                 'query_strategy': 'first',
                 'njobs': 1,
                 'ntop': 10,
-                'blocking_threshold': 0.5
+                'blocking_threshold': blocking_threshold
+            },
+            'dataset': {
+                'blocking_props': ['name']
+            }
+        }
+        return config
+
+    def get_candidates_for_test_data_dg(self, blocking_name: str, blocking_threshold: float):
+        df_data, _, _, size_1, _, _ = self.load_test_data_dg()
+        config = {
+            'blocking': {
+                'name': blocking_name,
+                'vector_type': 'shingle_tfidf',
+                'shingle_size': 3,
+                'query_strategy': 'first',
+                'njobs': 1,
+                'ntop': 10,
+                'blocking_threshold': blocking_threshold
             },
             'dataset': {
                 'blocking_props': ['name']
@@ -65,32 +82,41 @@ class TestBlocking(TestBase):
             print(idx_1, idx_2, df_data.iloc[idx_1]['name'],
                   df_data.iloc[idx_2]['name'])
 
+        return candidates
+
+    def test_run_and_bruteforce_blocking(self):
+        candidates = self.get_candidates_for_test_data_dg('bruteforce', 0.5)
         self.assertEqual(len(candidates), 6)
+
+    def test_run_and_bruteforce_blocking_higher_threshold(self):
+        candidates = self.get_candidates_for_test_data_dg('bruteforce', 0.9)
+        self.assertEqual(len(candidates), 3)
+
+    def test_run_and_sklearn_bruteforce_blocking(self):
+        candidates = self.get_candidates_for_test_data_dg('sklearn', 0.5)
+        self.assertEqual(len(candidates), 6)
+
+    def test_run_and_sklearn_bruteforce_blocking_higher_threshold(self):
+        candidates = self.get_candidates_for_test_data_dg('sklearn', 0.9)
+        self.assertEqual(len(candidates), 3)
+
+    def test_run_and_sparsedottopn_blocking(self):
+        candidates = self.get_candidates_for_test_data_dg('sparsedottopn', 0.5)
+        self.assertEqual(len(candidates), 6)
+
+    def test_run_and_sparsedottopn_blocking_higher_threshold(self):
+        candidates = self.get_candidates_for_test_data_dg('sparsedottopn', 0.9)
+        self.assertEqual(len(candidates), 3)
 
     def test_run_and_nmslib_blocking(self):
-        df_data, _, _, size_1, _, _ = self.load_test_data_dg()
-        config = {
-            'blocking': {
-                'name': 'nmslib',
-                'vector_type': 'shingle_tfidf',
-                'shingle_size': 3,
-                'query_strategy': 'first',
-                'njobs': 1,
-                'ntop': 10,
-                'blocking_threshold': 0.5
-            },
-            'dataset': {
-                'blocking_props': ['name']
-            }
-        }
-        candidates, _, _ = matchain.blocking.run(config, df_data, size_1, None)
-
-        for idx_1, idx_2 in candidates:
-            print(idx_1, idx_2, df_data.iloc[idx_1]['name'],
-                  df_data.iloc[idx_2]['name'])
-
         # nmslib uses its own random seed
+        candidates = self.get_candidates_for_test_data_dg('nmslib', 0.5)
         self.assertEqual(len(candidates), 6)
+
+    def test_run_and_nmslib_blocking_higher_threshold(self):
+        # nmslib uses its own random seed
+        candidates = self.get_candidates_for_test_data_dg('nmslib', 0.9)
+        self.assertEqual(len(candidates), 3)
 
     def generate_data(self, first_comp_1: int, first_comp_2: int):
 
@@ -165,8 +191,6 @@ class TestBlocking(TestBase):
             self.assertAlmostEqual(act, exp, places=2)
 
     def test_ann_sklearn_brute_force(self):
-        index_vectors = [[1, 2, 3], [7, 8, 9], [4, 5, 6], [10, 11, 12],
-                         [13, 14, 15]]
         index_vectors = [[1, 2, 3], [7, 0, 9], [4, 5, 6], [10, 11, 1],
                          [1, 14, 15]]
         index_vectors = self.normalize_vectors(np.array(index_vectors))
@@ -174,7 +198,7 @@ class TestBlocking(TestBase):
         query_vectors = [[4, 4, 6], [4, 5, 6]]
         query_vectors = self.normalize_vectors(np.array(query_vectors))
 
-        bruteforce = matchain.blocking.NNWrapperSklearn(threshold=1)
+        bruteforce = matchain.blocking.NNWrapperSklearn(threshold=0)
         df_search = bruteforce.nearest_neighbours(index_vectors, query_vectors,
                                                   3)
         search_index, search_score = self.convert_search_result(df_search)
@@ -316,23 +340,30 @@ class TestBlocking(TestBase):
         '''Generate 20 random normalized 100-dim vectors.
         Use the 50 vectors as index for NNWrapperFaiss.
         Use the first vector as query with ntop=5.
+        Blocking threshold is 0.5.
+        '''
+        index_vectors, query_vectors = self.generate_random_normalized_vectors(
+            dim=100, n_index=20, n_duplicates=0, n_query=1)
+
+        wrapper = matchain.blocking.NNWrapperFaiss(threshold=0.5)
+        df = wrapper.nearest_neighbours(index_vectors, query_vectors, ntop=20)
+
+        # 20 vectors are returned for threshold=0.5 for the single query vector
+        df.set_index(['id', 'query_id'], inplace=True)
+        act = set(df.index.to_list())
+        self.assertEqual(len(act), 20)
+
+    def test_faiss_wrapper_get_candidates_cosine_similarity_higher_threshold(self):
+        '''Generate 20 random normalized 100-dim vectors.
+        Use the 50 vectors as index for NNWrapperFaiss.
+        Use the first vector as query with ntop=5.
+        Blocking threshold is 0.8.
         '''
         index_vectors, query_vectors = self.generate_random_normalized_vectors(
             dim=100, n_index=20, n_duplicates=0, n_query=1)
 
         wrapper = matchain.blocking.NNWrapperFaiss(threshold=0.8)
         df = wrapper.nearest_neighbours(index_vectors, query_vectors, ntop=20)
-        '''
-        wrapper = matchain.blocking.NNWrapperFaiss(threshold=0)
-        search_index, search_score = wrapper.nearest_neighbours(index_vectors,
-                                                                query_vectors,
-                                                                ntop=20)
-
-
-        df = self.create_dataframe_from_faiss_search_result(
-            search_index, search_score)
-        df = df[df['score'] > 0.8]
-        '''
 
         # three vectors are returned for threshold=0.8 for the single query vector
         df.set_index(['id', 'query_id'], inplace=True)
