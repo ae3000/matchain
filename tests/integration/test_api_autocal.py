@@ -280,7 +280,7 @@ class TestAPIAutoCal(TestBaseIntegration):
 
         token_manager = mat.token(maximum_token_frequency=50,
                                   minimum_token_length=3)
-        candidate_pairs = mat.blocking()
+        candidate_pairs = mat.blocking(name='token')
         self.assertEqual(len(token_manager.token_index_unpruned), 3890)
         self.assertEqual(len(token_manager.token_index), 3719)
         self.assertEqual(len(candidate_pairs), 13509)
@@ -292,7 +292,7 @@ class TestAPIAutoCal(TestBaseIntegration):
         mat = self.prepare('dg')
 
         token_manager = mat.token(maximum_token_frequency=20)
-        mat.blocking()
+        mat.blocking(name='token')
         self.assertEqual(len(token_manager.token_index_unpruned), 3890)
         self.assertEqual(len(token_manager.token_index), 3670)
         self.assertEqual(len(mat.board.candidate_pairs), 4804)

@@ -8,7 +8,9 @@ The MatChain class also allows to retrieve and manipulate intermediate results
 of the matching process.
 """
 import collections
-from typing import Optional, Union
+from typing import Optional, Union, cast
+
+import pandas as pd
 
 import matchain.base
 import matchain.chain
@@ -17,7 +19,6 @@ import matchain.mtoken
 import matchain.prepare
 import matchain.similarity
 import matchain.util
-import pandas as pd
 
 
 class MatChain:
@@ -214,7 +215,7 @@ class MatChain:
         return self.board.token_manager
 
     def blocking(self,
-                 name: str = 'token',
+                 name: str = 'sparsedottopn',
                  blocking_props: Optional[list] = None,
                  vector_type: str = 'shingle_tfidf',
                  shingle_size: int = 3,
@@ -285,11 +286,12 @@ class MatChain:
         self._set_embedding_props(embedding_batch_size, embedding_model,
                                   embedding_device)
 
-        if name == 'token':
+        config_mtoken = self.board.config.get('mtoken')
+        if name == 'token' or (config_mtoken and config_mtoken.get('tfidf_index')):
             self.token()
 
         self._execute('blocking')
-        return self.board.candidate_pairs
+        return cast(pd.MultiIndex, self.board.candidate_pairs)
 
     def similarity(self,
                    embedding_batch_size: Optional[int] = None,
@@ -322,16 +324,21 @@ class MatChain:
             config = self.board.config['similarity']
             config['tfidf_maxidf'] = tfidf_maxidf
 
-        self.blocking()
+        if 'blocking' not in self.executed_commands:
+            self.blocking(name='token')
         self._execute('similarity')
         return self.board.df_sim
 
     def evaluate(self,
-                 matches: Optional[Union[str, pd.MultiIndex]] = None) -> dict:
+                 matches: Optional[Union[str, pd.MultiIndex]] = None,
+                 compute_max_f1: bool = False) -> dict:
         """Computes the evaluation metrics for the predicted matches.
 
         :param matches: a file or multi-index containing the true matches, defaults to None
         :type matches: Optional[Union[str, pd.MultiIndex]], optional
+        :param compute_max_f1: if True the maximum F1-score is computed additionally,
+            defaults to False
+        :type compute_max_f1: bool, optional
         :return: the evaluation metrics
         :rtype: dict
         """
@@ -340,6 +347,8 @@ class MatChain:
                 self.board.config['dataset']['file_matches'] = matches
             else:
                 self.board.true_matches = matches
+        if compute_max_f1 is not None:
+            self.board.config['evaluate']['compute_max_f1'] = compute_max_f1
 
         if self._predict_required():
             self.predict()

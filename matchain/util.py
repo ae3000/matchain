@@ -39,7 +39,7 @@ class IndexFormatter():
 
 def init_console_logging_only() -> None:
     log_format = '%(asctime)s %(levelname)-8s %(message)s'
-    logging.basicConfig(level=logging.DEBUG, format=log_format, force=True)
+    logging.basicConfig(level=logging.INFO, format=log_format, force=True)
     logging.warning('logging to console only')
 
 

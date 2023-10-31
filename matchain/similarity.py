@@ -43,7 +43,8 @@ def get_similarity_function_names() -> List[str]:
     """
     return [
         'absolute', 'relative', 'equal', 'tfidf', 'embedding', 'fuzzy',
-        'tfidf_sklearn'
+        'tfidf_sklearn',
+        'shingle_tfidf', # synonym for tfidf_sklearn
     ]
 
 
@@ -71,6 +72,8 @@ def create_property_mapping(params_mapping: dict,
         if isinstance(sim_fcts, str):
             sim_fcts = [sim_fcts]
         for fct in sim_fcts:
+            if fct == 'shingle_tfidf':
+                fct = 'tfidf_sklearn'
             i += 1
             params_sim_fct = {}
             if fct == 'absolute':

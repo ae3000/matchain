@@ -1,0 +1,63 @@
+[build-system]
+requires      = ["setuptools>=64.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["matchain"]
+exclude = ["matchain/ext*"]
+
+[project]
+name = "matchain"
+version = "0.1.0"
+description = "Record linkage - simple, flexible, efficient."
+readme = "README.md"
+authors = [{name = "Andreas Eibeck"}]
+requires-python = ">=3.8.16"
+license = {text = "BSD-3-Clause"}
+classifiers = [
+    "License :: OSI Approved :: BSD License",
+    #"Operating System :: Microsoft :: Windows",
+    #"Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11"]
+keywords = ["record linkage", "instance matching"]
+dependencies = [
+    'networkx>=2.8.8',
+    'tqdm>=4.49.0',
+    'numpy>=1.22.4',
+    'pandas>=1.5.3',
+    'scikit-learn>=1.1.2',
+    'scipy>=1.7.1',
+    'gensim>=4.2.0',
+    # thefuzz was formerly called fuzzywuzzy
+    'thefuzz>=0.19.0',
+    # makes thefuzz faster
+    'levenshtein>=0.22.0',
+    # optional code coverage tool
+    #'coverage>=7.2.2',
+    # optional for running notebooks
+    #'jupyter',
+    # pytorch CUDA / GPU (also supports CPU only)
+    #'torch>=1.12.0+cu116',
+    #'torchvision>=0.13.0+cu116',
+    #'torchaudio>=0.12.0',
+    #'--extra-index-url https://download.pytorch.org/whl/cu116',
+    # pytorch CPU only
+    #torch>=1.12.0+cpu
+    #torchvision>=0.13.0+cpu
+    #torchaudio>=0.12.0
+    #--extra-index-url https://download.pytorch.org/whl/cpu
+    'sentence-transformers>=2.2.2',
+    # optional nearest neighbour library
+    'nmslib>=2.1.1',
+    # optional nearest neighbour library
+    'sparse-dot-topn>=0.3.4',
+    # optional nearest neighbour library
+    #faiss-gpu is not supported by pip on Windows but on Linux
+    'faiss-cpu>=1.7.4'
+    ]
+
+[project.urls]
+repository = "https://github.com/ae3000/matchain"

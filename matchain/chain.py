@@ -6,6 +6,7 @@ import argparse
 import logging
 import os
 import time
+from typing import List, Optional
 
 import matchain.base
 import matchain.blocking
@@ -202,11 +203,13 @@ def execute_command(command: str, board: matchain.base.PinBoard) -> None:
     diff = time.time() - startime
     logging.info('finished command=%s, time=%s', command, diff)
 
-def run_config_file(config_file: str) -> None:
+def run_config_file(config_file: str) -> List[Optional[matchain.base.PinBoard]]:
     """Runs matcha for a configuration file.
 
     :param config_file: the configuration file
     :type config_file: str
+    :return: a list containing the results for each dataset pair or None if an exception was raised
+    :rtype: List[Optional[matchain.base.PinBoard]]
     """
     config = matchain.config.read_yaml(config_file)
     if config.get('dataset'):
@@ -222,15 +225,20 @@ def run_config_file(config_file: str) -> None:
         print(f'{name:<10}{chain}')
     print()
 
+    boards = []
     for conf in split_configs:
         try:
-            run(conf)
+            board = run(conf)
+            boards.append(board)
         except Exception as exc:  # pylint: disable=W0718
             # continue matching multiple dataset pairs
             # even if an exeption is raised during matching
             # the current dataset pair
+            boards.append(None)
             print(exc)
             logging.exception(exc)
+
+    return boards
 
 def main() -> None:
     """
