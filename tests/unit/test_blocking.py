@@ -159,8 +159,7 @@ class TestBlocking(TestBase):
 
     def normalize_vectors(self, a: np.ndarray) -> np.ndarray:
         normalized_a = []
-        for i in range(len(a)):
-            v = a[i]
+        for v in a:
             norm = np.linalg.norm(v, ord=2)
             normalized_a.append(v / norm)
         return np.array(normalized_a)
@@ -371,26 +370,6 @@ class TestBlocking(TestBase):
         exp = {(6, 0), (3, 0), (0, 0)}
         self.assertSetEqual(act, exp)
 
-    def get_config(self):
-        config_file = './config/mccommands.yaml'
-        dataset_name = 'ag'
-        config = {}
-        conf = matchain.config.read_yaml(config_file)
-        split_configs = matchain.config.split_config(conf)
-        for conf in split_configs:
-            if conf['dataset']['dataset_name'] == dataset_name:
-                config = conf
-                break
-
-        df_data, size_1, size_2 = matchain.prepare.run(config)
-
-        file_matches = config['dataset']['file_matches']
-        matches = matchain.util.read_matches(file_matches,
-                                           offset=size_1,
-                                           apply_format=False)
-        #print('size_1=', size_1, 'size_2=', size_2, 'matches=', len(matches))
-        return config, df_data, size_1, size_2, matches
-
     def create_fct_sentence_transformer(self, config):
         model = config['similarity']['embedding_model']
         device = config['similarity'].get('embedding_device')
@@ -435,21 +414,23 @@ class TestBlocking(TestBase):
         return act
 
     def test_candidates_sentence_transformer_brute_force_strategy_larger(self):
-        config, _, _, _, _ = self.get_config()
+        config, _, _, _, _ = self.get_config_and_matches('ag')
         generate_vectors = self.create_fct_sentence_transformer(config)
         nearest_neighbours = matchain.blocking.NNBruteForce(
             threshold=0).nearest_neighbours
 
-        self.get_candidates(generate_vectors,
+        candidates = self.get_candidates(generate_vectors,
                             nearest_neighbours,
                             query_strategy='larger')
+        self.assertEqual(10, len(candidates))
 
     def test_candidates_sentence_transformer_faiss_strategy_larger(self):
-        config, _, _, _, _ = self.get_config()
+        config, _, _, _, _ = self.get_config_and_matches('ag')
         generate_vectors = self.create_fct_sentence_transformer(config)
         nearest_neighbours = matchain.blocking.NNWrapperFaiss(
             threshold=0).nearest_neighbours
 
-        self.get_candidates(generate_vectors,
+        candidates = self.get_candidates(generate_vectors,
                             nearest_neighbours,
                             query_strategy='larger')
+        self.assertEqual(10, len(candidates))

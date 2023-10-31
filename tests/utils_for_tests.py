@@ -72,6 +72,26 @@ class TestBase(unittest.TestCase):
     def get_data_paths(self, dataset_name: str) -> Tuple[str, str, str]:
         return matchain.config.DefaultDataPaths.get_data_paths(dataset_name)
 
+    def get_config_and_matches(self, dataset_name: str):
+        config_file = './config/mccommands.yaml'
+        dataset_name = 'ag'
+        config = {}
+        conf = matchain.config.read_yaml(config_file)
+        split_configs = matchain.config.split_config(conf)
+        for conf in split_configs:
+            if conf['dataset']['dataset_name'] == dataset_name:
+                config = conf
+                break
+
+        df_data, size_1, size_2 = matchain.prepare.run(config)
+
+        file_matches = config['dataset']['file_matches']
+        matches = matchain.util.read_matches(file_matches,
+                                           offset=size_1,
+                                           apply_format=False)
+        #print('size_1=', size_1, 'size_2=', size_2, 'matches=', len(matches))
+        return config, df_data, size_1, size_2, matches
+
 
 class TestBaseIntegration(TestBase):
 
@@ -110,10 +130,15 @@ class TestBaseIntegration(TestBase):
 
         return config
 
+    def get_config_token(self, dataset_name: str) -> dict:
+        main_dir = matchain.config.DefaultDataPaths.get_dir_main_config()
+        config_file = f'{main_dir}/mccommands_ORIG_TEST.yaml'
+        return matchain.config.get_config(dataset_name, config_file)
+
     def prepare(self,
                 dataset_name: str,
                 use_similarity=True) -> matchain.api.MatChain:
-        config = matchain.config.get_config(dataset_name)
+        config = self.get_config_token(dataset_name)
         config['chain'] = None
         mat = matchain.api.MatChain(config=config)
         if use_similarity:
