@@ -7,7 +7,6 @@ import os
 from typing import Optional, Tuple
 
 import pandas as pd
-import yaml
 
 import matchain.util
 
@@ -27,9 +26,8 @@ def init_logging(log_config_file: str, log_file: str) -> None:
 
     print('initializing logging with log config file=', log_config_file,
           ', log file=', log_file)
-    with open(log_config_file, 'r', encoding='utf-8') as file:
-        log_cfg: dict = yaml.safe_load(file.read())
 
+    log_cfg: dict = matchain.util.read_yaml_from_file_or_resource(log_config_file)
     log_cfg['handlers']['file_handler']['filename'] = log_file
     dir_name = os.path.dirname(log_file)
     os.makedirs(dir_name, exist_ok=True)
@@ -65,6 +63,20 @@ def concat_data(df1: pd.DataFrame, df2: pd.DataFrame) -> pd.DataFrame:
                  len(df_data))
     return df_data
 
+def check_cuda_available(configured_device: str) -> None:
+    """Checks if cuda is available and logs a warning if the configured
+    device is not consistent with the availability of cuda.
+
+    :param configured_device: the configured device
+    :type configured_device: str
+    """
+    cuda_available = matchain.util.cuda_available()
+    message = f'cuda available={cuda_available}, embedding_device={configured_device}'
+    if ((cuda_available and configured_device != 'cuda')
+        or (not cuda_available and configured_device == 'cuda')):
+        logging.warning(message)
+    else:
+        logging.info(message)
 
 def run(config: dict,
         df1: Optional[pd.DataFrame] = None,
@@ -73,6 +85,9 @@ def run(config: dict,
     for preparing the data etc. """
     seed = config['prepare']['seed']
     matchain.util.set_seed(seed)
+
+    device = config['similarity'].get('embedding_device')
+    check_cuda_available(device)
 
     dir_name = config['prepare']['dir_experiments']
     os.makedirs(dir_name, exist_ok=True)

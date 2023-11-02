@@ -250,9 +250,10 @@ def main() -> None:
 
     print('current working directory=', os.getcwd())
     parser = argparse.ArgumentParser()
-    parser.add_argument('--config', type=str)
+    parser.add_argument('--config', type=str, default=matchain.util.get_resource_name_commands())
     args = parser.parse_args()
     config_file = args.config
+    print('config file=', config_file)
     run_config_file(config_file)
 
 

@@ -1,4 +1,5 @@
 """Utility functions for matchain."""
+import importlib.resources
 import logging
 import logging.config
 import os
@@ -10,6 +11,7 @@ from typing import Any, List, Optional, Union, cast
 import numpy as np
 import pandas as pd
 import torch
+import yaml
 
 
 class IndexFormatter():
@@ -66,6 +68,8 @@ def set_seed(seed: int) -> None:
     # and if this is not possible completely throw a runtime error (warn_only=False)
     #torch.use_deterministic_algorithms(mode=True, warn_only=False)
 
+def cuda_available() -> bool:
+    return torch.cuda.is_available()
 
 def pretty_format(config: dict, depth=None) -> str:
     ppr = pprint.PrettyPrinter(sort_dicts=True, depth=depth)
@@ -212,3 +216,50 @@ def advanced_indexing(
         if index.dtype != np.int32:
             index = index.astype(np.int32)
     return arr[index]
+
+def get_resource_package():
+    return 'matchain.res'
+
+def get_full_resource_name(resource_name: str) -> str:
+    """Resource files are located in the matchain.res package.
+    This method returns the full name of a resource of the form
+    matchain.res.resource_name.
+
+    :param resource_name: name of the resource
+    :type resource_name: str
+    :return: the full name: matchain.res.resource_name
+    :rtype: str
+    """
+    return f'{get_resource_package()}.{resource_name}'
+
+def get_resource_name_commands() -> str:
+    return get_full_resource_name('mccommands_sdt_shg.yaml')
+
+def get_resource_name_logging() -> str:
+    return get_full_resource_name('logging_info.yaml')
+
+def read_resource(resource_name: str) -> bytes:
+    """Reads the given resource from the matchain.res package.
+    The resource name can be given either as the full name
+    matchain.res.resource_name or as resource_name only.
+
+    :param resource_name: name of the resource
+    :type resource_name: str
+    :return: the stream of the resource
+    :rtype: bytes
+    """
+    name = resource_name
+    respack = get_resource_package()
+    if resource_name.startswith(f'{respack}.'):
+        # i.e. the full resource name was given
+        name = resource_name[len(respack) + 1:]
+    stream = importlib.resources.read_binary(respack, name)
+    return stream
+
+def read_yaml_from_file_or_resource(file_path: str) -> dict:
+    if file_path.startswith(get_resource_package()):
+        stream = read_resource(file_path)
+        return yaml.safe_load(stream)
+
+    with open(file_path, 'r', encoding='utf-8') as file:
+        return yaml.safe_load(file)

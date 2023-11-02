@@ -7,7 +7,7 @@ import matchain.config
 import matchain.mtoken
 import matchain.prepare
 import matchain.util
-from tests.utils_for_tests import TestBaseIntegration
+from tests.utils_for_tests import DefaultDataPaths, TestBaseIntegration
 
 
 class TestAPIAutoCal(TestBaseIntegration):
@@ -17,7 +17,8 @@ class TestAPIAutoCal(TestBaseIntegration):
         df1 = pd.read_csv(f'{data_dir}/tableA.csv')
         df2 = pd.read_csv(f'{data_dir}/tableB.csv')
 
-        mat = matchain.api.MatChain(df1, df2)
+        config = DefaultDataPaths.get_file_config_chains()
+        mat = matchain.api.MatChain(df1, df2, config=config)
 
         mat.property('capacity', simfct='relative')
         mat.property('fuel', simfct='equal')
@@ -199,15 +200,8 @@ class TestAPIAutoCal(TestBaseIntegration):
         actual = mat.evaluate(matches=data_dir)
         logging.debug('evaluation result=%s', actual)
 
-        expected = {
-            't': 0.225,
-            'f1': 0.87341,
-            'p': 0.91967,
-            'r': 0.83158,
-            'tpos': 790,
-            'fpos': 69,
-            'fneg': 160
-        }
+        expected = {'t': 0.25, 'f1': 0.86633, 'p': 0.93317, 'r': 0.80842, 'tpos': 768, 'fpos': 55,
+                    'fneg': 182}
 
         self.assertDictEqual(actual['union_set']['estimated'], expected)
 
@@ -225,21 +219,14 @@ class TestAPIAutoCal(TestBaseIntegration):
         actual = mat.evaluate(matches=data_dir)
         logging.debug('evaluation result=%s', actual)
 
-        expected = {
-            't': 0.225,
-            'f1': 0.87389,
-            'p': 0.92075,
-            'r': 0.83158,
-            'tpos': 790,
-            'fpos': 68,
-            'fneg': 160
-        }
+        expected = {'t': 0.25, 'f1': 0.8649, 'p': 0.93407, 'r': 0.80526, 'tpos': 765, 'fpos': 54,
+                    'fneg': 185}
 
         self.assertDictEqual(actual['union_set']['estimated'], expected)
 
     def test_autocal_ag_token_configuration_with_data_paths_property_mapping(
             self):
-        path_data_1, path_data_2, data_dir = self.get_data_paths('ag')
+        path_data_1, path_data_2, data_dir = DefaultDataPaths.get_data_paths('ag')
         mat = matchain.api.MatChain(path_data_1, path_data_2)
 
         mat.property('price', simfct='relative')

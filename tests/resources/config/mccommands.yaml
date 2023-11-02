@@ -1,17 +1,17 @@
 include:
-- "./config/mcdatasets.yaml"
+- ./tests/resources/config/mcdatasets.yaml
 
-#select_datasets: [fz,dg,kg,ag,da,ds]
-select_datasets: [da]
+select_datasets: [fz,dg,kg,kgloc,ag,da,ds]
+#select_datasets: [dg]
 
 #chains
-#chain: [prepare,mtoken,blocking,similarity,autocal,evaluate]
-chain: [prepare,blocking,similarity,autocal,evaluate]
+chain: [prepare,mtoken,blocking,similarity,autocal,evaluate]
+#chain: [prepare,blocking,similarity,autocal,evaluate]
 #chain: [prepare,blocking,evaluate]
 
 #variables and additional parameters
-subdir: autocal_sdt_shg_config_file
-tag: "{subdir}_{current_time}"
+#tag: "node2vec_{current_time}"
+tag: test
 
 output:
   file_embedding: "{dir_experiments}/{dataset_name}.emb"
@@ -32,19 +32,19 @@ mtoken:
   tfidf_index: false
 
 blocking:
-  #name: token
+  name: token
   #name: bruteforce
   #name: sklearn
-  name: sparsedottopn
+  #name: sparsedottopn
   #name: nmslib
-  vector_type: shingle_tfidf
-  shingle_size: 3
+  #vector_type: shingle_tfidf
+  #shingle_size: 3
   #name: faiss
   #vector_type: embedding
-  query_strategy: smaller
+  #query_strategy: smaller
   #njobs: 4
-  ntop: 10
-  blocking_threshold: 0.5
+  #ntop: 10
+  #blocking_threshold: 0.5
 
 similarity:
   embedding_batch_size: 64
@@ -62,5 +62,5 @@ autocal:
   #file_candidates: "{file_matches}/test.csv"
 
 evaluate:
-  compute_max_f1: false
+  compute_max_f1: true
   leak_n_matches: false

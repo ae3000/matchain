@@ -11,11 +11,52 @@ import matchain.prepare
 import matchain.util
 
 
+class DefaultDataPaths:
+    """Default paths for data and config files"""
+
+    config_datasets: dict = {}
+
+    @staticmethod
+    def get_dir_main_experiments():
+        """Returns default directory for experiments"""
+        return './experiments'
+
+    @staticmethod
+    def get_dir_main_config():
+        """Returns default directory for config files"""
+        return './tests/resources/config'
+
+    @staticmethod
+    def get_file_config_chains():
+        """Returns default config file"""
+        main_dir = DefaultDataPaths.get_dir_main_config()
+        return f'{main_dir}/mccommands.yaml'
+
+    @staticmethod
+    def get_file_datasets():
+        """Returns default config file for specifying datasets"""
+        main_dir = DefaultDataPaths.get_dir_main_config()
+        return f'{main_dir}/mcdatasets.yaml'
+
+    @staticmethod
+    def get_data_paths(dataset_name: str) -> Tuple[str, str, str]:
+        """Returns paths to data files and true matches file for a given dataset"""
+        if not DefaultDataPaths.config_datasets:
+            path = DefaultDataPaths.get_file_datasets()
+            config = matchain.config.read_yaml(path)
+            DefaultDataPaths.config_datasets = matchain.config.resolve_config(config)
+        dataset = DefaultDataPaths.config_datasets[dataset_name]
+        return dataset['data_1'], dataset['data_2'], dataset['file_matches']
+
+
 class TestBase(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls) -> None:
         matchain.util.init_console_logging_only()
+
+    def get_test_dir_dg_small(self):
+        return './tests/resources/dg_small'
 
     def load(
         self,
@@ -34,9 +75,6 @@ class TestBase(unittest.TestCase):
                                            offset=matches_offset,
                                            apply_format=False)
         return df1, df2, size_1, size_2, matches
-
-    def get_test_dir_dg_small(self):
-        return './tests/resources/dg_small'
 
     def load_test_data_dg(
         self,
@@ -69,19 +107,12 @@ class TestBase(unittest.TestCase):
             df_data, size_1, blocking_props, tfidf_props, tokenize_fct)
         return df_data, df1, df2, size_1, size_2, matches, df_index
 
-    def get_data_paths(self, dataset_name: str) -> Tuple[str, str, str]:
-        return matchain.config.DefaultDataPaths.get_data_paths(dataset_name)
+    def get_config(self, dataset_name: str) -> dict:
+        file_commands = DefaultDataPaths.get_file_config_chains()
+        return matchain.config.get_config(dataset_name, file_commands)
 
     def get_config_and_matches(self, dataset_name: str):
-        config_file = './config/mccommands.yaml'
-        dataset_name = 'ag'
-        config = {}
-        conf = matchain.config.read_yaml(config_file)
-        split_configs = matchain.config.split_config(conf)
-        for conf in split_configs:
-            if conf['dataset']['dataset_name'] == dataset_name:
-                config = conf
-                break
+        config = self.get_config(dataset_name)
 
         df_data, size_1, size_2 = matchain.prepare.run(config)
 
@@ -108,14 +139,14 @@ class TestBaseIntegration(TestBase):
     def load_data(
         self, dataset_name: str
     ) -> Tuple[pd.DataFrame, pd.DataFrame, int, int, pd.MultiIndex]:
-        path_data_1, path_data_2, dir_data = matchain.config.DefaultDataPaths.get_data_paths(
+        path_data_1, path_data_2, dir_data = DefaultDataPaths.get_data_paths(
             dataset_name)
         return self.load(path_data_1, path_data_2, dir_data)
 
-    def get_config(self, dataset_name: str, epochs: int,
+    def get_config_w2v(self, dataset_name: str, epochs: int,
                    evaluation: bool) -> dict:
 
-        config = matchain.config.get_config(dataset_name)
+        config = self.get_config(dataset_name)
 
         config['w2vpytorch']['epochs'] = epochs
         if evaluation:
@@ -130,15 +161,10 @@ class TestBaseIntegration(TestBase):
 
         return config
 
-    def get_config_token(self, dataset_name: str) -> dict:
-        main_dir = matchain.config.DefaultDataPaths.get_dir_main_config()
-        config_file = f'{main_dir}/mccommands_ORIG_TEST.yaml'
-        return matchain.config.get_config(dataset_name, config_file)
-
     def prepare(self,
                 dataset_name: str,
                 use_similarity=True) -> matchain.api.MatChain:
-        config = self.get_config_token(dataset_name)
+        config = self.get_config(dataset_name)
         config['chain'] = None
         mat = matchain.api.MatChain(config=config)
         if use_similarity:

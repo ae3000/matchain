@@ -3,7 +3,6 @@ from typing import Callable
 
 import numpy as np
 import pandas as pd
-import torch
 
 import matchain.blocking
 import matchain.config
@@ -374,7 +373,8 @@ class TestBlocking(TestBase):
         model = config['similarity']['embedding_model']
         device = config['similarity'].get('embedding_device')
         if not device:
-            device = 'cuda' if torch.cuda.is_available() else 'cpu'
+            cuda_available = matchain.util.cuda_available()
+            device = 'cuda' if cuda_available else 'cpu'
         batch_size = config['similarity']['embedding_batch_size']
         wrapper = matchain.similarity.SentenceTransformerWrapper(
             model, device, batch_size)

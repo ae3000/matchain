@@ -1,8 +1,8 @@
 include:
-- "./config/mcdatasets.yaml"
+- matchain.res.mcdatasets_sdt_shg.yaml
 
-#select_datasets: [fz,dg,kg,ag,da,ds]
-select_datasets: [da]
+select_datasets: [fz,dg,kg,ag,da,ds]
+#select_datasets: [da]
 
 #chains
 #chain: [prepare,mtoken,blocking,similarity,autocal,evaluate]
@@ -10,7 +10,7 @@ chain: [prepare,blocking,similarity,autocal,evaluate]
 #chain: [prepare,blocking,evaluate]
 
 #variables and additional parameters
-subdir: autocal_sdt_shg_config_file
+subdir: autocal_sdt_shg
 tag: "{subdir}_{current_time}"
 
 output:
@@ -23,7 +23,7 @@ prepare:
   dir_experiments: "./experiments/{tag}"
   dir_conf: "./config"
   log_file: "{dir_experiments}/{dataset_name}_log.txt"
-  log_config_file: "{dir_conf}/logging.yaml"
+  log_config_file: "matchain.res.logging_info.yaml"
 
 mtoken:
   minimum_token_length: 3

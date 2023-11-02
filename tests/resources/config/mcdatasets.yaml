@@ -15,11 +15,11 @@ fz:
   data_2: "{dir_data}/Structured/Fodors-Zagats/tableB.csv"
   file_matches: "{dir_data}/Structured/Fodors-Zagats"
   props_sim: 
-    name: [tfidf_sklearn]
-    addr: [tfidf_sklearn]
-    city: [tfidf_sklearn]
-    type: [tfidf_sklearn]
-    phone: [tfidf_sklearn]
+    name: [tfidf, embedding]
+    addr: [tfidf, embedding]
+    city: [tfidf, embedding]
+    type: [tfidf, embedding]
+    phone: [tfidf, embedding]
   blocking_props: [name, addr, phone]
 
 dg:
@@ -30,8 +30,8 @@ dg:
   props_sim:
     capacity: relative
     fuel: equal
-    name: [tfidf_sklearn]
-    owner: [tfidf_sklearn]
+    name: [tfidf, embedding]
+    owner: [tfidf, embedding]
   blocking_props: [name, owner]
 
 kg:
@@ -43,8 +43,8 @@ kg:
     year: absolute
     capacity: relative
     fuel: equal
-    name: [tfidf_sklearn]
-    owner: [tfidf_sklearn]
+    name: [tfidf, embedding]
+    owner: [tfidf, embedding]
   blocking_props: [name, owner]
   
 kgloc:
@@ -56,8 +56,8 @@ kgloc:
     year: absolute
     capacity: relative
     fuel: equal
-    name: [tfidf_sklearn]
-    owner: [tfidf_sklearn]
+    name: [tfidf, embedding]
+    owner: [tfidf, embedding]
   blocking_props: [name, owner, locality]
   
 ag:
@@ -67,8 +67,8 @@ ag:
   file_matches: "{dir_data}/Structured/Amazon-Google"
   props_sim: 
     price: relative
-    title: [tfidf_sklearn]
-    manufacturer: [tfidf_sklearn]
+    title: [tfidf, embedding]
+    manufacturer: [tfidf, embedding]
   blocking_props: [title, manufacturer]
   
 da:
@@ -78,9 +78,9 @@ da:
   file_matches: "{dir_data}/Structured/DBLP-ACM"
   props_sim: 
     year: equal
-    title: [tfidf_sklearn]
-    authors: [tfidf_sklearn]
-    venue: [tfidf_sklearn]
+    title: [tfidf, embedding]
+    authors: [tfidf, embedding]
+    venue: [tfidf, embedding]
   blocking_props: [title, authors, venue]
   
 ds:
@@ -90,7 +90,7 @@ ds:
   file_matches: "{dir_data}/Structured/DBLP-GoogleScholar"
   props_sim: 
     year: equal
-    title: [tfidf_sklearn]
-    authors: [tfidf_sklearn]
-    venue: [tfidf_sklearn]
+    title: [tfidf, embedding]
+    authors: [tfidf, embedding]
+    venue: [tfidf, embedding]
   blocking_props: [title, authors, venue]

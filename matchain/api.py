@@ -35,7 +35,7 @@ class MatChain:
                  data_1: Optional[Union[str, pd.DataFrame]] = None,
                  data_2: Optional[Union[str, pd.DataFrame]] = None,
                  seed: Optional[int] = None,
-                 config: Optional[dict] = None) -> None:
+                 config: Optional[Union[str, dict]] = None) -> None:
         """Initializes the class.
 
         :param data_1: The first dataset, defaults to None
@@ -45,13 +45,17 @@ class MatChain:
         :param seed: random seed, defaults to None
         :type seed: Optional[int], optional
         :param config: configuration dictionary, defaults to None
-        :type config: Optional[dict], optional
+        :type config: Optional[Union[str, dict]], optional
         """
 
         matchain.util.init_console_logging_only()
         self.board = matchain.base.PinBoard()
-        if not config:
-            config = matchain.config.get_config('test')
+        if config is None or isinstance(config, str):
+            if config is None:
+                file_commands = matchain.util.get_resource_name_commands()
+            else:
+                file_commands = config
+            config = matchain.config.get_config('test', file_commands)
             if config.get('chain'):
                 config.pop('chain')
         self.board.config = config

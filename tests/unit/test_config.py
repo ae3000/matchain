@@ -1,7 +1,8 @@
 from unittest.mock import MagicMock, mock_open, patch
 
 import matchain.config
-from tests.utils_for_tests import TestBase
+import matchain.util
+from tests.utils_for_tests import DefaultDataPaths, TestBase
 
 
 class TestConfig(TestBase):
@@ -184,8 +185,13 @@ class TestConfig(TestBase):
 
     def test_get_data_paths(self):
         for dataset_name in ['fz', 'dg', 'kg', 'ag', 'da', 'ds']:
-            path_data_1, path_data_2, data_dir = matchain.config.DefaultDataPaths.get_data_paths(
+            path_data_1, path_data_2, data_dir = DefaultDataPaths.get_data_paths(
                 dataset_name)
 
             self.assertEqual(path_data_1.index(data_dir), 0)
             self.assertEqual(path_data_2.index(data_dir), 0)
+
+    def test_read_config_from_resources(self):
+        name = matchain.util.get_resource_name_commands()
+        config = matchain.config.read_yaml(name)
+        self.assertIsNotNone(config.get('chain'))
