@@ -23,7 +23,8 @@ prepare:
   dir_experiments: "./experiments/{tag}"
   dir_conf: "./config"
   log_file: "{dir_experiments}/{dataset_name}_log.txt"
-  log_config_file: "{dir_conf}/logging.yaml"
+  #log_config_file: "{dir_conf}/logging.yaml"
+  #log_config_file: "matchain.res.logging_info.yaml"
 
 mtoken:
   minimum_token_length: 3

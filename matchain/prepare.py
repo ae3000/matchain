@@ -89,9 +89,6 @@ def run(config: dict,
     device = config['similarity'].get('embedding_device')
     check_cuda_available(device)
 
-    dir_name = config['prepare']['dir_experiments']
-    os.makedirs(dir_name, exist_ok=True)
-
     if df1 is None:
         file_data = config['dataset']['data_1']
         df1 = load_data(file_data)

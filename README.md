@@ -22,7 +22,7 @@ pip install matchain
 
 ## Basic Example Using the API
 
-In this example, we demonstrate how to match two datasets, denoted as A and B, based on columns with the same names: "year," "title," "authors," and "venue." You can run this example in the accompanying notebook [run_matchain_api.ipynb](https://colab.research.google.com/github/notebooks/run_matchain_api.ipynb), which provides a detailed explanation of MatChain's API, including how to specify parameters.
+In this example, we demonstrate how to match two datasets, denoted as A and B, based on columns with the same names: "year," "title," "authors," and "venue." You can run this example in the accompanying notebook [run_matchain_api.ipynb](https://github.com/ae3000/matchain/blob/main/notebooks/run_matchain_api.ipynb), which provides a detailed explanation of MatChain's API, including how to specify parameters.
 
 First, we read the data and initialize an instance of the class ```MatChain``` using Pandas' dataframes.
 
@@ -62,10 +62,10 @@ predicted_matches = mat.predict()
 While the example above demonstrates how to use MatChain's API to match two datasets, an alternative and streamlined approach is to utilize a configuration file. This method allows us to specify datasets, matching chains, and parameters in a separate file:
 
 ``` console
-python ./matchain/chain.py --config ./config/mccommands_cpu_sdt_shg.yaml
+python matchain --config ./config/mccommands.yaml
 ```
 
-For more detailed information about configuration options, run the notebook [run_matchain_config.ipynb](https://colab.research.google.com/github/notebooks/run_matchain_config.ipynb).
+For more detailed information about configuration options, run the notebook [run_matchain_config.ipynb](https://github.com/ae3000/matchain/blob/main/notebooks/run_matchain_config.ipynb).
 
 
 
