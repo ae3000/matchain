@@ -107,6 +107,7 @@ def run(config: dict) -> matchain.base.PinBoard:
         execute_command(command, board)
 
     diff = time.time() - startime
+    board.evaluation_metrics['total_time'] = diff
     logging.info('finished matching, total time=%s', diff)
 
     return board

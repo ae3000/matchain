@@ -3,10 +3,11 @@ or used for data exchange between the api module, the chain module and
 implemented algorithms."""
 from typing import List, Optional, cast
 
-import matchain.mtoken
-import matchain.util
 import numpy as np
 import pandas as pd
+
+import matchain.mtoken
+import matchain.util
 
 
 class PinBoard():
@@ -62,7 +63,7 @@ class PinBoard():
         configured test file."""
         self.true_nonmatches: Optional[pd.MultiIndex] = None  # api only
         """The result of the evaluation module"""
-        self.evaluation_metrics: dict
+        self.evaluation_metrics: dict = {}
 
 
 class IterativePredictor():

@@ -19,6 +19,11 @@ MatChain requires Python 3.8 or higher and can be installed with pip:
 pip install matchain
 ```
 
+However, this only installs PyTorch's CPU version. If you want to use the GPU version, you need to install it separately:
+
+``` console
+pip install torch==2.0.1+cu118 torchvision==0.15.2+cu118 torchaudio==2.0.2+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
+```
 
 ## Basic Example Using the API
 
