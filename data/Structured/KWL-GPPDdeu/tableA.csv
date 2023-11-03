@@ -1,0 +1,1984 @@
+id,name,owner,capacity,fuel,year
+0,,,15.0,Wind,1997
+1,,ecoJoule construct GmbH,13.3,Wind,2002
+2,,Sendenhorster Windenergie GmbH & Co. KG,15.0,Wind,2003
+3,,Windpark Ahlerstedt GmbH & Co. KG,39.6,Wind,1999
+4,Ahrensfelde,Lausitz Energie Kraftwerke AG,37.5,Gas,1990
+5,Ahrensfelde,Lausitz Energie Kraftwerke AG,37.5,Gas,1990
+6,Ahrensfelde,Lausitz Energie Kraftwerke AG,37.5,Gas,1990
+7,Ahrensfelde,Lausitz Energie Kraftwerke AG,37.5,Gas,1990
+8,,Erste Buergerwindp. Ahrenvioel Ahrenvioelfeld GmbH & Co. KG,15.0,Wind,2002
+9,RADAG,Rheinkraftwerk Albbruck-Dogern AG,79.5,Hydro,1934
+10,WKW,Rheinkraftwerk Albbruck-Dogern AG,24.0,Hydro,2009
+11,Papierfabrik Albbruck,Papierfabrik Albbruck GmbH,28.0,Coal,2009
+12,Werkskraftwerk Sappi Alfeld,Sappi Alfeld GmbH,13.0,Biomass,2003
+13,Werkskraftwerk Sappi Alfeld,Sappi Alfeld GmbH,11.0,Gas,1947
+14,Werkskraftwerk Sappi Alfeld,Sappi Alfeld GmbH,0.1,Hydro,1912
+15,Werkskraftwerk Sappi Alfeld,Sappi Alfeld GmbH,2.8,Oil,1994
+16,,Windpark Balkum-Thiene GmbH & Co. KG,27.6,Wind,2007
+17,Windpark Alsleben,Dortmunder Energie- und Wasserversorgung GmbH,21.0,Wind,2016
+18,Heizkraftwerk Altbach/Deizisau,EnBW Energie Baden-Württemberg AG,65.0,Gas,1997
+19,Heizkraftwerk Altbach/Deizisau,EnBW Energie Baden-Württemberg AG,50.0,Gas,1971
+20,Heizkraftwerk Altbach/Deizisau,EnBW Energie Baden-Württemberg AG,57.0,Gas,1973
+21,Heizkraftwerk Altbach/Deizisau,EnBW Energie Baden-Württemberg AG,81.0,Gas,1975
+22,Heizkraftwerk Altbach/Deizisau,EnBW Energie Baden-Württemberg AG,336.0,Coal,1997
+23,Heizkraftwerk Altbach/Deizisau,EnBW Energie Baden-Württemberg AG,433.0,Coal,1985
+24,HKW Altenstadt,Heizkraftwerk Altenstadt GmbH & Co. KG,9.8,Biomass,1999
+25,,,25.7,Wind,2003
+26,KW Amlach,TIWAG-Tiroler Wasserkraft AG,60.0,Hydro,1989
+27,Kesselhaus Zuckerfabrik,Suiker Unie GmbH & Co. KG,15.1,Gas,1993
+28,,Windpark Fehnland GmbH & Co. KG Renditefonds,19.8,Wind,2001
+29,Zellstoff Stendal GmbH,Zellstoff Stendal GmbH,138.9,Biomass,2004
+30,,SachsenFonds GmbH & Co. Windpark I KG,31.5,Wind,2001
+31,,,85.5,Wind,2001
+32,Solarpark Petzenbach,ESK Solarenergie GmbH & Co. KG,10.0,Solar,2010
+33,,e.disnatur Erneuerbare Energien GmbH,12.0,Wind,2002
+34,Gasturbine,Stadtwerke Augsburg Energie GmbH,30.7,Gas,2004
+35,,Bürgerwindpark Königsmoor GmbH & Co KG,19.5,Wind,2009
+36,,,14.4,Wind,2002
+37,,,15.9,Wind,1999
+38,,,12.0,Wind,2002
+39,,,10.0,Wind,1999
+40,Bard Offshore 1,Ocean Breeze Energy GmbH & Co. KG,400.0,Wind,2013
+41,Egglfing,Innwerk AG,84.0,Hydro,1944
+42,,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,35.8,Wind,1999
+43,Windpark Wiegleben,ENERCON Windpark GmbH & Co. Wiegleben KG,9.0,Wind,2001
+44,Windpark Wiegleben II,Windpark Wiegleben II GmbH & Co. KG,6.0,Wind,2010
+45,Rheinkraftwerk Säckingen,EnBW Energie Baden-Württemberg AG,36.8,Hydro,1966
+46,Säckingen,Schluchseewerk Aktiengesellschaft,360.0,Hydro,1966
+47,,EREM European Renewable Energy Management GmbH & Co. 8.German Wind KG,10.5,Wind,2001
+48,,Luftstrom Kinzig Trasse GmbH & Co. ,18.0,Wind,2009
+49,,Windpark Büren GmbH & Co. KG,10.0,Wind,2009
+50,,,16.5,Wind,2002
+51,KWK-Anlage Barby,Cargill Deutschland GmbH,17.8,Gas,1994
+52,,,10.8,Wind,2001
+53,,,16.9,Wind,2005
+54,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,32.0,Wind,2009
+55,UTB,Pfleiderer Baruth GmbH,16.0,Biomass,2002
+56,UW Basedow,ENERTRAG Aktiengesellschaft,21.9,Wind,2009
+57,,BHT-Windpark GmbH & Co. Hollwedel KG,14.0,Wind,2004
+58,HKW Kassel,Volkswagen AG,12.2,Gas,
+59,"GuD Baunatal, VW Werksgelände",Volkswagen AG,78.0,Gas,2011
+60,,Breeze Two Energy GmbH & Co. KG,24.0,Wind,2006
+61,,,10.5,Wind,2002
+62,BHW Beeskow,Sonae Arauco Beeskow GmbH,18.3,Biomass,2001
+63,Beeskow-Neuendorf,Breeze Four Energy GmbH & Co. KG,30.0,Wind,2002
+64,Windpark Berge / Kleeste,Windpark Berge-Kleeste GmbH & Co. KG,28.8,Wind,2003
+65,Bergheim,Donau-Wasserkraft AG,23.7,Hydro,1970
+66,BMKW Bergkamen,Innogy SE,17.7,Biomass,2005
+67,Bergkamen,STEAG GmbH,717.0,Coal,1981
+68,HHKW Berlin-Neukölln,innogy SE,16.5,Biomass,2004
+69,Mitte,Vattenfall Wärme Berlin AG,444.0,Gas,1996
+70,Charlottenburg,Vattenfall Wärme Berlin AG,144.0,Gas,1975
+71,Lichterfelde,Vattenfall Wärme Berlin AG,144.0,Gas,1972
+72,Lichterfelde,Vattenfall Wärme Berlin AG,144.0,Gas,1974
+73,Lichterfelde,Vattenfall Europe Wärme AG,144.0,Gas,
+74,Klingenberg,Vattenfall Wärme Berlin AG,164.0,Gas,1981
+75,Reuter,Vattenfall Wärme Berlin AG,124.0,Coal,1969
+76,Wilmersdorf,Vattenfall Wärme Berlin AG,92.0,Oil,1977
+77,Wilmersdorf,Vattenfall Wärme Berlin AG,184.0,Oil,1977
+78,Reuter,Vattenfall Wärme Berlin AG,36.0,Waste,1998
+79,Moabit,Vattenfall Wärme Berlin AG,89.0,Coal,1990
+80,Moabit,Vattenfall Wärme Berlin AG,17.0,Oil,1971
+81,Moabit,Vattenfall Wärme Berlin AG,34.0,Oil,1971
+82,Reuter West,Vattenfall Wärme Berlin AG,282.0,Coal,1987
+83,Reuter West,Vattenfall Wärme Berlin AG,282.0,Coal,1988
+84,Industriekraftwerk Bernburg (IKB),Solvay Chemicals GmbH,140.5,Gas,1994
+85,Dampfturbinenanlage der EBS-Kessel,Solvay Chemicals GmbH,35.0,Waste,2009
+86,,Erzeugergemeinschaft Dittersbach GbR,20.8,Wind,2003
+87,ENERTRAG Netz GmbH  (UW Bertikow),ENERTRAG Aktiengesellschaft,20.0,Biomass,2006
+88,UW Bertikow,ENERTRAG Aktiengesellschaft,328.0,Wind,2003
+89,Windpark Falkenwalde,Theolia Naturenergien GmbH,12.0,Wind,2004
+90,Windpark Holste / Ringstedt,Windpark GmbH & Co. Weserbrise KG,25.2,Wind,2006
+91,Kraftwerk Bexbach,STEAG GmbH,726.0,Coal,1983
+92,MVA Bielefeld,MVA Bielefeld-Herford GmbH,34.0,Waste,1981
+93,HKW Schildescher Straße,Stadtwerke Bielefeld GmbH,23.0,Gas,1977
+94,Gasturbinenkraftwerk Bielefeld Ummeln,Uniper Kraftwerke GmbH ,55.0,Gas,1975
+95,GuD Kraftwerk Hillegossen,Stadtwerke Bielefeld GmbH,37.5,Gas,2005
+96,HKW Schildescher Straße,Stadtwerke Bielefeld GmbH,41.0,Gas,1966
+97,Windparks Biere und Borne,"UWB Umspannwerk Betriebsgesellschaft Biere mbH, UWB Umspannwerk Betriebsgesellschaft Borne mbH",94.5,Wind,1999
+98,Biomassekraftwerk Bischofferode,Stadtwerke Leipzig GmbH,18.1,Biomass,2005
+99,,Bau- und Umwelttechnik Gesellschaft für ökologisches Investment mbH & Co.Windwelt KG,20.0,Wind,2003
+100,GuD Bitterfeld,envia THERM GmbH,106.0,Gas,2000
+101,,Zellstoff- und Papierfabrik Rosenthal GmbH,53.5,Biomass,1999
+102,Bliesdorf,Neue GHF Bliesdorf-Ketzin GmbH & Co. KG,33.5,Wind,2001
+103,,CaSa Energy GmbH,10.0,Wind,2007
+104,Bochum,RWE Generation SE,20.7,Gas,2004
+105,HKW Hiltrop,Stadtwerke Bochum Holding GmbH,44.0,Gas,2013
+106,Windpark Bockelwitz,BKW Deutschland GmbH,15.0,Wind,1999
+107,,,12.0,Wind,2003
+108,,Windpark Hiddels GmbH & Co. Betriebs KG,18.3,Wind,2000
+109,Lippendorf,Lausitz Energie Kraftwerke AG,875.0,Coal,2000
+110,Braunkohlekraftwerk Lippendorf,EnBW Energie Baden-Württemberg AG,875.0,Coal,1999
+111,Heizkraftwerk Karlstraße,Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH,12.0,Waste,1990
+112,Heizkraftwerk Karlstraße,Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH,95.0,Gas,2013
+113,Heizkraftwerk Süd,Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH,14.4,Gas,
+114,,Mönikes Energie GmbH & Co. KG,16.8,Wind,2002
+115,,H & P Windkraft GmbH & Co. KG,11.8,Wind,2001
+116,,,11.4,Biomass,2006
+117,Boxberg,Lausitz Energie Kraftwerke AG,465.0,Coal,1979
+118,Boxberg,Lausitz Energie Kraftwerke AG,465.0,Coal,1980
+119,Boxberg,Lausitz Energie Kraftwerke AG,857.0,Coal,2000
+120,,Wind 100 GmbH & Co.KG,10.0,Wind,2004
+121,,Windpark Braderup GmbH & Co.KG ,11.8,Wind,2005
+122,,Windpark Brake GmbH & Co KG Renditefonds,10.0,Wind,2002
+123,,FWE Windpark Wittstedt K/S c/o ESSEX INVEST A/S,19.5,Wind,2001
+124,HKW,StWB Stadtwerke Brandenburg an der Havel GmbH & Co. KG,36.0,Gas,1997
+125,Kirchmöser,Uniper Kraftwerke GmbH ,160.0,Gas,1994
+126,,,18.6,Solar,2010
+127,Waldpolenz Energiepark FF 2,SachsenFonds Solar II GmbH & Co. KG,7.98,Solar,2008
+128,Waldpolenz Energiepark FF 3,SachsenFonds Solar III GmbH & Co. KG,8.0,Solar,2008
+129,Waldpolenz Energiepark FF 1,SachsenFonds Solar I GmbH & Co. KG,24.1,Solar,2007
+130,HKW-Mitte,Braunschweiger Versorgungs-AG & Co. KG,20.0,Gas,1971
+131,HKW-Mitte,Braunschweiger Versorgungs-AG & Co. KG,74.0,Gas,2010
+132,HKW-Nord,Braunschweiger Versorgungs-AG & Co. KG,25.0,Gas,1965
+133,HKW-Mitte,Braunschweiger Versorgungs-AG & Co. KG,43.3,Coal,1984
+134,KW Hafen,swb Entsorgung GmbH & Co. KG,33.0,Waste,2009
+135,KW Hastedt,swb Erzeugung GmbH & Co. KG,155.0,Gas,
+136,KW Mittelsbüren,swb Erzeugung AG & Co. KG,86.0,Oil,1975
+137,KW Mittelsbüren,ArcelorMittal Bremen GmbH,160.0,Other,1975
+138,KW Mittelsbüren,swb Erzeugung GmbH & Co. KG,110.0,Other,
+139,KW Hastedt,swb Erzeugung AG & Co. KG,119.0,Coal,1989
+140,KW Hafen,swb Erzeugung GmbH & Co. KG,127.0,Coal,1968
+141,KW Hafen,swb Erzeugung AG & Co. KG,303.0,Coal,1979
+142,Farge,ENGIE Deutschland AG,350.0,Coal,1969
+143,,WindRAT Bremen GmbH & Co.KG,13.2,Wind,2004
+144,,swb Weserwind GmbH & Co. KG,12.0,Wind,2001
+145,,,10.0,Wind,2002
+146,Windpark Lehe,Stadtwerke Bochum Holding GmbH,10.0,Wind,2008
+147,Windpark Speckenbüttel,Stadtwerke Bochum Holding GmbH,5.0,Wind,2006
+148,Windpark Speckenbüttel,Stadtwerke Bochum Holding GmbH,5.0,Wind,2004
+149,,Windpark Altenbruch GmbH & Co. Betriebs-KG,14.3,Wind,1999
+150,,,10.0,Wind,2006
+151,,,17.9,Wind,2002
+152,Egger Kraftwerk Brilon,Egger Holzwerkstoffe Brilon GmbH & Co. KG,18.0,Biomass,1991
+153,Egger Kraftwerk Brilon,Egger Holzwerkstoffe Brilon GmbH & Co. KG,13.5,Gas,1996
+154,Brokdorf,Preussen Elektra GmbH,1410.0,Nuclear,1986
+155,,,14.0,Wind,2005
+156,,,10.0,Wind,2010
+157,Brunsbüttel,Vattenfall Europe Nuclear Energy GmbH,63.5,Oil,
+158,Brunsbüttel,Vattenfall Europe Nuclear Energy GmbH,63.5,Oil,
+159,Brunsbüttel,Vattenfall Europe Nuclear Energy GmbH,63.5,Oil,
+160,Brunsbüttel,Vattenfall Europe Nuclear Energy GmbH,63.5,Oil,
+161,Brunsbüttel,ERG Power Generation S.p.A.,20.0,Wind,2004
+162,,Windpark Brunsbüttel GmbH ,20.0,Wind,2010
+163,,Windpark Brunsbüttel GmbH ,10.0,Wind,2010
+164,Windpark Weimar,"Windfarm Weimar GmbH & Co.KG, RheinEnergieAG",12.0,Wind,2002
+165,Windpark Buchholz,EnBW Onshore Portfolio GmbH,36.0,Wind,2009
+166,,,16.0,Wind,2007
+167,Burghausen 01 - GT,Wacker Chemie AG,120.0,Gas,2001
+168,Burghausen 01 - DT,Wacker Chemie AG,50.0,Gas,1979
+169,Alzwerke,Alzwerke GmbH,45.0,Hydro,1922
+170,Industriepark Werk Gendorf,InfraServ GmbH & Co. Gendorf KG,73.1,Gas,2002
+171,,Edrifta GmbH & Co. KG,14.5,Solar,2010
+172,,ACR Biokraftwerk Calbe Invest GmbH & Co. KG,10.2,Biomass,1996
+173,HKW Chemnitz  Nord II,eins - energie in sachsen GmbH & Co. KG,56.8,Coal,1988
+174,HKW Chemnitz  Nord II,eins - energie in sachsen GmbH & Co. KG,57.2,Gas,1986
+175,HKW Chemnitz  Nord II,eins - energie in sachsen GmbH & Co. KG,90.8,Coal,1990
+176,,Denker & Wulf AG ,10.5,Wind,2000
+177,,,12.0,Wind,2010
+178,,,12.4,Wind,2002
+179,HKW Cottbus,Stadtwerke Cottbus mbH,74.0,Coal,1999
+180,Windpark Altenbruch II,PNE WIND AG,25.8,Wind,2009
+181,,Windpark Dahlenburg GmbH & Co. KG,36.0,Wind,2003
+182,WP Dargelütz,E.ON Climate & Renewables GmbH,21.6,Wind,2006
+183,Datteln,Uniper Kraftwerke GmbH ,95.0,Coal,1964
+184,Datteln,Uniper Kraftwerke GmbH ,95.0,Coal,1964
+185,Datteln,Uniper Kraftwerke GmbH ,113.0,Coal,1969
+186,,ENERTRAG Aktiengesellschaft,48.0,Wind,
+187,,Danpower Energie Service GmbH,18.4,Biomass,2004
+188,,Knock on Wood GmbH,20.0,Biomass,
+189,,Zweite Volkswind GmbH & Co KG,10.0,Wind,2004
+190,Kraftwerk Dessau,Fernwärmeversorgungs-GmbH Dessau,39.0,Gas,1996
+191,,Windpark Nienhagen GmbH & Co. KG,10.0,Wind,2008
+192,Deuben,Mitteldeutsche Braunkohlengesellschaft mbH,67.0,Coal,1936
+193,,WP Höne Planungs- u. Betriebs GmbH & Co.KG,16.2,Wind,2003
+194,,Windpark Littdorf GmbH & Co. KG,10.5,Wind,1999
+195,Dormagen,RWE Generation SE,586.0,Gas,2000
+196,,DIF Windpark Heede GmbH & Co.KG,16.5,Wind,2000
+197,"Windpark Dörpum GmbH & Co. KG, Infrastrukturgesellschaft Windpark Norstedt GmbH, BL Wind GmbH & Co. KG, Bürgerwindpark Bordelum III GmbH & Co. KG",UW Dörpum GmbH,89.5,Wind,2001
+198,"Windpark Reußenköge GmbH & Co. I KG,  Windpark Reußenköge III GmbH & Co. KG,  Windpark Reußenköge III GmbH & Co. Pionier KG,  Windpark Reußenköge IV GmbH & Co. KG,  Windpark Reußenköge V GmbH & Co. KG, Windpark Reußenköge VI GmbH & Co. KG",UW Reußenköge GmbH,99.85,Wind,2013
+199,Dortmund,RWE Generation SE,26.0,Gas,2004
+200,Knepper,Uniper Kraftwerke GmbH ,345.0,Coal,1971
+201,,Windkraft Iserloy GmbH & Co KG,12.0,Wind,2001
+202,,Windpark Greifenhain GmbH & Co. KG,20.0,Wind,2009
+203,HKW Dresden-Nossener Brücke,DREWAG Stadtwerke Dresden GmbH,260.0,Gas,1995
+204,,Windfeld Drochtersen Netz- und Abrechnungs GbR,11.0,Wind,2003
+205,Windpark Druxberge,Umspannwerke Druxberge GmbH & Co. KG c/o Windstrom GmbH,116.7,Wind,2003
+206,Windpark Dubener Platte,BKW Deutschland GmbH,40.0,Wind,2010
+207,HKW I,Stadtwerke Duisburg AG,95.0,Coal,1985
+208,HKW II/B,Stadtwerke Duisburg AG,133.0,Coal,1965
+209,HKW III/A,Stadtwerke Duisburg AG,40.0,Gas,2002
+210,HKW III/B,Stadtwerke Duisburg AG,234.0,Gas,2005
+211,KW Walsum,Steag GmbH,129.0,Coal,1959
+212,KW Walsum,Steag GmbH,370.0,Coal,1988
+213,KW Walsum,STEAG-EVN Walsum 10 Kraftwerksgesellsellschaft mbH,725.0,Coal,2013
+214,Duisburg Ruhrort 2,ThyssenKrupp Steel Europe AG,60.0,Other,1955
+215,Duisburg Ruhrort 3,ThyssenKrupp Steel Europe AG,95.0,Other,1963
+216,Duisburg Ruhrort 4,ThyssenKrupp Steel Europe AG,170.0,Other,1968
+217,GuD,Stadtwerke Düsseldorf AG,100.0,Gas,2000
+218,GT,Stadtwerke Düsseldorf AG,64.7,Gas,1975
+219,GT,Stadtwerke Düsseldorf AG,66.7,Gas,1974
+220,Gasblock,Stadtwerke Düsseldorf AG,293.0,Gas,1977
+221,GT,Stadtwerke Düsseldorf AG,86.2,Oil,1972
+222,DT,Stadtwerke Düsseldorf AG,48.9,Waste,1955
+223,DT,Stadtwerke Düsseldorf AG,53.7,Waste,2000
+224,,,24.2,Solar,2010
+225,,DK Bürgerwindpark Eckolstädt GmbH & Co. KG,14.3,Wind,1999
+226,,Windpark Oelerse I-III GmbH & Co. Infrastruktur KG,15.6,Wind,1999
+227,Waldeck1/Bringhausen,Uniper Kraftwerke GmbH ,145.0,Hydro,1931
+228,Waldeck 2,Uniper Kraftwerke GmbH ,480.0,Hydro,1974
+229,Hemfurth,Uniper Kraftwerke GmbH ,20.0,Hydro,1915
+230,Werkskraftwerk Sappi Ehingen,Sappi Ehingen GmbH,13.2,Biomass,1990
+231,Werkskraftwerk Sappi Ehingen,Sappi Ehingen GmbH,8.0,Biomass,1961
+232,Werkskraftwerk Sappi Ehingen,Sappi Ehingen GmbH,4.0,Gas,1977
+233,Kombikraftwerk,Stora Enso Sachsen GmbH,46.6,Gas,1993
+234,,,17.6,Wind,1998
+235,,Green Energy GmbH,14.4,Wind,2004
+236,EBS-Heizkraftwerk,Progroup Power 1 GmbH,23.5,Other,2011
+237,IKW,ArcelorMittal Eisenhüttenstadt GmbH,45.0,Other,1954
+238,IKW,ArcelorMittal Eisenhüttenstadt GmbH,56.0,Other,2013
+239,Huntorf,Uniper Kraftwerke GmbH ,321.0,Gas,1978
+240,,Wehrder Bürgerwp.u. Wehrderwp. 1.Betr. u. Wp Wehrder Bautr. GmbH,23.4,Wind,2000
+241,,Huntorfer Windpark GmbH & Co. KG und Bürgerwp. Huntorf GmbH,11.5,Wind,2006
+242,,Danpower GmbH,12.6,Biomass,2004
+243,HKW Eltmann,Palm Power GmbH & Co. KG,57.0,Gas,2007
+244,Emden Biomasse,Statkraft Markets GmbH,22.0,Biomass,2005
+245,Emden Gas,Statkraft Markets GmbH,52.0,Biomass,1973
+246,Emden Gas,Statkraft Markets GmbH,433.0,Gas,1973
+247,,EWE ERNEUERBARE ENERGIEN GmbH,26.8,Wind,1997
+248,Windpark Wybelsumer Polder ,Windpark Wybelsumer Polder GmbH & Co. KG,30.0,Wind,2000
+249,Windpark SWE (Larrelter Polder),Stadtwerke Emden GmbH,29.6,Wind,1994
+250,Windpark Rysumer Nacken,BARD Holding GmbH,6.5,Wind,2012
+251,Windpark Rysumer Nacken,BARD Holding GmbH,6.5,Wind,2012
+252,Biomasse-HKW,innogy SE,10.6,Biomass,2013
+253,,innogy SE,10.6,Biomass,2013
+254,Grohnde,Preussen Elektra GmbH,1360.0,Nuclear,1985
+255,Kraftwerk Ensdorf,Gemeinschaft nach Bruchteilen der Saarstahl AG (SAG) und Saarschmiede GmbH Freiformschmiede (SSF),283.0,Coal,2011
+256,Kraftwerk Ensdorf,"VSE AG, Kraftwerk Ensdorf",106.0,Coal,1963
+257,Windpark Erfstadt,Enercon Windpark GmbH & Co. Erfstadt KG,12.0,Wind,2005
+258,HKW Iderhoffstraße,SWE Energie GmbH,11.0,Gas,1996
+259,HKW Erfurt-Ost,SWE Energie GmbH,76.5,Gas,1999
+260,HKW Erfurt-Ost,SWE Energie GmbH,32.6,Gas,2014
+261,,Ventimotor GmbH & Co.UHW KG,22.0,Wind,2005
+262,,Windpark Katzenberg GmbH & Co. KG,11.9,Wind,2004
+263,Ering,Innwerk AG,72.5,Hydro,1942
+264,,Windpark Erkelenz Nr. 14,20.7,Wind,2000
+265,HKW Erlangen,Erlanger Stadtwerke AG,21.6,Gas,2005
+266,HKW Erlangen,Erlanger Stadtwerke AG,17.4,Coal,1982
+267,HKW Erlangen,Erlanger Stadtwerke AG,6.7,Gas,2014
+268,WP Esperstedt-Obhausen,WEO GmbH & Co. KG,40.0,Wind,2009
+269,Isar 2,Preussen Elektra GmbH,1410.0,Nuclear,1988
+270,,Windpark Kesfeld-Heckhuscheid GmbH & Co. KG,32.5,Wind,2005
+271,,Fehmarn Netz GmbH & Co. KG,119.6,Wind,2006
+272,,Bürger-Windpark-Westfehmarn GmbH & Co. KG,11.9,Wind,2000
+273,,Windpark Fehmarn-Mitte GmbH & Co. KG,11.5,Wind,2006
+274,Windpark Feldheim VI,Energiequelle GmbH & Co. Windpark Feldheim KG,12.0,Wind,2005
+275,WP Feldheim,Windpark GmbH & Co. Feldheim KG,20.0,Wind,2006
+276,Pumpspeicherwerk Rönkhausen,Mark-E AG,138.0,Hydro,1969
+277,HKW Flensburg,Stadtwerke Flensburg GmbH,30.0,Oil,
+278,Heizkraftwerk FL,Stadtwerke Flensburg GmbH,31.0,Coal,1992
+279,Heizkraftwerk FL,Stadtwerke Flensburg GmbH,33.0,Coal,1989
+280,Heizkraftwerk FL,Stadtwerke Flensburg GmbH,33.0,Coal,1985
+281,Heizkraftwerk FL,Stadtwerke Flensburg GmbH,35.0,Coal,1982
+282,Heizkraftwerk FL,Stadtwerke Flensburg GmbH,23.0,Coal,1978
+283,Windpark Flomborn,Windpark Flomborn / Stetten GmbH & Co. KG,12.0,Wind,1999
+284,BMKW Flörsheim Wicker,MVV Energie AG,12.6,Biomass,2003
+285,Rudolf-Fettweis-Werk     ,EnBW Energie Baden-Württemberg AG,22.0,Hydro,1918
+286,Rudolf-Fettweis-Werk     ,EnBW Energie Baden-Württemberg AG,43.0,Hydro,1926
+287,,,28.0,Wind,2007
+288,,,27.0,Wind,2009
+289,,,18.0,Wind,2006
+290,BKF,Mainova AG,12.4,Biomass,2004
+291,Heizkraftwerk FFO,Stadtwerke Frankfurt (Oder) GmbH,48.0,Gas,1997
+292,HKW Niederrad,Mainova AG,70.0,Gas,2004
+293,HKW West,Mainova AG,99.0,Gas,1994
+294,MHKW Frankfurt,Mainova AG,26.0,Waste,1969
+295,MHKW Frankfurt,Mainova AG,46.5,Waste,2006
+296,HKW Niederrad,Mainova AG,56.0,Gas,
+297,HKW West,Mainova AG,19.7,Other,
+298,HKW West,Mainova AG,61.5,Coal,1988
+299,HKW West,Mainova AG,61.5,Coal,1989
+300,,,11.0,Wind,1995
+301,Frechen/Wachtberg,RWE Power AG,176.0,Coal,1959
+302,GuD Anlage WVK,Rhodia Acetow GmbH,38.6,Gas,1998
+303,,Energiekontor Windkraft GmbH & Co. WP OE KG,15.0,Wind,1999
+304,,Energiekontor Ökofonds GmbH & Co. WP BD KG,11.5,Wind,2003
+305,,Bürgerwindpark Oederquart Erschließungsges.mbH & Co.,10.0,Wind,2003
+306,Bürgerwindpark Freren,BW-Bürgerwindpark Freren Verwaltungsgesellschaft mbH,35.4,Wind,2007
+307,,BVT Windpark Sustrum/Renkenberge GmbH & Co. KG,25.5,Wind,1998
+308,,Windpark Freyenstein-Halenbeck GmbH & Co. KG,16.0,Wind,2006
+309,,,34.2,Wind,2000
+310,,SachsenFonds Windpark IV GmbH & Co. KG,14.0,Wind,2002
+311,Frimmersdorf,RWE Power AG,129.0,Coal,1957
+312,Frimmersdorf,RWE Power AG,130.0,Coal,1957
+313,Frimmersdorf,RWE Power AG,124.0,Coal,1960
+314,Frimmersdorf,RWE Power AG,130.0,Coal,1959
+315,Frimmersdorf,RWE Power AG,132.0,Coal,1960
+316,Frimmersdorf,RWE Power AG,128.0,Coal,1960
+317,Frimmersdorf,RWE Power AG,136.0,Coal,1962
+318,Frimmersdorf,RWE Power AG,135.0,Coal,1964
+319,Frimmersdorf,RWE Power AG,138.0,Coal,1962
+320,Frimmersdorf,RWE Power AG,131.0,Coal,1962
+321,Frimmersdorf,RWE Power AG,133.0,Coal,1964
+322,Frimmersdorf,RWE Power AG,284.0,Coal,1966
+323,Frimmersdorf,RWE Power AG,278.0,Coal,1970
+324,,Windpark Ermsleben GmbH & Co. KG,18.0,Wind,2010
+325,,Winag Neue Energie GmbH & Co. Reinstedt KG,12.3,Wind,2010
+326,Kraftwerk Fulda,RhönEnergie Fulda GmbH,24.8,Oil,2011
+327,,Bürgerwindpark Galmsbüll GmbH ,10.8,Wind,2006
+328,,PWG GmbH & Co. Bürgerwindpark Grüppenbühren KG,11.6,Wind,2000
+329,,Windpark Breberen GmbH & Co. KG,18.0,Wind,2005
+330,,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,58.0,Wind,2006
+331,Gars,VERBUND-Innkraftwerke GmbH,25.0,Hydro,1938
+332,,REWAG Regensburger Energie-und Wasserversorgung AG&Co. KG,10.0,Wind,2010
+333,Geesthacht,Vattenfall Wasserkraft GmbH,119.1,Hydro,1958
+334,Geesthacht,Vattenfall Wasserkraft GmbH,,Hydro,1958
+335,Geesthacht,Vattenfall Wasserkraft GmbH,,Hydro,1958
+336,Scholven,Uniper Kraftwerke GmbH ,345.0,Coal,1969
+337,Scholven,Uniper Kraftwerke GmbH ,345.0,Coal,1968
+338,Scholven,Uniper Kraftwerke GmbH ,345.0,Coal,1970
+339,Scholven,Uniper Kraftwerke GmbH ,345.0,Coal,1971
+340,Scholven,Uniper Kraftwerke GmbH ,676.0,Coal,1979
+341,FWK Buer,Uniper Kraftwerke GmbH ,70.0,Coal,1985
+342,PSW Langenprozelten,Donau-Wasserkraft AG,164.0,Hydro,1974
+343,,,20.0,Wind,2009
+344,,,16.0,Wind,2009
+345,,,16.0,Wind,2009
+346,,,15.0,Wind,2002
+347,,,11.7,Wind,2001
+348,Heizkraftwerk Gera-Nord,Energieversorgung Gera GmbH,74.0,Gas,1996
+349,,Windpark K/S Difko Gerdshagen / Dänemark,14.0,Wind,2005
+350,,Trianel Onshore Winkraftwerk Gerdshagen/ Falkenhagen II GmbH & Co. KG,6.9,Wind,2013
+351,,Gnannenweiler Windnetz GmbH & Co. KG,16.8,Wind,2009
+352,,Ecomill Windpark GmbH & Co. Giersleben KG,12.8,Wind,1999
+353,Windpark Karstädt,ENGIE WP Portfolio 2 GmbH,22.0,Wind,2007
+354,Goldisthal,Vattenfall Wasserkraft GmbH,1052.0,Hydro,2004
+355,Goldisthal,Vattenfall Wasserkraft GmbH,,Hydro,2003
+356,Goldisthal,Vattenfall Wasserkraft GmbH,,Hydro,2003
+357,Goldisthal,Vattenfall Wasserkraft GmbH,,Hydro,2004
+358,HKW Göttingen,Georg-August-Universität Göttingen Stiftung Öffentlichen Rechts,18.8,Gas,1998
+359,Grafenrheinfeld,E.ON Kernkraft GmbH,1275.0,Nuclear,
+360,,,14.0,Wind,2003
+361,"HKW ""Helmshäger Berg""",Stadtwerke Greifswald GmbH,14.7,Gas,1996
+362,Kraftwerk Grenzach-Wyhlen,KGW - Kraftwerk Grenzach-Wyhlen GmbH,30.0,Gas,2017
+363,KW Wyhlen,Energiedienst AG,37.9,Hydro,1912
+364,Jochenstein,Innwerk AG,66.0,Hydro,1955
+365,,Acciona Energie Windparks Deutschland GmbH,10.0,Wind,2006
+366,,,11.6,Wind,2002
+367,,Windpark Niedere Börde GmbH & Co. KG,12.0,Wind,2006
+368,,Windpark Großberndten GmbH & Co. KG c/o Deutsche Structured Finance GmbH,21.9,Wind,2003
+369,Spitzenlastkraftwerk Sermuth,envia THERM GmbH,17.0,Oil,1995
+370,,Windpark Timmeler Kampen II/Reidenweg GmbH & Co. KG,23.9,Wind,1998
+371,,,11.8,Wind,1995
+372,,AOS WP Bissel GmbH & Co KG,10.8,Wind,2000
+373,Spitzenlastkraftwerk Großkayna,envia THERM GmbH,120.0,Oil,1994
+374,Staudinger,Uniper Kraftwerke GmbH ,572.0,Gas,1977
+375,Staudinger,Uniper Kraftwerke GmbH ,249.0,Coal,1965
+376,Staudinger,Uniper Kraftwerke GmbH ,293.0,Coal,1970
+377,Staudinger,Uniper Kraftwerke GmbH ,510.0,Coal,1992
+378,Ingolstadt,Uniper Kraftwerke GmbH ,386.0,Oil,1973
+379,Ingolstadt,Uniper Kraftwerke GmbH ,386.0,Oil,1974
+380,EEW Großräschen,EEW Energy from Waste Großräschen GmbH,23.3,Waste,2007
+381,Kernkraft Gundremmingen ,RWE Power AG,1284.0,Nuclear,1984
+382,Kernkraft Gundremmingen ,RWE Power AG,1288.0,Nuclear,1984
+383,,Windpark Altmark GmbH & Co. Infrastruktur KG,32.0,Wind,2006
+384,KWK Gütersloh,Pfleiderer Gütersloh GmbH,12.1,Biomass,2000
+385,Energiezentrum Mohn Media,Mohn Media Mohndruck GmbH,25.0,Gas,1994
+386,Windpark Hartenfelser Kopf,Breeze Two Energy GmbH & Co. KG,26.0,Wind,2006
+387,Biomasse-Verstromungs-Anlage,Mark-E AG,20.0,Biomass,2004
+388,Heizkraftwerk Hagen-Kabel,Mark-E AG,230.0,Gas,1980
+389,,Umspannwerke Druxberge GmbH & Co. KG c/o Windstrom GmbH,82.7,Wind,1999
+390,,Windpark Freyenstein-Halenbeck GmbH & Co. KG,18.0,Wind,2006
+391,HKW Halle Trotha,EVH GmbH,97.0,Gas,2005
+392,HKW Halle Trotha,Heizkraftwerk Halle-Trotha GmbH,56.1,Gas,2013
+393,,,19.8,Wind,2003
+394,Duisburg Hamborn 3,ThyssenKrupp Steel Europe AG,59.0,Other,1958
+395,Duisburg Hamborn 4,ThyssenKrupp Steel Europe AG,101.0,Other,1976
+396,Duisburg Hamborn 5,ThyssenKrupp Steel Europe AG,225.0,Other,2003
+397,MVR Müllverwertung Rugenberger Damm GmbH & Co. KG,MVR Müllverwertung Rugenberger Damm GmbH & Co. KG,24.0,Waste,1999
+398,Müllverwertung Borsigstraße MVB,Müllverwertung Borsigstraße GmbH,20.0,Biomass,2005
+399,GuD Tiefstack,Wärme Hamburg GmbH,127.0,Gas,2009
+400,Heizkraftwerk,ADM Hamburg Aktiengesellschaft,22.5,Gas,1993
+401,Tiefstack,Wärme Hamburg GmbH,194.0,Coal,1993
+402,Wedel,Wärme Hamburg GmbH,123.0,Coal,1962
+403,Wedel,Wärme Hamburg GmbH,137.0,Coal,1961
+404,,,12.0,Wind,2009
+405,Windpark Hamburg,Windpark GmbH & Co. Hamburg KG,12.0,Wind,2009
+406,,,12.2,Wind,1995
+407,Enertec Hameln,Enertec Hameln GmbH,13.2,Waste,1913
+408,Enertec Hameln,Enertec Hameln GmbH,14.5,Biomass,2002
+409,,Windpark Hamersen GmbH & Co. KG,18.0,Wind,2007
+410,Trianel Gaskraftwerk ,Trianel Gaskraftwerk Hamm GmbH & Co. KG ,407.0,Gas,2008
+411,Trianel Gaskraftwerk ,Trianel Gaskraftwerk Hamm GmbH & Co. KG ,410.0,Gas,2008
+412,Westfalen,RWE Generation SE,284.0,Coal,1969
+413,Westfalen,RWE Generation SE,765.0,Coal,2014
+414,Westfalen,RWE Generation SE,763.7,Coal,2014
+415,Westfalen,RWE Generation SE,152.0,Coal,1963
+416,Westfalen,RWE Generation SE,152.0,Coal,1963
+417,Windpark Handewitt,Denker & Wulf AG,10.8,Wind,1996
+418,EEW Energy from Waste Hannover GmbH,EEW Energy from Waste Hannover GmbH,22.5,Waste,2005
+419,GKL,enercity AG,230.0,Gas,1998
+420,KWH,enercity AG,102.0,Gas,1975
+421,GKH,enercity AG,136.0,Coal,1989
+422,GKH,enercity AG,136.0,Coal,1989
+423,Happurg,Uniper Kraftwerke GmbH ,160.0,Hydro,1958
+424,Windparks Schwanebeck und Wulferstedt,WP Schwanebeck u. Wulferstedt Infrastruktur GbR,30.0,Wind,2003
+425,Windparks Gröningen und Wegeleben,Windpark Wegeleben GmbH & Co. KG und Wind Am Speckberg GmbH,28.0,Wind,2006
+426,,Raiffeisenwindpark Haselünne Flechum GmbH & Co. KG,19.5,Wind,1999
+427,Häusern,Schluchseewerk Aktiengesellschaft,100.0,Hydro,1931
+428,Kraftwerk Hausham,Peissenberger Kraftwerksgesellschaft mbH,23.4,Oil,1982
+429,Kraftwerk Hausham,Peissenberger Kraftwerksgesellschaft mbH,23.4,Oil,1982
+430,Kraftwerk Hausham,Peissenberger Kraftwerksgesellschaft mbH,23.4,Oil,1982
+431,Kraftwerk Hausham,Peissenberger Kraftwerksgesellschaft mbH,23.4,Oil,1982
+432,Windfarm Heckelberg-Breydin,Windpark Heckelberg-Breydin GmbH & Co. KG,27.0,Wind,2005
+433,Windfarm Heckelberg-Breydin,,10.0,Wind,2004
+434,Heizkraftwerk Heilbronn,EnBW Energie Baden-Württemberg AG,125.0,Coal,1965
+435,Heizkraftwerk Heilbronn,EnBW Energie Baden-Württemberg AG,125.0,Coal,1966
+436,Heizkraftwerk Heilbronn,EnBW Energie Baden-Württemberg AG,778.0,Coal,1985
+437,,,18.0,Wind,2004
+438,,GVK Windpark Hellenthal GmbH & Co. KG WKA Oberreifferscheid Süd,10.2,Wind,2001
+439,TRV Buschhaus,EEW Energy from Waste Helmstedt GmbH,37.5,Waste,1999
+440,Buschhaus,Helmstedter Revier GmbH,352.0,Coal,1985
+441,WP Treue/Treue Ost,E.ON Climate & Renewables GmbH,15.8,Wind,2007
+442,,NEIF (Merinda Windpark) GmbH & Co. KG,12.0,Wind,2003
+443,Cuno Heizkraftwerk Herdecke,Mark-E AG / Statkraft Markets,417.0,Gas,2007
+444,Koepchenwerk,RWE Power AG,165.0,Hydro,1989
+445,Wintershall,K+S AG,69.0,Gas,2009
+446,Mehringer Höhe,juwi Beteiligungs GmbH & Co. Naturpower 10KG ,22.3,Wind,2005
+447,KW Herne,Steag GmbH,133.0,Coal,1963
+448,Shamrock,Uniper Kraftwerke GmbH ,132.0,Coal,1957
+449,KW Herne,Steag GmbH,280.0,Coal,1966
+450,KW Herne,Steag GmbH,449.0,Coal,1989
+451,Heynitz,Breeze Four Energy GmbH & Co. KG,20.3,Wind,2002
+452,,Windpark Hinte GmbH & Co. Ost KG,13.2,Wind,2001
+453,,,26.0,Wind,2006
+454,,Anlagenbetreiber Windpark Ohe/Höfer deanBV Verwaltungs-GmbH,11.5,Wind,2002
+455,Windpark Hohen Pritz,Windpark Hohen Pritz GbR,21.0,Wind,2001
+456,Windpark Krusemark,Theolia Naturenergien GmbH,12.0,Wind,2005
+457,KWM,Kraftwerk Mehrum GmbH,690.0,Coal,1979
+458,Hohenwarte 1,Vattenfall Wasserkraft GmbH,59.8,Hydro,1959
+459,Hohenwarte 1,Vattenfall Wasserkraft GmbH,,Hydro,1959
+460,Hohenwarte 2,Vattenfall Wasserkraft GmbH,317.8,Hydro,1965
+461,Hohenwarte 2,Vattenfall Wasserkraft GmbH,,Hydro,1965
+462,Hohenwarte 2,Vattenfall Wasserkraft GmbH,,Hydro,1965
+463,Hohenwarte 2,Vattenfall Wasserkraft GmbH,,Hydro,1966
+464,Hohenwarte 2,Vattenfall Wasserkraft GmbH,,Hydro,1965
+465,Hohenwarte 2,Vattenfall Wasserkraft GmbH,,Hydro,1966
+466,Hohenwarte 2,Vattenfall Wasserkraft GmbH,,Hydro,1966
+467,Hohenwarte 2,Vattenfall Wasserkraft GmbH,,Hydro,1966
+468,,Windpark Westerwald GmbH,18.0,Wind,2004
+469,,Germania Windpark GmbH & Co KG,24.6,Wind,1996
+470,,PROKON Regenerative Energien eG,20.0,Wind,2007
+471,,GHP Glunz  Holzwerkstoffproduktion GmbH,,Biomass,
+472,Windpark Horst,PROKON Regenerative Energien eG,10.4,Wind,1999
+473,Huckingen,Hüttenwerke Krupp Mannesmann GmbH,303.0,Other,1976
+474,Huckingen,Hüttenwerke Krupp Mannesmann GmbH,303.0,Other,1977
+475,,,25.6,Wind,2002
+476,,WKN Windkraft Nord GmbH & Co. Windpark Huje KG ,21.45,Wind,2000
+477,Goldenberg,RWE Power AG,40.0,Coal,1992
+478,Goldenberg,RWE Power AG,,Coal,1993
+479,Goldenberg,RWE Power AG,45.0,Coal,1993
+480,Ville/Berrenrath,RWE Power AG,98.0,Coal,1917
+481,RAG Anthrazit Ibbenbüren GmbH,RAG Anthrazit Ibbenbüren GmbH,33.4,Gas,2000
+482,Ibbenbüren,RWE Generation SE,794.0,Coal,1985
+483,Rheinkraftwerk Iffezheim,Rheinkraftwerk Iffezheim GmbH,148.0,Hydro,1978
+484,Windpark Ihlow,Enercon Windpark GmbH & Co. Ihlow KG,58.1,Wind,1999
+485,WP Ihlow,Enercon Windpark GmbH & Co. Ihlow KG,15.0,Wind,2000
+486,KW Imst,TIWAG-Tiroler Wasserkraft AG,89.0,Hydro,1956
+487,ADS-Anlage,Infraserv GmbH & Co. Höchst KG,96.5,Gas,2012
+488,Heizkraftwerk,Infraserv GmbH & Co. Höchst KG,66.0,Coal,1989
+489,Heizkraftwerk,Infraserv GmbH & Co. Höchst KG,86.0,Gas,2003
+490,,Boehringer Ingelheim Pharma GmbH & Co. KG,12.4,Biomass,2004
+491,,UWB Umspannwerk Betriebsgesellschaft Sallentin mbH,27.0,Wind,2003
+492,HKW Jena,TEAG Thüringer Energie AG,182.0,Gas,1996
+493,KW Jenbach,TIWAG-Tiroler Wasserkraft AG,79.0,Hydro,1927
+494,,Windpark Jever GbR,12.2,Wind,2002
+495,,Windpark Jülicher Land GmbH,9.5,Wind,2005
+496,Windpark Jülicher Börde,MVV Energie AG,10.5,Wind,2005
+497,,Windpark Jürgenshagen GmbH & Co.Betriebs-KG Renditefonds,11.8,Wind,2002
+498,,Windfarm Zettingen GmbH,12.5,Wind,2009
+499,HKW Karcherstr.,"SWK Stadtwerke Kaiserslautern, Versorgungs-AG",11.6,Gas,1989
+500,HKW Karcherstr.,"SWK Stadtwerke Kaiserslautern, Versorgungs-AG",13.4,Coal,1996
+501,,,22.95,Wind,2001
+502,,Windpark Kall GmbH & Co WPKA KG,10.0,Wind,2009
+503,,EST Elektro-Spezial-Technik Inh. Steffen Stecher,12.8,Wind,2001
+504,Rheinhafen-Dampfkraftwerk,EnBW Energie Baden-Württemberg AG,353.0,Gas,1998
+505,Heizkraftwerk West,Stadtwerke Karlsruhe GmbH,37.0,Gas,1984
+506,MiRO,MiRO Mineraloelraffinerie Oberrhein GmbH & Co. KG,45.0,Oil,1995
+507,MiRO,MiRO Mineraloelraffinerie Oberrhein GmbH & Co. KG,25.0,Oil,1995
+508,Rheinhafen-Dampfkraftwerk,EnBW Energie Baden-Württemberg AG,517.0,Coal,1985
+509,Rheinhafen-Dampfkraftwerk,EnBW Energie Baden-Württemberg AG,834.0,Coal,2014
+510,Karnap,RWE Generation SE,38.0,Waste,1987
+511,Stora Enso Maxau,Stora Enso Maxau GmbH,78.0,Biomass,2010
+512,Kombi-HKW,Städtische Werke Energie + Wärme GmbH,48.31,Gas,1988
+513,FKK,Städtische Werke Energie + Wärme GmbH,33.5,Coal,1989
+514,,,13.3,Wind,1995
+515,Gemeinschaftskraftwerk Kiel,Gemeinschaftskraftwerk Kiel GmbH,323.0,Coal,1970
+516,HKW Humboldtstr.,Stadtwerke Kiel AG,21.5,Gas,2005
+517,Braunau-Simbach,Innwerk AG,100.0,Hydro,1953
+518,,Windpark Großenehrich GmbH & Co. KG Renditefonds,22.0,Wind,2004
+519,KW Kirchlengern,Energieservice Westfalen Weser GmbH,125.0,Gas,1981
+520,Windpark Kirchwistedt,REG Regenerative Energien Standortentwicklung Gmbh & Co. Kirchwistedt KG,18.6,Wind,2005
+521,Windpark Vollersode,Windpark GmbH & Co. Weserbrise KG,6.4,Wind,2006
+522,Windpark Kisselbach,Breeze Two Energy GmbH & Co. KG,22.4,Wind,2006
+523,,Windpark Klein Twülpstedt GmbH & Co. KG,14.3,Wind,2000
+524,,ewz Windpark Kleinbrembach GmbH,16.0,Wind,2006
+525,,Solarkraftwerk Reckahn I GmbH & Co. KG,35976.0,Solar,2010
+526,,GSI Photovoltaik Projektgesellschaft Helbra mbH,10.63,Solar,2010
+527,Walchensee,Uniper Kraftwerke GmbH ,124.0,Hydro,1924
+528,,,38.0,Wind,2003
+529,,IBERDROLA Renovables Deutschland GmbH,10.0,Wind,2005
+530,HKW Merkenich,RheinEnergie AG,75.3,Coal,2010
+531,HKW Südstadt,RheinEnergie AG,35.0,Gas,1994
+532,HKW Niehl 2,RheinEnergie AG,413.0,Gas,2005
+533,HKW Merkenich,RheinEnergie AG,108.0,Gas,2004
+534,Shell Deutschland Oil GmbH,Shell Deutschland Oil GmbH,97.1,Oil,2004
+535,Knapsack Gas I,Knapsack Power GmbH & Co. KG,800.0,Gas,2007
+536,Knapsack Gas II,Statkraft Markets GmbH,430.0,Gas,2013
+537,BMKW Königs Wusterhausen,MVV Energie AG,17.1,Biomass,2003
+538,UW Körbelitz Wind,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,68.0,Wind,2008
+539,,,18.0,Wind,2009
+540,UW Körbelitz,ENERTRAG Aktiengesellschaft,12.0,Wind,2006
+541,BMHKW-BinderHolz,BinderHolz Deutschland GmbH,15.13,Biomass,2007
+542,,ASPERG SECHSTE SOLAR GmbH,12.9,Solar,2008
+543,,KOGEP vierzehn GmbH & Co. Solar 1411 KG,11666.0,Solar,2010
+544,KWK-Anlage Krefeld DT,Cargill Deutschland GmbH,25.8,Gas,1999
+545,KWK-Anlage Krefeld VM,Cargill Deutschland GmbH,14.0,Gas,1999
+546,Kraftwerk L 57,Currenta GmbH & Co. OHG,26.0,Coal,1957
+547,Kraftwerk N 230,Currenta GmbH & Co. OHG,110.0,Coal,1971
+548,Erzhausen,Statkraft Markets GmbH,220.0,Hydro,1964
+549,,Windpark Kremsdorf GmbH ,12.6,Wind,2001
+550,,WKN Windkraft Nord GmbH & Co. Windpark Krempdorf KG,17.75,Wind,2003
+551,,,14.42,Wind,2010
+552,WEP Hamswehrum ,EWE ERNEUERBARE ENERGIEN GmbH,12.0,Wind,1994
+553,,Windpark Groothusen GmbH & Co. Betriebs KG,12.0,Wind,2005
+554,,Windpark Jennelt GmbH ,9.0,Wind,2001
+555,,Pfeifer Holz GmbH,8.4,Biomass,2007
+556,KW Kühtai,TIWAG-Tiroler Wasserkraft AG,144.5,Hydro,1981
+557,KW Kühtai,TIWAG-Tiroler Wasserkraft AG,144.5,Hydro,1981
+558,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,28.0,Wind,2007
+559,,deag Energie GmbH,10.6,Wind,2009
+560,,Raiffeisenwindpark Lahn GmbH & Co.KG,14.0,Wind,2000
+561,,Windpark Lahstedt ApS & Co. OHG,10.0,Wind,2006
+562,,Windpark Lamstedt GbR,22.0,Wind,2009
+563,Landesbergen Biomasse,Statkraft Markets GmbH,22.0,Biomass,2005
+564,Landesbergen Gas,Statkraft Markets GmbH,56.0,Gas,1973
+565,Landesbergen Gas,Statkraft Markets GmbH,431.0,Gas,1973
+566,,Wattner SunAsset Solarkraftwerk 006 GmbH & Co. KG,12.0,Solar,2010
+567,,ENERGIEKONTOR Windkraft GmbH & Co.,25.0,Wind,1999
+568,,Energiekontor Windkraft GmbH & Co. WP KRE KG,20.8,Wind,2000
+569,,Energiekontor Umwelt GmbH & Co.,11.0,Wind,1999
+570,,Energiekontor Windkraft GmbH & Co. WP SIE-Gem. d. Eigentümer,11.0,Wind,2000
+571,,,10.5,Wind,2001
+572,,LERAK Mobiliengesellschaft mbH & Co. KG,20.0,Wind,2009
+573,Laufenburg,Energiedienst Holding AG,104.4,Hydro,1914
+574,Helmeringen KG,Stadtwerke München GmbH,10.0,Solar,2008
+575,,ENERGIE KONTOR UMWELT GMBH,15.6,Wind,2000
+576,Heizkraftwerk Leipzig-Nord,Stadtwerke Leipzig GmbH,167.0,Gas,1996
+577,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,14.4,Wind,2002
+578,TREA Leuna,MVV Energie AG,16.25,Waste,2005
+579,TREA Leuna,MVV Energie AG,16.25,Waste,2007
+580,GuD Leuna,InfraLeuna GmbH,39.0,Gas,1998
+581,ILK-GuD,InfraLeuna GmbH,35.0,Gas,1994
+582,ILK-GuD,TOTAL Raffinerie Mitteldeutschland GmbH,35.0,Gas,1994
+583,ILK-GuD,InfraLeuna GmbH,37.0,Gas,1994
+584,Raffineriekraftwerk,TOTAL Raffinerie Mitteldeutschland GmbH,92.5,Oil,1997
+585,ILK-GuD,InfraLeuna GmbH,8.7,Other,1994
+586,ILK-EKT,InfraLeuna GmbH,14.0,Other,2000
+587,ILK-GuD,InfraLeuna GmbH,20.0,Other,2010
+588,,AVEA Entsorgungsbetriebe GmbH & Co. KG,11.6,Waste,2011
+589,X-Kraftwerk,Currenta GmbH & Co. OHG,25.0,Gas,1981
+590,G-Kraftwerk,Currenta GmbH & Co. OHG,103.0,Coal,1962
+591,,Biomasse HKW Siegerland GmbH & Co.KG,14.0,Biomass,2016
+592,Emsland,RWE Generation SE,116.0,Gas,1974
+593,Emsland,RWE Generation SE,116.0,Gas,1973
+594,Emsland,RWE Generation SE,359.0,Gas,1973
+595,Emsland,RWE Generation SE,359.0,Gas,1974
+596,Emsland,RWE Generation SE,887.0,Gas,2010
+597,Kernkraftwerk Emsland,RWE Power AG,1336.0,Nuclear,1988
+598,,,15.3,Wind,2001
+599,,Enercon Windpark GmbH & Co. Küstenwind I KG,3.6,Wind,2003
+600,Windpark Löbau,BOREAS Energie GmbH,38.55,Wind,1999
+601,,,16.0,Wind,2002
+602,,,13.6,Wind,2002
+603,UW Louisfelde,ENERTRAG Aktiengesellschaft,64.6,Wind,2006
+604,KW Mitte,BASF SE,47.0,Gas,1992
+605,Kraftwerk Mitte,BASF SE,497.5,Gas,2005
+606,Kraftwerk Süd,BASF SE,410.0,Gas,1997
+607,Kläranlage,BASF SE,12.0,Waste,1992
+608,Kraftwerk Nord,BASF SE,87.5,Other,1964
+609,BMK Lünen ,STEAG New Energies GmbH,20.0,Biomass,2006
+610,KW Lünen,Steag GmbH,149.0,Coal,1962
+611,KW Lünen,Steag GmbH,324.0,Coal,1970
+612,,WG Westerwischer GmbH & Co KG; Windpark Norderland Verwaltgs.- u. Beteiligungs GmbH,26.0,Wind,2003
+613,Biomasseheizkraftwerk Piesteritz,Stadtwerke Leipzig GmbH,18.1,Biomass,2009
+614,MHKW Rothensee,Müllheizkraftwerk Rothensee GmbH,29.2,Waste,2005
+615,MHKW Rothensee,Müllheizkraftwerk Rothensee GmbH,29.2,Waste,2006
+616,Mahlwinkel-Nord,Breeze Four Energy GmbH & Co. KG,32.0,Wind,2008
+617,Kraftwerk Mainz,Kraftwerke Mainz-Wiesbaden AG,434.2,Gas,2000
+618,Kraftwerk Mainz,Kraftwerke Mainz-Wiesbaden AG,335.0,Gas,1976
+619,Biomasse-Heizkraftwerk Malchin,envia THERM GmbH,9.8,Biomass,2003
+620,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,28.8,Wind,2001
+621,,EREM GmbH & Co. German Wind KG c/o Treucon Asset Mgmt. GmbH,14.4,Wind,2002
+622,BMKW Mannheim,MVV Energie AG,17.9,Biomass,2003
+623,SCA Mannheim,Essity Operations Mannheim GmbH,40.0,Biomass,2003
+624,HKW Mannheim,MVV Energie AG,2.78,Waste,
+625,HKW Mannheim,MVV Energie AG,5.56,Waste,
+626,HKW Mannheim,MVV Energie AG,8.65,Waste,2006
+627,HKW Mannheim,MVV Energie AG,22.1,Waste,2010
+628,HKW Mannheim,MVV Energie AG,5.37,Waste,2012
+629,HKW Mannheim,MVV Energie AG,3.88,Waste,2012
+630,GKM ,Grosskraftwerk Mannheim AG,202.5,Coal,1966
+631,GKM ,Grosskraftwerk Mannheim AG,202.5,Coal,1970
+632,GKM ,Grosskraftwerk Mannheim AG,255.0,Coal,2005
+633,GKM ,Grosskraftwerk Mannheim AG,425.0,Coal,1982
+634,GKM ,Grosskraftwerk Mannheim AG,435.0,Coal,1993
+635,GKM ,Grosskraftwerk Mannheim AG,843.0,Coal,2015
+636,Dampfkraftwerk Marbach am Neckar,EnBW Energie Baden-Württemberg AG,77.4,Oil,1971
+637,Dampfkraftwerk Marbach am Neckar,EnBW Energie Baden-Württemberg AG,85.0,Oil,1975
+638,Dampfkraftwerk Marbach am Neckar,EnBW Energie Baden-Württemberg AG,263.5,Oil,1975
+639,,Planung-Aufbau-Verwaltung Eidelweg GmbH & Co. KG,18.8,Wind,2004
+640,Windpark Bredenborn,Breeze Three Energy GmbH & Co. KG,16.5,Wind,2002
+641,Markersbach,Vattenfall Wasserkraft GmbH,1045.2,Hydro,1979
+642,Markersbach,Vattenfall Wasserkraft GmbH,,Hydro,1980
+643,Markersbach,Vattenfall Wasserkraft GmbH,,Hydro,1980
+644,Markersbach,Vattenfall Wasserkraft GmbH,,Hydro,1981
+645,Markersbach,Vattenfall Wasserkraft GmbH,,Hydro,1981
+646,Markersbach,Vattenfall Wasserkraft GmbH,,Hydro,1980
+647,Kraftwerk III,Evonik Degussa GmbH,61.13,Gas,1973
+648,Kraftwerk III,Evonik Degussa GmbH,77.57,Gas,1974
+649,Kraftwerk I  ,Evonik Degussa GmbH,55.56,Coal,1971
+650,Kraftwerk II,Evonik Degussa GmbH,60.4,Coal,1966
+651,Kraftwerk I ,Evonik Degussa GmbH,68.4,Coal,1983
+652,Kraftwerk I,Evonik Degussa GmbH,169.32,Other,1940
+653,,Sintfeld REGO-Strom GmbH,18.0,Wind,2000
+654,,Windpark Mastershausen GmbH & Co. KG,20.9,Wind,2007
+655,,Vernet GmbH,10.5,Wind,2000
+656,,MS Windkraft GmbH,13.0,Wind,2000
+657,Rasch,Solarparc AG,21.7,Solar,2009
+658,Pumpspeicherkraftwerk Glems,EnBW Energie Baden-Württemberg AG,90.0,Hydro,1964
+659,,TREF Wind Midlum GmbH & Co. KG,35.0,Wind,1999
+660,,Windkonzept - Energieanlagen GmbH & Co. KG,16.0,Wind,2002
+661,,Enercon Windpark GmbH & Co.Megawind I KG,7.2,Wind,2002
+662,,Enercon Windpark GmbH & Co. Mittelherwigsdorf KG,6.6,Wind,2004
+663,,Windpark Mittelstenahe GmbH & Co. Betriebs-KG,12.0,Wind,2006
+664,,Lorica Windpark Stegelitz GmbH & Co. KG,27.0,Wind,2009
+665,,ENGIE WP Molau GmbH,26.4,Wind,2002
+666,,Infrastruktur Windpark Wanlo GbR (MAIBARA Mobiliengesellschaft mbH & Co.KG),17.2,Wind,2007
+667,,,14.6,Wind,2003
+668,Energiepark Morbach,juwi Verwaltungs GmbH & Co. Morbach I-VI KG,12.0,Wind,2002
+669,Energiepark Morbach,juwi Windenergie GmbH & Co. S+S  I+III KG,12.0,Wind,2002
+670,Mumsdorf,Mitteldeutsche Braunkohlengesellschaft mbH,60.0,Coal,1968
+671,Freimann GT 1,SWM Services GmbH,80.0,Gas,
+672,Freimann GT 2,SWM Services GmbH,80.0,Gas,
+673,Süd DT1,SWM Services GmbH,79.7,Gas,1980
+674,Süd GT3,SWM Services GmbH,97.9,Gas,1980
+675,Süd GT2,SWM Services GmbH,97.9,Gas,1980
+676,Süd GT 61,SWM Services GmbH,124.9,Gas,2004
+677,Süd GT 62,SWM Services GmbH,123.9,Gas,2004
+678,Süd DT60,SWM Services GmbH,127.6,Gas,2004
+679,Heizkraftwerk Hafen,Stadtwerke Münster GmbH,104.14,Gas,2005
+680,Gemeinschaftskernkraftwerk Neckarwestheim II,EnBW Energie Baden-Württemberg AG,1310.0,Nuclear,1989
+681,GuD-HKW Neubrandenburg,Neubrandenburger Stadtwerke GmbH,75.0,Gas,1997
+682,Bittenbrunn,Donau-Wasserkraft AG,20.2,Hydro,1969
+683,,Windpark Achmer Vinte GmbH & Co. KG Renditefonds,18.4,Wind,2005
+684,Windpark Neuenkirchen,ENERCON Windpark GmbH & Co. Tornado KG,10.8,Wind,2002
+685,,Windpark Gehrde GmbH & Co. KG,7.2,Wind,2002
+686,KWK Neumarkt,Pfleiderer Neumarkt GmbH,15.6,Biomass,1997
+687,Heizkraftwerk NMS,SWN Stadtwerke Neumünster GmbH,53.6,Other,1974
+688,Neuötting,VERBUND-Innkraftwerke GmbH,26.1,Hydro,1951
+689,Neurath,RWE Power AG,294.0,Coal,1972
+690,Neurath,RWE Power AG,294.0,Coal,1972
+691,Neurath,RWE Power AG,292.0,Coal,1973
+692,Neurath,RWE Power AG,607.0,Coal,1975
+693,Neurath,RWE Power AG,604.0,Coal,1976
+694,Cogeneration,Bayernoil Raffineriegesellschaft mbH,25.4,Gas,1996
+695,,,15.6,Wind,1999
+696,,,11.7,Wind,1999
+697,Niederaußem,RWE Power AG,297.0,Coal,1968
+698,Niederaußem,RWE Power AG,299.0,Coal,1971
+699,Niederaußem,RWE Power AG,648.0,Coal,1974
+700,Niederaußem,RWE Power AG,628.0,Coal,1974
+701,Niederaußem,RWE Power AG,944.0,Coal,2002
+702,Niederaußem,RWE Power AG,125.0,Coal,1963
+703,Niederaußem,RWE Power AG,125.0,Coal,1963
+704,Niederaußem,RWE Power AG,295.0,Coal,1965
+705,Niederaußem,RWE Power AG,295.0,Coal,1970
+706,Fortuna Nord,RWE Power AG,15.0,Coal,1939
+707,Lehmen,innogy SE,20.0,Hydro,1962
+708,Windpark Niederkirchen,pfalzwind GmbH,20.0,Wind,2000
+709,,,24.0,Wind,1998
+710,,,22.5,Wind,1998
+711,,,13.5,Wind,1999
+712,Windpark Vogelsberg,Theolia Naturenergien GmbH,19.5,Wind,2006
+713,Niederwartha,Vattenfall Wasserkraft GmbH,39.8,Hydro,1958
+714,Niederwartha,Vattenfall Wasserkraft GmbH,,Hydro,1958
+715,Windpark Nielebock,Breeze Three Energy GmbH & Co. KG,12.0,Wind,2003
+716,,,10.0,Wind,2004
+717,,,18.0,Wind,2001
+718,,Windpark Norderland GmbH & Co. KG,44.5,Wind,1993
+719,,,14.7,Wind,1995
+720,,ENERGIEKONTOR Windkraft GmbH & Co.,23.9,Wind,1998
+721,Alpha Ventus,EWE ERNEUERBARE ENERGIEN GmbH,60.0,Wind,2010
+722,,NeNo GmbH ,13.8,Wind,2010
+723,,Betreibergemeinschaft Windpark Vettweiß/Nörvenich/Erp,12.6,Wind,2002
+724,,Umspannwerk Heynitz GmbH,20.25,Wind,2002
+725,Thyrow,Lausitz Energie Kraftwerke AG,37.5,Gas,1989
+726,Thyrow,Lausitz Energie Kraftwerke AG,37.5,Gas,
+727,Thyrow,Lausitz Energie Kraftwerke AG,37.5,Gas,
+728,Thyrow,Lausitz Energie Kraftwerke AG,37.5,Gas,
+729,Thyrow,Lausitz Energie Kraftwerke AG,36.5,Gas,1987
+730,Thyrow,Lausitz Energie Kraftwerke AG,36.5,Gas,1987
+731,Thyrow,Lausitz Energie Kraftwerke AG,36.5,Gas,1987
+732,Thyrow,Lausitz Energie Kraftwerke AG,36.5,Gas,1987
+733,HKW Sandreuth,N-ERGIE AG,75.0,Gas,2005
+734,HKW Sandreuth,N-ERGIE AG,75.0,Gas,2005
+735,Franken 1,Uniper Kraftwerke GmbH ,383.0,Gas,1973
+736,Franken 1,Uniper Kraftwerke GmbH ,440.0,Gas,1976
+737,HKW Sandreuth,N-ERGIE AG,18.0,Waste,1996
+738,Nußdorf,Innwerk AG,48.0,Hydro,1982
+739,Oberaudorf-Ebbs,Innwerk AG,60.0,Hydro,1992
+740,,,12.0,Wind,2002
+741,GMVA Niederrhein,GMVA Gemeinschafts-Müll-Verbrennungsanlage Niederrhein GmbH,40.4,Waste,1991
+742,GMVA Niederrhein,GMVA Gemeinschafts-Müll-Verbrennungsanlage Niederrhein GmbH,21.1,Waste,2006
+743,HKW 1,Energieversorgung Oberhausen AG,23.1,Gas,1971
+744,HKW 2,Energieversorgung Oberhausen AG,24.5,Gas,1996
+745,Windpark Lauterburg,Breeze Three Energy GmbH & Co. KG,10.0,Wind,2006
+746,Obernburg,Kraftwerk Obernburg GmbH,40.0,Gas,1920
+747,Obernburg,Kraftwerk Obernburg GmbH,60.0,Gas,1995
+748,,,16.5,Wind,2000
+749,Heizkraftwerk Offenbach,Energieversorgung Offenbach AG,54.0,Coal,1990
+750,Itzehoe,Uniper Kraftwerke GmbH ,88.0,Oil,1972
+751,,Windpark Oldenswort Moordeich GmbH & Co.KG,12.0,Wind,2001
+752,WP Naundorf I,e.disnatur Erneuerbare Energien GmbH,14.0,Wind,2004
+753,,,12.3,Wind,2009
+754,,,11.0,Wind,1999
+755,Windpark Krevese,Windpark Krevese Verwaltungsgesellschaft mbH,30.0,Wind,2002
+756,,Windpark Osterrade GmbH ,12.25,Wind,2001
+757,Audorf,Uniper Kraftwerke GmbH ,87.0,Oil,1973
+758,,Windkonzept - Energieanlagen GmbH & Co. KG,22.4,Wind,2002
+759,,N.prior energy GmbH,18.0,Wind,1999
+760,Baltic 1,EnBW Baltic 1 GmbH & Co. KG,48.3,Wind,2011
+761,,WPO GmbH & Co. Betriebs KG WPM GmbH & Co. Betriebs KG,22.85,Wind,2001
+762,,Dezentrale Energie Anlagen Beteiligungs-und Verwaltungsgesellschaft mbH,10.0,Wind,2001
+763,,,16.96,Wind,1997
+764,,,12.0,Wind,1995
+765,,,11.15,Wind,1998
+766,Biomasse-HKW,B+S Papenburg Energie GmbH,20.0,Biomass,2003
+767,Windpark Lüdersdorf Parstein,HelveticWind Deutschland GmbH,22.5,Wind,2004
+768,Kopswerk I ,EnBW Energie Baden-Württemberg AG,247.0,Hydro,1969
+769,Kopswerk II ,EnBW Energie Baden-Württemberg AG,525.0,Hydro,2008
+770,Obervermuntwerk 1,EnBW Energie Baden-Württemberg AG,29.0,Hydro,1943
+771,Vermuntwerk,EnBW Energie Baden-Württemberg AG,158.0,Hydro,1930
+772,ÜST Ruhleben,ENERTRAG Aktiengesellschaft,29.1,Wind,2000
+773,Kachlet,Rhein-Main-Donau GmbH,53.7,Hydro,1927
+774,Passau-Ingling,Innwerk AG,86.4,Hydro,1965
+775,KW Jänschwalde,Lausitz Energie Kraftwerke AG,465.0,Coal,1981
+776,KW Jänschwalde,Lausitz Energie Kraftwerke AG,465.0,Coal,1982
+777,KW Jänschwalde,Lausitz Energie Kraftwerke AG,465.0,Coal,1984
+778,KW Jänschwalde,Lausitz Energie Kraftwerke AG,465.0,Coal,1985
+779,KW Jänschwalde,Lausitz Energie Kraftwerke AG,465.0,Coal,1987
+780,KW Jänschwalde,Lausitz Energie Kraftwerke AG,465.0,Coal,1989
+781,,Acciona Energie Windparks Deutschland GmbH,10.5,Wind,2005
+782,Perach,VERBUND-Innkraftwerke GmbH,19.4,Hydro,1977
+783,Heyden,Uniper Kraftwerke GmbH ,875.0,Coal,1987
+784,,Windkraft Unger GmbH,18009.0,Wind,2007
+785,Geisling,Rhein-Main-Donau GmbH,25.0,Hydro,1985
+786,Heizkraftwerk Pforzheim GmbH,Heizkraftwerk Pforzheim GmbH,12.3,Biomass,2004
+787,Heizkraftwerk Pforzheim GmbH,Heizkraftwerk Pforzheim GmbH,11.3,Gas,
+788,Heizkraftwerk Pforzheim GmbH,Heizkraftwerk Pforzheim GmbH,41.2,Gas,1980
+789,Heizkraftwerk Pforzheim GmbH,Heizkraftwerk Pforzheim GmbH,26.9,Coal,1990
+790,Kernkraftwerk Philippsburg 2,EnBW Energie Baden-Württemberg AG,1402.0,Nuclear,1985
+791,Hattorf,K+S AG,52.0,Gas,2013
+792,Kraftwerk Plattling,Kraftwerk Platting GmbH,118.5,Gas,2010
+793,Windpark Plauerhagen,MVV Energie AG,16.0,Wind,2010
+794,,Solarpark Pocking 2 GmbH,12052.0,Solar,2009
+795,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,62.0,Wind,2004
+796,Kraftwerk Veltheim,Uniper Kraftwerke GmbH ,65.0,Gas,1974
+797,Kraftwerk Veltheim,Uniper Kraftwerke GmbH ,335.0,Gas,1975
+798,Kraftwerk Veltheim,Gemeinschaftskraftwerk Veltheim GmbH,93.0,Coal,1965
+799,Kraftwerk Veltheim,Uniper Kraftwerke GmbH ,303.0,Coal,1970
+800,HKW Potsdam-Süd,Energie und Wasser Potsdam GmbH,81.8,Gas,1996
+801,,,11.5,Wind,2000
+802,KW Kaunertal,TIWAG-Tiroler Wasserkraft AG,392.0,Hydro,1964
+803,,WKN Windkraft Nord GmbH & Co. Windpark Puls KG,16.5,Wind,1999
+804,,SCE Wind Puschwitz GmbH & Co. KG,20.0,Wind,2001
+805,,N.prior energy GmbH,18.0,Wind,1999
+806,Weiher,Steag GmbH,655.6,Coal,1976
+807,Umspannwerk Raguhn GmbH,ENERTRAG Aktiengesellschaft,52.9,Wind,
+808,,WKN Windkraft Nord GmbH & Co. BWP Rantrum KG,9.9,Wind,1998
+809,SWM Wind Havelland GmbH & Co. KG,Stadtwerke München GmbH,171.0,Wind,2009
+810,,Windpark Wetzdorf GmbH & Co.KG c/o Deutsche Structured Finance GmbH,21.0,Wind,2003
+811,Rheinkraftwerk Reckingen,EnBW Energie Baden-Württemberg AG,19.0,Hydro,1942
+812,BMHKW-RE Recklinghausen,Ökotech Ingenieurgesellschaft mbh,15.0,Biomass,2004
+813,Windpark Loccum/Wasserstraße,Loccumer Windparksbetriebsgesellschaft mbH,13.8,Wind,2002
+814,,Windpark Reher II GmbH & Co. KG ,16.0,Wind,2005
+815,,Trassengesellschaft Reinsbüttel GmbH & Co. KG,25.0,Wind,2009
+816,,Solarkraftwerk Rentweinsdorf GmbH & Co. KG,12585.0,Solar,2010
+817,BHKW-Hauffstraße,FairEnergie GmbH,9.84,Gas,2011
+818,Solvay Kraftwerk Rheinberg,Solvay Chemicals GmbH,79.0,Coal,1961
+819,KW Rheinfelden,Energiedienst AG,46.7,Hydro,2010
+820,,Windfarm Ringstedt II GmbH,10.0,Wind,2007
+821,,,28.0,Wind,2006
+822,,,36.6,Wind,2003
+823,Rosenheim,VERBUND-Innkraftwerke GmbH,35.1,Hydro,1960
+824,Rosendahl,Mergen GmbH & Co. KG Windpark Rosendahl,10.8,Wind,2007
+825,Gasmotore,Stadtwerke Rosenheim GmbH & Co. KG,9.81,Gas,2011
+826,Gasmotor 4,Stadtwerke Rosenheim GmbH & Co. KG,9.2,Gas,2013
+827,Gasmotor 5,Stadtwerke Rosenheim GmbH & Co. KG,4.3,Gas,2012
+828,"MHKW, WKW",Stadtwerke Rosenheim GmbH & Co. KG,9.0,Waste,1988
+829,,SCE Wind Zernitz GmbH & Co. KG,14175.0,Wind,2003
+830,Roßhaupten,Uniper Kraftwerke GmbH ,45.5,Hydro,1954
+831,GuD Marienehe,Stadtwerke Rostock AG,108.0,Gas,1996
+832,KNG Kraftwerk Rostock,EnBW Energie Baden-Württemberg AG,514.0,Coal,1994
+833,Windpark Elsdorf II,Windfarm Elsdorf II GmbH,18.4,Wind,2008
+834,,KOLBA Grundstücksgesellschaft mbH & Co. KG Windpark Eifel GmbH & Co. KG,35.0,Wind,2005
+835,Rothenburg KG,,20493.0,Solar,2009
+836,Feldkirchen,VERBUND-Innkraftwerke GmbH,38.2,Hydro,1970
+837,IKW Rüdersdorf,Steag GmbH,30.0,Waste,2009
+838,HKW Schwarza,TWS Thüringer Wärme Service GmbH,26.5,Gas,1936
+839,GuD-Anlage Rüsselsheim,Opel Automobile GmbH ,112.1,Gas,1999
+840,,Denker & Wulf AG ,15.0,Wind,2000
+841,Rheinkraftwerk Ryburg-Schwörstadt ,EnBW Energie Baden-Württemberg AG,30.0,Hydro,1930
+842,,Mercer Timber Products GmbH,12.8,Biomass,2009
+843,HKW Römerbrücke,Energie SaarLorLux AG,75.0,Gas,2005
+844,HKW Römerbrücke,Energie SaarLorLux AG,50.0,Coal,1988
+845,Sallgast,ERG Power Generation S.p.A.,26.0,Wind,2003
+846,Kraftwerk Salzgitter,Salzgitter Flachstahl GmbH,94.5,Other,1939
+847,Kraftwerk Salzgitter,Salzgitter Flachstahl GmbH,97.0,Other,2010
+848,Kraftwerk Salzgitter,Salzgitter Flachstahl GmbH,97.0,Other,2010
+849,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,21.0,Wind,2009
+850,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,19.8,Wind,2002
+851,,Salzhemmendorf Wind GmbH & Co. KG,10.0,Wind,2006
+852,,Windpark Sande GmbH & Co KG; Gemeinde Sande,10.6,Wind,1999
+853,,Energiewind Scharrel GmbH & Co. KG,14.0,Wind,2005
+854,,Kabeltrassen- und Infrastruktur GmbH & Co. Sellstedt/Nückel,14.0,Wind,2005
+855,,,4.0,Wind,2007
+856,WP Schinne I,Windpark GmbH & Co. Schinne I KG,10.0,Wind,2007
+857,WP Schinne IV,Windpark GmbH & Co. Schinne IV KG,10.0,Wind,2007
+858,WP Schinne III,Windpark GmbH & Co. Schinne III KG,10.0,Wind,2008
+859,WP Schinne V,Windpark GmbH & Co. Schinne V KG,10.0,Wind,2009
+860,WP Schinne II,Windpark GmbH & Co. Schinne II KG,10.0,Wind,2008
+861,Schkopau,Uniper Kraftwerke GmbH ,450.0,Coal,1996
+862,Schkopau,Uniper Kraftwerke GmbH ,450.0,Coal,1996
+863,Detzem,innogy SE,24.0,Hydro,1962
+864,,Betreibergemeinschaft Windpark Schleiden ABO Wind Betriebs GmbH,25517.0,Wind,2000
+865,Bleiloch,Vattenfall Wasserkraft GmbH,79.8,Hydro,1932
+866,Bleiloch,Vattenfall Wasserkraft GmbH,,Hydro,1932
+867,,Erzeugergemeinschaft Schloßvippach GbR,12.0,Wind,2006
+868,Windpark Schlüchtern,HSE Windpark Schlüchtern GmbH & Co. KG,27.68,Wind,2010
+869,Windpark Schönewalde,,27.2,Wind,2005
+870,WP Schlalach,Windpark GmbH & Co. Schlalach KG,51.3,Wind,2010
+871,WP Feldheim,Windpark GmbH & Co. Feldheim KG,20.0,Wind,2006
+872,Windpark Heidehof,Windpark Jänickendorfer Heide GmbH & Co. KG,62.0,Wind,2006
+873,Windpark Altes Lager,Windpark Altes Lager GmbH & Co. KG,36.0,Wind,2009
+874,WP Jänickendorf,Windpark GmbH & Co. Jänickendorf KG,18.4,Wind,2013
+875,Windpark Heidehof II,LHI Green Infrastructure Solar Deutschland I GmbH & Co. KG,18.4,Wind,2012
+876,,Difko Schönhagen ,20.0,Wind,2004
+877,,Windpark Badeleben ApS & Co. OHG,10.0,Wind,2005
+878,,,11.0,Wind,2001
+879,,NSG Netzanschluß Schuby GmbH ,18.0,Wind,2001
+880,,Winkra Krokhorst Windparkbetriebsgesellschaft mbH,10.8,Wind,2002
+881,GuD Schwarzheide,BASF Schwarzheide GmbH,122.0,Gas,1994
+882,IKS PCK Schwedt,PCK Raffinerie GmbH,28.0,Oil,1972
+883,IKS PCK Schwedt,PCK Raffinerie GmbH,34.5,Oil,1994
+884,IKS PCK Schwedt,PCK Raffinerie GmbH,106.0,Oil,1998
+885,IKS PCK Schwedt,PCK Raffinerie GmbH,106.0,Oil,1998
+886,IKS PCK Schwedt,PCK Raffinerie GmbH,59.0,Oil,2011
+887,GKS,GKS Gemeinschaftskraftwerk Schweinfurt GmbH,24.4,Waste,1990
+888,HKW Schwerin Süd,Energieversorgung Schwerin GmbH & Co. Erzeugung KG,44.9,Gas,1994
+889,HKW Schwerin Lankow,Energieversorgung Schwerin GmbH & Co. Erzeugung KG,23.0,Gas,1994
+890,,,12.0,Wind,2009
+891,,NEIF (Sehnde Lehrte Windpark) GmbH & Co. KG,10.0,Wind,2005
+892,Windpark Sendenhorst,HelveticWind Deutschland GmbH,14.5,Wind,2006
+893,WP Sendenhorst,Windpark Sendenhorst GmbH & Co. KG,14.3,Wind,2007
+894,,PAM Infra 456 GmbH & Co. KG,13.23,Solar,2010
+895,PVA Senftenberg,saferay holding GmbH,17.9,Solar,2011
+896,PVA Senftenberg,saferay holding GmbH,17.36,Solar,2011
+897,PVA Senftenberg,saferay holding GmbH,23.0,Solar,2011
+898,,Lockstedt-Siestedt II Netzanschluss GbR,22.0,Wind,2007
+899,,,14.57,Wind,1995
+900,,Windpark Silmersdorf GmbH & Co KG,22.5,Wind,2005
+901,KW Silz,TIWAG-Tiroler Wasserkraft AG,500.0,Hydro,1981
+902,WP Strauch-Michelshof,Enercon Windpark GmbH & Co. Strauch-Michelshof KG,14.0,Wind,2004
+903,,Breeze Two Energy GmbH & Co. KG,28.0,Wind,2006
+904,,WSW Energie GmbH,22.9,Wind,2008
+905,,ProVento Pool  Verwaltungs-GmbH & Co. KG,11.5,Wind,2001
+906,,,18.0,Wind,1999
+907,Teufelsbruck,VERBUND-Innkraftwerke GmbH,25.0,Hydro,1938
+908,GuD Anlage Spreetal,Alpiq Spreetal GmbH,50.0,Gas,
+909,Schwarze Pumpe,Lausitz Energie Kraftwerke AG,750.0,Coal,1997
+910,Schwarze Pumpe,Lausitz Energie Kraftwerke AG,750.0,Coal,1998
+911,,Windpark Springe Bennigsen GmbH & Co.KG,10.0,Wind,2009
+912,Schärding-Neuhaus,Innwerk AG,96.0,Hydro,1961
+913,Dow Stade,Dow Deutschland Anlagengesellschaft mbH,190.0,Gas,
+914,Dow Stade,Dow Deutschland Anlagengesellschaft mbH,157.0,Gas,2015
+915,,Abrechnungsgemeinschaft Windpark Rodenkircherwurp GbR,11.3,Wind,2000
+916,Stammham,VERBUND-Innkraftwerke GmbH,23.2,Hydro,1955
+917,GuD-Ikw Staßfurt,CIECH Energy Deutschland GmbH,100.0,Gas,2015
+918,GuD-Ikw Staßfurt,CIECH Energy Deutschland GmbH,9.0,Gas,
+919,,,17.0,Wind,2000
+920,,,13.86,Wind,2002
+921,Heizkraftwerk der Sappi Stockstadt GmbH,Sappi Stockstadt GmbH,13.9934,Biomass,2003
+922,Heizkraftwerk der Sappi Stockstadt GmbH,Sappi Stockstadt GmbH,24.79,Coal,1970
+923,,PROKON Regenerative Energien eG,14.3,Wind,2001
+924,Solarpark Gänsdorf,Umspannwerk Straßkirchen GmbH & Co. KG,54.34,Solar,2009
+925,Straubing,Rhein-Main-Donau GmbH,21.5,Hydro,1994
+926,,,10.0,Wind,2004
+927,,Siekwind GmbH & Co. KG; WP Windpark Stuhr GmbH & Co. Betriebs KG,10.1,Wind,2002
+928,Heizkraftwerk Stuttgart-Gaisburg,EnBW Energie Baden-Württemberg AG,55.0,Gas,
+929,Heizkraftwerk Stuttgart-Gaisburg,EnBW Energie Baden-Württemberg AG,22.6,Coal,2009
+930,Restmüll-Heizkraftwerk Stuttgart-Münster,EnBW Energie Baden-Württemberg AG,45.0,Coal,1982
+931,Restmüll-Heizkraftwerk Stuttgart-Münster,EnBW Energie Baden-Württemberg AG,45.0,Coal,1984
+932,Restmüll-Heizkraftwerk Stuttgart-Münster,EnBW Energie Baden-Württemberg AG,23.3,Oil,1974
+933,Restmüll-Heizkraftwerk Stuttgart-Münster,EnBW Energie Baden-Württemberg AG,23.3,Oil,1974
+934,Restmüll-Heizkraftwerk Stuttgart-Münster,EnBW Energie Baden-Württemberg AG,19.5,Waste,2009
+935,Restmüll-Heizkraftwerk Stuttgart-Münster,EnBW Energie Baden-Württemberg AG,23.3,Oil,1974
+936,,,21.8,Wind,2005
+937,,,10.0,Wind,2009
+938,,WindStrom GmbH & Co. Windpark Okeler Bruch Infrastruktur KG,11.5,Wind,2005
+939,,e.n.o. energy finance GmbH & Co. KG,25.3,Wind,2006
+940,,,3.8,Wind,2002
+941,,Windpark Enercon GmbH & Co. Windnutzung II KG,9.0,Wind,2002
+942,Kraftwerksgruppe Pfreimd,ENGIE Deutschland AG,28.0,Hydro,1958
+943,Kraftwerksgruppe Pfreimd,ENGIE Deutschland AG,3.3,Hydro,1955
+944,Kraftwerksgruppe Pfreimd,ENGIE Deutschland AG,1.8,Hydro,1952
+945,,Rowind GmbH,25.5,Wind,2004
+946,,Windpark Beppen II- Intschede Netz GbR; Windstrom GmbH & Co. Windfeld Beppener Bruch Infrastruktur KG,35.3,Wind,2003
+947,,,13982.0,Wind,2001
+948,Töging,VERBUND-Innkraftwerke GmbH,85.3,Hydro,1924
+949,,,62.0,Wind,1999
+950,,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,63.45,Wind,2006
+951,Kraftwerksgruppe Pfreimd,ENGIE Deutschland AG,99.0,Hydro,1955
+952,Lünerseewerk,EnBW Energie Baden-Württemberg AG,238.0,Hydro,1957
+953,BHKW Obere Viehweide,Stadtwerke Tübingen GmbH,13.4,Gas,2000
+954,,Solar Power Turnow GmbH & Co. KG,34.8,Solar,2009
+955,"Solar Power Turnow West I GmbH & Co. KG,  Solar Power Turnow West II GmbH & Co. KG",STAWAG Energie GmbH,18.0,Solar,2009
+956,Tutow Solarpark 1 FF,Solarpark Tutow I GmbH,6.78,Solar,2009
+957,Solarpark Tutow V GmbH & Co. KG,Solarpark Tutow V GmbH & Co. KG,19.3,Solar,2011
+958,Tutow Solarpark 2 FF Infrastruktur,Solarpark Tutow II GmbH & Co. KG,25.5,Solar,2010
+959,WP Twist,Enercon Windpark GmbH & Co. Twist KG,14.4,Wind,2004
+960,,ewz Windpark Dörmte GmbH c/o Deutsche Immobilien Leasing,16.5,Wind,2006
+961,,,18.1,Wind,2001
+962,,HESSEN WIND II GMBH & CO.KG,10.3,Wind,1996
+963,,HESSENENERGIE GMBH,10.0,Wind,2000
+964,Nord 1,SWM Services GmbH,18.0,Waste,1991
+965,Nord 2,SWM Services GmbH,332.7,Coal,1991
+966,Nord 3,SWM Services GmbH,22.0,Waste,1984
+967,UW Osterweddingen,ENERTRAG Aktiengesellschaft,75.0,Wind,2005
+968,Leitzach 1,Stadtwerke München GmbH,48.0,Hydro,1983
+969,Leitzach 2,Stadtwerke München GmbH,44.0,Hydro,1960
+970,Rodundwerk I,EnBW Energie Baden-Württemberg AG,198.0,Hydro,1943
+971,Rodundwerk II,EnBW Energie Baden-Württemberg AG,295.0,Hydro,2011
+972,,Breeze Two Energy GmbH & Co. KG,10.0,Wind,2006
+973,,UW Eichow GmbH & Co. KG,12.0,Wind,2006
+974,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1962
+975,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1962
+976,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1963
+977,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1963
+978,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1963
+979,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1964
+980,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1964
+981,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1963
+982,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1964
+983,PSW Vianden,Société Electrique de l'Our S.A.,196.0,Hydro,1975
+984,,CHORUS CleanTech GmbH & Co. Solarpark Vilseck KG,10017.0,Solar,2010
+985,KW West,Steag GmbH,318.0,Coal,1971
+986,KW West,Steag GmbH,322.0,Coal,1971
+987,KW Voerde,RWE Generation SE,695.0,Coal,1982
+988,KW Voerde,RWE Generation SE,695.0,Coal,1985
+989,Irsching,Uniper Kraftwerke GmbH ,415.0,Oil,1974
+990,Gemeinschaftskraftwerk Irsching ,Gemeinschaftskraftwerk Irsching GmbH,846.0,Gas,2010
+991,Ulrich Hartmann (Irsching),Uniper Kraftwerke GmbH ,561.0,Gas,2011
+992,Vohburg,Donau-Wasserkraft AG,23.3,Hydro,1992
+993,"HKW Fenne, Grubengaskraftwerk",STEAG New Energies GmbH,42.0,Gas,2003
+994,Modellkraftwerk,Steag GmbH,179.0,Coal,1982
+995,Heizkraftwerk,Steag GmbH,211.0,Coal,1989
+996,,Windpark Vollstedt ,15.5,Wind,1997
+997,,Windpark Voltlage-Höckel GbR,10.5,Wind,2006
+998,Wählitz,Mitteldeutsche Braunkohlengesellschaft mbH,31.0,Coal,1994
+999,Kraftwerk Waldshut,Schluchseewerk Aktiengesellschaft,150.0,Hydro,1951
+1000,Kraftwerk Walheim,EnBW Energie Baden-Württemberg AG,136.0,Oil,1981
+1001,Kraftwerk Walheim,EnBW Energie Baden-Württemberg AG,96.0,Coal,1964
+1002,Kraftwerk Walheim,EnBW Energie Baden-Württemberg AG,148.0,Coal,1967
+1003,SKW Gasturbine,Allgäuer Überlandwerk GmbH,24.0,Oil,1988
+1004,SKW Diesel,Allgäuer Überlandwerk GmbH,10.5,Oil,1978
+1005,Uppenborn 1,Stadtwerke München GmbH,25.0,Hydro,1930
+1006,,Bassens Windpark GmbH & Co KG,20.4,Wind,1996
+1007,,Windpark am süßen See Verwaltung GmbH,12.0,Wind,2002
+1008,Windpark Waldhausen,Breeze Three Energy GmbH & Co. KG,14.0,Wind,2006
+1009,Wasserburg,VERBUND-Innkraftwerke GmbH,24.1,Hydro,1938
+1010,Windpark Dardesheim-Druiberg,GENERALRENEWABLES GMBH & CO. KG,66.6,Wind,2004
+1011,Wedel,Vattenfall Hamburg Wärme GmbH,50.5,Oil,1972
+1012,Wedel,Vattenfall Hamburg Wärme GmbH,50.5,Oil,1972
+1013,,Windpark Weener Verwaltungs-GmbH,21.45,Wind,1998
+1014,,Windpark Weenermoor Netzbetriebs-GbR mbH,19.5,Wind,1998
+1015,Wehr,Schluchseewerk Aktiengesellschaft,910.0,Hydro,1975
+1016,MVA Weisweiler,RWE Power AG,27.0,Waste,1996
+1017,Weisweiler,RWE Power AG,123.0,Coal,1955
+1018,Weisweiler,RWE Power AG,135.0,Coal,1959
+1019,Weisweiler,RWE Power AG,200.0,Gas,2006
+1020,Weisweiler,RWE Power AG,200.0,Gas,2006
+1021,Weisweiler,RWE Power AG,321.0,Coal,1965
+1022,Weisweiler,RWE Power AG,321.0,Coal,1967
+1023,Weisweiler,RWE Power AG,663.0,Coal,1974
+1024,Weisweiler,RWE Power AG,656.0,Coal,1975
+1025,,UW Wellen Betreiber GbR c/o Germania Windpark GmbH & Co. KG,15.0,Wind,2002
+1026,,Windpark Ochtmersleben OHG,10.0,Wind,2006
+1027,Wendefurth,Vattenfall Wasserkraft GmbH,79.7,Hydro,1967
+1028,Wendefurth,Vattenfall Wasserkraft GmbH,,Hydro,1968
+1029,,Breeze Two Energy GmbH & Co. KG,18.0,Wind,2007
+1030,,Windpark Niederer Fläming GmbH & Co. KG / c.o. BEC Energie Consult GmbH,16.0,Wind,2006
+1031,Kraftwerk Werdohl-Elverlingsen,Mark-E AG,186.0,Coal,1971
+1032,Kraftwerk Werdohl-Elverlingsen,Mark-E AG,206.0,Oil,1975
+1033,Kraftwerk Werdohl-Elverlingsen,Mark-E AG,310.0,Coal,1982
+1034,,WP Wergzahna GmbH & Co. KG,10.6,Wind,2009
+1035,Gersteinwerk,RWE Generation SE,55.0,Gas,1973
+1036,Gersteinwerk,RWE Generation SE,55.0,Gas,1973
+1037,Gersteinwerk,RWE Generation SE,55.0,Gas,1973
+1038,Gersteinwerk,RWE Generation SE,55.0,Gas,1973
+1039,Gersteinwerk,RWE Generation SE,355.0,Gas,1973
+1040,Gersteinwerk,RWE Generation SE,355.0,Gas,1973
+1041,Gersteinwerk,RWE Generation SE,355.0,Gas,1973
+1042,Gersteinwerk,RWE Generation SE,614.0,Coal,1984
+1043,Gersteinwerk,RWE Generation SE,112.0,Gas,1984
+1044,Windpark Wertheim,Breeze Three Energy GmbH & Co. KG,10.5,Wind,2002
+1045,,,42.0,Wind,2002
+1046,,,16.2,Wind,2001
+1047,,Windpark Norderland Verwaltgungs- und Beteiligungs GmbH,49.5,Wind,1997
+1048,,K/S Hydrovind VI,20.0,Wind,2007
+1049,,Bürger-Windpark Wiemersdorf GmbH,17.5,Wind,2010
+1050,,Windpark Wiemersdorf GmbH & Co. KG ,12.3,Wind,2001
+1051,Wi-Biebrich,InfraServ GmbH & Co. Wiesbaden KG,6.7,Biomass,2003
+1052,Wi-Biebrich,InfraServ GmbH & Co. Wiesbaden KG,25015.0,Gas,2006
+1053,,DIF Windpark Wiesmoor GmbH & Co. KG,19.8,Wind,2000
+1054,,,18.6,Wind,2003
+1055,,EBV WP Düngstrup GmbH & Co. Betriebs KG,10.4,Wind,2000
+1056,Wilhelmshaven,Uniper Kraftwerke GmbH ,56.0,Oil,1973
+1057,Wilhelmshaven,Uniper Kraftwerke GmbH ,757.0,Coal,1976
+1058,,Abrechnungsstelle Windpark Willenscharen-Brokstedt GBR,13.2,Wind,1999
+1059,,e.n.o. Windpark GmbH & Co. Wilmersdorf KG,13.5,Wind,2003
+1060,,Windpark Wilstedt GmbH & Co. KG,18.0,Wind,2009
+1061,,Eigentümergemeinschaft 4. Volkswind GmbH & Co. KG und Spradau Wind Betriebs GmbH & Co. KG,13.8,Wind,2006
+1062,Wintrich,innogy SE,20.0,Hydro,1965
+1063,,,14.0,Wind,2005
+1064,,,12.5,Wind,1999
+1065,,,12.0,Wind,2005
+1066,,,10.0,Wind,2005
+1067,Witznau,Schluchseewerk Aktiengesellschaft,220.0,Hydro,1943
+1068,,,10.0,Wind,2007
+1069,,WKN Windkraft Nord GmbH & Co. Windpark Wöhrden I KG; WKN Windkraft Nord GmbH & Co. Windpark Wöhrden II KG ,8.9,Wind,1999
+1070,Spitzenlastkraftwerk Wolfen,envia THERM GmbH,40.0,Gas,1997
+1071,HKW Nord,Volkswagen AG,61.5,Coal,2000
+1072,HKW Nord,Volkswagen AG,61.5,Coal,2000
+1073,HKW West,Volkswagen AG,138.5,Coal,1985
+1074,HKW West,Volkswagen AG,138.5,Coal,1985
+1075,Windpark Wörrstadt-Ost,New Breeze GmbH & Co. Wind Wörrstadt KG,11.5,Wind,2011
+1076,New Breeze GmbH & Co. Wind Wörrstadt KG,New Breeze GmbH & Co. Wind Wörrstadt KG,15.7,Wind,2009
+1077,HKW Wörth,Palm Power GmbH & Co. KG,59.0,Gas,2007
+1078,,Windkraftwerk Wremen GmbH & Co. KG; Energiekontor Windkraft GmbH & Co. WP Wremen-Grauwallkan. KG,22.0,Wind,1994
+1079,PVA Wülknitz,saferay holding GmbH,11.2,Solar,2010
+1080,,Netzbetrieb Windpark Wülknitz GbR,10.2,Wind,2001
+1081,HKW Barmen,WSW Energie & Wasser AG,88019.0,Gas,2005
+1082,Spitzenlastanlage Barmen,WSW Energie & Wasser AG,60.0,Oil,2008
+1083,HKW Elberfeld ,WSW Energie & Wasser AG,85.0,Coal,1992
+1084,Heizkraftwerke an der Friedensbrücke,Heizkraftwerk Würzburg GmbH,23.0,Gas,1971
+1085,Heizkraftwerke an der Friedensbrücke,Heizkraftwerk Würzburg GmbH,25.0,Gas,1993
+1086,Heizkraftwerke an der Friedensbrücke,Heizkraftwerk Würzburg GmbH,29.5,Gas,2009
+1087,Heizkraftwerke an der Friedensbrücke,Heizkraftwerk Würzburg GmbH,44.5,Gas,2005
+1088,Zielitz,K+S AG,27.0,Gas,1996
+1089,Kladrum,Breeze Four Energy GmbH & Co. KG,13.8,Wind,1998
+1090,Zolling,ENGIE Deutschland AG,18.3,Biomass,2003
+1091,Zolling,ENGIE Deutschland AG,50.0,Oil,1976
+1092,Zolling,ENGIE Deutschland AG,472.0,Coal,1985
+1093,Gaskraftwerk,Smurfit Kappa Zülpich Papier GmbH,15.1,Gas,1996
+1094,Kohlekraftwerk,Smurfit Kappa Zülpich Papier GmbH,19.5,Coal,2010
+1095,Weserkraftwerk Bremen,Weserkraftwerk Bremen GmbH & Co. KG,9.9,Hydro,2011
+1096,11 Windkraftanlagen,Breloh Windenergie GmbH und Co. KG,25.3,Wind,2011
+1097,Windpark Alterkülz-Spesenroth,ENGIE WP Portfolio 2 GmbH,14.0,Wind,2008
+1098,ÜST Anklam,ENERTRAG Aktiengesellschaft,11.6,Wind,1999
+1099,Bigge,Bigge Energie GmbH & Co. KG,15.0,Hydro,1965
+1100,UPM Augsburg,UPM GmbH Werk Augsburg,29.0,Gas,1967
+1101,Heizkraftwerk,Stadtwerke Augsburg Energie GmbH,20.4,Gas,1976
+1102,HKW Bad Salzungen,TEAG Thüringer Energie AG,9.7,Gas,1994
+1103,Beeskow – Hufenfeld,Breeze Four Energy GmbH & Co. KG,14.0,Wind,2003
+1104,Bergholz,Breeze Four Energy GmbH & Co. KG,12.0,Wind,1999
+1105,PD energy GmbH,PD energy GmbH,9.9,Waste,2010
+1106,UW Raguhn,ENERTRAG Aktiengesellschaft,16.9,Wind,2005
+1107,Restmüllheizkraftwerk Böblingen,Zweckverband Restmüllheizkraftwerk Böblingen,9.5,Waste,1999
+1108,UW Roitzsch,ENERTRAG Aktiengesellschaft,21.7,Wind,2003
+1109,MHKW,swb Entsorgung GmbH & Co. KG,44.0,Waste,2012
+1110,Gichtgaskraftwerk Dillingen,"Aktien-Gesellschaft der Dillinger Hüttenwerke, ROGESA Roheisengesellschaft Saar mbH und Zentralkokerei Saar GmbH, als Bruchteilsgemeinschaft",85.0,Other,2010
+1111,BEG,Bremerhavener Entsorgungsgesellschaft mbH,14.0,Waste,1977
+1112,Industriekraftwerk Breuberg,Pirelli Deutschland GmbH,11.4,Gas,1999
+1113,Dessau,Uniper Kraftwerke GmbH ,10.3,Hydro,1967
+1114,MHKW Burgkirchen,Zweckverband Abfallverwertung Südostbayern,12.5,Waste,1994
+1115,Energiezentrale,RÜTGERS Germany GmbH,10.2,Gas,1991
+1116,Energiezentrale,RÜTGERS Germany GmbH,0.9,Gas,2005
+1117,Christinendorf,Breeze Four Energy GmbH & Co. KG,14.0,Wind,2009
+1118,Weimar,Windfarm Weimar GmbH & Co. KG,12.0,Wind,2002
+1119,PVA Dallgow-Döberitz,saferay holding GmbH,21.0,Solar,2011
+1120,Heizkraftwerk,Merck KGaA,10.0,Gas,1999
+1121,Dettingen,Kernkraftwerk Obrigheim GmbH,11.0,Hydro,1927
+1122,GHD,GHD Bayernwerk Natur GmbH & Co. KG,6.7,Gas,1997
+1123,GHD,GHD Bayernwerk Natur GmbH & Co. KG,6.7,Gas,1997
+1124,Dingolfing,Uniper Kraftwerke GmbH ,15.0,Hydro,1957
+1125,"MT, Düren",Metsä Tissue GmbH (Werk Düren),14.0,Gas,1940
+1126,WP Edersleben,e.disnatur Erneuerbare Energien GmbH,12.0,Wind,2002
+1127,Eitting,Uniper Kraftwerke GmbH ,26.0,Hydro,1925
+1128,Fankel,innogy SE,16.4,Hydro,1963
+1129,Ellgau,Bayerische Elektrizitätswerke GmbH,9.7,Hydro,1952
+1130,Enkirch,innogy SE,18.4,Hydro,1966
+1131,BHKW an Klinkerweg,Stadtwerke Erkrath GmbH,10.2,Gas,2000
+1132,TREA Breisgau,EEW Energy from Waste Saarbrücken GmbH,13.6,Waste,2005
+1133,Altheim,Uniper Kraftwerke GmbH ,17.8,Hydro,1951
+1134,P&L Werk Euskirchen,Pfeifer & Langen GmbH & Co. KG,14.5,Coal,1979
+1135,WP Frauenhagen,e.disnatur Erneuerbare Energien GmbH,10.4,Wind,2002
+1136,Serrig,innogy SE,12.1,Hydro,1985
+1137,EEW Göppingen,EEW Energy from Waste Göppingen GmbH,11.0,Waste,1975
+1138,Windpark Görike,EnBW Windpark Eisenach II GmbH,10.0,Wind,2010
+1139,Windpark Schenkendöbern,Windfarm Idesheim GmbH & Co. KG,12.0,Wind,2009
+1140,MVA Hamm,MHB Hamm Betriebsführungsgesellschaft mbH,14.6,Waste,1986
+1141,Windpark Haupersweiler,EnBW Onshore Portfolio GmbH,15.0,Wind,2011
+1142,UW Flensburg Wind,ENERTRAG Aktiengesellschaft,26.1,Wind,2008
+1143,KWKK Heidelberg,innogy SE,13.5,Gas,2001
+1144,Schwammenauel,innogy SE,14.0,Hydro,1938
+1145,Heimbach,innogy SE,16.0,Hydro,1905
+1146,RZR Herten I,AGR Abfallentsorgungsgesellschaft Ruhrgebiet mbH,15.5,Waste,1982
+1147,RZR Herten II,AGR Abfallentsorgungsgesellschaft Ruhrgebiet mbH,11.7,Waste,2009
+1148,UW Hettstedt,ENERTRAG Aktiengesellschaft,12.0,Wind,1999
+1149,Höchstädt,Bayerische Elektrizitätswerke GmbH,10.0,Hydro,1982
+1150,Windpark Holzhausen,Stadtwerke München GmbH,12.0,Wind,2008
+1151,Ingolstadt,Donau-Wasserkraft AG,19.8,Hydro,1971
+1152,MVA Ingolstadt,Zweckverband Müllverwertungsanlage Ingolstadt (MVA Ingolstadt),25.5,Waste,1984
+1153,Jabel FF,LHI Solar Deutschland V GmbH & Co. KG,17.3,Solar,2011
+1154,Windpark Jänschwalde,Vattenfall Europe Windkraft GmbH,12.0,Wind,2004
+1155,P&L Werk Jülich,Pfeifer & Langen GmbH & Co. KG,23.22,Coal,2004
+1156,P&L Werk Appeldorn,Pfeifer & Langen GmbH & Co. KG,11.4,Gas,2002
+1157,Abfallentsorgungszentrum Asdonkshof,Kreis Weseler Abfallgesellschaft mbH & Co. KG (KWA),4.8,Oil,1997
+1158,Abfallentsorgungszentrum Asdonkshof,Kreis Weseler Abfallgesellschaft mbH & Co. KG (KWA),16.0,Waste,1997
+1159,Müllheizkraftwerk,Müllheizkraftwerk Kassel GmbH,14.7,Waste,1985
+1160,Kaufering,Uniper Kraftwerke GmbH ,16.7,Hydro,1975
+1161,Windpark Kemberg,,15.0,Wind,2005
+1162,Windpark Kemberg II,EnBW Onshore Portfolio GmbH,10.0,Wind,2012
+1163,WP Ketzin,e.disnatur Erneuerbare Energien GmbH,18.4,Wind,2005
+1164,Windpark Kirchberg,Windpark Kirchberg GmbH & Co. KG,52.9,Wind,2011
+1165,Unteropfingen,EnBW Energie Baden-Württemberg AG,14.5,Hydro,1924
+1166,,Windpark Kittlitz GmbH & Co. KG,10.0,Wind,2006
+1167,Lübbenau,Repower Deutschland GmbH,16.0,Wind,2010
+1168,Solar Schipkau I GmbH & Co. KG,Solar Schipkau I GmbH & Co. KG,12.65,Solar,2011
+1169,Solar Meuro I GmbH & Co. KG,Solar Meuro I GmbH & Co. KG,15.36,Solar,2011
+1170,Solar Schipkau II GmbH & Co. KG,Solar Schipkau II GmbH & Co. KG,16.12,Solar,2011
+1171,Solar Meuro II GmbH & Co. KG,Solar Meuro II GmbH & Co. KG,17.28,Solar,2011
+1172,Koblenz,innogy SE,16.0,Hydro,1951
+1173,HKW Merkenich,RheinEnergie AG,15.5,Gas,2010
+1174,HKW Merheim,RheinEnergie AG,15.8,Gas,2001
+1175,RMVA Köln,AVG Köln mbH,45.1,Waste,1998
+1176,P&L Werk Könnern,Pfeifer & Langen GmbH & Co. KG,20.3,Coal,2014
+1177,MKVA Krefeld,EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG,13.5,Waste,1982
+1178,MKVA Krefeld,EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG,13.8,Waste,2002
+1179,MKVA Krefeld,EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG,1.5,Waste,1976
+1180,MKVA Krefeld,EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG,2.8,Waste,1997
+1181,MKVA Krefeld,EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG,1.5,Waste,1976
+1182,P&L Werk Lage,Pfeifer & Langen GmbH & Co. KG,10.2,Gas,2017
+1183,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,10.8,Wind,2004
+1184,Faimingen,Obere Donau Kraftwerke AG,10.1,Hydro,1965
+1185,Thermische Abfallbehandlung Lauta GmbH & Co. oHG,Steag GmbH,15.7,Waste,2004
+1186,Urspring,Uniper Kraftwerke GmbH ,10.1,Hydro,1966
+1187,Prem,Uniper Kraftwerke GmbH ,19.2,Hydro,1971
+1188,HKW-West,Stadtwerke Lemgo GmbH,12.6,Gas,2001
+1189,RWE Innogy Mistral Windparkbetriebsgesellschaft mbH,innogy SE,11.5,Wind,1997
+1190,WP Losten,e.disnatur Erneuerbare Energien GmbH,11.5,Wind,2004
+1191,BHKW Ludwigshafen,MVV Energie AG,12.5,Gas,2008
+1192,Industriekraftwerk Ludwigshafen,MVV Energie AG,11.96,Gas,2003
+1193,FHKW Ludwigshafen,Technische Werke Ludwigshafen AG,28.0,Waste,1967
+1194,SITA Abfallverwertung GmbH ,SUEZ Energie und Verwertung GmbH,23.0,Waste,2005
+1195,MHKW Mainz,Entsorgungsgesellschaft Mainz mbH,15.6,Waste,2009
+1196,GuD-Kraftwerk,Energie- und Medienversorgung Sandhofer Straße GmbH & Co. KG,17.2,Gas,2005
+1197,,Windkraftwerk Meckel/Gilzem GmbH & Co. KG,11.6,Wind,2009
+1198,Meitingen,Bayerische Elektrizitätswerke GmbH,11.3,Hydro,1922
+1199,Merching,Uniper Kraftwerke GmbH ,12.0,Hydro,1978
+1200,WP Miltzow,e.disnatur Erneuerbare Energien GmbH,14.0,Wind,2013
+1201,DKW Nord,Vereinigte Wertach-Elektrizitätswerke GmbH,11.4,Oil,1988
+1202,Pfrombach,Uniper Kraftwerke GmbH ,22.3,Hydro,1929
+1203,Müden,innogy SE,16.4,Hydro,1965
+1204,Neef,innogy SE,16.4,Hydro,1966
+1205,Niederaichbach,Uniper Kraftwerke GmbH ,16.2,Hydro,1951
+1206,Windpark Illmersdorf,Stadtwerke München GmbH,12.0,Wind,2009
+1207,Gummering,Uniper Kraftwerke GmbH ,14.8,Hydro,1957
+1208,Aufkirchen,Uniper Kraftwerke GmbH ,27.0,Hydro,1924
+1209,Oberpeiching,Bayerische Elektrizitätswerke GmbH,11.9,Hydro,1954
+1210,Müllheizkraftwerk Offenbach,Energieversorgung Offenbach AG,14.5,Waste,1972
+1211,Windpark Oldendorf,EnBW Onshore Portfolio GmbH,12.0,Wind,2010
+1212,UW Langholt,ENERTRAG Aktiengesellschaft,12.0,Wind,1999
+1213,PWG,Peißenberger Wärmegesellschaft mbH,5.3,Gas,1989
+1214,PWG,Peißenberger Wärmegesellschaft mbH,5.3,Gas,1987
+1215,DKW Leinau,Vereinigte Wertach-Elektrizitätswerke GmbH,11.4,Oil,1978
+1216,Landau,Uniper Kraftwerke GmbH ,12.6,Hydro,1984
+1217,MHKW Pirmasens,EEW Energy from Waste Saarbrücken GmbH,15.0,Waste,1999
+1218,Pielweichs,Uniper Kraftwerke GmbH ,12.6,Hydro,1994
+1219,Prettin,Repower Deutschland GmbH,10.0,Wind,2006
+1220,ZWSF,EEW Energy from Waste Premnitz GmbH,2.5,Waste,2004
+1221,EVE,EEW Energy from Waste Premnitz GmbH,14.5,Waste,2009
+1222,Prittriching,Uniper Kraftwerke GmbH ,12.1,Hydro,1984
+1223,Rain,Bayerische Elektrizitätswerke GmbH,10.9,Hydro,1956
+1224,Windpark Lockstedt,Stadtwerke München GmbH,18.0,Wind,2007
+1225,Redekin,Windpark Redekin-Genthin GmbH & Co. KG,22.0,Wind,2009
+1226,Kraftwerk Meggle,Molkerei MEGGLE Wasserburg GmbH & Co. KG,15.1,Gas,2000
+1227,Bertoldsheim,Donau-Wasserkraft AG,18.9,Hydro,1968
+1228,WP Rheine,Rheiner Windpark GmbH & Co. KG,10.45,Wind,2002
+1229,WP Riethnordhausen ,e.disnatur Erneuerbare Energien GmbH,10.0,Wind,2007
+1230,ÜST Röbel,ENERTRAG Aktiengesellschaft,19.2,Wind,1999
+1231,EBS-HKW Rostock,Vattenfall Europe New Energy Ecopower GmbH,17.0,Waste,2009
+1232,AVA Velsen,AVA Velsen GmbH,16.0,Waste,1997
+1233,Schwabstadl,Uniper Kraftwerke GmbH ,12.0,Hydro,1981
+1234,Scheuring,Uniper Kraftwerke GmbH ,12.2,Hydro,1980
+1235,Unterbergen,Uniper Kraftwerke GmbH ,12.3,Hydro,1983
+1236,UPM Schongau,UPM GmbH,64.0,Gas,1954
+1237,HKW3 UPM Schongau,UPM GmbH,76.0,Gas,2014
+1238,UPM Schongau,UPM GmbH,6.0,Other,1989
+1239,UPM Schongau,UPM GmbH,10.5,Hydro,1959
+1240,Dornau,Uniper Kraftwerke GmbH ,16.6,Hydro,1960
+1241,ÜZ-Wind-Schonungen,ÜZ Windpark Schonungen GmbH & Co. KG,11.5,Wind,2011
+1242,WP Schortewitz,e.disnatur Erneuerbare Energien GmbH,15.0,Wind,2004
+1243,Müllkraftwerk Schwandorf,Zweckverband Müllverwertung Schwandorf,54.0,Waste,1982
+1244,Kraftwerk Schwedt GmbH & Co.KG,Kraftwerk Schwedt GmbH & Co. KG,28.9,Waste,2011
+1245,Kraftwerk Leipa Georg Leinfelder GmbH Werk Schwedt Nord,LEIPA Georg Leinfelder GmbH,13.3,Biomass,1993
+1246,Heinersdorf,Breeze Four Energy GmbH & Co. KG,13.5,Wind,2001
+1247,Windpark Schwienau II,EnBW Onshore Portfolio GmbH,10.0,Wind,2009
+1248,Solarpark Amsdorf,GERO Solarpark GmbH,28344.0,Solar,2012
+1249,Heizkraftwerk Sindelfingen,Daimler AG,95.0,Gas,2013
+1250,,EEW Energy from Waste Stapelfeld GmbH,16.4,Waste,1979
+1251,REMONDIS Thermische Abfallverwertung GmbH,REMONDIS Thermische Abfallverwertung GmbH,24.0,Waste,2008
+1252,Mühltal,Uniper Kraftwerke GmbH ,11.2,Hydro,1924
+1253,HKW Bohrhügel,Stadtwerke Suhl/Zella-Mehlis GmbH,13.5,Gas,1995
+1254,Tannheim,EnBW Energie Baden-Württemberg AG,12.3,Hydro,1920
+1255,Solarpark Thüngen,HSE Solarpark Thüngen GmbH & Co. KG,18.7,Solar,2010
+1256,Uppenborn 2,Stadtwerke München GmbH,18.0,Hydro,1951
+1257,Tarnow,Breeze Four Energy GmbH & Co. KG,13.5,Wind,2000
+1258,Trier,innogy SE,18.8,Hydro,1962
+1259,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,12.0,Wind,2007
+1260,Unterbreizbach,K+S AG,20.0,Gas,1995
+1261,Windpark Waigandshain/Homberg,KEVAG - Koblenzer Elektrizitätswerk und Verkehrs-AG,18.0,Wind,2004
+1262,Obernach,Uniper Kraftwerke GmbH ,12.8,Hydro,1955
+1263,Ettling,Uniper Kraftwerke GmbH ,12.6,Hydro,1988
+1264,,,21.0,Gas,
+1265,,,21.0,Gas,
+1266,Windpark Eisenach II,EnBW Windpark Eisenach II GmbH,12.0,Wind,2009
+1267,Welzow II Flughafen,LHI Solar Deutschland VI GmbH & Co. KG,18.6,Solar,2011
+1268,Gasturbine,Basell Polyolefine GmbH,51.9,Gas,1996
+1269,Kraftwerk,Basell Polyolefine GmbH,90.0,Oil,1962
+1270,Solarpark Ammerland II GmbH & Co. KG,Solarpark Ammerland II GmbH & Co. KG,5.76,Solar,2011
+1271,Solarpark Ammerland III GmbH & Co. KG,Solarpark Ammerland III GmbH & Co. KG,6.3,Solar,2011
+1272,Solarpark Ammerland I GmbH & Co. KG,Solarpark Ammerland I GmbH & Co. KG,6.72,Solar,2011
+1273,Co-Generation,Grace GmbH,11.5,Gas,1991
+1274,Sigmundshall,K+S AG,11.0,Gas,1974
+1275,Restabfallbehandlungsanlage,Zweckverband für Abfallwirtschaft Südwestthüringen (ZASt),12.1,Waste,2007
+1276,Zeltingen,innogy SE,13.6,Hydro,1964
+1277,Zerre,GHF Windpark Chüden-Zerre GmbH & Co. KG,10.0,Wind,2002
+1278,AMK - Abfallentsorgungsgesellschaft des Märkischen Kreises mbH,AMK - Abfallentsorgungsgesellschaft des Märkischen Kreises mbH,12.61,Waste,1981
+1279,Windpark Landesbergen-Nord,Windpark GmbH & Co. Weserbrise KG,9.6,Wind,2005
+1280,Windpark Landesbergen-Süd,Windpark GmbH & Co. Weserbrise KG,2.0,Wind,2006
+1281,IHKW Andernach,IHKW Industrieheizkraftwerk Andernach GmbH,12.5,Waste,2008
+1282,IHKW Heidenheim,Sales & Solutions GmbH,18.9,Gas,2014
+1283,Kraftwerk,Martinswerk GmbH,10.0,Coal,1995
+1284,Kraftwerk,Martinswerk GmbH,10.0,Coal,1995
+1285,Kraftwerk,Martinswerk GmbH,3.0,Gas,1995
+1286,Kraftwerk,Martinswerk GmbH,0.8,Oil,1995
+1287,EEV,Nynas GmbH & Co KG ,38.0,Oil,1994
+1288,AVA GmbH,AVA Abfallverwertung Augsburg GmbH,10.0,Waste,1994
+1289,Windpark Bertkow II,Enercon Windpark GmbH & Co. Bertkow II KG,55.1,Wind,2004
+1290,Windpark Bertkow,Enercon Windpark GmbH & Co. Bertkow KG,21.6,Wind,2001
+1291,Windpark Deblinghausen,Enercon Windpark GmbH & Co. Deblinghausen KG,16.2,Wind,2003
+1292,Windpark Anemolter/Steyerberg,Enercon Windpark GmbH & Co. Frische Brise I KG,26.1,Wind,2003
+1293,Windpark Kutenholz I,Enercon Windpark GmbH & Co. Kutenholz KG,12.6,Wind,2003
+1294,Windpark Lammersdorf,Enercon Windpark GmbH & Co. Passat III KG,10.8,Wind,2002
+1295,Windpark Füchtorf,Enercon Windpark GmbH & Co. Passat II KG,16.2,Wind,2002
+1296,Windpark Monschau,Enercon Windpark GmbH & Co. Passat I KG,23.4,Wind,2003
+1297,Windpark Niederndodeleben,Enercon Windpark GmbH & Co. Scirocco I KG,10.8,Wind,2001
+1298,Windpark Stößen II,Enercon Windpark GmbH & Co. Stößen II KG,12.0,Wind,1999
+1299,Windpark Mehring,Enercon Windpark GmbH & Co. Windrose KG,10.0,Wind,2006
+1300,Windpark Lohe,REG Regenerative Energien Standortentwicklung GmbH & Co. Beverstedt KG,18.0,Wind,2007
+1301,Windpark Fiebing,Windpark Fiebing GmbH & Co. KG,10.8,Wind,2003
+1302,Windpark Bröckel-Eicklingen,Windpark GmbH & Co. Bröckel-Eicklingen KG,10.0,Wind,2009
+1303,Windpark Enningerloh,Windpark GmbH & Co. Enningerloh KG,18.0,Wind,2009
+1304,Windpark Jennelt II,Windpark Jennelt II GmbH & Co. KG,10.0,Wind,2007
+1305,Windpark Kutenholz II,Windpark Kutenholz GmbH & Co. KG,16.2,Wind,2004
+1306,Windpark Zwischenbergen,Windpark Zwischenbergen GmbH & Co.  KG,10.0,Wind,2006
+1307,Windpark Märkisch Linden,Windfarm Märkisch Linden GmbH & Co. KG,30.0,Wind,2008
+1308,HKW,Universitätsklinikum Freiburg AdöR,27.0,Gas,2001
+1309,Müllheizkraftwerk,EKOCity GmbH,30.0,Waste,1976
+1310,Windpark Bornstedt-Holdenstedt,Theolia Naturenergien GmbH,13.5,Wind,2007
+1311,Windpark Großvargula,Theolia Naturenergien GmbH,12.0,Wind,2001
+1312,Windpark Kribbe-Premslin,Theolia Naturenergien GmbH,27.0,Wind,2003
+1313,Windpark Mühlanger,Theolia Naturenergien GmbH,14.0,Wind,2007
+1314,Windpark Perleberg,Theolia Naturenergien GmbH,19.8,Wind,2002
+1315,Windpark Wolgast,Theolia Naturenergien GmbH,24.0,Wind,2001
+1316,Windpark Bimolten,Öko Windpark Bimolten GmbH,29.2,Wind,2002
+1317,Windpark Bawöste,Agrowea GmbH & Co. KG,26.0,Wind,2011
+1318,Windpark Lengerich,Öko Windpark Lengerich GmbH,14.4,Wind,2000
+1319,Windpark Esche,Bürgerwindpark Esche Verwaltungsgesellschaft mbH,10.0,Wind,2003
+1320,Energiezentrale 1992,Flughafen München GmbH,9.5,Gas,1992
+1321,Erweiterung Energiezentrale 2003,Terminal 2 Gesellschaft mbH & Co oHG,7.44,Gas,2003
+1322,HBB,HBB Heizkraftwerk Bauernfeind Betreibergesellschaft mbh,24.0,Gas,2001
+1323,K&N PFK AG EV,Kübler & Niethammer Papierfabrik Kriebstein AG,13.11,Gas,1993
+1324,Steinbeis Energie,Steinbeis Energie GmbH,17.0,Waste,2010
+1325,Reno De Medici,R.D.M. Arnsberg GmbH,19.0,Coal,1923
+1326,INEOS Kraftwerk,INEOS Solvents Germany GmbH,24.0,Gas,1995
+1327,HKW Pfaffenwald,Universität Stuttgart,12181.0,Gas,1988
+1328,HKW Pfaffenwald,Universität Stuttgart,11.3377,Gas,1969
+1329,HKW Pfaffenwald,Universität Stuttgart,11.6188,Gas,1968
+1330,KWK-Anlage,CR3-Kaffeeveredelung M. Hermsen GmbH,14.8,Gas,2002
+1331,PKV Kraftwerk,Papier- u. Kartonfabrik Varel GmbH & Co. KG,58.1,Gas,1989
+1332,PKV Kraftwerk,Papier- u. Kartonfabrik Varel GmbH & Co. KG,0.48,Gas,1968
+1333,PKV Kraftwerk,Papier- u. Kartonfabrik Varel GmbH & Co. KG,1.92,Biomass,2006
+1334,Holthausen,Henkel AG & Co. KGaA,84.0,Gas,1948
+1335,Heizkraftwerk,DS Smith Paper Deutschland GmbH,27.0,Gas,
+1336,Blockheizkraftwerk 1,DS Smith Paper Deutschland GmbH,1.1,Biomass,2005
+1337,Blockheizkraftwerk 2,DS Smith Paper Deutschland GmbH,0.8,Biomass,2010
+1338,Notstromdiesel,DS Smith Paper Deutschland GmbH,0.5,Oil,1991
+1339,GuD-Anlage,DS Smith Paper Deutschland GmbH,47.0,Gas,2013
+1340,Spitzenkraftwerk,Eurowatt Spitzenkraft GmbH,19.0,Oil,
+1341,Windpark Walchum,WEA Windpark Walchum Verwaltungsgesellschaft mbH,6.0,Wind,2011
+1342,Windpark Walchum,WEA Windpark Walchum Verwaltungsgesellschaft mbH,6.0,Wind,2011
+1343,Windpark Walchum,WEA Windpark Walchum Verwaltungsgesellschaft mbH,2.3,Wind,2010
+1344,,SILVINO GmbH & Co. KG,21.6,Solar,2009
+1345,,MITAB GmbH & Co. KG,20.4,Solar,2009
+1346,,,15.8,Solar,2010
+1347,,,11.14704,Solar,2010
+1348,,,18.73695,Solar,2010
+1349,,,10.1,Solar,2010
+1350,,,10.9,Solar,2010
+1351,,,23597.0,Solar,2011
+1352,,,15734.0,Solar,2011
+1353,,,15689.0,Solar,2011
+1354,,,13464.0,Solar,2011
+1355,,,12.73116,Solar,2011
+1356,,,12.7,Solar,2010
+1357,,,10171.0,Solar,2011
+1358,,,11.16288,Solar,2011
+1359,,LHI Solar Georgsdorf GmbH & Co. KG,24.7,Solar,2011
+1360,,,23.54858,Solar,2011
+1361,,LHI Solar Prenzlau GmbH & Co. KG,15.7047,Solar,2011
+1362,,STAWAG Energie GmbH,14.9,Solar,2011
+1363,,,14.0624,Solar,2011
+1364,,,13.89696,Solar,2011
+1365,,,13.4,Solar,2011
+1366,,,11.7,Solar,2011
+1367,,,10.6005,Solar,2011
+1368,,,10.28352,Solar,2011
+1369,,,20.0,Solar,2011
+1370,,,12.8,Solar,2011
+1371,,Solarpark Bronkow Luckaitztal GmbH,11425.0,Solar,2012
+1372,,,10.8,Solar,2012
+1373,,,28.34412,Solar,2012
+1374,,,10.7448,Solar,2012
+1375,,,25.55914,Solar,2012
+1376,,Solarpark Elmenhorst GmbH & Co. KG,24.4,Solar,2012
+1377,,,20.9,Solar,2012
+1378,,STAWAG Energie GmbH,19.92192,Solar,2012
+1379,,,18.97884,Solar,2012
+1380,,,18854.0,Solar,2012
+1381,Flugplatz Mahlwinkel,Solarparc AG,18.78336,Solar,2012
+1382,,,17.6,Solar,2012
+1383,,,15.7,Solar,2012
+1384,,,15.37704,Solar,2012
+1385,,,14.903945,Solar,2012
+1386,,,13.6,Solar,2012
+1387,,,12.9,Solar,2012
+1388,,,12.59688,Solar,2012
+1389,,,12.1464,Solar,2012
+1390,,,11.3,Solar,2012
+1391,,,11.23296,Solar,2012
+1392,,,11.06784,Solar,2012
+1393,,,10.59552,Solar,2012
+1394,,,10.5,Solar,2012
+1395,,,10.42186,Solar,2012
+1396,Barth,Solarparc AG,10.3,Solar,2012
+1397,,,22.12467,Solar,2012
+1398,,,16.0,Solar,2012
+1399,,,14.9,Solar,2012
+1400,,,14.5,Solar,2012
+1401,,,14.4,Solar,2012
+1402,EVC / GLOBALFOUNDRIES,Energieversorgungscenter Dresden-Wilschdorf GmbH & Co. KG,34.3,Gas,1998
+1403,O10,Ineos Manufacturing Deutschland GmbH,15.5,Other,1964
+1404,O10,Ineos Manufacturing Deutschland GmbH,19.2,Other,1964
+1405,O10,Ineos Manufacturing Deutschland GmbH,15.5,Other,1963
+1406,O10,Ineos Manufacturing Deutschland GmbH,10.4,Other,1966
+1407,O10,Ineos Manufacturing Deutschland GmbH,33.6,Other,1967
+1408,Energieanlage 3,SWISS KRONO GmbH,18.6,Biomass,2002
+1409,Oxea GmbH,OXEA Produktion GmbH & Co.KG,38.0,Other,1929
+1410,EZ1,"Südzucker AG, Werk Zeitz",23.3,Coal,1993
+1411,EZ1,"Südzucker AG, Werk Zeitz",23.3,Gas,1993
+1412,BoA 2,RWE Power AG,1060.0,Coal,2012
+1413,BoA 3,RWE Power AG,1060.0,Coal,2012
+1414,Heizkraftwerk zur Papierfabrik,Delkeskamp Verpackungswerke GmbH,18.1,Gas,1996
+1415,Steinitz,Neptune Energy Deutschland GmbH,11.4,Gas,1999
+1416,Boxberg,Lausitz Energie Kraftwerke AG,640.0,Coal,2012
+1417,Heizkraftwerk Magirusstraße,Fernwärme Ulm GmbH,20.7,Coal,1992
+1418,BioHKW I,Fernwärme Ulm GmbH,8.7,Biomass,2004
+1419,BioHKW II,Fernwärme Ulm GmbH,4.5,Biomass,2012
+1420,FS-Karton,FS-Karton GmbH,18879.0,Gas,1992
+1421,STW,Schoeller Technocell GmbH & Co. KG,18.72,Gas,1997
+1422,Heizkraftwerk Evonik Rheinfelden,Evonik Degussa GmbH,15.68,Gas,1979
+1423,DK Kraftwerk,DK Recycling und Roheisen GmbH,21.0,Other,2010
+1424,,Photovoltaikkraftwerk Groß Dölln 1 GmbH & Co. KG,15.778125,Solar,2012
+1425,,Photovoltaikkraftwerk Groß Dölln 2 GmbH & Co. KG,17.83725,Solar,2012
+1426,,Photovoltaikkraftwerk Groß Dölln 7 GmbH & Co. KG,13158.0,Solar,2012
+1427,,Photovoltaikkraftwerk Groß Dölln 8 GmbH & Co. KG,13209.0,Solar,2012
+1428,,,18.2,Solar,2012
+1429,,Photovoltaikkraftwerk Groß Dölln 3 GmbH & Co. KG,16.01475,Solar,2012
+1430,,Photovoltaikkraftwerk Groß Dölln 5 GmbH & Co. KG,18.11775,Solar,2012
+1431,,,20.03232,Solar,2012
+1432,,,31.6,Solar,2012
+1433,Pütnitz,Solarparc AG,21.339055,Solar,2012
+1434,,,11928.0,Solar,2012
+1435,,,19.45104,Solar,2012
+1436,,,18.87972,Solar,2012
+1437,,,13.5432,Solar,2012
+1438,,,10.3488,Solar,2012
+1439,,,22.5258,Solar,2012
+1440,,,15.2064,Solar,2012
+1441,,Photovoltaikkraftwerk Groß Dölln 6 GmbH & Co. KG,16.0905,Solar,2012
+1442,,Photovoltaikkraftwerk Groß Dölln 4 GmbH & Co. KG,18.2175,Solar,2012
+1443,,,11.35372,Solar,2012
+1444,,,24.3364,Solar,2012
+1445,,,19.68887,Solar,2012
+1446,,,22.05024,Solar,2012
+1447,,,20.07132,Solar,2012
+1448,,,19.88064,Solar,2012
+1449,,LHI Green Infrastructure Solar Deutschland I GmbH & Co. KG,19.68864,Solar,2012
+1450,Windpark Hof,"Trasse Münchberg GmbH & Co. KG, c/o BW Partner",18.4,Wind,2012
+1451,KWK AOS GmbH,Aluminium Oxid Stade GmbH,30.72,Gas,2012
+1452,Helmstadt,ENGIE Deutschland AG,12.5,Wind,2012
+1453,Titz,innogy SE,20.5,Wind,2012
+1454,Windpark Wirfus,MVV Energie AG,10.0,Wind,2006
+1455,Windpark Holdenstedt-Bornstedt,MVV Energie AG,12.0,Wind,2006
+1456,Windpark Rastenberg,MVV Energie AG,12.0,Wind,2007
+1457,GT1 ,Prinovis GmbH & Co. KG,4.2,Gas,1993
+1458,GT2 ,Prinovis GmbH & Co. KG,4.2,Gas,1993
+1459,GT3 ,Prinovis GmbH & Co. KG,5.1,Gas,1994
+1460,GT4 ,Prinovis GmbH & Co. KG,5.1,Gas,1995
+1461,WP Külz II,Windpark GmbH & Co. Külz II KG,13.8,Wind,2012
+1462,WP Trebbichau,Windpark GmbH & Co. Trebbichau KG,16.1,Wind,2012
+1463,,Evonik Röhm GmbH,11.9,Waste,1990
+1464,,Evonik Röhm GmbH,6.9,Waste,2012
+1465,AHKW Neunkirchen,EEW Energy from Waste Saarbrücken GmbH,11.6,Waste,1977
+1466,Turbosatz 1,Zweckverband Abfallwirtschaft Raum Würzburg,8.7,Waste,1984
+1467,Turbosatz 2,Zweckverband Abfallwirtschaft Raum Würzburg,12.0,Waste,1998
+1468,GUD-Anlage DREWSEN,DREWSEN SPEZIALPAPIERE GmbH & Co. KG,13.0,Gas,2000
+1469,HKW Sachtleben,Venator Germany GmbH,27.5,Coal,1964
+1470,Windpark Möthlitz,EBLD Windpark Möthlitz GmbH,10.0,Wind,2012
+1471,Windpark Klettwitz,Klettwitz Green Energy GmbH & Co. KG,4.0,Wind,2000
+1472,Windpark Kostebrau,Klettwitz Green Energy GmbH & Co. KG,9.9,Wind,2000
+1473,Windpark Sitten,Momentum Gruppen A/S K/S Windpartner 26 / Itec International,10.5,Wind,1999
+1474,Windpark Remlingen,Mainova AG,16.8,Wind,2013
+1475,Windpark Hohenahr,Mainova AG,14.4,Wind,2013
+1476,,,28.0,Gas,1976
+1477,BKW Holleben Wind GmbH,BKW Deutschland GmbH,25.5,Wind,2005
+1478,BKW Bippen Wind GmbH,BKW Deutschland GmbH,27.6,Wind,2005
+1479,,CropEnergies Bioethanol GmbH Zeitz,17.5,Coal,2005
+1480,Windpark Polch,pfalzwind GmbH,10.25,Wind,2012
+1481,,Smurfit Kappa Herzberger Papierfabrik GmbH,19.5,Gas,1978
+1482,Gas- u. Dampfturbinenanlage Südraum,ZF Friedrichshafen AG,38.61,Gas,2012
+1483,EBS-Kraftwerk Witzenhausen,B+T Energie GmbH,28.0,Other,2009
+1484,Gaskraftwerk,DS Smith Paper Deutschland GmbH,13.2,Gas,1990
+1485,Kraftwerk 3,Alzkraftwerke Heider GmbH,18.95,Hydro,1920
+1486,,Koehler SE,18.5,Coal,1986
+1487,WP Buckow,PROKON Regenerative Energien eG,21.0,Wind,2002
+1488,WP Glienicke,PROKON Regenerative Energien eG,15.0,Wind,2001
+1489,WP Eilsleben I,PROKON Regenerative Energien eG,16.9,Wind,2000
+1490,WP Eilsleben II,PROKON Regenerative Energien eG,20.0,Wind,2006
+1491,WP Hakenstedt II,PROKON Regenerative Energien eG,20.0,Wind,2006
+1492,WP Hakenstedt III,PROKON Regenerative Energien eG,10.0,Wind,2008
+1493,WP Fleetmark,PROKON Regenerative Energien eG,16.5,Wind,2002
+1494,WP Hohe Wuhne II,PROKON Regenerative Energien eG,14.0,Wind,2007
+1495,WP Hohe Wuhne III,PROKON Regenerative Energien eG,12.5,Wind,2011
+1496,WP Koßdorf,PROKON Regenerative Energien GmbH,16.5,Wind,2004
+1497,WP Könnern II,PROKON Regenerative Energien eG,23.0,Wind,2003
+1498,WP Podelzig,PROKON Regenerative Energien eG,18.2,Wind,2002
+1499,WP Quarnstedt II,PROKON Regenerative Energien eG,10.0,Wind,2011
+1500,WP Sembten,PROKON Regenerative Energien eG,12.0,Wind,2002
+1501,WP Straach,PROKON Regenerative Energien eG,15.0,Wind,2007
+1502,UW Burg,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,16.0,Wind,2007
+1503,UW Langensalza II,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,60.5,Wind,2012
+1504,UW Buttstädt Wind,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,43.9,Wind,2012
+1505,Grubenheizkraftwerk,ROMONTA GmbH,45.0,Coal,1979
+1506,GTKW Darmstadt,Entega AG,94.6,Gas,2013
+1507,,KG Deutsche Gasrußwerke GmbH & Co.,16.0,Other,1989
+1508,Heizkraftwerk Stendal,"Stadtwerke - Altmärkische Gas-, Wasser- u. E-Werke Stendal GmbH",13.2,Gas,1994
+1509,EBKW Knapsack,EBS - Kraftwerk GmbH,33.4,Waste,2009
+1510,Windpark Meyenburg,SachsenFonds Windpark IX GmbH & Co. KG,14.4,Wind,2004
+1511,Kraftwerk 3,Papierfabrik Adolf Jass GmbH & Co. KG,26.2,Gas,2012
+1512,Kraftwerk 2,Papierfabrik Adolf Jass GmbH & Co. KG,7.5,Gas,1982
+1513,Windpark Schkortleben,ENGIE Windpark Schkortleben GmbH & Co. KG,28.0,Wind,2006
+1514,Windpark Karstädt/Blüthen,ENGIE WP Portfolio 1 GmbH,42.0,Wind,2001
+1515,Windpark Lövenich,ENGIE WP Lövenich GmbH,10.0,Wind,2001
+1516,Windpark Querstedt,ENGIE WP Portfolio 1 GmbH,14.0,Wind,2002
+1517,Windpark Reinsfeld/Hinzert-Pölert,SachsenFonds Windpark VII GmbH & Co. KG,13.5,Wind,2002
+1518,Werk Nordstemmen,"Nordzucker AG, Werk Nordstemmen",30.6,Gas,1953
+1519,Werk Clauen,"Nordzucker AG, Werk Clauen",17.11,Gas,2003
+1520,Werk Uelzen,Nordzucker AG,40.0,Coal,1965
+1521,Bio HKW Herbrechtingen,Biomasse-Heizkraftwerk-Herbrechtingen GmbH,14.0,Biomass,2004
+1522,Heizkraftwerk Krefeld,SWK ENERGIE GmbH,12.6,Gas,2011
+1523,BHKW H.120,Daimler AG,21.1,Gas,2012
+1524,BHKW,Daimler AG,13.04,Gas,2013
+1525,HKW Wiesengrund,Opel Automobile GmbH,22.1,Gas,1993
+1526,Werk Klein Wanzleben,Nordzucker AG,23.4,Gas,1994
+1527,,Michelin Reifenwerke AG & Co. KGaA Standort Bad Kreuznach,10.7,Gas,2006
+1528,Trianel Kohlekraftwerk Lünen,Trianel Kohlekraftwerk Lünen GmbH & Co. KG,735.0,Coal,2013
+1529,BP Werk Lingen,BP Europa SE,66.0,Gas,1996
+1530,Hamburger Rieger,Spreestromerzeugungs GmbH,18.7,Waste,2013
+1531,Kessel 4,Papierfabrik Schoellershammer H. A. Schoeller Söhne GmbH & Co KG,9.3,Coal,1983
+1532,Windpark Illschwang,FLEMMA W.1 Energie GmbH & Co. KG,12.0,Wind,2013
+1533,Windpark Haiger,HSE Windpark Haiger GmbH & Co. KG,13.8,Wind,2013
+1534,Windpark Eisleben,Trianel Windkraftwerk Eisleben GmbH & Co. KG,26.6,Wind,2013
+1535,Windpark Niederhambach,Mainova AG,16.9,Wind,2013
+1536,HKW 1 Werk Offstein,Südzucker AG Mannheim,30.0,Gas,1961
+1537,Windpark Everswinkel,Windpark Everswinkel GmbH & Co KG,5.9,Wind,2010
+1538,Windpark Everswinkel,Windpark Everswinkel GmbH & Co KG,9.8,Wind,2013
+1539,Windpark Emmendorf,Windpark Emmendorf GmbH & Co. KG,16.0,Wind,2003
+1540,Offshore Windpark Riffgat,Offshore-Windpark RIFFGAT GmbH & Co. KG/EWE ERNEUERBARE ENERGIEN GmbH,113.4,Wind,2014
+1541,Biomasseheizkraftwerk Wiesbaden,ESWE BioEnergie GmbH,10.5,Waste,2014
+1542,Solarkraftwerk Barderup,Technische Werke Ludwigshafen AG,22.8,Solar,2012
+1543,BioEnergie Park Klarsee,Geno Bioenergie Leasingfonds Erste GmbH & Co. KG,17.8,Biomass,2006
+1544,Gemeinschaftskraftwerk Weig,Moritz J. Weig GmbH & Co KG,11.4,Gas,1992
+1545,Gemeinschaftskraftwerk Weig,Moritz J. Weig GmbH & Co KG,27.4,Gas,2013
+1546,Gemeinschaftskraftwerk Weig,Moritz J. Weig GmbH & Co KG,10.3,Other,1992
+1547,Gemeinschaftskraftwerk Weig,Moritz J. Weig GmbH & Co KG,8.4,Gas,1971
+1548,Heizkraftwerk Bomlitz,Sales & Solutions GmbH,12.75,Gas,1969
+1549,,Windpark Geisberg GmbH & Co. KG,12.0,Wind,2013
+1550,Kraftwerk Raffinerie Heide,Raffinerie Heide GmbH,44.5,Other,1961
+1551,Windpark Adorf,Windparkbetriebsgesellschaft Adorf/Diemelsee mbH c/o LENPower GmbH,23.0,Wind,2012
+1552,,Stadtwerke Kempen GmbH,13.2,Gas,1990
+1553,,Photovoltaikkraftwerk Alt Daber 1 GmbH & Co. KG,5.6,Solar,2011
+1554,,Photovoltaikkraftwerk Alt Daber 2 GmbH & Co. KG,7.5,Solar,2011
+1555,,Photovoltaikkraftwerk Alt Daber 3 GmbH & Co. KG,7.6,Solar,2011
+1556,,Photovoltaikkraftwerk Alt Daber 4 GmbH & Co. KG,5.4,Solar,2011
+1557,,Photovoltaikkraftwerk Alt Daber 5 GmbH & Co. KG,6.0,Solar,2011
+1558,,Photovoltaikkraftwerk Alt Daber 6 GmbH & Co. KG,7.4,Solar,2011
+1559,,Photovoltaikkraftwerk Alt Daber 6 GmbH & Co. KG,7.6,Solar,2011
+1560,,Photovoltaikkraftwerk Alt Daber 8 GmbH & Co. KG,7.6,Solar,2011
+1561,,Photovoltaikkraftwerk Alt Daber 9 GmbH & Co. KG,7.6,Solar,2011
+1562,,Photovoltaikkraftwerk Alt Daber 10 GmbH & Co. KG,5.5,Solar,2011
+1563,,Photovoltaikkraftwerk Bochow 1 GmbH & Co. KG,3.8,Solar,2012
+1564,,Photovoltaikkraftwerk Bochow 2 GmbH & Co. KG,6.0,Solar,2012
+1565,,Photovoltaikkraftwerk Bochow 3 GmbH & Co. KG,3.0,Solar,2012
+1566,,Photovoltaikkraftwerk Bochow 4 GmbH & Co. KG,4.5,Solar,2012
+1567,,Photovoltaikkraftwerk Bochow 5 GmbH & Co. KG,5.6,Solar,2012
+1568,,Photovoltaikkraftwerk Bochow 6 GmbH & Co. KG,5.9,Solar,2012
+1569,Industriekraftwerk Greifswald,Industriekraftwerk Greifswald GmbH,38.0,Gas,2013
+1570,WP Fischbeck,enercity AG,11.5,Wind,2013
+1571,WP Cottbus,WINDPARK COTTBUSSER SEE GmbH & Co KG,24.0,Wind,2005
+1572,,Windpark Aller-Leine-Tal GmbH & Co. KG,16.0,Wind,2012
+1573,,Windpark Schönwalde GmbH & Co. KG,22.0,Wind,2007
+1574,,innogy SE,10.0,Wind,2012
+1575,,innogy SE,12.0,Wind,2012
+1576,,RWE Vertrieb AG,29.5,Wind,2012
+1577,WP Kisselsheide,Windpark GmbH & Co. Kisselsheide KG,11.5,Wind,2013
+1578,WP Kassiek-Lindstedt (I),Windpark Kassieck-Lindstedt GmbH & Co. KG,13.8,Wind,2011
+1579,WP Kassiek-Lindstedt (II),Windpark Kassieck-Lindstedt II GmbH & Co. KG,13.8,Wind,2011
+1580,WP Kassiek-Lindstedt (III),Windpark Kassieck-Lindstedt III GmbH & Co. KG,13.8,Wind,2012
+1581,HKW Freiberg,Freiberger Erdgas GmbH,13.4,Gas,2013
+1582,Windpark Neuruppin,EnBW Wind Onshore 2 GmbH,16.0,Wind,2013
+1583,Windpark Riegenroth,STAWAG Energie GmbH,15.8,Wind,2013
+1584,Windpark Oberwesel II,STAWAG Energie GmbH,10.2,Wind,2013
+1585,Windpark Oberwesel III,STAWAG Energie GmbH,10.2,Wind,2013
+1586,Windpark Beltheim II,STAWAG Energie GmbH,16.0,Wind,2013
+1587,Windpark Büttel,Denker & Wulf AG,25.0,Wind,2007
+1588,Windpark Dahme,Denker & Wulf AG,76.5,Wind,2003
+1589,Windpark Pröttlin,Denker & Wulf AG,24.0,Wind,2009
+1590,Windpark Quitzow,Denker & Wulf AG,24.0,Wind,2009
+1591,Windpark Werder Zinndorf,Denker & Wulf AG,30.0,Wind,2009
+1592,,Windpark Hangen-Weisheim GmbH & Co. KG,10.0,Wind,2013
+1593,,Gunvor Raffinerie Ingolstadt GmbH,23.3,Other,1964
+1594,Windpark Söhrewald,Windpark Söhrewald / Niestetal GmbH & Co. KG,15375.0,Wind,2013
+1595,Windpark Badeleben,Trianel Onshore Windkraftwerk Wendorfer Berg GmbH & Co. KG,10.7,Wind,2013
+1596,,Sachsenmilch Leppersdorf GmbH,36.0,Gas,2014
+1597,,Volkswagen Sachsen GmbH ,12.9,Gas,2014
+1598,Moorburg B,Vattenfall Heizkraftwerk Moorburg GmbH,800.0,Coal,2015
+1599,Borkum Riffgrund 1,Borkum Riffgrund I Offshore Windpark A/S GmbH & Co. oHG,312.0,Wind,2015
+1600,DanTysk Sanbank,DanTysk Offshore Wind GmbH & Co. KG,604.8,Wind,2014
+1601,Meerwind Süd I Ost,WindMW GmbH,288.0,Wind,2014
+1602,Global Tech I,Global Tech I Offshore Wind GmbH ,400.0,Wind,2014
+1603,OWP Nordsee Ost,innogy SE,295.2,Wind,2015
+1604,Butendiek,OWP Butendiek GmbH & Co. KG,288.0,Wind,2015
+1605,Trianel Windpark Borkum,Trianel Windkraftwerk Borkum GmbH & Co. KG,200.0,Wind,2015
+1606,Anzetel Wehlens,,12.0,Wind,2014
+1607,,,12.0,Wind,2014
+1608,"Bürgerwindpark ""Wrohm - Osterrade""",,21525.0,Wind,2014
+1609,Bürgerwindpark Eider,,46.2,Wind,2014
+1610,Bürgerwindpark Emmelsbüll-Horsbüll GmbH & Co. KG,,23.4,Wind,2014
+1611,"Bürgerwindpark Hollich Sellen, Bereich Hollich",,24.0,Wind,2015
+1612,Bürger-Windpark Holzacker-Knorburg,,12.0,Wind,2014
+1613,Bürgerwindpark im Kirchspiel Medelby,,82.23,Wind,2014
+1614,Bürgerwindpark Norderhof II GmbH & Co KG,,21.6,Wind,2014
+1615,Bürgerwindpark Retzstadt,,15375.0,Wind,2014
+1616,Bürgerwindpark Schafflund GmbH & Co.KG,,16.0,Wind,2014
+1617,Bürgerwindpark Schleiden,,18.3,Wind,2014
+1618,Bürgerwindpark Süderlügum,,36.0,Wind,2014
+1619,Bürgerwindpark Wanderup GmbH & Co. KG,,25.36,Wind,2015
+1620,Bürgerwindpark Wesselburener Deichhausen,,11.5,Wind,2014
+1621,BWP BB Wind,,19.02,Wind,2014
+1622,Eggstedt/Süderhastedt III,,28.99,Wind,2014
+1623,Esche Nord,Bürgerwindpark Esche Verwaltungsgesellschaft mbH,13.8,Wind,2014
+1624,Green City Energy Windpark Maßbach,,12.0,Wind,2014
+1625,Holtriem III,,34.5,Wind,2014
+1626,Lindtorf,,15375.0,Wind,2014
+1627,Niederhausen an der Appel,,18.45,Wind,2014
+1628,Offenbach an der Queich II,,15.18,Wind,2014
+1629,Rietz 1,,15.18,Wind,2015
+1630,Veer Dörper Fläche 51,,25.3,Wind,2014
+1631,Weidehof,,18.4,Wind,2014
+1632,Windenergiepark Heidenrod GmbH,,30.1,Wind,2014
+1633,Windpark Bad Hersfeld Wehneberg,,15.2,Wind,2014
+1634,Windpark Badow,,32.2,Wind,2015
+1635,Windpark Bagband,,39.7,Wind,2014
+1636,Windpark Beiersdorf-Freudenberg,,16.0,Wind,2014
+1637,Windpark Bendorf-Oersdorf,Trianel Onshore Windkraftwerk Bendorf-Oersdorf GmbH & Co. KG,27.5,Wind,2014
+1638,Windpark Berngerode,,30.36,Wind,2014
+1639,Windpark Bernitt,,15.3,Wind,2014
+1640,Windpark Bohmstedt GmbH & Co. KG,,20.7,Wind,2014
+1641,Windpark Buchhainer Heide,,20.0,Wind,2014
+1642,Windpark Büttler Balje,,11.5,Wind,2014
+1643,Windpark Calau II D,CEE Windpark Calau GmbH & Co. KG,15.4,Wind,2013
+1644,Windpark Dammfleth-Hochfeld,,11.5,Wind,2014
+1645,Windpark der H & N Bürgerwind GmbH & Co. KG,,27.0,Wind,2014
+1646,Windpark Englmannsberg,,12.2,Wind,2014
+1647,Windpark Galgenberg,,12.2,Wind,2014
+1648,Windpark Grebbin Süd,,11.5,Wind,2014
+1649,Windpark Hamwiede,,16.8,Wind,2015
+1650,Windpark Hilsberg,,15.3,Wind,2014
+1651,Windpark Hochfranken,,16.45,Wind,2014
+1652,Windpark Hohenseefeld II,,10.0,Wind,2014
+1653,Windpark Jalm,Windpark Jalm Pool GmbH & Co. KG,19.8,Wind,2014
+1654,Windpark Karlsburg,,20.2,Wind,2014
+1655,Windpark Kasendorf-Weismain,,17.5,Wind,2014
+1656,Windpark Kastorf,,21.53,Wind,2014
+1657,Windpark Klein Leine,,62.7,Wind,2014
+1658,Windpark Klettwitz,KGE Windpark Schipkau-Nord GmbH & Co. KG,89.1,Wind,2015
+1659,Windpark Kletzin,,15.0,Wind,2014
+1660,Windpark Kniphagen,,15.0,Wind,2014
+1661,Windpark Kohldamm GmbH & Co. KG,,33.0,Wind,2014
+1662,Windpark Kohlenbek,,12.3,Wind,2014
+1663,Windpark Königshovener Höhe,innogy SE,66.6,Wind,2014
+1664,Windpark Kräft,,12.5,Wind,2014
+1665,Windpark Kündelmoor,,45.8,Wind,2014
+1666,Windpark Langenzenn,,18.45,Wind,2014
+1667,Windpark Pritzwalk,LHI SolarWind Pritzwalk GmbH & Co. KG,10.0,Wind,2014
+1668,Windpark Rödeser Berg,,12.2,Wind,2014
+1669,Windpark Storbeck,,23.0,Wind,2014
+1670,Windpark Ullersdorf,STEAG New Energies GmbH,41.7,Wind,2014
+1671,Windpark Uthlede Süd,,33.0,Wind,2014
+1672,Windpark Völschow,,11.0,Wind,2014
+1673,Windpark Walsleben Goldbeck,,18.3,Wind,2014
+1674,Windpark Wanderup,,34.52,Wind,2014
+1675,Windpark Wanderup West GmbH & Co. KG,,15.85,Wind,2015
+1676,Windpark Wangelau,,14.4,Wind,2014
+1677,Windpark Weilrod,,16.8,Wind,2014
+1678,Windpark Zedtwitz,,12.2,Wind,2014
+1679,Windwald Blaues Eck,CHORUS Wind Freiensteinau GmbH & Co. KG,21.4,Wind,2014
+1680,WP Bredstedt-Land,,13.8,Wind,2014
+1681,WP Dornum,,30.1,Wind,2014
+1682,WP Eimsheim II,,15.3,Wind,2014
+1683,WP Göllheim,,12.7,Wind,2014
+1684,WP Hamer-Steenfeld / Projektnummer: 43787,,19194.0,Wind,2015
+1685,WP Hohenmölsen,e.n.o. energy finance GmbH & Co. KG,26.4,Wind,2014
+1686,WP Holtsee-Altenhof,,12.8,Wind,2014
+1687,WP Hoppenrade,Windpark Hoppenrade GmbH & Co. KG,27.6,Wind,2014
+1688,WP Kusey,LHI SolarWind Kusey GmbH & Co. KG,30.5,Wind,2014
+1689,WP Lindenberg,,12.0,Wind,2014
+1690,WP Mörsdorf Nord GmbH & Co. KG,,19.2,Wind,2014
+1691,WP Sehestedt,Windpark Eckolstädt GmbH & Co. KG ,26.0,Wind,2014
+1692,WP Sontra,CHORUS Wind Sontra GmbH & Co. KG,12.0,Wind,2014
+1693,WP Wildberg NST/2010/3906678/RW,,13.8,Wind,2014
+1694,WPB,,16.1,Wind,2014
+1695,WPB II,,16.1,Wind,2014
+1696,WP-Münnerstadt,,12.5,Wind,2014
+1697,Zweite Klixbüll Energie GmbH & Co KG,,24.0,Wind,2014
+1698,HKW-Mitte,Stadtwerke Lemgo GmbH,10.1,Gas,1980
+1699,Amrumbank West,Amrum-Offshore West GmbH,302.4,Wind,2015
+1700,Baltic 2,EnBW Baltic 2 S.C.S.,288.0,Wind,2015
+1701,Bürgerwindpark Barlt Ost,,22.2,Wind,2015
+1702,Chransdorf-West,PNE Wind AG,57.6,Wind,2015
+1703,Coppenbrügge Hohnsen,,21.4,Wind,2015
+1704,Kutzleben,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,41.1,Wind,2014
+1705,Windpark Barg-Schwensby GmbH & Co. KG,,10.25,Wind,2015
+1706,Windpark Kolbenstein,,16.0,Wind,2015
+1707,Windpark Looft II,,10.15,Wind,2015
+1708,Windpark Mahlwinkel Süd,,46.0,Wind,2015
+1709,Windpark Osterrade,,20.0,Wind,2015
+1710,Bürgerwindpark Neuenkirchen,,34.9,Wind,2015
+1711,,Kronos Titan GmbH,17.1,Gas,2014
+1712,Walgauwerk,EnBW Energie Baden-Württemberg AG,86.0,Hydro,1984
+1713,Moorburg A,Vattenfall Heizkraftwerk Moorburg GmbH,800.0,Coal,2015
+1714,Kraftwerk Wilhelmshaven,ENGIE Deutschland AG,731.0,Coal,2015
+1715,PSW Vianden,Société Electrique de l'Our S.A.,195.0,Hydro,2015
+1716,Kraftwerk IV,Evonik Degussa GmbH,60.76,Gas,2016
+1717,BHKW Braunschweig,Volkswagen AG,10.4,Gas,2014
+1718,Energiezentrale 2016,Flughafen München GmbH,16.8,Gas,2014
+1719,PV Wertachtal-Augsburg,,10.0,Solar,2015
+1720,Windpark Lobendorfer Forsten Vetschau,,14.4,Wind,2015
+1721,Windpark Rehain,,16.5,Wind,2015
+1722,Windpark Wahlsdorf,,12.59,Wind,2016
+1723,Windpark Feldheim V,,21.0,Wind,2015
+1724,Windpark Duben II,,24.75,Wind,2015
+1725,Windpark Luckow-Petershagen,,50.98,Wind,2015
+1726,Groß Welle,,12.0,Wind,2010
+1727,GR Grünberg,,20.7,Wind,2010
+1728,Bürgerwindpark Löningen,Bürgerwindpark Löningen GmbH & Co. KG,14.0,Wind,2010
+1729,Menslage 01 - Herberger Feld,,12.0,Wind,2015
+1730,Repowering Windpark Egglingen,,12.2,Wind,2015
+1731,Windpark Abens Blersum GmbH & Co. KG,,15.25,Wind,2015
+1732,Windpark Abens Nord GmbH & Co. KG,,24.4,Wind,2015
+1733,Windpark Appeln,,11.4,Wind,2015
+1734,Windpark Coppenbrügge,,19.2,Wind,2015
+1735,"Windpark Gehrde ""Groß Drehle""",,12.0,Wind,2015
+1736,Windpark Horst,Dortmunder Energie- und Wasserversorgung GmbH,12.0,Wind,2016
+1737,Windpark Klingenberg,,18.3,Wind,2015
+1738,Windpark Lesse II,,10.0,Wind,2010
+1739,Windpark Lorup,,11.5,Wind,2010
+1740,Windpark Lunestedt-Heerstedt,,38.5,Wind,2015
+1741,Windpark Merzen,,10.0,Wind,2016
+1742,Windpark Moosmoor,,12.2,Wind,2015
+1743,Windpark Neudersum,,12.2,Wind,2015
+1744,Windpark Neusustrum,,24.0,Wind,2016
+1745,Windpark Sandbostel,,11.75,Wind,2015
+1746,Windpark Schwarme,,10.0,Wind,2010
+1747,WP Barnstorf,,11.7,Wind,2016
+1748,WP Berne,IFE Windpark Berne GmbH & Co. Betriebs-KG,11.5,Wind,2015
+1749,WP Martfeld,,10.0,Wind,2010
+1750,Windpark Lahn-Dill-Bergland-Mitte,,21.4,Wind,2015
+1751,Energie- und Ressourcenpark Rabenau,Trianel Onshore Windkraftwerk Rabenau GmbH & Co. KG,15.18,Wind,2015
+1752,Windpark Ludwigsau,,23.1,Wind,2016
+1753,Windpark Buchonia,,19.02,Wind,2015
+1754,Windpark Rohrberg,Windpark Rohrberg GmbH & Co. KG,15.0,Wind,2015
+1755,Windpark Galgenberg,,30.4,Wind,2010
+1756,Windpark Harthäuser Wald,,42.0,Wind,2015
+1757,Windpark Kohlenstraße,,23.1,Wind,2015
+1758,Windpark Ravenstein,,10.12,Wind,2015
+1759,Windpark Berg,,12.0,Wind,2015
+1760,WP Titting,,21.51,Wind,2015
+1761,Windpark Thalmässing,,15.38,Wind,2015
+1762,Windpark Lonnerstadt,,12.0,Wind,2015
+1763,WP Dinkelsbühl-Wilburgstetten (ehemals WP Eichelberg),,13.2,Wind,2015
+1764,WP Gesater Wald,Onshore Wind Gesater Wald GmbH & Co. KG,12.0,Wind,2015
+1765,Windpark Birkenfels,,10.0,Wind,2015
+1766,Windpark Velburg,LHI Green Infrastructure Wind Deutschland III GmbH & Co. KG,12.0,Wind,2015
+1767,Windpark Hohenzellig,,19.2,Wind,2015
+1768,Windpark Fasanerie,,10.0,Wind,2010
+1769,VR Windpark Thurnau GmbH & Co. KG,,24.0,Wind,2015
+1770,OSTWINDpark Rotmainquelle,,12.0,Wind,2015
+1771,Windpark Korbersdorf-Seußen,,12.0,Wind,2015
+1772,Bürgerwindpark Sailershäuser Wald GmbH & Co. KG,,24.0,Wind,2015
+1773,Windpark Werneck-Eßleben,,12.0,Wind,2015
+1774,Windpark Obbach,Windpark Obbach GmbH & Co. KG,12.5,Wind,2015
+1775,Großbardorf-Sulzfeld,,13.2,Wind,2016
+1776,Windpark Creglingen-Klosterwald,,22.8,Wind,2015
+1777,Windpark Krackow-Glasow,,46.1,Wind,2015
+1778,Windpark Kublank III,,13.8,Wind,2015
+1779,Repowering WP Helmshagen,,18.5,Wind,2015
+1780,Windpark Hohen Luckow Erweiterung,,22.39,Wind,2015
+1781,Windpark Kurzen Trechow / Bernitt,WP Kurzen Trechow GmbH,15.25,Wind,2014
+1782,WP Kambs NBK/2014/3924948/IW,,22.5,Wind,2015
+1783,Windpark Glasewitz,,15.3,Wind,2014
+1784,Windpark Tribsees,,18.3,Wind,2015
+1785,Windpark Kurzen Trechow,,18.3,Wind,2014
+1786,GLS Windpark Schleiden,,39.65,Wind,2015
+1787,Asselner Windpark,,26.5,Wind,2015
+1788,Bürgerwindpark Hollich Sellen,,24.0,Wind,2015
+1789,Bürgerwindpark Lichtenau - Westernfeld-Buchgarten,,20.55,Wind,2015
+1790,Windpark Huser Klee,,15.2,Wind,2015
+1791,Windpark Hassel,,12.4,Wind,2015
+1792,WP Huser Klee,,12.2,Wind,2015
+1793,Bürgerwindpark Wettringen Strönfeld,,12.0,Wind,2016
+1794,Windpark Kittelbusch,,12.0,Wind,2015
+1795,Windpark Haaren-Leiberg IV (Erweiterung),,10.7,Wind,2015
+1796,Windpark Galgenberg,,30.4,Wind,2010
+1797,Veldenz-Gornhausen-Monzelfeld,,18.3,Wind,2015
+1798,Windpark Kürrenberg GmbH & Co.KG,,15.25,Wind,2015
+1799,Hartenfelser Kopf,,12.8,Wind,2015
+1800,Windpark Dittelsheim-Heßloch II,,10.1,Wind,2014
+1801,WP Alpenrod,,10.0,Wind,2010
+1802,WP Wawern,,14.0,Wind,2010
+1803,WP Himmelwald,,13.9,Wind,2015
+1804,Windpark Schiffweiler,,12.5,Wind,2014
+1805,Weiskirchen-Schimmelkopf,,12.2,Wind,2015
+1806,Windpark Naundorf,,14.3,Wind,2015
+1807,Windpark Hüselitz,,92.4,Wind,2015
+1808,Windpark Garlipp III,,13.0,Wind,2014
+1809,WP Hüselitz 1 GmbH & Co. KG,,13.2,Wind,2015
+1810,Windpark Zerbst,,30.0,Wind,2015
+1811,Windpark Walsleben Goldbeck,,21.3,Wind,2014
+1812,Windpark Dobberkau II,,12.5,Wind,2015
+1813,WP Stößen,,18.0,Wind,2010
+1814,Windpark Beesenstedt (Ost),Voltwerk WP Beesenstedt GmbH & Co. KG,13.8,Wind,2010
+1815,WP Hüselitz 2 GmbH & Co. KG,,13.2,Wind,2015
+1816,Mittelhausen,,12.0,Wind,2010
+1817,Reinstedt,,12.0,Wind,2010
+1818,WP Löbitz-Görschen,,10.0,Wind,2010
+1819,WP Molau II,,10.0,Wind,2010
+1820,Bürgerwindpark Eider,,69.3,Wind,2014
+1821,Brunsbüttel West Repowering,,36.0,Wind,2010
+1822,Bürgerwindpark Reußenköge GmbH & Co. KG,Bürgerwindpark Reußenköge GmbH & Co. KG,208.8,Wind,2003
+1823,Bökingharder Windpark GmbH & Co KG,,19.8,Wind,2015
+1824,Eggstedt/Süderhastedt III,,29.0,Wind,2014
+1825,WP Hamer-Steenfeld / Projektnummer: 44666,,19.2,Wind,2015
+1826,Windpark Blye Repowering,,25.6,Wind,2015
+1827,WP Sillerup Repowering,,12.74,Wind,2015
+1828,Bürgerwindpark Dagebüll GmbH & Co. KG,,17.0,Wind,2015
+1829,BBE Windpark GmbH &Co. KG,,15.3,Wind,2015
+1830,Alt- Bennebek,,15.3,Wind,2015
+1831,Bürgerwindpark Brebek GmbH & Co.KG,,15.0,Wind,2015
+1832,Windpark Wiesental,,17.5,Wind,2010
+1833,BWP3 Behrendorf,,16.1,Wind,2015
+1834,Kattrepel/Westerbelmhusen Erweiterung,,13.6,Wind,2015
+1835,BürgerWindpark Wittbek GmbH &Co.KG,,13.2,Wind,2015
+1836,Windpark Grevenkop,,12.8,Wind,2015
+1837,BWP Rantrum III GmbH & Co. KG,,12.68,Wind,2015
+1838,WP Beidenfleth,,12.2,Wind,2015
+1839,Bürgerwindpark Osterstedt GmbH & Co. KG,,12.0,Wind,2015
+1840,Bürgerwindpark Janneby eG,,11.87,Wind,2015
+1841,WP Marner Neuenkoogsdeich Repowering,,11.7,Wind,2015
+1842,Windpark Norddahl,,11.5,Wind,2016
+1843,Steife Brise,,10.1,Wind,2015
+1844,Windpark Oldenswort,,11.5,Wind,2015
+1845,Bürgerwindpark Schwesing,,10.2,Wind,2015
+1846,Kronprinzenkoog LEP,,10.11,Wind,2014
+1847,Windpark Schülp bei Nortorf,,10.0,Wind,2015
+1848,Windpark Mihla,,15.25,Wind,2015
+1849,,Exxon Mobil Production Deutschland GmbH,30.2,Gas,2014
+1850,Großbatteriesystem (GBS)-Lünen,STEAG Battery System GmbH,15.0,Other,2016
+1851,Großbatteriesystem (GBS)-Weiher,STEAG Battery System GmbH,15.0,Other,2016
+1852,Großbatteriesystem (GBS)-Herne,STEAG Battery System GmbH,15.0,Other,2016
+1853,Großbatteriesystem (GBS)-Fenne,STEAG Battery System GmbH,15.0,Other,2016
+1854,Großbatteriesystem (GBS)-Walsum,STEAG Battery System GmbH,15.0,Other,2016
+1855,Großbatteriesystem (GBS)-Bexbach,STEAG Battery System GmbH,15.0,Other,2016
+1856,GuD,Stadtwerke Düsseldorf AG,595.0,Gas,2016
+1857,Niehl 3,RheinEnergie AG,459.9,Gas,2016
+1858,Heizkraftwerk FL,Stadtwerke Flensburg GmbH,78.0,Gas,2016
+1859,KW Mittelsbüren,Gemeinschaftskraftwerk Bremen GmbH und Co. KG,444.5,Gas,2016
+1860,Energieversogung Wedding,Bayer AG,15.0,Gas,1972
+1861,HW Windpark Groß Welle,HelveticWind Deutschland GmbH,20.0,Wind,2006
+1862,HW Windpark Prötzel,HelveticWind Deutschland GmbH,18.0,Wind,2006
+1863,HW Windpark Wulkow,HelveticWind Deutschland GmbH,10.0,Wind,2007
+1864,Gode Wind 1,Gode Wind 1 Offshore Wind Farm GmbH & Co. OHG,344.52,Wind,2016
+1865,Gode Wind 2,Gode Wind 2 Offshore Wind Farm P/S GmbH & Co. OHG,263088.0,Wind,2016
+1866,BSKW-SN,Batteriespeicher Schwerin GmbH & Co. KG,12.5,Other,2014
+1867,Windpark Simmerath,STAWAG Energie GmbH,23.1,Wind,2016
+1868,Windpark Aldenhoven,STAWAG Solar GmbH,15.4,Wind,2014
+1869,Windpark Linnich,STAWAG Solar GmbH,25.6,Wind,2016
+1870,UWBehringenWind,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,21.8,Wind,2015
+1871,WEPNeuenwalde ,EWE ERNEUERBARE ENERGIEN GmbH,25.2,Wind,2005
+1872,WEPRysumerNacken,EWE ERNEUERBARE ENERGIEN GmbH,26.4,Wind,
+1873,HSW Windpark Groß Niendorf ,HSW Windpark Groß Niendorf GmbH & Co. KG,12.3,Wind,2014
+1874,Windenergie Rieste GmbH & Co. KG,Stadtwerke Osnabrück AG,12.9,Wind,2016
+1875,Windpark Oberthal GmbH,Windpark Oberthal GmbH,12.3,Wind,2013
+1876,Windpark Perl GmbH,Windpark Perl GmbH,21.5,Wind,2013
+1877,Windpark Zölkow GmbH & Co. KG,Windpark Zölkow GmbH & Co. KG,40.0,Wind,2007
+1878,15712 Königs Wusterhaussen,ABO Wind UW Uckley GmbH & Co. KG,33.0,Wind,2017
+1879,Düshorner Heide,innogy SE,26.0,Wind,2014
+1880,36132 Eiterfeld,Trianel Windpark Buchenau GmbH & Co. KG,17.3,Wind,2016
+1881,Windpark Lähden GbR,Windpark Lähden GbR,10.9,Wind,2013
+1882,Windpark Ostwestfalen,Windpark Ostwestfalen GmbH & Co. KG,15.0,Wind,2016
+1883,2000-7317,GeFa Windkraft GmbH  Co. KG,16.8,Wind,2014
+1884,"WPBütow,17209Bütow",Windenergie Bütow GmbH & Co. KG,15.25,Wind,2016
+1885,"WPHeidehofIII, 14913Markendorf",Windpark GmbH & Co. Heidehof III KG,18.4,Wind,2016
+1886,WP Kassieck-LindstedtI V,Windpark Kassieck-Lindstedt IV GmbH & Co. KG,2.3,Wind,2014
+1887,"zum Eggeberg, 37688",Windpark Twerberg GmbH & Co. KG,13.2,Wind,2017
+1888,-,Windpark Stiftswald GmbH & Co. KG,27.0,Wind,2016
+1889,WindparkWaldow,Windpark Waldow OHG,28.0,Wind,2003
+1890,Krusemark 2,innogy SE,11.3,Wind,2001
+1891,UWOettelin,ENERTRAG Aktiengesellschaft,35.0,Wind,2013
+1892,UWNeuRietzOst,ENERTRAG Aktiengesellschaft,26.0,Wind,2014
+1893,UWWoltersdorf,ENERTRAG Aktiengesellschaft,57.0,Wind,2015
+1894,Eggebek,Mainova AG,83.9,Solar,2011
+1895,Ford Saarlouis,Ford-Werke GmbH,22.0,Gas,2016
+1896,Regensburg,BMW AG,10.6,Gas,2012
+1897,Regensburg,BMW AG,2.65,Gas,2016
+1898,Gasturbinen-HKW St. Wendel,Fresenius Medical Care Deutschland GmbH,19.5,Gas,2014
+1899,Turbine 4,KÄMMERER Energie GmbH,9.5,Other,1962
+1900,Turbine 5,KÄMMERER Energie GmbH,9.8,Other,1972
+1901,,Zweite Energieversorgungscenter Dresden-Wilschdorf GmbH & Co. KG,33.9,Gas,2005
+1902,AVG Köln,AVG Köln mbH,18.0,Waste,2017
+1903,HKW West M5,Mainova AG,38.7,Gas,2018
+1904,"Vorarlberger Illwerke AG ""Rellswerk""",EnBW Energie Baden-Württemberg AG,12.0,Hydro,2017
+1905,Werk Kalscheuren,Orion Engineered Carbons GmbH,26.5,Other,1967
+1906,Windpark Freudenberg,MVV Energie AG,16.8,Wind,2016
+1907,Windpark Hain Ost,,13.8,Wind,2016
+1908,KWK Dingolfing BA 1,BMW AG,16.0,Gas,2017
+1909,Speicherfarm Leipzig,BMW AG,12.5,Other,2018
+1910,Offshore Windpark Nordergründe,OWP Nordergründe GmbH & Co. KG,110.7,Wind,2017
+1911,Wikinger,Iberdrola Renovables Offshore Deutschland GmbH,353.5,Wind,2017
+1912,WP Fleetmark II,PROKON Regenerative Energien eG,13.2,Wind,2017
+1913,WP Schönwalde-Altenkrempe,PROKON Regenerative Energien eG,19.8,Wind,2017
+1914,Windpark Wadern-Felsenberg GmbH,Windpark Wadern-Felsenberg GmbH,10.35,Wind,2017
+1915,Windpark Creußen,Trianel Windpark Creußen GmbH & Co. KG,14.4,Wind,2017
+1916,WP Felsberg Green Energy,Felsberg Green Energy GmbH & Co. KG,15.0,Wind,2017
+1917,Windpark Gebersreuth,Trianel Windpark Gebersreuth GmbH & Co. KG,24.0,Wind,2017
+1918,Windpark Gerdau-Schwienau,PNE WIND AG,16.3,Wind,2017
+1919,WP Grebenau,LHI SolarWind Grebenau GmbH & Co. KG,13.2,Wind,2017
+1920,Trianel Windpark Vogelherd,Trianel Windpark Vogelherd GmbH & Co. KG,19.2,Wind,2017
+1921,,Neuenkrug Beteiligungspool GmbH,21525.0,Wind,2012
+1922,WP Benzweiler,PROKON Regenerative Energien eG,13.2,Wind,2017
+1923,Windpark Aachen Nord GmbH & Co. KG,STAWAG Energie GmbH,12.1,Wind,2017
+1924,Windpark Groß Eilstorf,enercity AG,52.3,Wind,2011
+1925,UW Uckerthal,ENERTRAG Aktiengeselschaft,20.7,Wind,2017
+1926,EWE Windpark Hatten,EWE ERNEUERBARE ENERGIEN GmbH,19.8,Wind,2016
+1927,HSW Windpark Ahorn-Buch,HSW Windpark Ahorn-Buch GmbH & Co. KG,11.1,Wind,2017
+1928,Windpark Kreuzstein,Windpark Kreuzstein GmbH & Co. KG,24.0,Wind,2017
+1929,,Holcim (Süddeutschland) GmbH,10.1,Other,2007
+1930,WP Schipkau Süd,KGE Schipkau Süd 1 GmbH & Co. KG,16.5,Wind,2017
+1931,Wiedenfelder Höhe A+B,innogy SE,13.2,Wind,2017
+1932,Eschweiler-Nord A,innogy SE,12.8,Wind,2017
+1933,Eschweiler-Fronhoven A,innogy SE,28.5,Wind,2017
+1934,Umspannwerk Lonsheim,innogy SE,17.0,Wind,2012
+1935,Windpark Rheinhessen I,innogy SE,12.2,Wind,2002
+1936,Windpark Rhede,innogy SE,14.3,Wind,2010
+1937,Umspannwerk WP S,innogy SE,29.0,Wind,2002
+1938,WPD Windpark,innogy SE,19.6,Wind,2016
+1939,K5/T7,Stadtwerke Flensburg GmbH,29.0,Gas,2016
+1940,WPD Windpark,innogy SE,19.8,Wind,2017
+1941,ENNI RMI Windpark Kohlenhuck Projektgesellschaft mbH,STEAG New Energies GmbH,12.0,Wind,2017
+1942,Nordsee One,Nordsee One GmbH,332.1,Wind,2017
+1943,OWP Veja Mate,Veja Mate Offshore Project GmbH,402.0,Wind,
+1944,HKW 3 Stuttgart-Gaisburg,EnBW Energie Baden-Württemberg AG,29151.0,Gas,2018
+1945,"Vorarlberger Illwerke AG ""Obervermuntwerk II""",EnBW Energie Baden-Württemberg AG,360.0,Hydro,2018
+1946,HKW Dresden-Nord,DREWAG Stadtwerke Dresden GmbH,11.5,Gas,2018
+1947,Wind Wipperdorf,Wind Wipperdorf GmbH & Co. KG,14.4,Wind,2017
+1948,CHORUS Wind Kappel,CHORUS Wind Kappel GmbH & Co. KG,16.1,Wind,2015
+1949,WP Haren - UW Niederlangen,Windpark Haren Verwaltungsgesellschaft mbH,50.7,Wind,
+1950,EWE Windpark Köhlen,EWE ERNEUERBARE ENERGIEN GmbH,27.5,Wind,2016
+1951,Windpark Haren - NAP Röchlingstraße,Windpark Haren Verwaltungsgesellschaft mbH,22.1,Wind,
+1952,UW Hinte,Windpark Hinte GmbH & Co. Ost KG,36.8,Wind,
+1953,,Solarkraftwerk Reckahn II GmbH & Co. KG,13.31,Solar,
+1954,Windpark Emden,VW Kraftwerk GmbH,11.5,Wind,2014
+1955,UW Genthin Ost,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,26.6,Wind,2014
+1956,UW Hermersberg,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,16.7,Wind,2016
+1957,UW Schloßvippach West,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,26.7,Wind,2017
+1958,Windpark Hungerberg I,Windpark Hungerberg I GmbH & Co. KG,12.2,Wind,2013
+1959,Windpark Hungerberg II,Windpark Hungerberg II GmbH & Co. KG,12.2,Wind,2013
+1960,HKW Lusan,ENGIE Deutschland GmbH,17.3,Gas,2018
+1961,HKW Tinz,ENGIE Deutschland GmbH,22.1,Gas,2018
+1962,GM,TEAG Thüringer Energie AG,10.0,Gas,2018
+1963,Bürgerwindpark Bordelum III,Bürgerwindpark Bordelum III GmbH & Co. KG,56.3,Wind,2013
+1964,WP Grabow-Reesen,Windpark GmbH & Co. Grabow-Reesen KG,18.4,Wind,2014
+1965,Windpark Neutz,Windpark Neutz GmbH & Co. KG,22.0,Wind,2012
+1966,Windpark Zieger,Windpark Zieger GmbH & Co. KG,11.5,Wind,2011
+1967,Windpark Domnitz,Windpark Domnitz GmbH & Co. KG,12.0,Wind,2009
+1968,swb Windpark Essel,swb Windpark Essel GmbH & Co. KG,13.2,Wind,2017
+1969,KWK Landshut,BMW AG,17.6,Gas,2019
+1970,Lichterfelde,Vattenfall Wärme Berlin AG,289.0,Gas,2019
+1971,Hybridregelkraftwerk,swb Erzeugung GmbH & Co. KG,18.0,Other,2019
+1972,Dampfturbine 5,Mainova AG,38.7,Gas,2018
+1973,KWK-Anlage Neukochen,Papierfabrik Palm GmbH & Co. KG,15.0,Gas,1960
+1974,Speicherkraftwerk,Allgäuer Überlandwerk GmbH,16.0,Other,2018
+1975,Arkona Becken Süd-Ost,AWE-Arkona-Windpark EntwicklungsGmbH,378.0,Wind,2018
+1976,Borkum Riffgrund 2,Borkum Riffgrund 2 Offshore Wind Farm GmbH & Co. oHG,464.8,Wind,2018
+1977,Batteriespseicher Jordelund,EnspireME GmbH,48.0,Other,2018
+1978,Naturstromspeicher Gaildorf,Naturstromspeicher Gaildorf GmbH & Co. KG,13.4,Wind,2017
+1979,Dingolfing BA2,BMW AG,13.5,Gas,2019
+1980,Küstenkraftwerk K.I.E.L.,Stadtwerke Kiel AG,188.0,Gas,2019
+1981,Werk 1.1,BMW AG,13.5,Gas,2019
+1982,Werk 1.5,BMW AG,13.6,Gas,2019

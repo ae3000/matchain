@@ -1,0 +1,1185 @@
+id,name,owner,capacity,fuel
+0,Spurness II,SSE,10.0,Wind
+1,Upper Holton Airfield,Temporis Capital,10.0,Wind
+2,Wear Point,John Laing Environmental Asset Group,10.0,Wind
+3,Westfield 2,Venitent Energy Services,10.0,Wind
+4,Wolf Bog,Scottish Power,10.0,Wind
+5,Woolley Hill,RES Group,10.0,Wind
+6,Bryn Titli,Venitent Energy Services,9.9,Wind
+7,Bambers,Ecotricity,9.6,Wind
+8,Bears Down,Venitent Energy Services,9.6,Wind
+9,Lochelbank,RWE Npower,9.6,Wind
+10,Cia Aig,RWE Npower,3.0,Hydro
+11,Llangwyryfon,EDF Energy,9.4,Wind
+12,Galsworthy,Ecotricity,9.2,Wind
+13,Hellrigg,RWE Npower,9.2,Wind
+14,Out Newton,E.ON UK,9.1,Wind
+15,Bessy Bell 2,SSE,9.0,Wind
+16,Bin Mountain,Greencoat Capital,9.0,Wind
+17,Lindhurst,RWE Npower,9.0,Wind
+18,Taff Ely,Venitent Energy Services,9.0,Wind
+19,Airfield Poddington,WPO,8.6,Wind
+20,Park Spring,EDF Energy,8.6,Wind
+21,Lednock,SSE,3.0,Hydro
+22,Beinn Ghlas,Venitent Energy Services,8.4,Wind
+23,Ramsey 2,REG WindPower,8.2,Wind
+24,Low Spinney,Venitent Energy Services,8.2,Wind
+25,Port of Sheerness,Peel Energy,8.2,Wind
+26,Sisters,Venitent Energy Services,8.2,Wind
+27,Broomhill,EDF Energy,8.0,Wind
+28,Craig,Temporis Capital,8.0,Wind
+29,Langley,EDF Energy,8.0,Wind
+30,Mynydd Brombil,REG WindPower,8.0,Wind
+31,Lough Hill,RES Group,7.8,Wind
+32,River E,RWE Npower,3.0,Hydro
+33,Blackstone Edge,Venitent Energy Services,7.5,Wind
+34,Flimby,Engie Power,7.5,Wind
+35,Lairg 2,WPO,7.5,Wind
+36,Dalby,Ecotricity,7.3,Wind
+37,Lendrums Bridge Extension,RES Group,7.3,Wind
+38,Potato Pot,WPO,7.2,Wind
+39,Roade,EDF Energy,7.2,Wind
+40,Rhyd y Groes,E.ON UK,7.0,Wind
+41,Royd Moor,E.ON UK,7.0,Wind
+42,Alveston,Ecotricity,6.9,Wind
+43,Douglas Water,RWE Npower,3.0,Hydro
+44,Hill of Fiddes,Venitent Energy Services,6.9,Wind
+45,Hillhead of Auquhirie,BayWa R.E,6.9,Wind
+46,Newton of Fortrie,WPO,6.9,Wind
+47,Strath of Brydock,WPO,6.9,Wind
+48,Tedder Hill,Venitent Energy Services,6.9,Wind
+49,Eye Airfield,Temporis Capital,6.8,Wind
+50,Winscales II,EDF Energy,6.8,Wind
+51,Fairfield,EDF Energy,6.5,Wind
+52,Lambrigg,Venitent Energy Services,6.5,Wind
+53,Boundary Lane,EDF Energy,6.2,Wind
+54,Cuaich (plus Comp Set),SSE,2.5,Hydro
+55,Dunsland Cross,Temporis Capital,6.2,Wind
+56,Acharin,Temporis Capital,6.0,Wind
+57,Betty Hill,WPO,6.0,Wind
+58,Bristol Port,Ecotricity,6.0,Wind
+59,Burnthouse Farm,REG WindPower,6.0,Wind
+60,Carcant,Greencoat Capital,6.0,Wind
+61,Hameldon Hill,RWE Npower,6.0,Wind
+62,Hameldon Hill Extension,RWE Npower,6.0,Wind
+63,Hawton 2,Temporis Capital,6.0,Wind
+64,High Haswell,REG WindPower,6.0,Wind
+65,Inverlael,RWE Npower,2.5,Hydro
+66,Lochhead,Temporis Capital,6.0,Wind
+67,Pen Bryn Oer,REG WindPower,6.0,Wind
+68,South Sharpley,REG WindPower,6.0,Wind
+69,Lendrums Bridge,RES Group,5.9,Wind
+70,Dagenham,Ecotricity,5.9,Wind
+71,Trysglwyn,Venitent Energy Services,5.6,Wind
+72,High Volts,E.ON UK,5.5,Wind
+73,Dyffryn Brodyn,RES Group,5.4,Wind
+74,Forss Extension,RES Group,5.2,Wind
+75,High Hedley II,EDF Energy,5.2,Wind
+76,Garrogie,RWE Npower,2.4,Hydro
+77,Trimdon,EDF Energy,5.2,Wind
+78,Haswell Moor Circuit 1,E.ON UK,5.1,Wind
+79,Haswell Moor Circuit 2,E.ON UK,5.1,Wind
+80,Bessy Bell 1,SSE,5.0,Wind
+81,Burgar Hill,RWE Npower,5.0,Wind
+82,Corkey,Scottish Power,5.0,Wind
+83,Elliots Hill,Scottish Power,5.0,Wind
+84,Eye,WPO,5.0,Wind
+85,Rigged Hill,Scottish Power,5.0,Wind
+86,Solutia (Newport),WPO,5.0,Wind
+87,Lussa (plus Comp Set),SSE,2.4,Hydro
+88,Brackagh Quarry,REG WindPower,5.0,Wind
+89,Kirkby Moor,Venitent Energy Services,4.8,Wind
+90,Pendine 2,Vattenfall,4.8,Wind
+91,Craig Extension,Temporis Capital,4.7,Wind
+92,Ballymena,Ecotricity,4.6,Wind
+93,Mossmorran,WPO,4.6,Wind
+94,Standford Hill,WPO,4.6,Wind
+95,Ysgellog,WPO,4.6,Wind
+96,Braich Ddu,REG WindPower,4.5,Wind
+97,Four Burrows,RES Group,4.5,Wind
+98,Mullardoch Tunnel,SSE,2.4,Hydro
+99,Loscar,REG WindPower,4.5,Wind
+100,Orchard End,REG WindPower,4.2,Wind
+101,Great Eppleton,E.ON UK,4.1,Wind
+102,Great Eppleton RO,E.ON UK,4.1,Wind
+103,Rodbaston,REG WindPower,4.1,Wind
+104,French Farm,REG WindPower,4.0,Wind
+105,Daintree,WPO,4.0,Wind
+106,Dundee,Ecotricity,4.0,Wind
+107,East Youlstone,WPO,4.0,Wind
+108,Garlenick,WPO,4.0,Wind
+109,Storr Lochs,SSE,2.4,Hydro
+110,Stevens Croft,E.On UK,46.0,Biomass
+111,Greendykeside,Temporis Capital,4.0,Wind
+112,Middle Balbeggie,WPO,4.0,Wind
+113,North Pickenham AirField,Temporis Capital,4.0,Wind
+114,Oakdale,WPO,4.0,Wind
+115,Weston Airfield,Temporis Capital,4.0,Wind
+116,Workington (Voridian),WPO,4.0,Wind
+117,Great Orton,EDF Energy,4.0,Wind
+118,Arnish Moor,WPO,3.9,Wind
+119,Bilbster,RWE Npower,3.9,Wind
+120,High Pow,REG WindPower,3.9,Wind
+121,Braevallich,RWE Npower,2.3,Hydro
+122,Parc Cynog,Vattenfall,3.6,Wind
+123,Haverigg III,WPO,3.4,Wind
+124,Castle Pill,John Laing Environmental Asset Group,3.3,Wind
+125,Cathkin Braes,SSE,3.0,Wind
+126,Hare Hill 2,E.ON UK,3.0,Wind
+127,Seaforth,Peel Energy,3.0,Wind
+128,Hare Hill RO,E.ON UK,2.8,Wind
+129,High Sharpley,REG WindPower,2.8,Wind
+130,High Volts RO,E.ON UK,2.8,Wind
+131,Holmside,E.ON UK,2.8,Wind
+132,Loch Ericht,SSE,2.2,Hydro
+133,Holmside RO,E.ON UK,2.8,Wind
+134,Crimp,Engie Power,2.7,Wind
+135,The Hollies 2,RWE Npower,2.6,Wind
+136,Maesgwyn Extension,Pennant Walters,2.5,Wind
+137,High Hedley I,EDF Energy,2.4,Wind
+138,Rheidol,Venitent Energy Services,2.4,Wind
+139,Bogenlea,Greencoat Capital,2.3,Wind
+140,Tow Law,Venitent Energy Services,2.3,Wind
+141,Cardiff,Ecotricity,2.3,Wind
+142,Dewlay (Garstang),WPO,2.0,Wind
+143,Culligran Comp Set,SSE,2.0,Hydro
+144,Forss,RES Group,2.0,Wind
+145,Green Park,Ecotricity,2.0,Wind
+146,Ramsey 1,REG WindPower,2.0,Wind
+147,Shooters,Ecotricity,2.0,Wind
+148,Whittlesey,REG WindPower,2.0,Wind
+149,Worksop,Ecotricity,2.0,Wind
+150,Winscales I,EDF Energy,2.0,Wind
+151,Kirkheaton,EDF Energy,1.8,Wind
+152,Somerton,Ecotricity,1.8,Wind
+153,Swaffham II,Ecotricity,1.8,Wind
+154,Grudie,RWE Npower,2.0,Hydro
+155,Roskrow Barton,REG WindPower,1.7,Wind
+156,Ecotech,Ecotricity,1.5,Wind
+157,FMC Dunfermline,WPO,1.5,Wind
+158,Greenvale March,WPO,1.5,Wind
+159,Wythegill,WPO,1.5,Wind
+160,Mablethorpe,Ecotricity,1.2,Wind
+161,Barlborough,REG WindPower,0.8,Wind
+162,H+H,Ecotricity,0.8,Wind
+163,QEH,Ecotricity,0.8,Wind
+164,RSPB,Ecotricity,0.8,Wind
+165,Kilmelford,SSE,2.0,Hydro
+166,East Kilbride,Ecotricity,0.6,Wind
+167,High Down,REG WindPower,0.5,Wind
+168,Lynch Knoll,Ecotricity,0.5,Wind
+169,Aberthaw B,RWE Npower,1559.0,Coal
+170,Coryton,Intergen,800.0,Gas
+171,Cottam,EDF Energy,2000.0,Coal
+172,Cottam Development Centre,Uniper UK,445.0,Gas
+173,Cowes,RWE Npower,140.0,Oil
+174,Damhead Creek,Drax Power,805.0,Gas
+175,Didcot B,RWE Npower,1450.0,Gas
+176,Lochay Comp Set,SSE,2.0,Hydro
+177,Enfield,Uniper UK,408.0,Gas
+178,Ferrybridge Multi-fuel,Ferrybridge Mulitfuel Energy,80.0,Waste
+179,Glanford Brigg,Centrica,99.0,Gas
+180,Grain CHP,Uniper UK,1517.0,Gas
+181,VPI Immingham,Vitol,1252.0,Gas
+182,Killingholme A,Uniper UK,600.0,Gas
+183,Killingholme B,Uniper UK,600.0,Gas
+184,Kilroot,AES,559.0,Coal
+185,Langage,EPUKi,905.0,Gas
+186,Lynemouth 2,EPUKi,420.0,Biomass
+187,Allt Fionn,Temporis Capital,2.0,Hydro
+188,Marchwood,Marchwood Power,898.0,Gas
+189,Medway,SSE,755.0,Gas
+190,Pembroke,RWE Npower,2199.0,Gas
+191,Peterborough,Centrica,245.0,Gas
+192,Rocksavage,Intergen,810.0,Gas
+193,Saltend,Energy Capital Partners,1200.0,Gas
+194,Seabank,Seabank Power,1234.0,Gas
+195,Severn Power,Calon Energy,850.0,Gas
+196,Shoreham,Drax Power,420.0,Gas
+197,South Humber Bank,EPUKi,1365.0,Gas
+198,Derrydarroch,Temporis Capital,2.0,Hydro
+199,Staythorpe C,RWE Npower,1772.0,Gas
+200,Sutton Bridge,Calon Energy,819.0,Gas
+201,Teesside,EDF Energy,62.0,Wind
+202,Uskmouth Power,SIMEC,230.0,Coal
+203,West Burton,EDF Energy,2000.0,Coal
+204,Mucomir,SSE,1.9,Hydro
+205,Carnoch,RWE Npower,1.4,Hydro
+206,Blackburn Meadows,E.On UK,34.0,Biomass
+207,Chliostair,SSE,1.3,Hydro
+208,Nostie Bridge (plus Comp Set),SSE,1.3,Hydro
+209,Kerry Falls,SSE,1.3,Hydro
+210,Rheidol Hydro Scheme Gen 4,Statkraft,1.3,Hydro
+211,Loch Dubh,SSE,1.2,Hydro
+212,Drumjohn,Drax Power,1.0,Hydro
+213,Inverbain,RWE Npower,1.0,Hydro
+214,Upper Falloch,Temporis Capital,0.9,Hydro
+215,Awe Barrage - A,SSE,0.9,Hydro
+216,Glen Tarbert,RWE Npower,0.9,Hydro
+217,Ratcliffe,Uniper UK,2021.0,Coal
+218,Stanley Mill,RWE Npower,0.8,Hydro
+219,Garry Gualach,RWE Npower,0.8,Hydro
+220,Morar,SSE,0.8,Hydro
+221,Selset,RWE Npower,0.8,Hydro
+222,Gisla,SSE,0.7,Hydro
+223,Auchtertyre,RWE Npower,0.6,Hydro
+224,Blantyre,RWE Npower,0.6,Hydro
+225,Garnedd,RWE Npower,0.6,Hydro
+226,Loyne Tunnel,SSE,0.6,Hydro
+227,Trinafour,SSE,0.6,Hydro
+228,Fiddlers Ferry,SSE,1961.0,Coal
+229,Croesor,RWE Npower,0.5,Hydro
+230,Dulyn,RWE Npower,0.5,Hydro
+231,Duchally,SSE,0.5,Hydro
+232,Misgeach,SSE,0.4,Hydro
+233,Cluanie Dam,SSE,0.3,Hydro
+234,Quoich Dam,SSE,0.3,Hydro
+235,Vaich,SSE,0.3,Hydro
+236,Tobermory,SSE,0.3,Hydro
+237,Orrin Dam,SSE,0.3,Hydro
+238,Invergarry Dam,SSE,0.2,Hydro
+239,Drax - coal units,Drax Power,1320.0,Coal
+240,Cladach Dam,SSE,0.2,Hydro
+241,Stronuich,SSE,0.2,Hydro
+242,Clunie Dam,SSE,0.2,Hydro
+243,Beannachran Dam,SSE,0.2,Hydro
+244,Dundreggan Dam,SSE,0.2,Hydro
+245,Rheidol Hydro Scheme Gen 7,Statkraft,0.1,Hydro
+246,Shin Diversion Dam,SSE,0.1,Hydro
+247,Luichart Dam,SSE,0.1,Hydro
+248,Tralaig,SSE,0.1,Hydro
+249,Kilmelford Comp Set,SSE,0.1,Hydro
+250,Taylors Lane GT,Uniper UK,144.0,Oil
+251,Meig Dam,SSE,0.1,Hydro
+252,Rheidol Hydro Scheme Gen 5,Statkraft,0.1,Hydro
+253,Pitlochry Comp Set,SSE,0.1,Hydro
+254,Lochay Fish Pass,SSE,0.1,Hydro
+255,Rheidol Hydro Scheme Gen 6,Statkraft,0.1,Hydro
+256,Foyers,SSE,300.0,Hydro
+257,West Burton CCGT,EDF Energy,1332.0,Gas
+258,Peterhead,SSE,1180.0,Gas
+259,Spalding,Intergen,950.0,Gas
+260,Carrington,ESB,910.0,Gas
+261,Kilroot GT,AES,143.2,Oil
+262,Keadby 1,SSE,735.0,Gas
+263,Little Barford,RWE Npower,723.0,Gas
+264,Rye House,Drax Power,715.0,Gas
+265,Ballylumford C,AES,616.0,Gas
+266,Baglan Bay,Calon Energy,520.0,Gas
+267,Great Yarmouth,RWE Npower,420.0,Gas
+268,Coolkeeragh,ESB,413.0,Gas
+269,Corby,ESB,407.0,Gas
+270,Fellside CHP,Fellside Heat and Power,155.0,Gas
+271,Wilton GT,Sembcorp Utilities,120.0,Gas
+272,Indian Queens,Energy Capital Partners,140.0,Oil
+273,Blackburn,Drax Power,60.0,Gas
+274,Castleford,E.On UK,56.0,Gas
+275,Sandbach,E.On UK,56.0,Gas
+276,Thornhill,E.On UK,50.0,Gas
+277,Burghfield,SSE,50.0,Gas
+278,Chickerell,SSE,50.0,Gas
+279,Chippenham,SSE,10.1,Gas
+280,Pilkington - Greengate,SSE,10.0,Gas
+281,London Heat Power,EDF Energy,9.0,Gas
+282,Barkantine Heat Power,EDF Energy,1.0,Gas
+283,Ballylumford B GT1 GT2,AES,116.0,Oil
+284,Heysham 2,EDF Energy,1254.0,Nuclear
+285,Torness,EDF Energy,1250.0,Nuclear
+286,Sizewell B,EDF Energy,1223.0,Nuclear
+287,Hartlepool,EDF Energy,1207.0,Nuclear
+288,Heysham 1,EDF Energy,1179.0,Nuclear
+289,Dungeness B,EDF Energy,1120.0,Nuclear
+290,Hinkley Point B,EDF Energy,1061.0,Nuclear
+291,Hunterston B,EDF Energy,1020.0,Nuclear
+292,Dinorwig,Engie Power,1800.0,Hydro
+293,Cruachan,Drax Power,440.0,Hydro
+294,Didcot GT,RWE Npower,100.0,Oil
+295,Thetford,EPR,41.5,Biomass
+296,Ffestiniog,Engie Power,360.0,Hydro
+297,Shotwick,Foresight Group,72.2,Solar
+298,Bradenstoke,British Solar Renewables,69.8,Solar
+299,Swindon,Toucan Energy Services,60.9,Solar
+300,Owls Hatch,Cubico Sustainable Investments,51.9,Solar
+301,Eveley,Greencoat Capital,49.3,Solar
+302,Bann Road,Greencoat Capital,45.8,Solar
+303,Crundale,Lightsource BP,43.7,Solar
+304,Coltishall 1,Greencoat Capital,33.7,Solar
+305,Ermine Street,Octopus Investments,32.4,Solar
+306,Drax GT,Drax Power,75.0,Oil
+307,Broxted,Cubico Sustainable Investments,31.6,Solar
+308,Melbourn Muncey Farm,Octopus Investments,30.9,Solar
+309,Exning,Lightsource BP,30.3,Solar
+310,Waterloo Farm 1 2,Octopus Investments,28.7,Solar
+311,Hill House Farm,Lightsource BP,28.3,Solar
+312,Morton,Toucan Energy Services,28.1,Solar
+313,Maghaberry,Lightsource BP,27.1,Solar
+314,South Creake,Lightsource BP,26.0,Solar
+315,Abbots Ripton,Octopus Investments,24.7,Solar
+316,Stowbridge,Toucan Energy Services,24.3,Solar
+317,Lerwick,SSE,67.0,Oil
+318,Parley,RES Group,24.2,Solar
+319,Bury Lane,Lightsource BP,22.2,Solar
+320,Chalgrove,REG WindPower,21.3,Solar
+321,Grange Farm 1,Toucan Energy Services,21.1,Solar
+322,Pitchford,Octopus Investments,21.0,Solar
+323,Egmere,RES Group,21.0,Solar
+324,Fareham,Lightsource BP,20.5,Solar
+325,Lisburn,Toucan Energy Services,20.5,Solar
+326,Aston House,Toucan Energy Services,19.8,Solar
+327,Thoresby,Octopus Investments,19.8,Solar
+328,Grain GT,Uniper UK,56.0,Oil
+329,Says Court,Lightsource BP,19.8,Solar
+330,Newton Ferrers,REG WindPower,19.5,Solar
+331,Willburton 2 (Mingay Farm),Octopus Investments,19.3,Solar
+332,Sycamore,Octopus Investments,19.0,Solar
+333,Melbourn Black Peak,Octopus Investments,19.0,Solar
+334,Hadlow,Cubico Sustainable Investments,18.9,Solar
+335,Six Hills,Octopus Investments,18.7,Solar
+336,Wix Lodge (Stour Fields),RES Group,18.7,Solar
+337,Hartwell,REG WindPower,18.6,Solar
+338,Sundorne,Lightsource BP,18.2,Solar
+339,Coolkeeragh GT,ESB,53.0,Oil
+340,Christchurch,Greencoat Capital,17.9,Solar
+341,Crucis Farm,Lightsource BP,16.1,Solar
+342,Welbeck 1,Toucan Energy Services,16.0,Solar
+343,Prestop Park,Lightsource BP,15.9,Solar
+344,Castle Combe,Lightsource BP,15.3,Solar
+345,Hook Valley,Wise Energy,15.3,Solar
+346,Anglesey,Anesco,14.9,Solar
+347,SPD 2 Hall Farm,REG WindPower,14.9,Solar
+348,Bryn Yr Odyn,Octopus Investments,14.9,Solar
+349,Malmaynes,Toucan Energy Services,14.8,Solar
+350,West Burton GT,EDF Energy,40.0,Oil
+351,Brynteg,Lightsource BP,14.8,Solar
+352,Charity Farm,Lightsource BP,14.4,Solar
+353,Little Morton,Octopus Investments,14.3,Solar
+354,Littlewood,Toucan Energy Services,13.7,Solar
+355,Wedgehill,Octopus Investments,13.5,Solar
+356,Hendai,Toucan Energy Services,13.4,Solar
+357,Woodlands Farm,Octopus Investments,13.2,Solar
+358,Burthy,Lightsource BP,13.1,Solar
+359,Errol,Greencoat Capital,13.0,Solar
+360,Westerfield,Octopus Investments,13.0,Solar
+361,Fiddlers Ferry GT,SSE,35.0,Oil
+362,Parciau,Octopus Investments,12.7,Solar
+363,Burcroft,Wise Energy,12.7,Solar
+364,Chediston Hall,Octopus Investments,12.3,Solar
+365,Chisbon,Octopus Investments,12.3,Solar
+366,Hale Farm,REG WindPower,12.2,Solar
+367,Fairwinds,Lightsource BP,12.2,Solar
+368,Littleton Farm,Octopus Investments,12.0,Solar
+369,Bishops Sutton,Octopus Investments,12.0,Solar
+370,Mount Mill,Octopus Investments,12.0,Solar
+371,Lodge Farm 1,Octopus Investments,12.0,Solar
+372,Ratcliffe GT,Uniper UK,34.0,Oil
+373,Singrug,Octopus Investments,12.0,Solar
+374,Lower Newton,REG WindPower,11.9,Solar
+375,Eakring,Octopus Investments,11.8,Solar
+376,Stratton Hall,Octopus Investments,11.8,Solar
+377,Derriton (Tamar Heights),RES Group,11.7,Solar
+378,Hendre Fawr,Toucan Energy Services,11.6,Solar
+379,Bobbing,Greencoat Capital,11.6,Solar
+380,Ford,Toucan Energy Services,11.6,Solar
+381,Knowlton,Lightsource BP,11.5,Solar
+382,Burntstalk Farm,Octopus Investments,11.5,Solar
+383,Baglan Bay GT,Calon Energy,32.3,Oil
+384,New Stone House,Toucan Energy Services,11.5,Solar
+385,Wiggin Hill,Octopus Investments,11.4,Solar
+386,Welbeck 2,Anesco,11.3,Solar
+387,Sellindge,Greencoat Capital,11.2,Solar
+388,Norrington,Lightsource BP,11.1,Solar
+389,Penare,RES Group,11.1,Solar
+390,Bentham,Toucan Energy Services,11.1,Solar
+391,Hill Farm (OI),Octopus Investments,10.8,Solar
+392,Wrangle Farm,Greencoat Capital,10.8,Solar
+393,The Hydes,Octopus Investments,10.7,Solar
+394,Keadby GT,SSE,25.0,Oil
+395,Bluegates,Toucan Energy Services,10.7,Solar
+396,Skegness,Anesco,10.7,Solar
+397,Tillhouse,Octopus Investments,10.5,Solar
+398,Wrockwardine,Lightsource BP,10.5,Solar
+399,Hoplass,Greencoat Capital,10.3,Solar
+400,Huntingdon,Anesco,10.2,Solar
+401,Carnemough,Greencoat Capital,10.1,Solar
+402,Chapel Hill,Toucan Energy Services,10.1,Solar
+403,Steventon,Anesco,10.0,Solar
+404,Upper Farm,Toucan Energy Services,10.0,Solar
+405,Stornoway,SSE,23.0,Oil
+406,Glanford,EPR,16.7,Biomass
+407,Owls Lodge,Anesco,10.0,Solar
+408,Belfast Road,Lightsource BP,10.0,Solar
+409,Manston,Lightsource BP,9.8,Solar
+410,Southfield,Cubico Sustainable Investments,9.8,Solar
+411,Garvinack,Toucan Energy Services,9.6,Solar
+412,Rydon Farm,Octopus Investments,9.6,Solar
+413,SPD 3 Grange Farm,REG WindPower,9.5,Solar
+414,Wilton 2,Greencoat Capital,9.5,Solar
+415,Westwood,Lightsource BP,9.2,Solar
+416,Spittleborough,Octopus Investments,9.1,Solar
+417,Little Barford GT,RWE Npower,17.0,Oil
+418,Epwell,Lightsource BP,9.0,Solar
+419,Natewood,Octopus Investments,9.0,Solar
+420,Brook Farm,Lightsource BP,8.9,Solar
+421,Somerton Door,Octopus Investments,8.7,Solar
+422,The Hollies 1,Octopus Investments,8.6,Solar
+423,Pyde Drove,Octopus Investments,8.4,Solar
+424,North Wayton,Octopus Investments,8.4,Solar
+425,Hullavington,Octopus Investments,8.3,Solar
+426,Lower House,Greencoat Capital,8.2,Solar
+427,Pencoose,REG WindPower,8.1,Solar
+428,Kirkwall,SSE,16.0,Oil
+429,Horam,Lightsource BP,8.1,Solar
+430,Yarburgh,Anesco,8.1,Solar
+431,Lexham,Octopus Investments,7.9,Solar
+432,Hill Farm,Lightsource BP,7.7,Solar
+433,Abergelli,Anesco,7.7,Solar
+434,Avenue Farm,Octopus Investments,7.6,Solar
+435,West Farm,Lightsource BP,7.6,Solar
+436,Hunciecroft,Toucan Energy Services,7.6,Solar
+437,Whitley (Ashcott Farm),Wise Energy,7.6,Solar
+438,Weston Longville,Toucan Energy Services,7.6,Solar
+439,Loch Carnan South Uist,SSE,11.0,Oil
+440,Sutton Mawr,Octopus Investments,7.5,Solar
+441,Stonebarrow,Greencoat Capital,7.5,Solar
+442,Blackdown,Anesco,7.5,Solar
+443,Coombe,Greencoat Capital,7.3,Solar
+444,Millar Farm,Lightsource BP,7.2,Solar
+445,Four Burrows (Kenwyn),RES Group,7.2,Solar
+446,Newnton Dairy,Anesco,7.2,Solar
+447,Mendip,Anesco,7.2,Solar
+448,Westover,Greencoat Capital,7.0,Solar
+449,Parsonage (Hazel),RES Group,7.0,Solar
+450,Arnish,SSE,10.0,Oil
+451,Oaklands 1,Octopus Investments,6.9,Solar
+452,East Farm,Anesco,6.8,Solar
+453,Place Farm,Toucan Energy Services,6.8,Solar
+454,Higher Bye,Anesco,6.8,Solar
+455,Pen-Y-Cae,Anesco,6.8,Solar
+456,Parkhouse,Octopus Investments,6.6,Solar
+457,Playters,Anesco,6.6,Solar
+458,Lenham,Octopus Investments,6.6,Solar
+459,Whitchurch,Anesco,6.5,Solar
+460,Brett Martin,Lightsource BP,6.5,Solar
+461,Five Oaks 1,SSE,9.0,Oil
+462,Redbridge,Greencoat Capital,6.5,Solar
+463,Rudge Manor,Octopus Investments,6.4,Solar
+464,Rhydypandy,Toucan Energy Services,6.4,Solar
+465,Chalcroft,Octopus Investments,6.3,Solar
+466,QE2 Reservoir,Lightsource BP,6.3,Solar
+467,Saron,Anesco,6.3,Solar
+468,Chittering 2,Octopus Investments,6.3,Solar
+469,Reaches Farm,Octopus Investments,6.2,Solar
+470,SPD 4 Gelliwern,REG WindPower,6.2,Solar
+471,Isle of Wight,Toucan Energy Services,6.2,Solar
+472,Thatcham,SSE,9.0,Oil
+473,Marley Thatch,Octopus Investments,6.2,Solar
+474,Manston Thorne,Octopus Investments,6.2,Solar
+475,Upper Farringdon,Octopus Investments,6.2,Solar
+476,Langunnett,Lightsource BP,6.2,Solar
+477,Little Neath,Lightsource BP,6.1,Solar
+478,Meadow Farm,Octopus Investments,6.1,Solar
+479,Blenches Mill,Wise Energy,6.1,Solar
+480,Ottringham,Octopus Investments,6.1,Solar
+481,Drapers Farm,Octopus Investments,6.0,Solar
+482,Hewas,Octopus Investments,6.0,Solar
+483,Bowmore,SSE,6.0,Oil
+484,Carrowdore,Toucan Energy Services,6.0,Solar
+485,Finvoy,Lightsource BP,6.0,Solar
+486,Moira Road,Lightsource BP,5.9,Solar
+487,Caswell,Octopus Investments,5.9,Solar
+488,Tregassow,Octopus Investments,5.9,Solar
+489,Grange Farm 2,Anesco,5.8,Solar
+490,Bilsthorpe 1,Anesco,5.7,Solar
+491,Gedling,Anesco,5.7,Solar
+492,Raglington Farm,Wise Energy,5.7,Solar
+493,Hazard,Octopus Investments,5.7,Solar
+494,Barra,SSE,2.5,Oil
+495,Bulls Head North,Anesco,5.5,Solar
+496,West Hall,Octopus Investments,5.5,Solar
+497,Salcey Farm,Anesco,5.5,Solar
+498,Little Trevease,Octopus Investments,5.4,Solar
+499,Shipton Bellinger,Octopus Investments,5.4,Solar
+500,Tavells,Octopus Investments,5.4,Solar
+501,Hillside,Lightsource BP,5.4,Solar
+502,Lough Road,Lightsource BP,5.4,Solar
+503,Knockairn Road,Lightsource BP,5.4,Solar
+504,Decoy,Octopus Investments,5.3,Solar
+505,Tiree,SSE,2.5,Oil
+506,Bradford,Octopus Investments,5.3,Solar
+507,Hatchlands,Octopus Investments,5.2,Solar
+508,Bentley,Octopus Investments,5.2,Solar
+509,Westwood Farm,Octopus Investments,5.1,Solar
+510,Shelswell,Anesco,5.1,Solar
+511,Rew Farm,Octopus Investments,5.1,Solar
+512,Arna Wood,Greencoat Capital,5.0,Solar
+513,Belper,Greencoat Capital,5.0,Solar
+514,Bent Spur,Greencoat Capital,5.0,Solar
+515,Berthllwyd,Greencoat Capital,5.0,Solar
+516,Sloy,SSE,152.5,Hydro
+517,Westfield 1,EPR,12.5,Biomass
+518,Bodwen,Greencoat Capital,5.0,Solar
+519,Bolsovermoor Quarry,Lightsource BP,5.0,Solar
+520,Bumpers Farm,Anesco,5.0,Solar
+521,Burnham Wick,Toucan Energy Services,5.0,Solar
+522,Canopus,Toucan Energy Services,5.0,Solar
+523,Cockett Valley,Greencoat Capital,5.0,Solar
+524,Cold Harbour,Lightsource BP,5.0,Solar
+525,Ebnal Lodge,Greencoat Capital,5.0,Solar
+526,Five Oaks 2,Toucan Energy Services,5.0,Solar
+527,Guston,Toucan Energy Services,5.0,Solar
+528,Glendoe,SSE,100.0,Hydro
+529,Hunger Hill,Greencoat Capital,5.0,Solar
+530,Kinblethmont,Cubico Sustainable Investments,5.0,Solar
+531,Lawrence End Park,Lightsource BP,5.0,Solar
+532,Marvel (Stone Farm),RES Group,5.0,Solar
+533,Nanthenfoel,Anesco,5.0,Solar
+534,North Tenement,Lightsource BP,5.0,Solar
+535,Oaklands 2,Eneco Wind UK,5.0,Solar
+536,Pantymoch,Greencoat Capital,5.0,Solar
+537,Peterlee,Octopus Investments,5.0,Solar
+538,Royston,Greencoat Capital,5.0,Solar
+539,Errochty,SSE,75.0,Hydro
+540,Safeguard Bradwall,Lightsource BP,5.0,Solar
+541,Sandhutton,Greencoat Capital,5.0,Solar
+542,School Aycliffe,Lightsource BP,5.0,Solar
+543,Sheriffhales,Lightsource BP,5.0,Solar
+544,Sudbrook,Greencoat Capital,5.0,Solar
+545,Trowle,Toucan Energy Services,5.0,Solar
+546,Upper wick,Toucan Energy Services,5.0,Solar
+547,West Carclaze,Greencoat Capital,5.0,Solar
+548,Widehurst,Toucan Energy Services,5.0,Solar
+549,Wilbees,Toucan Energy Services,5.0,Solar
+550,Fasnakyle,SSE,69.0,Hydro
+551,Fawley (Langley),Lightsource BP,5.0,Solar
+552,Howton,Lightsource BP,5.0,Solar
+553,Bake Farm,Cubico Sustainable Investments,5.0,Solar
+554,Guynd,Cubico Sustainable Investments,5.0,Solar
+555,Newlands Farm,Cubico Sustainable Investments,5.0,Solar
+556,Short Hazel,Octopus Investments,5.0,Solar
+557,Stragglethorpe,Lightsource BP,5.0,Solar
+558,The Breck,Octopus Investments,5.0,Solar
+559,Walland Farm,Octopus Investments,5.0,Solar
+560,Shuttleworth,Toucan Energy Services,5.0,Solar
+561,Clunie,SSE,61.2,Hydro
+562,Tower Hayes,Toucan Energy Services,5.0,Solar
+563,Beeches,Anesco,5.0,Solar
+564,Birch Estate,Octopus Investments,5.0,Solar
+565,Cloford Common Farm,Octopus Investments,5.0,Solar
+566,Guisborough,Octopus Investments,5.0,Solar
+567,Hermitage,Anesco,5.0,Solar
+568,Merston,Greencoat Capital,5.0,Solar
+569,Hill Hall Farm,Lightsource BP,5.0,Solar
+570,Carlisle Estate,Octopus Investments,5.0,Solar
+571,Causilgey,Octopus Investments,5.0,Solar
+572,Lochay,SSE,46.0,Hydro
+573,Low Burntoft,Anesco,5.0,Solar
+574,Meadow Farm (Thorpe Lanton),Lightsource BP,5.0,Solar
+575,Molland Farm,Octopus Investments,5.0,Solar
+576,Park Wall,Octopus Investments,5.0,Solar
+577,Staining Wood,Octopus Investments,5.0,Solar
+578,Turves,Octopus Investments,5.0,Solar
+579,Binsted,Lightsource BP,5.0,Solar
+580,Peter Hill,Octopus Investments,5.0,Solar
+581,Pollington Airfield,Octopus Investments,5.0,Solar
+582,Fields Farm (Agden),Lightsource BP,5.0,Solar
+583,Rannoch,SSE,45.0,Hydro
+584,Deepdale,Octopus Investments,5.0,Solar
+585,Ash Row Farm,Octopus Investments,5.0,Solar
+586,Averill Farm,Octopus Investments,5.0,Solar
+587,Brookside,Anesco,5.0,Solar
+588,Chilton Cantelo,Wise Energy,5.0,Solar
+589,Crossways,Wise Energy,5.0,Solar
+590,Mill Hill Farm,Octopus Investments,5.0,Solar
+591,Shaftesbury,Lightsource BP,5.0,Solar
+592,Trench Farm,Octopus Investments,5.0,Solar
+593,Acrefair,Lightsource BP,5.0,Solar
+594,Clachan,SSE,40.0,Hydro
+595,Hadley Farm,Lightsource BP,5.0,Solar
+596,Hornacott,Lightsource BP,5.0,Solar
+597,Ffos Las,Lightsource BP,5.0,Solar
+598,EPG Netley,Greencoat Capital,5.0,Solar
+599,Mill Farm,Toucan Energy Services,5.0,Solar
+600,Bentley Estate 2,Lightsource BP,5.0,Solar
+601,Shalfleet,Anesco,5.0,Solar
+602,Capel Grange,Engie Power,5.0,Solar
+603,Holtwood,Octopus Investments,5.0,Solar
+604,Cressing,Octopus Investments,5.0,Solar
+605,Deanie,SSE,38.0,Hydro
+606,Huntspill,Greencoat Capital,5.0,Solar
+607,Chittering 1,Lightsource BP,5.0,Solar
+608,Potters Bar,Greencoat Capital,5.0,Solar
+609,Brickkiln Lane,Octopus Investments,5.0,Solar
+610,Cwrt Henllys,Lightsource BP,5.0,Solar
+611,Bratton Fleming,Octopus Investments,5.0,Solar
+612,Astley,Toucan Energy Services,5.0,Solar
+613,Lochcraigs Farm,Octopus Investments,5.0,Solar
+614,Manor Farm Eggington,Lightsource BP,5.0,Solar
+615,Islip,Greencoat Capital,5.0,Solar
+616,Glenmoriston,SSE,37.0,Hydro
+617,Bedborough,Greencoat Capital,5.0,Solar
+618,Ainderby,Greencoat Capital,5.0,Solar
+619,Clay Cross,Greencoat Capital,5.0,Solar
+620,Henley,Greencoat Capital,5.0,Solar
+621,Warren,Anesco,5.0,Solar
+622,Wilburton,Lightsource BP,5.0,Solar
+623,Bilsborrow,Greencoat Capital,5.0,Solar
+624,Home Farm,Toucan Energy Services,5.0,Solar
+625,Newton,Toucan Energy Services,5.0,Solar
+626,Lee Moor,Anesco,5.0,Solar
+627,Maentwrog,Magnox Electric,35.3,Hydro
+628,Eye Suffolk,EPR,14.3,Biomass
+629,Butleigh,British Solar Renewables,5.0,Solar
+630,Higher Hill,British Solar Renewables,5.0,Solar
+631,Penyrheollas,Octopus Investments,5.0,Solar
+632,Sheep Shed,Anesco,5.0,Solar
+633,Church Farm - Slapton,Lightsource BP,5.0,Solar
+634,Cotgrave,Anesco,5.0,Solar
+635,Blue House,Anesco,5.0,Solar
+636,East Appleton,Anesco,5.0,Solar
+637,Stripe,Anesco,5.0,Solar
+638,The Leys,Anesco,5.0,Solar
+639,Luichart,SSE,34.0,Hydro
+640,Woodhouse,Toucan Energy Services,5.0,Solar
+641,The Rushes,Anesco,5.0,Solar
+642,West Strathore,Greencoat Capital,5.0,Solar
+643,Bodmin,Lightsource BP,5.0,Solar
+644,Blackwell,Anesco,5.0,Solar
+645,Ramsey Heights,Greencoat Capital,5.0,Solar
+646,Long Ash Lane,British Solar Renewables,5.0,Solar
+647,Askern,Anesco,5.0,Solar
+648,Ramsey Airfield,Greencoat Capital,5.0,Solar
+649,Moss Thorn,Anesco,5.0,Solar
+650,Tummel,SSE,34.0,Hydro
+651,Tooley Farm,Octopus Investments,5.0,Solar
+652,Outwood,Toucan Energy Services,5.0,Solar
+653,Pen y cae,Toucan Energy Services,5.0,Solar
+654,Coltishall 2.3,Greencoat Capital,5.0,Solar
+655,Great Seabrook,Toucan Energy Services,5.0,Solar
+656,Balcombe,Toucan Energy Services,5.0,Solar
+657,Wick Red Farm,Lightsource BP,5.0,Solar
+658,Springhill,Greencoat Capital,4.9,Solar
+659,Fanny House,Greencoat Capital,4.9,Solar
+660,Hyde Farm,Anesco,4.9,Solar
+661,Tongland,Drax Power,33.0,Hydro
+662,Skylark,Anesco,4.9,Solar
+663,Ferry Farm,Greencoat Capital,4.9,Solar
+664,Manor Farm Dorset,Octopus Investments,4.9,Solar
+665,Nefyn (Tyddyn Cae),Lightsource BP,4.9,Solar
+666,Moor House,Toucan Energy Services,4.9,Solar
+667,Northmoor,Octopus Investments,4.9,Solar
+668,Coltishall 2.2,Greencoat Capital,4.9,Solar
+669,Pantymoch CIC,Greencoat Capital,4.9,Solar
+670,Pendine 1,Vattenfall,4.9,Solar
+671,Royston CIC,Greencoat Capital,4.9,Solar
+672,Inverawe,SSE,25.0,Hydro
+673,Wrea Green,Toucan Energy Services,4.9,Solar
+674,Lodge Farm 2,Anesco,4.9,Solar
+675,Grantham,Cubico Sustainable Investments,4.9,Solar
+676,Hawton 1,Lightsource BP,4.9,Solar
+677,Manor Farm 1,Greencoat Capital,4.9,Solar
+678,Oak Cottage,Anesco,4.9,Solar
+679,Upper Meadowley,Greencoat Capital,4.9,Solar
+680,Strete,Octopus Investments,4.9,Solar
+681,Lagness,Greencoat Capital,4.8,Solar
+682,Wyld Meadow Farm,Wise Energy,4.8,Solar
+683,Glenlee,Drax Power,24.0,Hydro
+684,Crookedstone,Lightsource BP,4.8,Solar
+685,Ashton,Anesco,4.8,Solar
+686,Ashby,Greencoat Capital,4.8,Solar
+687,RedHill Farm,Lightsource BP,4.8,Solar
+688,Rainbow,Anesco,4.8,Solar
+689,Bentley Estate 1,Lightsource BP,4.8,Solar
+690,Coltishall 2.1,Greencoat Capital,4.8,Solar
+691,Burnthouse,Lightsource BP,4.8,Solar
+692,Upper Clayhill,Lightsource BP,4.7,Solar
+693,Pen Rhiw,Lightsource BP,4.7,Solar
+694,Kendoon,Drax Power,24.0,Hydro
+695,Lucern,Anesco,4.7,Solar
+696,The Oaks,Anesco,4.7,Solar
+697,Carmarthen,Greencoat Capital,4.7,Solar
+698,Wick Road,Greencoat Capital,4.7,Solar
+699,Barn Farm,Octopus Investments,4.7,Solar
+700,Brook hall,Anesco,4.7,Solar
+701,Stormy Down,Octopus Investments,4.7,Solar
+702,Crapnell Farm,Octopus Investments,4.7,Solar
+703,Knockworthy Farm,Wise Energy,4.6,Solar
+704,Oakham,Anesco,4.6,Solar
+705,Rheidol Hydro Scheme Gen 2,Statkraft,20.5,Hydro
+706,Trickey Warren,Anesco,4.6,Solar
+707,Ryston Farm,Octopus Investments,4.6,Solar
+708,Barton Close,Cubico Sustainable Investments,4.6,Solar
+709,Moat Farm,Greencoat Capital,4.6,Solar
+710,Bryn Bachau,Greencoat Capital,4.6,Solar
+711,Puriton,Anesco,4.6,Solar
+712,Cleave Farm,Lightsource BP,4.6,Solar
+713,Maes Bach,Lightsource BP,4.6,Solar
+714,Lovedean,Octopus Investments,4.5,Solar
+715,Marston,Lightsource BP,4.5,Solar
+716,Rheidol Hydro Scheme Gen 3,Statkraft,20.5,Hydro
+717,Goonhilly Downs 1,REG WindPower,4.5,Solar
+718,Hungerford,Anesco,4.5,Solar
+719,Winnards,Toucan Energy Services,4.5,Solar
+720,New Row Farm,Octopus Investments,4.5,Solar
+721,Trefinnick,Lightsource BP,4.4,Solar
+722,Fullerton,Octopus Investments,4.4,Solar
+723,Langton,Lightsource BP,4.3,Solar
+724,Chatteris,Greencoat Capital,4.3,Solar
+725,Primrose Hill,Lightsource BP,4.3,Solar
+726,St Francis,Lightsource BP,4.3,Solar
+727,Aigas,SSE,20.0,Hydro
+728,Lawn Lane,Octopus Investments,4.3,Solar
+729,Newlands,Octopus Investments,4.3,Solar
+730,Wymeswold - Wide Lane,Anesco,4.3,Solar
+731,Fell View,Anesco,4.3,Solar
+732,Pressock,Lightsource BP,4.2,Solar
+733,Green Lane,Lightsource BP,4.2,Solar
+734,Francis Court,Lightsource BP,4.2,Solar
+735,Ollerton,Anesco,4.2,Solar
+736,Oxcroft,Anesco,4.2,Solar
+737,Seaton Road,Octopus Investments,4.2,Solar
+738,Ceannacroc (plus Comp Set),SSE,20.0,Hydro
+739,Slough Heat Power,SSE,35.0,Biomass
+740,Radcliffe,Anesco,4.2,Solar
+741,Long Meadow,Greencoat Capital,4.1,Solar
+742,Slade Farm,Greencoat Capital,4.1,Solar
+743,Bystock Farm,Octopus Investments,4.1,Solar
+744,Portworthy,Anesco,4.0,Solar
+745,Wilsom Farm,Greencoat Capital,4.0,Solar
+746,Homestead,Anesco,4.0,Solar
+747,Park Farm West,Lightsource BP,3.9,Solar
+748,Berry Court,Anesco,3.9,Solar
+749,Severn Beach,Greencoat Capital,3.9,Solar
+750,Kilmorack,SSE,20.0,Hydro
+751,Ninnis,Octopus Investments,3.9,Solar
+752,Willersey,Toucan Energy Services,3.8,Solar
+753,Thirty Acres,Greencoat Capital,3.8,Solar
+754,Brent Broad,Greencoat Capital,3.8,Solar
+755,Overton,Cubico Sustainable Investments,3.8,Solar
+756,High Point,Lightsource BP,3.7,Solar
+757,Treguff,Lightsource BP,3.7,Solar
+758,Week Farm 2,Octopus Investments,3.7,Solar
+759,Maesgwyn Solar Farm,Pennant Walters,3.7,Solar
+760,Henbury Quarry,Lightsource BP,3.7,Solar
+761,Invergarry,SSE,20.0,Hydro
+762,Eckland Lodge,Toucan Energy Services,3.7,Solar
+763,Chawton,Octopus Investments,3.7,Solar
+764,Coltishall 2.4,Greencoat Capital,3.7,Solar
+765,Culworth,Anesco,3.6,Solar
+766,Brookbarn,Anesco,3.6,Solar
+767,Hale,Anesco,3.6,Solar
+768,Gelli Gron,Lightsource BP,3.6,Solar
+769,Eastacombe,Lightsource BP,3.6,Solar
+770,Penhale,Octopus Investments,3.5,Solar
+771,Ratcliffe House Farm,Octopus Investments,3.5,Solar
+772,Grudie Bridge,SSE,18.7,Hydro
+773,Blaby,Octopus Investments,3.5,Solar
+774,Wisbech,Cubico Sustainable Investments,3.4,Solar
+775,Dairy House Farm,Octopus Investments,3.4,Solar
+776,Margate,Greencoat Capital,3.4,Solar
+777,Common Farm,Greencoat Capital,3.4,Solar
+778,Tope Farm,Anesco,3.3,Solar
+779,Willsland,Octopus Investments,3.3,Solar
+780,Pitts Farm,Octopus Investments,3.2,Solar
+781,Rolls Royce,Toucan Energy Services,3.2,Solar
+782,Apse New Barn,Octopus Investments,3.1,Solar
+783,Mossford,SSE,18.7,Hydro
+784,Wraysbury,Greencoat Capital,3.0,Solar
+785,Palmersford,Anesco,3.0,Solar
+786,MopleyCadland,Octopus Investments,3.0,Solar
+787,Cranham,Toucan Energy Services,3.0,Solar
+788,Higher Trenhayle,Octopus Investments,2.9,Solar
+789,Great Knowles,Lightsource BP,2.9,Solar
+790,Grimsargh,Anesco,2.9,Solar
+791,Sandys Moor,Anesco,2.9,Solar
+792,Hill End Farm,Octopus Investments,2.8,Solar
+793,Dunkeswell,Toucan Energy Services,2.8,Solar
+794,Shin,SSE,18.6,Hydro
+795,Sharland Farm,Lightsource BP,2.8,Solar
+796,Woodtown,Anesco,2.7,Solar
+797,Snettisham,Greencoat Capital,2.7,Solar
+798,Mendennick,REG WindPower,2.6,Solar
+799,Otherton,Toucan Energy Services,2.5,Solar
+800,Carver Hey,Greencoat Capital,2.5,Solar
+801,Corntown,Octopus Investments,2.5,Solar
+802,Bourne Park 2,Anesco,2.4,Solar
+803,Stud Farm,Anesco,2.4,Solar
+804,Pilkington,Lightsource BP,2.3,Solar
+805,Quoich,SSE,18.1,Hydro
+806,Hollamoor,Octopus Investments,2.2,Solar
+807,Wick Road CIC,Greencoat Capital,2.2,Solar
+808,Wymeswold,Anesco,2.1,Solar
+809,Dunsfold,Lightsource BP,2.0,Solar
+810,Morfa,Lightsource BP,2.0,Solar
+811,Stables,Anesco,2.0,Solar
+812,Luson,Renewable Energy Solutions Services,1.9,Solar
+813,Sandhill,Lightsource BP,1.9,Solar
+814,Sea View,Greencoat Capital,1.9,Solar
+815,New Kaine,Anesco,1.8,Solar
+816,Orrin,SSE,18.0,Hydro
+817,Slaughtergate,Octopus Investments,1.8,Solar
+818,Craymarsh,Octopus Investments,1.8,Solar
+819,Kia-ora Farm,Renewable Energy Solutions Services,1.8,Solar
+820,Walton,Lightsource BP,1.8,Solar
+821,Pierces Farm,Anesco,1.7,Solar
+822,Benbole,Lightsource BP,1.7,Solar
+823,Trevemper,Lightsource BP,1.7,Solar
+824,Moor Solar 1,Lightsource BP,1.7,Solar
+825,Promens,Lightsource BP,1.6,Solar
+826,Limberlost,Anesco,1.6,Solar
+827,Culligran,SSE,17.1,Hydro
+828,Pont Andrew,Lightsource BP,1.5,Solar
+829,Higher Knapp Farm,Octopus Investments,1.5,Solar
+830,Crossness,Lightsource BP,1.5,Solar
+831,Copley Wood,British Solar Renewables,1.5,Solar
+832,Clann Farm,Octopus Investments,1.5,Solar
+833,Tredown Farm,Octopus Investments,1.4,Solar
+834,Wheal Jane,Lightsource BP,1.4,Solar
+835,Blatchworthy,Lightsource BP,1.4,Solar
+836,Ellicombe,Octopus Investments,1.3,Solar
+837,Yeowood,Renewable Energy Solutions Services,1.2,Solar
+838,Dolgarrog High Head,RWE Npower,17.0,Hydro
+839,Higher Pirzwell,Renewable Energy Solutions Services,1.2,Solar
+840,Southcombe Farm,Octopus Investments,1.2,Solar
+841,Barton,Renewable Energy Solutions Services,1.2,Solar
+842,Bristol Water,Anesco,1.1,Solar
+843,Broadgate,Renewable Energy Solutions Services,1.1,Solar
+844,Moor Solar 2,Lightsource BP,1.1,Solar
+845,Stables Farm,Renewable Energy Solutions Services,1.0,Solar
+846,West Bradley,Lightsource BP,1.0,Solar
+847,Rudge Hill Farm,Lightsource BP,1.0,Solar
+848,Palfreys Barton,Octopus Investments,1.0,Solar
+849,St Fillans,SSE,16.8,Hydro
+850,Markinch CHP,RWE Npower,65.0,Biomass
+851,Spring Lane,Anesco,1.0,Solar
+852,Fen Farm 1,Ecotricity,0.9,Solar
+853,Whiddon Farm,Octopus Investments,0.9,Solar
+854,North Perrott Fruit Farm,Octopus Investments,0.8,Solar
+855,Summerlands,Lightsource BP,0.8,Solar
+856,Manor Farm 2,Lightsource BP,0.8,Solar
+857,Howbery,Lightsource BP,0.7,Solar
+858,Edinburgh College,SSE,0.6,Solar
+859,Slepe Farm,Anesco,0.5,Solar
+860,Beckton,Lightsource BP,0.5,Solar
+861,Finlarig,SSE,16.5,Hydro
+862,SSE Arena Belfast,SSE,0.4,Solar
+863,Bourne Park 1,Anesco,0.2,Solar
+864,Connahs Quay,Uniper UK,1380.0,Gas
+865,Knapton,Third Energy UK Gas,42.0,Gas
+866,Barkip,SSE,2.1,Waste
+867,Runcorn EfW,Viridor Waste Management,91.0,Waste
+868,Riverside,Riverside Resource Recovery,80.0,Waste
+869,Edmonton,LondonEnergy,50.0,Waste
+870,Wilton 11 EfW,Sembcorp Utilities,49.0,Waste
+871,Lakeside EfW,Viridor Waste Management,37.0,Waste
+872,Livishie,SSE,15.0,Hydro
+873,SELCHP ERF,Veolia,35.0,Waste
+874,Cardiff EfW,Viridor Waste Management,30.0,Waste
+875,Ardley EfW,Viridor Waste Management,26.0,Waste
+876,Bolton EfW,Viridor Waste Management,8.0,Waste
+877,Peterborough EfW,Viridor Waste Management,7.3,Waste
+878,Exeter EfW,Viridor Waste Management,3.5,Waste
+879,London Array,E.ON UK,630.0,Wind
+880,Gwynt y Mor,RWE Npower,576.0,Wind
+881,Race Bank,Orsted,573.0,Wind
+882,Hornsea 1,Orsted,546.0,Wind
+883,Nant,SSE,15.0,Hydro
+884,Greater Gabbard,SSE,504.0,Wind
+885,Rampion,E.ON UK,400.0,Wind
+886,West of Duddon Sands,Orsted,388.8,Wind
+887,Walney 1 2,Orsted,368.0,Wind
+888,Galloper,RWE Npower,352.8,Wind
+889,Walney 3,Orsted,330.0,Wind
+890,Walney 4,Orsted,329.0,Wind
+891,Thanet,Vattenfall,300.0,Wind
+892,Beatrice,SSE,273.0,Wind
+893,Lincs,Orsted,270.0,Wind
+894,Pitlochry,SSE,15.0,Hydro
+895,Burbo Extension,Orsted,259.0,Wind
+896,Humber Gateway,E.ON UK,219.0,Wind
+897,Westermost Rough,Orsted,210.0,Wind
+898,Gunfleet Sands 1 2,Orsted,172.8,Wind
+899,Sheringham Shoal 1,Scira Offshore Energy,158.4,Wind
+900,Sheringham Shoal 2,Scira Offshore Energy,158.4,Wind
+901,Ormonde,Vattenfall,150.0,Wind
+902,Dudgeon 1,Scira Offshore Energy,108.0,Wind
+903,Dudgeon 3,Scira Offshore Energy,102.0,Wind
+904,Dudgeon 4,Scira Offshore Energy,102.0,Wind
+905,Torr Achilty,SSE,15.0,Hydro
+906,Inner Dowsing,XceCo,97.2,Wind
+907,Lynn,XceCo,97.2,Wind
+908,Aberdeen,Vattenfall,96.8,Wind
+909,Barrow,Orsted,90.0,Wind
+910,Burbo,Orsted,90.0,Wind
+911,Dudgeon 2,Scira Offshore Energy,90.0,Wind
+912,Kentish Flats,Vattenfall,90.0,Wind
+913,Rhyl Flats,RWE Npower,90.0,Wind
+914,Robin Rigg East,E.ON UK,90.0,Wind
+915,Robin Rigg West,E.ON UK,90.0,Wind
+916,Dolgarrog Low Head,RWE Npower,15.0,Hydro
+917,North Hoyle,RWE Npower,60.0,Wind
+918,Scroby Sands,E.ON UK,60.0,Wind
+919,Kentish Flats Extension,Vattenfall,49.5,Wind
+920,Blyth,EDF Energy,40.0,Wind
+921,Hywind 1,Scira Offshore Energy,30.0,Wind
+922,Gunfleet Sands 3,Orsted,12.0,Wind
+923,Whitelee,Scottish Power,322.0,Wind
+924,Kilgallioch,Scottish Power,239.0,Wind
+925,Pen Y Cymoedd,Vattenfall,228.0,Wind
+926,Stronelairg,SSE,227.7,Wind
+927,Earlstoun,Drax Power,14.0,Hydro
+928,Whitelee II,Scottish Power,217.0,Wind
+929,Clyde (North),SSE,197.7,Wind
+930,Clyde (Central),SSE,195.9,Wind
+931,Griffin,SSE,188.6,Wind
+932,Dorenell,EDF Energy,177.0,Wind
+933,Fallago Rig,EDF Energy,144.0,Wind
+934,Crystal Rig II,Fred Olsen Renewables,138.0,Wind
+935,Harestanes,Scottish Power,136.0,Wind
+936,Clyde (South),SSE,128.8,Wind
+937,Black Law,Scottish Power,124.2,Wind
+938,Rheidol Hydro Scheme Gen 1,Statkraft,13.5,Hydro
+939,Arecleoch,Scottish Power,120.0,Wind
+940,Hadyard Hill,SSE,119.8,Wind
+941,Beinneun,BayWa R.E,108.8,Wind
+942,Bhlaraidh,SSE,108.0,Wind
+943,Dunmaglass,SSE,94.1,Wind
+944,Farr,Venitent Energy Services,92.0,Wind
+945,Mid Hill,Fred Olsen Renewables,75.9,Wind
+946,Slieve Kirk,SSE,73.6,Wind
+947,Braes of Doune,Greencoat Capital,72.0,Wind
+948,Gordonbush,SSE,70.0,Wind
+949,Carsfad,Drax Power,12.0,Hydro
+950,Corriegarth,WPO,69.0,Wind
+951,Dersalloch,Scottish Power,69.0,Wind
+952,Lochluichart,Eneco Wind UK,69.0,Wind
+953,Keadby 2,SSE,68.0,Wind
+954,Kilbraur,Falck Renewables,67.5,Wind
+955,Berry Burn,Statkraft,67.0,Wind
+956,Strathy North,SSE,66.0,Wind
+957,Millennium,Falck Renewables,65.0,Wind
+958,Scout Moor,WPO,65.0,Wind
+959,Pauls Hill,Fred Olsen Renewables,64.4,Wind
+960,Bonnington,Drax Power,11.0,Hydro
+961,Ely,EPR,40.0,Biomass
+962,Black Law II,Scottish Power,63.4,Wind
+963,Crystal Rig I,Fred Olsen Renewables,62.5,Wind
+964,Brockloch Rig 2,Fred Olsen Renewables,61.5,Wind
+965,Moy,Eneco Wind UK,60.0,Wind
+966,Little Cheyne Court,RWE Npower,59.8,Wind
+967,Cambrian,Falck Renewables,58.5,Wind
+968,Brechfa Forest West,RWE Npower,57.4,Wind
+969,Mark Hill,Scottish Power,56.0,Wind
+970,Galawhistle,Venitent Energy Services,55.2,Wind
+971,Ray,Vattenfall,54.4,Wind
+972,Cashlie,SSE,11.0,Hydro
+973,Middlemoor,RWE Npower,54.0,Wind
+974,Blackcraig,Temporis Capital,52.9,Wind
+975,Baillie,Statkraft,52.5,Wind
+976,Rothes,Fred Olsen Renewables,50.6,Wind
+977,Frodsham,Peel Energy,50.4,Wind
+978,Camster,E.ON UK,50.0,Wind
+979,Corriemoillie,EDF Energy,48.5,Wind
+980,Causeymire,Venitent Energy Services,48.3,Wind
+981,Hill of Towie,RES Group,48.3,Wind
+982,Brockaghboy,Greencoat Capital,47.5,Wind
+983,Cassley,SSE,10.0,Hydro
+984,Pant y Wal,Pennant Walters,47.5,Wind
+985,Tween Bridge,E.ON UK,44.0,Wind
+986,Beinn an Tuirc II,Scottish Power,43.7,Wind
+987,AChruach,Venitent Energy Services,42.6,Wind
+988,Edinbane,Vattenfall,41.4,Wind
+989,Rothes II,Fred Olsen Renewables,41.4,Wind
+990,Fairburn,SSE,40.0,Wind
+991,Airies,WPO,39.9,Wind
+992,Achany Windfarm,SSE,38.0,Wind
+993,Longpark,EDF Energy,38.0,Wind
+994,Cwm Dyli,RWE Npower,9.9,Hydro
+995,Tormywheel,REG WindPower,37.5,Wind
+996,Clashindarroch,Vattenfall,36.9,Wind
+997,Ewe Hill II,Scottish Power,36.8,Wind
+998,Minsca,Venitent Energy Services,36.8,Wind
+999,Novar 2,RWE Npower,36.8,Wind
+1000,Auchrobert,Falck Renewables,36.0,Wind
+1001,Green Rigg,EDF Energy,36.0,Wind
+1002,Andershaw,Statkraft,35.0,Wind
+1003,Earlsburn,Falck Renewables,35.0,Wind
+1004,Goole Fields B,RWE Npower,34.9,Wind
+1005,Striven,SSE,8.0,Hydro
+1006,Tievenameenta,SSE,34.5,Wind
+1007,Carno,Venitent Energy Services,33.6,Wind
+1008,Goole Fields A,RWE Npower,33.0,Wind
+1009,Mynydd y Gwair,RWE Npower,32.8,Wind
+1010,Drumderg,SSE,32.0,Wind
+1011,Ffynnon Oer,Venitent Energy Services,32.0,Wind
+1012,Beckburn,EDF Energy,31.1,Wind
+1013,Penrhyddlan Llidiartywaun,Scottish Power,30.6,Wind
+1014,Garreg Llwyd,RES Group,30.4,Wind
+1015,Black Hill,RES Group,30.1,Wind
+1016,Gaur,SSE,7.9,Hydro
+1017,Burnfoot,EDF Energy,30.1,Wind
+1018,Ardrossan,Venitent Energy Services,30.0,Wind
+1019,Dalswinton,Venitent Energy Services,30.0,Wind
+1020,Slieve Divena 1,Greencoat Capital,30.0,Wind
+1021,West Browncastle,Falck Renewables,30.0,Wind
+1022,Lissett Airfield,Venitent Energy Services,30.0,Wind
+1023,Stroupster,Greencoat Capital,29.9,Wind
+1024,Beinn Tharsuinn,Scottish Power,29.8,Wind
+1025,Cruach Mhor,Scottish Power,29.8,Wind
+1026,Dun Law II,Scottish Power,29.8,Wind
+1027,Fasnakyle Comp Set,SSE,7.7,Hydro
+1028,Hare Hill II,Scottish Power,29.8,Wind
+1029,Beinn an Tuirc I,Scottish Power,29.7,Wind
+1030,Penmanshiel,RES Group,28.7,Wind
+1031,Artfield Fell,SSE,28.6,Wind
+1032,Drone Hill,Greencoat Capital,28.6,Wind
+1033,Tappaghan,Greencoat Capital,28.5,Wind
+1034,Kelburn,RES Group,28.0,Wind
+1035,Ben Aketil,Falck Renewables,27.6,Wind
+1036,Toddleburn,SSE,27.6,Wind
+1037,Green Knowes,Scottish Power,27.0,Wind
+1038,Allt-na-Lairige,SSE,6.0,Hydro
+1039,Glens of Foudland,REG WindPower,26.7,Wind
+1040,Bad a Cheo,RWE Npower,26.7,Wind
+1041,Altahullion,RES Group,26.0,Wind
+1042,Bicker Fen,EDF Energy,26.0,Wind
+1043,Burnhead Moss,EDF Energy,26.0,Wind
+1044,Dungavel,John Laing Environmental Asset Group,26.0,Wind
+1045,Hagshaw Hill II,Scottish Power,26.0,Wind
+1046,Lynemouth 1,Scottish Power,26.0,Wind
+1047,Maesgwyn,Pennant Walters,26.0,Wind
+1048,Wadlow,RES Group,26.0,Wind
+1049,Kielder,RWE Npower,6.0,Hydro
+1050,Wryde Croft,RES Group,26.0,Wind
+1051,Glenchamber,RES Group,25.3,Wind
+1052,Llynfi Afan,John Laing Environmental Asset Group,25.3,Wind
+1053,Assel Valley,Falck Renewables,25.0,Wind
+1054,Castle Craig,RES Group,25.0,Wind
+1055,Gruig,RES Group,25.0,Wind
+1056,Minnygap,RES Group,25.0,Wind
+1057,Rosehall,E.ON UK,25.0,Wind
+1058,Twinshiels,Eneco Wind UK,25.0,Wind
+1059,Craigengelt (Scotia Wind),Engie Power,24.0,Wind
+1060,Loch Gair,SSE,6.0,Hydro
+1061,Hall Farm,John Laing Environmental Asset Group,24.0,Wind
+1062,Maerdy,Greencoat Capital,24.0,Wind
+1063,Red Tile,EDF Energy,24.0,Wind
+1064,Rusholme,EDF Energy,24.0,Wind
+1065,Alltwalis,Statkraft,23.0,Wind
+1066,Burn of Whilk,Eneco Wind UK,22.5,Wind
+1067,Freasdail,RES Group,22.5,Wind
+1068,Kingsburn,Falck Renewables,22.5,Wind
+1069,Mynydd Bwllfa,Pennant Walters,22.5,Wind
+1070,Glenapp,Scottish Power,22.0,Wind
+1071,Stonebyres,Drax Power,6.0,Hydro
+1072,Wilton 1,Sembcorp Utilities,33.3,Biomass
+1073,Glenkerie,Venitent Energy Services,22.0,Wind
+1074,North Rhins,Greencoat Capital,22.0,Wind
+1075,Swinford,Vattenfall,22.0,Wind
+1076,Brockloch Rig 1,Fred Olsen Renewables,21.6,Wind
+1077,Tir Mostyn Foel Goch,WPO,21.3,Wind
+1078,Middlewick,WPO,20.7,Wind
+1079,Bradwell,RWE Npower,20.5,Wind
+1080,Cour,BayWa R.E,20.5,Wind
+1081,Sixpenny Wood,Greencoat Capital,20.5,Wind
+1082,Llyn Alaw,Venitent Energy Services,20.4,Wind
+1083,Foyers Falls,SSE,5.2,Hydro
+1084,Biggleswade,Temporis Capital,20.0,Wind
+1085,Carland Cross RP,Scottish Power,20.0,Wind
+1086,Pant y Wal Extension,Pennant Walters,20.0,Wind
+1087,Screggagh,Greencoat Capital,20.0,Wind
+1088,Stags Holt,E.ON UK,20.0,Wind
+1089,An Suidhe,RWE Npower,19.3,Wind
+1090,Pearie Law,EDF Energy,19.2,Wind
+1091,Slieve Divena 2,SSE,18.8,Wind
+1092,Tangy,SSE,18.5,Wind
+1093,North Steads,Venitent Energy Services,18.5,Wind
+1094,Sron Mor,SSE,5.0,Hydro
+1095,Kildrummy,Greencoat Capital,18.4,Wind
+1096,Wether Hill,Scottish Power,18.2,Wind
+1097,Altaveedan,WPO,18.0,Wind
+1098,Den Brook,RES Group,18.0,Wind
+1099,Ovenden Moor,E.ON UK,18.0,Wind
+1100,Tullo,Eneco Wind UK,17.5,Wind
+1101,Turncole,RES Group,17.5,Wind
+1102,Dun Law I,Scottish Power,17.2,Wind
+1103,Batsworthy Cross,REG WindPower,17.1,Wind
+1104,Roos,RES Group,17.1,Wind
+1105,Dalchonzie,SSE,4.0,Hydro
+1106,Novar,Venitent Energy Services,17.0,Wind
+1107,Callagheen,Scottish Power,16.9,Wind
+1108,Bishopthorpe,Greencoat Capital,16.4,Wind
+1109,Cotton Farm,Greencoat Capital,16.4,Wind
+1110,Langhope Rig,Greencoat Capital,16.4,Wind
+1111,Yelvertoft,Greencoat Capital,16.4,Wind
+1112,Boyndie,Falck Renewables,16.3,Wind
+1113,New Albion,John Laing Environmental Asset Group,16.1,Wind
+1114,Bagmoor,WPO,16.0,Wind
+1115,Coal Clough RP,Scottish Power,16.0,Wind
+1116,Lubreoch,SSE,4.0,Hydro
+1117,Coldham,Scottish Power,16.0,Wind
+1118,Deeping,EDF Energy,16.0,Wind
+1119,Earlseat,RES Group,16.0,Wind
+1120,Fen Farm 2,Ecotricity,16.0,Wind
+1121,Glass Moor,EDF Energy,16.0,Wind
+1122,Knabs Ridge,RWE Npower,16.0,Wind
+1123,Deucheran Hill,E.ON UK,15.8,Wind
+1124,Bowbeat (Emly Bank),E.ON UK,15.6,Wind
+1125,Bowbeat (Roughside),E.ON UK,15.6,Wind
+1126,Hagshaw Hill I,Scottish Power,15.6,Wind
+1127,Maldie,RWE Npower,4.0,Hydro
+1128,Carscreugh,John Laing Environmental Asset Group,15.3,Wind
+1129,Cemmaes,EDF Energy,15.3,Wind
+1130,Clachan Flats,Scottish Power,15.0,Wind
+1131,Jacks Lane,RES Group,15.0,Wind
+1132,Nutberry,Falck Renewables,15.0,Wind
+1133,Wingates,Venitent Energy Services,15.0,Wind
+1134,Mynydd Clogau,Venitent Energy Services,14.5,Wind
+1135,White Mill,Temporis Capital,14.4,Wind
+1136,Burton Wold Extention,John Laing Environmental Asset Group,14.0,Wind
+1137,Grange 1,RES Group,14.0,Wind
+1138,Black Rock,RWE Npower,3.5,Hydro
+1139,Kiln Pit Hill,RWE Npower,14.0,Wind
+1140,Walkway,EDF Energy,14.0,Wind
+1141,Crystal Rig III,Fred Olsen Renewables,13.8,Wind
+1142,Ewe Hill I,Scottish Power,13.8,Wind
+1143,Hare Hill 1,Scottish Power,13.2,Wind
+1144,Blantyre Muir,Engie Power,13.2,Wind
+1145,Gordonstown Hill,Venitent Energy Services,12.5,Wind
+1146,Todmorden Moor,RES Group,12.5,Wind
+1147,Glass Moor II,EDF Energy,12.3,Wind
+1148,Grange 2,BayWa R.E,12.3,Wind
+1149,Kingairloch,SSE,3.5,Hydro
+1150,Muirhall,Temporis Capital,12.3,Wind
+1151,Rhodders,EDF Energy,12.3,Wind
+1152,Sober Hill,Engie Power,12.3,Wind
+1153,Barmoor,EDF Energy,12.0,Wind
+1154,Goonhilly Downs 2,REG WindPower,12.0,Wind
+1155,Middleton,Scottish Power,12.0,Wind
+1156,Mynydd Portref,REG WindPower,12.0,Wind
+1157,Red House,EDF Energy,12.0,Wind
+1158,Tallentire,RES Group,12.0,Wind
+1159,Spaldington,Falck Renewables,11.8,Wind
+1160,Lairg 1,SSE,3.5,Hydro
+1161,Altahullion Extension,RES Group,11.7,Wind
+1162,Moel Moelogan,John Laing Environmental Asset Group,11.7,Wind
+1163,AOE,WPO,11.5,Wind
+1164,Bilsthorpe 2,John Laing Environmental Asset Group,10.6,Wind
+1165,Barlockhart Moor,Engie Power,10.5,Wind
+1166,Ferndale,John Laing Environmental Asset Group,10.4,Wind
+1167,St Breock,REG WindPower,10.3,Wind
+1168,Butterwick Moor Circuit 1,E.ON UK,10.3,Wind
+1169,Butterwick Moor Circuit 2,E.ON UK,10.3,Wind
+1170,Earls Hall Farm,Greencoat Capital,10.3,Wind
+1171,River Cuileig,SSE,3.3,Hydro
+1172,Seamer,Venitent Energy Services,10.3,Wind
+1173,Meikle Carewe,RES Group,10.2,Wind
+1174,Mynydd Gorddu,Venitent Energy Services,10.2,Wind
+1175,Neilston,RES Group,10.1,Wind
+1176,Cairnborrow,Engie Power,10.0,Wind
+1177,Carsington,Engie Power,10.0,Wind
+1178,Denzell Downs,REG WindPower,10.0,Wind
+1179,Port of Liverpool,WPO,10.0,Wind
+1180,Ransonmoor,Temporis Capital,10.0,Wind
+1181,Sancton Hill,REG WindPower,10.0,Wind
+1182,Achanalt,SSE,3.1,Hydro
+1183,Drax - biomass units,Drax Power,2640.0,Biomass

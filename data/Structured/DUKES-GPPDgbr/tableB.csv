@@ -1,0 +1,2537 @@
+id,name,owner,capacity,fuel
+0,14 Tullywiggan Road,PAR Renewables,1.0,Biomass
+1,289 Finvoy Road,Lightsource Renewable Energy,5.9,Solar
+2,30 Acres,Navitas Project,4.965,Solar
+3,A C Shropshire (Farm AD),PROjEN,2.5,Biomass
+4,A'Chruach,Infinis (formerly Novera Energy),42.6,Wind
+5,ABP Ellesmere Abbatoir,ABP Ellesmere,1.1,Biomass
+6,AMBLESTON SOLAR PANELS,Arqiva Ltd,6.0,Solar
+7,ANP Newport Wind Turbine,Associated British Ports,2.3,Wind
+8,Abbey Farm,Anesco,9.0,Solar
+9,Abbey Fields Farm,FR Solar Kent PV,5.3,Solar
+10,Abbots Ann,British Solar Renewables,7.0,Solar
+11,Abbots Ripton,Octopus Investment,24.66717,Solar
+12,Abbots Ripton Solar Farm (ext.),Rectory Lane Renewables,3.9,Solar
+13,Abbots moor Farm Anaerobic Digester (Farm AD),Ms Catherine Suckley,1.0,Biomass
+14,Abergelli,Anesco,7.68222,Solar
+15,Aberporth Solar Farm,JBM Solutions,1.5,Solar
+16,Aberthaw B,RWE Npower Plc,1586.0,Coal
+17,Aberthaw GT,RWE Npower Plc,51.0,Gas
+18,Aberthaw Power Station Biomass,RWE npower,35.0,Biomass
+19,Abhainn Gleann Nam Fiadh,Green Highland Renewables,2.0,Hydro
+20,Achairn,James and Ronald Innes,6.2,Wind
+21,Achanalt,Scottish and Southern Energy (SSE),3.0,Hydro
+22,Achany,Scottish and Southern Energy (SSE),38.0,Wind
+23,Advanced Manufacturing Research Centre,,2.6,Wind
+24,Agricultural Land at Trecastle,Suncredit UK/ Vogt solar,4.0,Solar
+25,Aigas,Scottish and Southern Energy (SSE),20.0,Hydro
+26,Aikengall,Community Wind Power (01928 734544),48.0,Wind
+27,Aikengall II  Wester Dod Community Wind Farm,Community Windpower,60.8,Wind
+28,Airfield Farm (Podington) (Resubmission),Airvolution Energy,8.6,Wind
+29,Airfield Farm PV,P V Farms 01,5.0,Solar
+30,Airies Farm,NTR,35.0,Wind
+31,Alan Bartlett & Sons Solar,Alan Bartlett & Sons,1.2,Solar
+32,Albrighton Solar farm,Big 60 Million,15.8,Solar
+33,Albury Landfill,SITA UK,1.5,Waste
+34,Aldi - Cardiff,Aldi,1.5,Solar
+35,Aldi Distribution Centre,Aldi,1.3,Solar
+36,Aldi Distribution Centre - Darlington,Aldi,1.2,Solar
+37,Aldi Distribution Centre - Neston,Aldi,1.2,Solar
+38,Aller Court Farm Solar Park,NESF (formerly British Solar Renewables),5.0,Solar
+39,Allington EFW,Kent Enviropower (FCC Environment),51.0,Waste
+40,Allt Cheanna Mhuir Hydro,Green Highland Renewables,1.3,Hydro
+41,Allt Dearg Wind Farmers LLP,Ormsary and Stronachullin Estates (Allt Dearg Wind Farmers LLP),10.8,Wind
+42,Allt Fionn - resubmission,Osspower Ltd,2.1,Hydro
+43,Allt Garbh hydro,Green Highland Renewables (on behalf of Highland Hydro Services),1.5,Hydro
+44,Allt Ladaidh Hydro,Green Highland Renewables,1.3,Hydro
+45,Alltwalis,Statkraft Wind UK Ltd,23.0,Wind
+46,Alscot,RCMA Stratford,1.6,Biomass
+47,Altahullion,B9 Energy / RES,26.0,Wind
+48,Altahullion Extension,Renewable Energy Systems (RES) / BP Energy,11.7,Wind
+49,Altamuskin,Altamuskin Windfarm (Energia),7.1,Wind
+50,Altamuskin Extension,Altamuskin Windfarm (Energia),7.1,Wind
+51,Altaveedan Wind Farm,NTR PLC,17.9,Wind
+52,Alveston Wind Park,Ecotricity,6.9,Wind
+53,Amcor Flexibles,Langley Eco,1.7,Solar
+54,An Suidhe,RWE npower,19.3,Wind
+55,Andershaw,Statkraft UK,36.3,Wind
+56,Andover Solar Farm,The Clark Trustees,5.0,Solar
+57,Anthony Estate Solar Farm - resubmission,St Antony 101 PV Park,4.7,Solar
+58,Arden Quarry Landfill,Natural Power,3.1,Waste
+59,Ardley EfW,Viridor,26.0,Waste
+60,Ardley Fields Farm Landfill Site,Haul Waste Limited,1.8,Waste
+61,Ardoch and Over Enoch Wind Farm (Ardoch),2020 Renewables/ NTR,7.2,Wind
+62,Ardoch and Over Enoch Wind Farm (Over Enoch),2020 Renewables/ NTR,4.3,Wind
+63,Ardrossan,Airtricity,24.0,Wind
+64,Ardrossan Extension,Airtricity,6.0,Wind
+65,Ardtalnaig Hydro Scheme (resubmission),Achomer Energy,2.0,Hydro
+66,Ardtornish Estate-Upgrade to existing,Ardtornish Estate,1.5,Hydro
+67,Ardwick Railway Goods Yard Incinerator (Newhaven EFW Plant),Associated Energy Projects plc,33.5,Waste
+68,Arecleoch,Scottish Power Renewables,120.0,Wind
+69,Ark Hill,Green Cat Renewables / Strathmore Estates,6.4,Wind
+70,Arkwright Solar Farm,Conergy,8.0,Solar
+71,Arla Dairy Site,Olleco and Arla Foods,5.0,Biomass
+72,Arlesey Landfill Gas (Extension),Waste Recycling Group,2.3,Waste
+73,Arlesey Landfill Site,Waste Recycling Group,1.1,Waste
+74,Armistead Wind Farm,Banks Renewables,12.0,Wind
+75,Arna Wood Solar,BE Renewables (on behalf of Arna Wood),6.2,Solar
+76,Arnish Moor,Arnish Electric Ltd / Farm Energy,3.9,Wind
+77,Arpley Landfill Scheme 'A',NOVERA,7.9,Waste
+78,Arpley Landfill Scheme 'B',NOVERA,7.9,Waste
+79,Artfield Fell,Scottish and Southern Energy (SSE),19.5,Wind
+80,Ashby,Primrose Solar,4.954,Solar
+81,Ashlawn Farm,,6.8,Solar
+82,Askern,Anesco,4.9737,Solar
+83,Aspatria,United Photovoltaics,19.0,Solar
+84,Aspatria Creamery,First Milk Cheese Company,5.0,Biomass
+85,Assel Valley,Falck Renewables,27.6,Wind
+86,Astley Solar Farm,Rockfire Capital,5.0,Solar
+87,Aston House Solar Farm,Solar century / Magnetar Solar,20.0,Solar
+88,Atherstone,Foresight Solar Fund,14.7,Solar
+89,Attlebridge Landfill Site,Renewable Power Generation Ltd,1.3,Waste
+90,Auchencarroch Landfill,Auchencarroch Energy Ltd / CLP,2.1,Waste
+91,Auchencarroch Landfill Extension,Auchencarroch Energy Ltd/CLP,2.0,Waste
+92,Auchinderran Wind Farm,Green Cat Renewables,2.4,Wind
+93,Auchinlea Landfill Site,Natural Power,2.3,Waste
+94,Auchrobert Wind Farm,Falck Renewables,36.0,Wind
+95,Austrey House Farm,William Corbett Farms,1.5,Biomass
+96,Aveley,Waste Recycling Group,1.2,Waste
+97,Aveley Landfill Scheme,Waste Recycling Group,2.1,Waste
+98,Avenue Farm,Lightsource Renewable Energy,7.3,Solar
+99,Averhill Farm,Lightsource Renewable Energy,5.0,Solar
+100,Avondale,Shanks Avondale,4.0,Waste
+101,Avonmouth,Avonmouth Biopower,6.5,Biomass
+102,Avonmouth Low Carbon Energy Facility - Phase 2,Avonmouth Biopower,6.5,Biomass
+103,Avonmouth Port,Bristol Port Authority,6.0,Wind
+104,Avonmouth Port - extension,Bristol Port Company,9.0,Wind
+105,Avonmouth Port II,Bristol City Council - Energy Management Unit,5.0,Wind
+106,Avonmouth Wind Power,Wessex Water Engineering Services,8.2,Wind
+107,Ayshford Court Farm,AEE Renewables UK,5.0,Solar
+108,B&Q Swindon DC,Kingfisher Scottish Limited Partnership,2.5,Solar
+109,BAE Samlesbury Aerodrome,British Aerospace Defence Limited,2.0,Solar
+110,BH Energy - Biogas (AD),Blakiston Houston Estate Company,2.1,Biomass
+111,BIOSSENCE SOLAR PARK,AGR,4.5,Solar
+112,BMW UK Manufacturing Ltd,Free Green Energy,3.0,Solar
+113,BROWNIELEYS - 3 WIND TURBINES,Brownieleys Renewables/Muirden Energy,7.5,Wind
+114,BV Dairy  (Farm AD),BV Dairy,1.5,Biomass
+115,Babergh Home Solar Scheme,Babergh District Council,2.8,Solar
+116,Badachro hydro scheme - resubmission,Badachro Hydro Limited,1.5,Hydro
+117,Baglan Bay CCGT,MPF Operations Limited,520.0,Gas
+118,Baglan Bay OCGT,MPF Operations Limited,32.3,Gas
+119,Baglan Bay Solar Farm - Phase 1,St. Modwen Developments,5.0,Solar
+120,Bagmoor,Munich Re (previously Wind Prospect),16.0,Wind
+121,Baillie,Baillie Windfarm Ltd,52.5,Wind
+122,Bake Farm Solar Park,British Solar Renewables,4.99928,Solar
+123,Bakers Farm (solar),Quercus Renewable Holding 2,12.0,Solar
+124,Balcas Timber Biomass CHP Plant,Balcas Timber,2.5,Biomass
+125,Balderton,SPEP,20.3,Biomass
+126,Baldovie,Dundee Energy Recycling,8.3,Waste
+127,Balhearty Solar,Lark Energy,5.0,Solar
+128,Ballinderry Road Solar Phase 1 (Lisburn),Hadstone Energy/Island Green Power,13.5,Solar
+129,Ballinderry Road Solar Phase 2 (Lisburn),RAD Energy One/ Island Green Power,7.0,Solar
+130,Balls Wood Solar Farm,Due South Energy & SunE Project6 Ltd,8.7,Solar
+131,Ballyboley Solar (Carrowdore),Island Green Power,6.0,Solar
+132,Ballylumford B,AES,540.0,Gas
+133,Ballylumford B OCGT,AES,116.0,Gas
+134,Ballylumford C,AES,616.0,Gas
+135,Ballymena,White Young Green Planning,4.6,Wind
+136,Balmurrie Fell Wind Farm,Scottish Southern Energy,9.1,Wind
+137,Bambers,,4.8,Wind
+138,Bambers Farm,Ecotricity,9.6,Wind
+139,Bankend Rig,INH Brown,14.3,Wind
+140,Bann Road (Rasharkin),Elgin Energy,18.0,Solar
+141,Bann Road (Tullaghans Road),Greencoat Capital,25.0,Solar
+142,Barkip Anaerobic Digestor (Waste AD),Scottish and Southern Energy (SSE) / William Tracey,2.2,Biomass
+143,Barkip Landfill Site,William Tracey Ltd,1.2,Waste
+144,Barley Wood Farm Lane (Gaston Lane - resubmission),Lightsource Renewable Energy,5.4,Solar
+145,Barling Hall Farm,Cory Environmental,2.4,Waste
+146,Barlockhart Moor,West Coast Energy,8.2,Wind
+147,Barmoor,EDF,12.0,Wind
+148,Barn Farm - resubmission,Lightsource Renewable Energy,4.2,Solar
+149,Barnby Moor,Lark Energy,4.0,Solar
+150,Barns of Ayre Wind Turbines (2),Ayre Energy/Aquatera Ltd,1.8,Wind
+151,Barnsley 1.5,SPEP,9.0,Biomass
+152,Barr Farm Limited,Lark Energy,1.88496,Solar
+153,Barrow,Orsted (formerly Dong Energy),90.0,Wind
+154,Barry,,235.0,Gas
+155,Barton Close Solar Park,British Solar Renewables,4.61032,Solar
+156,Barton Solar Farm,Lightsource Renewable Energy,1.2,Solar
+157,Barugh Farm,HB and CH Barker,5.0,Solar
+158,Barvills Solar Farm (resubmission),BE Renewables/Barvills Solar Limited,5.0,Solar
+159,Basin Bridge Farm,Sun Farming UK,5.0,Solar
+160,Basingstoke Sewage Treatment Works,Thames Water Utilities,1.2,Biomass
+161,Bassingbourn Solar Farm,Push Energy,14.4,Solar
+162,Batsworthy Cross,Blackrock Real Assets,18.45,Wind
+163,Battens Farm Solar Park,Battens Farm Solar Park Ltd - James Hartley,11.0,Solar
+164,Battlefield EfW,Veolia,8.0,Waste
+165,Bay Farm,NextEnergy Solar Fund (NESF),8.1,Solar
+166,Beacon Hill,Combined Landfill Projects (CLP) / SITA UK,3.0,Waste
+167,Beaford Brook Solar Park,Wessex Solar Energy,5.2,Solar
+168,Bears Down,Natural Power,9.6,Wind
+169,Beatrice Demonstrator,Talisman Energy,10.0,Wind
+170,Beck Burn (resubmission),EDF Energy Renewables,31.0,Wind
+171,Beckley Solar Farm,Anesco,1.7,Solar
+172,Beckton Gas Pressure Reduction Station,Icon  EEA Holdings & 2OC consortium,19.0,Biomass
+173,Beckton STW Biodiesel Power Plant,Balfor Beaty,8.0,Biomass
+174,Beckton STW Enhanced Sludge Digestion,Thames Water Utilities,5.8,Waste
+175,Beckton Sewage Treatment Works,Thames Water Utilities,2.2,Wind
+176,Bedborough,Solstice Renewables Ltd,4.991,Solar
+177,Beddingham 'B' Landfill Scheme,Haul Waste Disposal Ltd,7.5,Waste
+178,Beechgrove Farm,AEE Renewables,4.0,Solar
+179,Beeston Weir Hydro Scheme,H20 Power Limited,1.7,Hydro
+180,Beinn Eagagach Hydro,Edradynate,1.1,Hydro
+181,Beinn Ghlas,RWE npower,8.4,Wind
+182,Beinn Tharsuinn,Midefearn Renewables,29.75,Wind
+183,Beinn Tharsuinn Windfarm Project,CRE Energy/ Scottish Power,29.8,Wind
+184,Beinn an Tuirc 1,CRE Energy/ Scottish Power,29.7,Wind
+185,Beinn an Tuirc 2,Scottish Power Renewables,43.7,Wind
+186,Beinneun,Octopus Investments/Blue Energy.,85.0,Wind
+187,Beinneun Windfarm Extension,Octopus Investments/Blue Energy.,23.8,Wind
+188,Bellhouse Pit Landfill Scheme,Ex Waste Ltd/Combined Landfill Projects Ltd (CLP),2.7,Waste
+189,Bellhouse South,Cory Environmental,3.9,Waste
+190,Ben Aketil,RDC Scotland Ltd (Renewable Development Co.),27.6,Wind
+191,Ben Aketil Extension,Ben Aketil Wind Energy Ltd,2.6,Wind
+192,Ben Glas,Gilkes Energy,1.3,Hydro
+193,Benbole,Mr John Brown,1.73901,Solar
+194,Bendealt Wind Farm  Highland,RWE npower,9.0,Wind
+195,Bennett Bank Landfill Site (lfg),Waste Recycling Group,2.2,Waste
+196,Bent Spur Solar Farm,Active Renewables,5.0,Solar
+197,Bentham Farm,Hive Energy,8.0,Solar
+198,Bentley Estate,Lightsource Renewable Energy,4.7819,Solar
+199,Bentley Estate 2,Bentley Motor Cars Ltd,4.99608,Solar
+200,Bentwaters CHP,REG Bio-Power,4.6,Biomass
+201,Bentwaters Park,Agri-Gen,2.0,Biomass
+202,Bentwaters Park (extension),Agri-Gen/Downing,1.8,Biomass
+203,Berry Burn,Statkraft,66.7,Wind
+204,Berthlwyd Farm,Greencoat Capital,5.0,Solar
+205,Berwick solar farm,Susenco/Low Carbon,8.2,Solar
+206,Bessy Bell 1,Colham Energy Ltd  plus Airtricty extrension,5.0,Wind
+207,Bessy Bell 2,Bessy Bell Windfarm Omagh xx1 1xx,9.0,Wind
+208,Betton Abbots,SITA UK / Natural Power,1.3,Waste
+209,Betty Hill,North British Windpower Ltd,5.0,Wind
+210,Bewick Drift,Harworth Power on behalf of Thomas Breheny,2.3,Wind
+211,Bhlaraidh (previously Balmacaan),Scottish and Southern Energy (SSE),110.0,Wind
+212,Bicker Fen,Wind Prospect,26.0,Wind
+213,Bidston Moss Landfill Scheme,Bidston Methane Ltd,2.3,Waste
+214,Bidwell Solar Farm - resubmission,Wessex Solar Energy,5.0,Solar
+215,Biglis Farm,Conergy West Sussex,5.0,Solar
+216,Bilbster,Donald Miller,3.9,Wind
+217,Billinge Hill Quarry Landfill Scheme,Bidston Methane Ltd.,1.0,Waste
+218,Bilsham Farm,NextEnergy Solar Fund,14.5,Solar
+219,Bilsthorpe,Anesco,5.7408,Solar
+220,Bilsthorpe (Land off Forest Lane),NESF (formerly Lark Energy),5.0,Solar
+221,Bin Mountain Wind Farm,Greencoat UK Wind,9.0,Wind
+222,Binn Landfill,SITA UK / Natural Power,1.9,Waste
+223,Binsted,Lightsource,4.9979,Solar
+224,Birch Airfield,Push Energy/ NESF,5.6,Solar
+225,Birmingham Bio-Power Plant,Birmingham Bio-Power,10.3,Biomass
+226,Bishop's Waltham Solar Farm,Solafields U/Bishop's Waltham Renewables Ltd,12.0,Solar
+227,Bishops Sutton,Lightsource Renewable Energy,12.0,Solar
+228,Bishopthorpe,Greencoat UK (formerly BayWa r.e.),16.4,Wind
+229,Blaby Solar Farm,Blaby Solar Farm,3.5,Solar
+230,Black Bush Farm,Lark Energy,2.7,Solar
+231,Black Dog,FCC Environment,2.2,Waste
+232,Black Hill,Renewable Energy Systems (RES),28.6,Wind
+233,Black Law,Scottish Power Renewables,124.2,Wind
+234,Black Law 2,Scottish Power Renewables,55.42,Wind
+235,Black Law Extension - 1b,Scottish Power Renewables,15.0,Wind
+236,Black Peak Farm,Lightsource Renewable Energy,31.8,Solar
+237,Black Rock,RWE npower,3.5,Hydro
+238,Blackawton Solar Farm,Maria Bailey Planning,3.0,Solar
+239,Blackborough End Landfill Site,Combined Landfill Projects (CLP),1.5,Waste
+240,Blackburn,Scottish Power: Thermal,59.0,Gas
+241,Blackburn Meadows,E.On,33.0,Biomass
+242,Blackstone Edge,Ventient (formerly Infinis),7.5,Wind
+243,Blackwell Grange Solar Farm,Blackwell Grange Solar Farm Ltd (Conergy),5.0,Solar
+244,Blaen Bowi Wind Farm,WINDJEN POWER LTD,3.9,Wind
+245,Blaengwen (Re-Submission),Statkraft and Catamount Energy Corporation,23.0,Wind
+246,Blakenhall Park Solar Farm,Mercer Farming,1.8,Solar
+247,Blantyre Muir Wind Farm extension,West Coast Energy,7.5,Wind
+248,Blatchworthy,Lightsource Renewable Energy,1.41246,Solar
+249,Blenches Mill Solar Park,British Solar Renewables (formerly know as Solar Power Generation),6.0788,Solar
+250,Bletchley Phase II,Waste Recycling Group,2.2,Waste
+251,Bloodhills - repowering,The Farm Energy Partnership LLP,1.0,Wind
+252,Blue Gates Farm,M H & P Leyland,1.5,Wind
+253,Blue House,Anesco,4.98,Solar
+254,Bluegates Solar Park,Edgar Middleton,10.5,Solar
+255,Blyth Harbour Wind Farm (re-power),Hainsford Energy (Blyth Harbour) Limited,3.4,Wind
+256,Blyth T2,Border Wind Farms Ltd,2.0,Wind
+257,Boardinghouse Wind Farm,Ecogen,10.3,Wind
+258,Bobbing solar farm,Solar Securities (Group),11.3,Solar
+259,Boddington Reservoir,,1.5,Wind
+260,Bodmin,Solar Securities Group,4.97684,Solar
+261,Bodorgan Solar Farm,Anesco,12.6,Solar
+262,Bodtegir,Clean Earth Energy,1.5,Wind
+263,Bodwen Solar Park,Greencoat Capital,5.5,Solar
+264,Bogenlea Farm,Eco2,2.3,Wind
+265,Bolsovermoor Quarry,Lightsource Renewable Energy,4.9979,Solar
+266,Bolton EfW,Viridor (GMWDA),8.0,Waste
+267,Bolton Road Waste Treatment and Renewable Energy Facility (Waste AD),Shanks Group,4.0,Biomass
+268,Bombardier Factory,Bombardier Aerospace,3.8,Solar
+269,Bommertown Solar Farm,Steadfast Molland Solar Ltd,5.0,Solar
+270,Bonerbo Wind Turbines (resubmission),Messrs Stevenson  Watson & Brunton,1.5,Wind
+271,Bonnyrigg,Natural Power,2.2,Waste
+272,Bootham Lane,Waste Recycling Group,1.2,Waste
+273,Bootham Lane Landfill,Natural Power,2.7,Waste
+274,Bootham Lane Phase 2,Waste Recycling Group,1.4,Waste
+275,Boscombe Airfield,Lark Energy,12.3,Solar
+276,Boston Landfill Scheme,Renewable Power Systems,1.3,Waste
+277,Bottom Plain,Inazin Energy/Low Carbon,10.0,Solar
+278,Boulfruich,Mr and Mrs Hall,13.0,Wind
+279,Boundary Lane,EDF (purchased from Wind Prospect Developments Ltd in 2012),6.0,Wind
+280,Bourne Farm,Farm Power Apollo,2.4,Solar
+281,Bourne Park (Solar),Sovereign Energy Partners LLP - Charles Houston -,5.0,Solar
+282,Bourne Park AD (AD),Eco Sustainable Solutions,1.1,Biomass
+283,Bowbeat (Emly Bank),,15.6,Wind
+284,Bowbeat (Roughside),,15.6,Wind
+285,Bowden Lane Solar Park,British Solar Renewables / NextEnergy Solar Fund (NESF),4.9896,Solar
+286,Bowerhouse Farm,KWTN Solar,8.3,Solar
+287,Bowmore,Scottish and Southern: Island Generation,6.0,Oil
+288,Boxted Airfield,NextEnergy Solar Fund,18.8,Solar
+289,Boyndie,Boyndie Wind Farm,16.3,Wind
+290,Boyndie Airfield,RDC Scotland Ltd/ Falck Renewables,16.7,Wind
+291,Brackagh Quarry,Renewable Energy Generation (REG),4.98,Wind
+292,Bradford Solar Park,Wessex Solar Energy,5.3,Solar
+293,Bradgate Quarry Landfill Gas Scheme,Waste Recycling Group,2.5,Waste
+294,Bradwell,Npower Renewables,20.5,Wind
+295,Braes of Doune Wind Farm,Greencoat UK Wind,72.0,Wind
+296,Braevallich,INNOGY plc,2.2,Hydro
+297,Braich Ddu,REG Windpower (previously Cornwall Light and Power),3.9,Wind
+298,Bransholme Solar CIC,Renesola (community owned),5.0,Solar
+299,Branston solar park,Inazin Energy Limited/Low Carbon,18.9,Solar
+300,Bratton Fleming Solar Farm,Wessex Solar Energy,5.0,Solar
+301,Braydon Manor Farm,Public Power Solutions,8.7,Solar
+302,Brazier Landfill Scheme,Pioneer Aggregates (UK) Ltd,3.9,Waste
+303,Bredbury Park Way - AD Stockport (Waste AD),Greater Manchester Waste Ltd,2.0,Biomass
+304,Brenkley Landfill,SITA UK / Natural Power,1.9,Waste
+305,Bretby Power,Natural Power,1.6,Waste
+306,Briar Solar Farm,NR16/ RenEnergy,1.9,Solar
+307,Brickyard Barn (resubmission),Sun Glow Power,4.1,Solar
+308,Brigg Renewable Energy Plant (Re-submission),Eco2,40.0,Biomass
+309,Bristol STW (Waste AD),GENeco,10.0,Biomass
+310,British Sugar - Bury,British Sugar,5.0,Biomass
+311,Briton / Neath,Natural Power,2.2,Waste
+312,Briton Ferry,Neath Port Talbot Waste Management Co Ltd,2.0,Waste
+313,Broadgate Solar Farm,Lightsource Renewable Energy,1.1,Solar
+314,Brockaghboy Wind Farm,TCI Renewables/ERG Renew,37.5,Wind
+315,Brockaghboy Wind Farm - extension,TCI Renewables/ERG Renew,10.0,Wind
+316,Brockholes Wind Cluster,Mr J Prentice  Brockholes Farm,2.4,Wind
+317,Brocklesby - Crosslands Lane,BioConstruct,3.5,Biomass
+318,Brogborough Phase III,Waste Recycling Group,11.0,Waste
+319,Brogborough Phase IV,Waste Recycling Group,11.0,Waste
+320,Bromborough Dock,Biffa,3.7,Waste
+321,Bromborough Dock Landfill Scheme,Biffa,3.0,Waste
+322,Bronwylfa Reservoir,Wrexham County Borough Council,3.0,Solar
+323,Broockhurst Wood,Biffa,2.0,Waste
+324,Brook Farm,Green Energy UK Direct Ltd,8.91036,Solar
+325,Brook Hall Farm (resubmission),South West Solar Parks (Brook Hall Farm SPV),4.7,Solar
+326,Brookbarn,Anesco,3.63,Solar
+327,Brookfield Farm AD Plant (Farm AD),Mr. I. Critchley,1.3,Biomass
+328,Brookhurst Wood (Waste AD),Biffa/West Sussex County Council,4.5,Biomass
+329,Brookhurst Wood Gas to Energy,Biffa,5.1,Waste
+330,Broomhill,,8.0,Wind
+331,Brotherton (formerly Paul Matthew Hill wind turbines),Renewable Energy Ventures Ltd,4.6,Wind
+332,Broxted Solar Park,Lark Energy,31.59,Solar
+333,Bruar Hydro Scheme,Bruar Hydro Ltd/ Gilkes,1.9,Hydro
+334,Bryn Du,Renewable Development Company Ltd,16.4,Wind
+335,Bryn Pica AD / Tomorrow's Valley (Waste AD) - resubmission,Ancala Bioenergy (formerly Biogen),1.0,Biomass
+336,Bryn Titli,Innogy,10.0,Wind
+337,Bryn yr Odyn Solar Farm,New Forest Energy Ltd,15.0,Solar
+338,Brynpica Landfill Site,NOVERA,2.7,Waste
+339,Brynteg,Brynteg Solar,14.78664,Solar
+340,Brynwhilach solar park,Good Energy Generation,5.0,Solar
+341,Bu Farm,Longearth Ltd/ Farm Energy,2.7,Wind
+342,Bulls Head North,Anesco,5.51304,Solar
+343,Bumpers Farm Phase 1,Solar Planning,5.0,Solar
+344,Bunn's Hill Solar Park,Solar Century/ Bluefield Solar,5.0,Solar
+345,Burbo Bank,Orsted (formerly Dong Energy),90.0,Wind
+346,Burbo Bank Extension (Burbo Bank 2),Orsted (formerly Dong Energy),258.0,Wind
+347,Burgar Hill,Orkney Sustainable Energy Ltd,5.0,Wind
+348,Burgar Hill (land Near)  Evie,,2.3,Wind
+349,Burghfield,Scottish and Southern: Thermal,45.0,Oil
+350,Burn of Whilk,RWE npower,22.5,Wind
+351,Burnfoot Hill,EDF Energies Nouvelles,30.1,Wind
+352,Burnfoot Hill Extension,FAO Miss Sarah Dooley,4.0,Wind
+353,Burnhead Moss,Wind Prospect Developments/ EDF,26.0,Wind
+354,Burnhills Landfill (L5),SITA UK,3.8,Waste
+355,Burnhills Landfill Scheme (L4),SITA UK,1.5,Waste
+356,Burnthouse Farm,Fivestone Ltd,6.21,Wind
+357,Burntstalk Solar Park,Lightsource Renewable Energy,11.5,Solar
+358,Burntstump Landfill Scheme,Waste Recycling Group,1.8,Waste
+359,Burradale Hill,Shetland Aerogenerators,3.7,Wind
+360,Burrowton Farm,British Solar Renewables,5.0,Solar
+361,Burthy,Elgin Energy EsCo,13.08042,Solar
+362,Burton Farm,Quercus Renewable Holding 2,4.4,Solar
+363,Burton Pedwardine,Lark Energy,8.99162,Solar
+364,Burton Pidsea (Wadworth Hill) Wind Farm,Aeolian Holderness Ltd,10.2,Wind
+365,Burton Wold Wind Farm - Northern Extension (resubmission),John Laing Environmental,14.4,Wind
+366,Burton Wold Wind Farm South,Infinergy/ Muirhall Energy,7.5,Wind
+367,Burton Wold Windfarm,Gravis Capital Management,20.0,Wind
+368,Bury Green Farm Solar,Bury Green Farm Solar (Caledon Partners),5.0,Solar
+369,Bury Lane,Vortex (formerly Sun Edison),22.21587,Solar
+370,Buslingthorpe Power Station (Leeds North),Living Power (REG Bio-Power),2.0,Biomass
+371,Butchersfield Landfill Site,NORWEB Generation Limited,3.0,Waste
+372,Buttermilk Farm,Hallwick Energy,1.1,Biomass
+373,Butterwick Moor Circuit 1,,10.25,Wind
+374,Butterwick Moor Circuit 2,,10.25,Wind
+375,Bygrave Lodge Farm Anaerobic Digestion Facility (Farm AD),Ancala Bioenergy (formerly Biogen),2.3,Biomass
+376,Bypass Nurseries Solar Farm,Sun Spirit,3.3,Solar
+377,Bystock Solar Farm,Lightsource Renewable Energy,4.1,Solar
+378,CRAYSMARSH SOLAR FARM,Mr Nick Boyle,1.8,Solar
+379,CRINACOTT SOLAR FARM (Pyworthy),Sunsave 4 Ltd/ Vogt Solar,6.7,Solar
+380,Caddington Solar Farm (Phase 1),Raybridge Corporation,3.0,Solar
+381,Caddington Solar Farm (Phase 2),Emsrayne Limited,5.0,Solar
+382,Cadland 2,Manor of Cadland,3.01602,Solar
+383,Caeremlyn Solar Farm,Munich RE,18.0,Solar
+384,Caergarw Farm,Suncredit UK (Sunventures 7),3.8,Solar
+385,Cairnborrow - resubmission,Engie (GDF Suez),10.0,Wind
+386,Cairnhill Farm solar park,Green Cat Renewables,2.4,Solar
+387,Cairnmore Farm,,2.6,Wind
+388,Cairnmore Solar Park,GPV Rhynie,3.8,Solar
+389,Cairnmore Solar Park (extension),GPV Rhynie,1.2,Solar
+390,Caldecote Manor Farm,Sustain Energy Solutions,5.0,Solar
+391,Calder Water Community Wind Farm,Community Windpower (Community Wind Power),28.0,Wind
+392,Caledonian Papermill,Caledonian Paper,26.0,Biomass
+393,Callagheen,B9 / Renewable Energy Systems (RES),16.9,Wind
+394,Calliachar,Scottish and Southern Energy (SSE),32.2,Wind
+395,Callington Solar Farm,Inazin (Low Carbon Solar),6.4,Solar
+396,Calvert Phase II,Waste Recycling Group,11.2,Waste
+397,Camster,E.ON UK,50.0,Wind
+398,Canada Farm,British Solar Renewables,8.3,Solar
+399,Candles/Coalmoor Landfill,ONYX LANDFILL LTD,2.9,Waste
+400,Cannington Cold Stores,Cannington Cold Stores Ltd / Cannington Bioenergy,3.3,Biomass
+401,Canopus Farm,Countryside Renewables,5.0,Solar
+402,Cantelupe Solar Farm,Innogy (previously - Belectric (previously Alectron Investments Ltd)),5.0,Solar
+403,Canworthy Water,Equitix,41.0,Solar
+404,Capel Grange Solar Park,West Coast Energy,6.6,Solar
+405,Capel Landfill,Hanson Brick Ltd,1.0,Waste
+406,Capeland Farm,juwi Renewable Energies,8.3,Solar
+407,Carcant Wind Farm,Greencoat UK Wind,6.0,Wind
+408,Cardiff Organic Waste Treatment Project (resubmission),Kelda Organic Energy,2.0,Biomass
+409,Cardiff Waste Water Treatment,Dwr Cymru Welsh Water,5.5,Waste
+410,Carines Farm Solar Array,Solar Securities Group Ltd,1.0,Solar
+411,Carlam Hill Education CIC,Renesola to Greencoat (formerly Renesola),5.0,Solar
+412,Carland Cross RP,Scottish Power Renewables,20.0,Wind
+413,Carloggas Farm Solar Park,Good Energy Generation,8.3,Solar
+414,Carlton Farm Solar farm,Mr R Atkins,5.0,Solar
+415,Carn Hill,Gaelectric Developments/ CGN Europe Energy,13.8,Wind
+416,Carn Vean,,10.0,Wind
+417,Carnemough Farm Solar Park,Elgin Energy EsCo,7.0,Solar
+418,Carno,RWE npower,33.6,Wind
+419,Carno 'A' Wind Farm,RWE npower,16.8,Wind
+420,Carno 'A'and 'B' Wind Farm  (Extension),RWE npower,15.6,Wind
+421,Carnoch,Npower Renewables,1.35,Hydro
+422,Carousel Dairy AD Plant (Farm AD),Tamar Energy,1.5,Biomass
+423,Carr Farm (Farm AD),Farmgen,1.0,Biomass
+424,Carraig Gheal,Green Power,46.0,Wind
+425,Carrington,,900.0,Gas
+426,Carrington Farm AD,Beeswax Farming (Rainbow),3.0,Biomass
+427,Carscreugh Renewable Energy Park,John Laing Environmental Assets Group/ REG Power Management,15.3,Wind
+428,Carsfad,Scottish Power: Hydro schemes - Galloway,12.0,Hydro
+429,Carsington,Carsington Wind Energy Limited,8.2,Wind
+430,Carver Hay  moss lane,Navitas Project,2.5,Solar
+431,Cashlie,Scottish and Southern Energy (SSE),11.0,Hydro
+432,Cassington AD (Waste AD),Agrivert,2.1,Biomass
+433,Cassley,Scottish and Southern Energy (SSE),10.0,Hydro
+434,Castle Combe,Sunsave 17 (Castle Combe) Limited /Vogt Solar,15.32736,Solar
+435,Castle Eaton Farm,Hive Energy,17.8,Solar
+436,Castle Pill - Repowering,John Laing,3.2,Wind
+437,Castle of Auchry Farm,Green Cat Renewables,2.4,Wind
+438,Castleford,E.On UK,56.0,Gas
+439,Caswell Farm Solar Park,Juwi Renewable Energies,6.7,Solar
+440,Cathkin Braes,Scottish and Southern Energy (SSE),3.0,Wind
+441,Caton Moor Windfarm Repowering,Hainsford Energy Ltd,16.0,Wind
+442,Cattlegate Farm Biogas (Farm AD),Willen Biogas & Xergi,1.5,Biomass
+443,Causeymire,Innogy (formerly RWE npower),48.3,Wind
+444,Causilgey Solar Farm,China Sunergy,5.0,Solar
+445,Ceannacroc,Green Highland Renewables,20.0,Hydro
+446,Cefn Betingau Farm,Wessex Solar Energy,9.0,Solar
+447,Cefn Croes,Renewable Development Company Ltd  KENTECH Ltd,59.0,Wind
+448,Celcon Blocks Ltd,Ecotricity / Next Generation,2.0,Wind
+449,Cemmaes,Vestas,15.3,Wind
+450,Cemmaes 'C' Wind Farm,Vestas,15.3,Wind
+451,Chalcroft Solar Park,Chalcroft Solar Park,6.3,Solar
+452,Chalgrove Solar,Chalgrove Solar,21.34044,Solar
+453,Chancery Farm (Ardleigh),BlackRock,11.9,Solar
+454,Chaorach Hydro,Green Highland Renewables,2.0,Hydro
+455,Chapel Farm,Public Power Solutions/ Swindon Borough Council,5.0,Solar
+456,Chapel Farm Landfill,HILLS MINERALS & WASTE LTD,3.0,Waste
+457,Chapel Hill,Wessex Solar Energy,8.0,Solar
+458,Chapel Lane Parley Solar Farm Phase 1,Solar Power Generation Limited,20.0,Solar
+459,Chapel Lane Parley Solar Farm Phase 2,Eco Sustainable Solutions,36.0,Solar
+460,Chapel Lane Parley Solar Farm Phase 3,Eco Sustainable Solutions,4.0,Solar
+461,Chapman's Well,Natural Power,1.0,Waste
+462,Chard Solar Park,Conergy,3.0,Solar
+463,Charity Farm - CfD,Lightsource Renewable Energy,14.402485,Solar
+464,Chawton Farm Solar Farm,BNRG Renewables,3.2,Solar
+465,Chediston Hall Solar Park,Lightsource Renewable Energy,12.3,Solar
+466,Chelker Reservoir,Yorkshire Water,1.3,Wind
+467,Chelker Reservoir (Retention of Turbines),Yorkshire Water,1.2,Wind
+468,Chelson Meadow 2,Combined Landfill Projects (CLP),1.4,Waste
+469,Chelson Meadow Gas to Energy Scheme,DEVON WASTE MANAGEMENT LTD,1.8,Waste
+470,Chelveston Airfield,Chelveston Renewable Energy Limited,16.0,Solar
+471,Chelveston Airfield - extension,Chelveston Renewable Energy,3.5,Solar
+472,Chelveston Renewable Energy Park - Solar Extension,FEL Solar,19.5,Solar
+473,Chelveston Renewable Energy Park Wind Farm (Bedford),Chelveston Renewable Energy Ltd,10.0,Wind
+474,Chelveston Renewable Energy Park Wind Farm (East Northamptonshire),Chelveston Renewable Energy Ltd  David Henson,12.5,Wind
+475,Chelwood Solar Farm,Mongoose Energy Coop,5.0,Solar
+476,Chelworth Industrial Estate Solar Park,Bath & West Community Energy Ltd,1.0,Solar
+477,Cherry Tree Farm,Trina Solar,5.0,Solar
+478,Chester Energy (East Woolley Farm),Mr John R Wearmouth  Chester Energy (Eastcott) Ltd,5.0,Solar
+479,Chickerell,Scottish and Southern: Thermal,45.0,Oil
+480,Chilton Cantelo Solar Park,Mr Angus Macdonald,4.997,Solar
+481,Chilton Energy Plant,Dalkia,18.0,Biomass
+482,Chineham ERF,Veolia,8.0,Waste
+483,Chiplow,Blue Energy,8.2,Wind
+484,Chippenham,Scottish and Southern: Thermal,10.0,Gas
+485,Chisbon Solar Farm (Frowick Lane),ESCO NRG,13.0,Solar
+486,Chittering,Abbey Properties Cambs,4.9934,Solar
+487,Chittering Solar Farm,Abbey Renewables,5.0,Solar
+488,Chonais Hydro,Green Highland Renewables,2.0,Hydro
+489,Christchurch Energy,New Forest Energy Ltd,18.0,Solar
+490,Church Farm - Slapton,Lightsource Renewable Energy,4.9848,Solar
+491,Church Hill,Energia Renewables,16.0,Wind
+492,Chynoweth Farm,Low carbon Solar Partners,2.9,Solar
+493,Cia Aig,RWE Npower Renewables,3.0,Hydro
+494,Clachan,Scottish and Southern: Hydro Schemes - Sloy/Awe,40.0,Hydro
+495,Clachan Flats,AMEC/ Border Winds,15.03,Wind
+496,Clann Solar Farm,Lightsource Renewable Energy,1.4,Solar
+497,Clapham solar farm,SBC Renewables,7.5,Solar
+498,Clapton Farm Solar Park,British Solar Renewables,5.0,Solar
+499,Clashindarroch,Vattenfall Wind Power,36.9,Wind
+500,Clawdd Ddu,Elgin Energy EsCo,13.521,Solar
+501,Clayhill Farm,Anesco,10.0,Solar
+502,Claypit Moor Solar Farm (Lexham),Lightsource Renewable Energy,7.9,Solar
+503,Clearwell Farm - solar,Heritage Energy,2.0,Solar
+504,Cleave Farm,Lightsource Renewable Energy,4.56435,Solar
+505,Clentrie Wind Farm (Gevens),Rev Ltd,6.9,Wind
+506,Clifton Hall,Biffa,1.0,Waste
+507,Clifton Marsh Energy,SITA UK / Natural Power,3.3,Waste
+508,Clochnahill Wind Farm,M  I & H Gordon,5.2,Wind
+509,Clondermot Turbines,Energia Renewables,4.6,Wind
+510,Cloonty Wind Farm,Gaelectric Developments/ CGN Europe Energy,12.0,Wind
+511,Clunie,Scottish and Southern: Hydro Schemes - Tummel,61.2,Hydro
+512,Clyde Wind Farm Extension (Clyde 2),Scottish and Southern Energy (SSE)/ GIB,172.8,Wind
+513,Cnoc Donn Arnicle,CRE Energy/ Scottish Power,15.0,Wind
+514,Coal Clough RP,Coal Clough Wind Farm,16.0,Wind
+515,Coal Clough Wind Farm,RES,9.6,Wind
+516,Cobbs Cross Solar Park,PS Renewables,5.0,Solar
+517,Cockett Valley,Renewable Developments Wales,4.0,Solar
+518,Cockhill Solar Farm,Next Energy Solar Fund Ltd,20.0,Solar
+519,Codford Biogas (Waste AD),J M Stratton & Co,1.5,Biomass
+520,Colchester STW,Anglian Water Services Ltd,1.2,Waste
+521,Cold Harbour,Lightsource Renewable Energy,5.0,Solar
+522,Cold Northcott,EDF Energies Nouvelles,6.6,Wind
+523,Coldham,Co-op,16.0,Wind
+524,Coldham,Wind Prospect / TXU,16.0,Wind
+525,Coleshill STW (Waste AD),Severn Trent Water,2.4,Biomass
+526,Collacott Farm,Cooper Energy Engineering,4.5,Solar
+527,Colnbrook Landfill,Biffa,1.9,Waste
+528,Colpmans Farm,Wirsol Solar UK Ltd,5.0,Solar
+529,Colsterworth Landfill Gas Project,Colsterworth Energy Ltd,2.6,Waste
+530,Coltishall 1,Greencoat Capital,33.682,Solar
+531,Colwick Industrial Estate (Farm and Food waste),Bio Dynamic,2.0,Biomass
+532,Combermere Abbey,INRG Solar,14.0,Solar
+533,Common Farm,Public Power Solutions/ Swindon Borough Council,4.99,Solar
+534,Compton Bassett Landfill,HILLS MINERALS & WASTE LTD,2.0,Waste
+535,Condover (Green Farm),NextEnergy Solar Fund,10.2,Solar
+536,Condover Airfield,Lightsource Renewable Energy,12.3,Solar
+537,Congresbury Solar Farm,Padero Solar Renewables,7.1,Solar
+538,Connahs Quay,Uniper UK Limited,1380.0,Gas
+539,Connaught Road,,1.7,Wind
+540,Connon Bridge Landfill,,1.0,Waste
+541,Connon Bridge Landfill Gas Project,Combined Landfill Projects (CLP Envirogas),5.2,Waste
+542,Coolkeeragh,Coolkeeragh ESB Ltd,408.0,Gas
+543,Coolkeeragh OCGT,Coolkeeragh ESB Ltd,53.0,Gas
+544,Coombe Farm,Renewable Energy Systems Ltd (RES),8.0,Solar
+545,Coombeshead Solar Farm,Green Hedge (BayWa r.e.),8.0,Solar
+546,Cooper House Farm,Suncredit UK/ Vogt solar,5.0,Solar
+547,Copley Farm,TGC Renewables,30.0,Solar
+548,Corby,Corby Power Ltd,401.0,Gas
+549,Corby Knowe,Gaelectric Developments/ CGN Europe Energy,5.0,Wind
+550,Corkey,B9 Energy Services Ltd/ ScottishPower Renewables,5.0,Wind
+551,Corkey Wind Farm Extension (Resubmission),Northern Ireland Renewables,2.5,Wind
+552,Corntown Farm,SBC Renewables,3.4,Solar
+553,Cornwall ERC,SUEZ,20.0,Waste
+554,Corriegarth,Greencoat Capital,69.0,Wind
+555,Corriemoillie,EDF Energy Renewables,47.5,Wind
+556,Coryton,Intergen,800.0,Gas
+557,Costessey Landfill Gas Project 2,Combined Landfill Projects (CLP),2.0,Waste
+558,Cotesbach Landfill Gas Project,LAFARGE REDLANDS AGGREGATES LTD,2.3,Waste
+559,Cotgrave,Anesco,4.9833,Solar
+560,Coton Park Solar Farm,Green Energy Networks,2.7,Solar
+561,Cottam,EDF Energy,2008.0,Coal
+562,Cottam Development Centre,Uniper UK Limited,395.0,Gas
+563,Cotton Farm,Greencoat UK Wind,16.4,Wind
+564,Cottonmount Quarry,Biffa,3.2,Waste
+565,Cour Wind Farm,Octopus Investments/Blue Energy,20.5,Wind
+566,Coursers Farm AD Plant (Waste AD),Agrivert,3.0,Biomass
+567,Court Colman solar park,Suncredit UK/ Vogt Solar,15.0,Solar
+568,Court Farm (Resubmission),BE Renewables,8.5,Solar
+569,Courtstone Wind Turbine,,2.3,Wind
+570,Coventry,Coventry & Solihull WDC,4.5,Waste
+571,Cowdown Lane,Equitix,40.0,Solar
+572,Cowes,RWE Npower Plc,140.0,Gas
+573,Cowie Biomass Facility,Norbord,15.0,Biomass
+574,Cradley Heath,Intervate Renewable Energy,1.1,Biomass
+575,Craig Wind Farm,Craig Wind Farm Co,10.0,Wind
+576,Craig Wind Farm (Extension),Temporis Wind,2.5,Wind
+577,Craigahulliar Landfill Gas,B9 Organic Energy and Craigahulliar Energy,1.0,Waste
+578,Craigannet Farm Wind Turbine,Clean Earth Energy,1.5,Wind
+579,Craigengelt,Scotia Wind Ltd,20.0,Wind
+580,Cranford,SITA UK,1.1,Waste
+581,Cranham Golf Course Solar Park,Cranham Golf Course,2.6,Solar
+582,Crannaford Solar Farm,MS Power Projects Ltd (Mr L Mark),12.5,Solar
+583,Crapnell Farm Solar Farm,Lightsource Renewable Energy,5.4,Solar
+584,Creathorne Farm  - Solar Farm,Good Energy Generation,1.8,Solar
+585,Cregganconroe,Gaelectric Developments/ CGN Europe Energy,13.8,Wind
+586,Cressing Solar Farm (Phase 1),Octopus Investments,5.0,Solar
+587,Creswell Solar Park (resubmission),Sovereign Energy Partners,5.0,Solar
+588,Crighshane,Energia Renewables,28.0,Wind
+589,Crimp,Crimp Power Ltd (West Coast Energy),2.43,Wind
+590,Crockagarran,ESB,15.0,Wind
+591,Crockagarron Ext,,2.5,Wind
+592,Crockandun,Brookfield Renewable Energy Group,15.0,Wind
+593,Crockbaravally Wind Farm,Golden Square Energy,7.5,Wind
+594,Crockbrack,Gaelectric Developments/ CGN Europe Energy,2.0,Wind
+595,Crockdun,ESB (Northern Wind Power),12.5,Wind
+596,Crockers Hele,Mr Knapman,1.3,Solar
+597,Croda Chemicals Europe,Croda Chemicals   Oak Road  Kingston-Upon-Hull,3.0,Wind
+598,Crook Hill (Revised Application - Calderdale MBC) 1 of 2,Infrared Capital Partners,13.6,Wind
+599,Crook Hill (Revised Application - Rochdale MBC) 2 of 2,Infrared Capital Partners,23.8,Wind
+600,Crookedstone,Lightsource Renewable Energy,4.83184,Solar
+601,Cross Green ERF,Veolia,11.6,Waste
+602,Cross Roads Plantation,Good Energy Generation,5.0,Solar
+603,Crossness,Thames Water Utilities,1.50371,Solar
+604,Crossness Sewage Works,Thames Water Utilities,5.7,Waste
+605,Crossness Sewage Works Turbine,Thames Water Utilities,2.5,Wind
+606,Crossways Solar Park,Vogt Solar,4.997,Solar
+607,Crow Trees Farm,Trina Solar,4.8,Solar
+608,Crowmarsh Battle Farm (Farm AD),Agrivert,2.3,Biomass
+609,Croydon / Church Farm (Royston),Push Energy/ NESF,16.5,Solar
+610,Cruach Mhor,Scottish Power Renewables,29.75,Wind
+611,Cruachan,Scottish Power: Hydro schemes - Cruachan,440.0,Hydro
+612,Crucis Farm,Solar Planning Limited,16.057,Solar
+613,Crugmore Farm,John Laing Environmental Assets (formerly RGE Energy),6.4,Solar
+614,Crundale / Fenton Home Farm (extension),Vogt Solar,5.9,Solar
+615,Crystal Rig,Fred Olsen Renewables,63.0,Wind
+616,Crystal Rig 2,Fred Olsen Renewables,138.0,Wind
+617,Crystal Rig 3,Fred Olsen Renewables,13.8,Wind
+618,Crystal Rig Extension II,Natural Power Consultants,20.7,Wind
+619,Cuaich,Scottish and Southern Energy (SSE),2.5,Hydro
+620,Cuckoo Grove Farm,,7.5,Solar
+621,Cuileig Hydro Scheme,Scottish Hydro-Electric plc,3.3,Hydro
+622,Culligran,Scottish and Southern: Hydro Schemes - Affric/Beauly,17.0,Hydro
+623,Culligran Compensation Set,Scottish and Southern: Hydro Schemes - Affric/Beauly,2.1,Hydro
+624,Culmhead Solar Farm (Resubmission),Anesco,7.5,Solar
+625,Culworth,Mr & Mrs C E R & S Buckley,3.63639,Solar
+626,Cumbernauld BioPlant  (Waste AD),Shanks Group,2.4,Biomass
+627,Curryfree Wind Farm,ESB,15.0,Wind
+628,Cwm Derwyn Farm,Kronos Solar,5.0,Solar
+629,Cwmcaesingrug Farm,Kronos Solar,10.0,Solar
+630,Cwrt Henllys,Lightsource Renewable Energy,4.99252,Solar
+631,DPD Distribution Centre,DPD,1.0,Solar
+632,Dagenham,Ecotricity,2.3,Wind
+633,Dalby,Ecotricity,9.2,Wind
+634,Dalchonzie,Scottish and Southern Energy (SSE),4.0,Hydro
+635,Dalswinton,Airtricity Scotland,30.8,Wind
+636,Damhead Creek,Scottish Power: Thermal,805.0,Gas
+637,Damhead Farm,Mr Arthur Shevill,2.5,Wind
+638,Danes Farm,Freewatt Renewable Energy,3.3,Solar
+639,Danes Farm - extension,Freewatt Renewable Energy,10.5,Solar
+640,Danes Moss Landfill Site,Waste Recycling Group,1.6,Waste
+641,Danes Moss Landfill Site (Extension),Waste Recycling Group / NOVERA / Amber,2.0,Waste
+642,Darracott Moor,FIM Services Limited aquired the site from previous developers Iberdrola,2.6,Wind
+643,Dartmoor Bio Power,Dartmoor Bio Power 1,3.9,Biomass
+644,Dean Group Business Park - Hartlepool,BioConstruct,5.1,Biomass
+645,Deanie,Scottish and Southern: Hydro Schemes - Affric/Beauly,38.0,Hydro
+646,Decoy Farm,Push Energy/ NESF,5.0,Solar
+647,Decoy Farm (Farm AD),Organic Recycling,1.8,Biomass
+648,Decoy Farm House Solar Modules,Ms Power Projects Ltd,6.0,Solar
+649,Deep Moor Gas to Energy,DEVON WASTE MANAGEMENT LTD,2.0,Waste
+650,Deepdale Farm,Deepdale Farm Solar Ltd,8.0,Solar
+651,Deephams Sewerage Treatment Works,Thames Water Utilities,3.0,Biomass
+652,Deeping,Wind Prospect Developments,16.0,Wind
+653,Deerdykes Composting and Organics Recycling Facility (Waste AD),Scottish Water Solutions,1.0,Biomass
+654,Deerplay Landfill Site,CAIRD ENVIRONMENTAL LTD,2.0,Waste
+655,Deeside,,515.0,Gas
+656,Delabole (Repowering),Good Energy Generation,9.2,Wind
+657,Den Brook,Aviva,18.0,Wind
+658,Dengemarsh Road,Tudor Roof Tile Co,1.0,Solar
+659,Denhill,,2.3,Wind
+660,Denzell Downs Windfarm,REG Windpower / BlackRock,10.2615,Wind
+661,Derby Sewage Treatment Works,Severn Trent Water,5.0,Wind
+662,Derriford Hospital,Plymouth Hospital NHS Trust,1.5,Biomass
+663,Derriton Fields Solar Farm,Sunsave 12 (Derriton Fields) Limited./ Vogt solar,11.8,Solar
+664,Derrydarroch,Darroch Power Limited,1.9,Hydro
+665,Dersalloch,Scottish Power Renewables,69.0,Wind
+666,Desford Solar Farm,Trina Solar,5.0,Solar
+667,Deucheran Hill,Powergen Renewables,15.75,Wind
+668,Dewlay Cheese,Dewlay Cheese Company,2.0,Wind
+669,Diageo Biomass Energy Project,Diageo,5.5,Biomass
+670,Didcot B,RWE Npower Plc,1470.0,Gas
+671,Didcot GT,RWE Npower Plc,100.0,Gas
+672,Dimmer Anaerobic Digestor (Waste AD),Viridor / Wyvern Waste Services,3.0,Biomass
+673,Dimmer Landfill Gas Scheme,NOVERA,2.3,Waste
+674,Dimmer Landfill Site,Gengas Ltd,1.9,Waste
+675,Dinorwig,ENGIE,1800.0,Hydro
+676,Distington Landfill,THOMAS GRAVESON LTD,1.8,Waste
+677,Docksway Landfill Scheme,Renewable Power Systems,2.0,Waste
+678,Dogsthorpe South Landfill Site,Waste Recycling Group,1.9,Waste
+679,Dogsthorpe South Landfill Site 2,Shanks Group,1.4,Waste
+680,Dolmans Hill (Redbridge Farm) Solar Arrays,,5.0,Solar
+681,Donich Water Hydro,Gilkes Energy/Broadland Energy,1.4,Hydro
+682,Dorket Head,Waste Recycling Group,2.8,Waste
+683,Double Arches Quarry Wind Turbine,Arnold White Estates (AWE Renewables),1.5,Wind
+684,Double H Nurseries Biomass Plant,Double H Nurseries,1.5,Biomass
+685,Douglas Water,RWE npower,3.0,Hydro
+686,Drakelow Solar Farm,BlackRock,5.0,Solar
+687,Drapers Farm Solar Park,Lightsource Renewable Energy,6.0,Solar
+688,Drax,Drax Power,1980.0,Coal
+689,Drax GT,Drax Power Ltd,75.0,Gas
+690,Drayton Manor Farm,Anesco,25.0,Solar
+691,Drone Hill,Greencoat UK Wind,28.6,Wind
+692,Droop Hill Wind Farm x,Macphie Of Glenbervie Ltd,4.6,Wind
+693,Drumderg,Scottish and Southern Energy (SSE),36.8,Wind
+694,Drumduff,Green Breeze Energy Ltd,8.5,Wind
+695,Drumjohn,Scottish Power: Hydro schemes - Galloway,2.0,Hydro
+696,Drummond Moor Landfill,Waste Recycling Group,2.0,Waste
+697,Dryholme Farm (Farm AD),Kirk Environmental,1.0,Biomass
+698,Dudley EfW,MES Environmental (CNIM Group),7.4,Waste
+699,Dummuie,Tetro Energy Ltd (ECO2),12.3,Wind
+700,Dun Law 1,Renewable Energy Systems (RES),17.16,Wind
+701,Dun Law 2,RES,29.75,Wind
+702,Dunbar,Viridor,2.2,Waste
+703,Dunbar Power Plant,Viridor,14.0,Waste
+704,Dundee,Ecotricity,4.0,Wind
+705,Dungavel,John Laing,26.0,Wind
+706,Dungeness B,British Energy (now part of EDF),1050.0,Nuclear
+707,Dunkeswell Airfield,Lumicity,2.0,Solar
+708,Dunlop Landfill Gas Scheme,Natural Power,2.4,Waste
+709,Dunmaglass,Scottish and Southern Energy (SSE),94.1,Wind
+710,Dunmore,TCI Renewables,21.0,Wind
+711,Dunsfold,Dunsfold Park Ltd,2.00056,Solar
+712,Dunsland Cross Wind Farm,Temporis Capital,7.5,Wind
+713,Dura Park Bynea Industrial Site,Short Bros Homes,1.4,Solar
+714,Durrants Farm Solar,Kronos Solar/Vogt Solar,4.5,Solar
+715,Dyffryn Brodyn,RES,5.4,Wind
+716,Eaglescliffe Solar Farm,UK Sustainable Energy,5.0,Solar
+717,Eakring Solar Farm,Lightsource Renewable Energy,11.9,Solar
+718,Earls Hall Farm,Greencoat UK Wind,10.25,Wind
+719,Earlsburn,Falck Renewables,37.5,Wind
+720,Earlseat,The Renewables Infrastructure Group (TRIG),16.0,Wind
+721,Earlstoun,Scottish Power: Hydro schemes - Galloway,14.0,Hydro
+722,Eas a Ghaill,Gilkes Energy,1.5,Hydro
+723,East Appleton,FIM Services (formerly Anesco),4.98,Solar
+724,East Dagenham Docks AD (AD),Lynton Development Ltd & Teg Environmental Ltd,1.4,Biomass
+725,East Fairlee,The Solar Building Company Ltd,6.979,Solar
+726,East Farm,Anesco,6.84288,Solar
+727,East Langford Farm,Low carbon Solar Partners,5.0,Solar
+728,East Lenham Solar Farm,Laurence Associates,6.6,Solar
+729,East Midlands Airport,Wind Direct,1.0,Wind
+730,East Midlands Distribution Centre,Marks and Spencer plc,6.1,Solar
+731,East Youlstone,Airvolution Energy,4.0,Wind
+732,Eastacombe,The Green Company (Europe) Limited,3.577,Solar
+733,Eastcroft EfW (Lines 1 & 2),FCC Environment,9.0,Waste
+734,Easter Melrose Wind Energy Project,Melrose Farms,1.5,Wind
+735,Easter Tolmauds,Frank A Smart & Son Ltd,1.6,Wind
+736,Easter Tulloch Wind Farm (Tullo Extension),N R Gammie Partnership,25.0,Wind
+737,Ebbsfleet Farm Solar Farm,GKA Limited,4.9,Solar
+738,Ebbsfleet Solar Farm,Thanet Solar Ltd/ Vogt Solar,5.0,Solar
+739,Ebnal Lodge (resubmission),Greencoat Capital,5.0,Solar
+740,Eccleshall Biomass,Eccleshal Biomass,2.6,Biomass
+741,Eckland Lodge Farm,Stuart Howes & Son / Eckland Lodge Business Park,2.9,Solar
+742,Eco Composting,Eco Sustainable Solutions,3.2,Biomass
+743,Ecotech,LRZ Ltd (Taken over by NOVERA),1.5,Wind
+744,Ederline Hydro,Gilkes Energy,1.9,Hydro
+745,Edinbane,Vattenfall,41.0,Wind
+746,Edintore Wind Farm,Vento Ludens,18.0,Wind
+747,Edmonton,Londonwaste,60.0,Waste
+748,Edwin Richards Landfill Scheme,Waste Recycling Group,1.8,Waste
+749,Efford Landfill (Newmilton),Veolia,2.8,Waste
+750,Eggborough,Eggborough Power Ltd,1960.0,Coal
+751,Eglish Mountain,ESB (Northern Wind Power),13.8,Wind
+752,Egmanton Solar Farm - resubmission,United Photovoltaics,14.2,Solar
+753,Elan Valley Hydro Scheme,Dwr Cymru Welsh Water,2.9,Hydro
+754,Elean,European Development Corporation,38.0,Biomass
+755,Ellicombe Farm,Lightsource Renewable Energy,1.4,Solar
+756,Elliot's Hill,B9 Energy Services Ltd/ ScottishPower Renewables,5.0,Wind
+757,Ellough Solar Farm,Next Energy Solar Fund Ltd,14.88322,Solar
+758,Ellough Solar Farm Phase Two,Lark Energy,4.99,Solar
+759,Elms Farm,Bluefield Solar,29.0,Solar
+760,Elstow Landfill Site,Renewable Power Generation Ltd,1.8,Waste
+761,Elton solar farm,Valfortec,5.0,Solar
+762,Enderby Warren Phase II,NOVERA,4.9,Waste
+763,Energen biogas cumbernauld,Energen Biogas Ltd,2.4,Biomass
+764,Enfield,Uniper UK Limited,408.0,Gas
+765,Enfield Farm,Greener For Life Energy,2.0,Biomass
+766,EnviRecover,Mercia Waste Management,15.5,Waste
+767,Epwell,Mr Bart Dalla Mura,8.988,Solar
+768,Ermine Street Farm solar park,Octopus Investments,32.5,Solar
+769,Ernesettle Solar Farm,PEC Renewables,4.1,Solar
+770,Errol Estate,Elgin Energy EsCo,13.0,Solar
+771,Eshmore,Energia Renewables,6.9,Wind
+772,Esholt WWTW,Yorkshire Water,3.0,Waste
+773,European Marine Energy Centre (EMEC),Scottish Power/CRE Energy/Wello,1.0,Wave and Tidal
+774,Eveley,PS Renewables,49.328,Solar
+775,Evermore Renewable Energy (CHP) / Lisahally Power Station,ERE Developments,15.0,Biomass
+776,Ewe Hill I,Scottish Power Renewables,13.8,Wind
+777,Ewe Hill II,Scottish Power Renewables,20.7,Wind
+778,Exeter EfW,Viridor,3.5,Waste
+779,Exning,Vortex (formerly Sun Edison),30.276,Solar
+780,Eye Suffolk,South Western Power (NOVERA),14.3,Biomass
+781,Eynsham Solar Farm,Belltown Power,13.2,Solar
+782,F M C Land  Pitreavie Business Park,FMC Corp UK Ltd,1.5,Wind
+783,FMC Technologies,FMC Technologies,1.5,Wind
+784,Fairburn,Scottish and Southern Energy (SSE),40.0,Wind
+785,Fairfield,Windprospect,6.5,Wind
+786,Fairoak Landfill,Renewable Power Generation Ltd,1.5,Waste
+787,Fairwinds,MS Power Projects Ltd,12.19689,Solar
+788,Fall of Warness Tidal Demonstrator (EMEC),Bluewater Energy Services/ Scotrenewables,2.0,Wave and Tidal
+789,Fallago Rig,EDF Energy Renewables,144.0,Wind
+790,Fambridge Road/Canewdon Road,UK Solar Assets (Alcor LS-SPV),5.0,Solar
+791,Fanny House,Primrose Solar,4.942,Solar
+792,Fanny House Farm/Heysham Moss,Blue Energy,1.5,Wind
+793,Far Marsh Farm (Resubmission),Mr Wielkopolski,7.5,Wind
+794,Far Old Park Farm Wind Farm,Windprospect (a subsidiary of Windcluster Ltd.),4.6,Wind
+795,Farington Waste Recovery Park (Waste AD),Global Renewables Lancashire Ltd,1.9,Biomass
+796,Farnham Landfill,Biffa,2.4,Waste
+797,Farr,Innogy (formerly RWE npower),92.0,Wind
+798,Fasnakyle Compensation Set,Scottish and Southern Energy (SSE),7.5,Hydro
+799,Fawley Waste to Energy Plant,Tradebe,8.6,Waste
+800,Felinfach,Volac,3.2,Biomass
+801,Fell View,Anesco,4.258,Solar
+802,Fell View Farm (Phase 2),Anesco,2.9,Solar
+803,Fellside CHP,Px Limited,180.0,Cogeneration
+804,Fen Farm,Ecotricity,16.0,Wind
+805,Fen Farm Solar Park,Ecotricity,1.0,Solar
+806,Fen Road Solar Farm,Lark Energy,1.441,Solar
+807,Fenmarc Fenland AD Plant (Waste AD),Local Generation Ltd,1.5,Biomass
+808,Fenton Home Farm,Sunsave,31.3,Solar
+809,Fernbrook AD Plant (Waste AD),Fernbrook Bio Limited,1.5,Biomass
+810,Ferneylea Farm,John McGregor/CBK Galbraith,1.5,Wind
+811,Ferrybridge Multi-fuel,Scottish and Southern Energy (SSE),79.0,Biomass
+812,Fferm Bryn Bachau,BNRG Renewables,4.4,Solar
+813,Ffestiniog,ENGIE,360.0,Hydro
+814,Fforch Nest Wind Farm pt1,Pennant Walters,10.0,Wind
+815,Fforch Nest Wind Farm pt2,Pennant Walters,17.5,Wind
+816,Ffos Las,Mr Martyn Llewelyn,4.9968,Solar
+817,Ffynnon Oer,RWE npower,32.0,Wind
+818,Fibrepower  Slough,Scottish and Southern Energy (SSE),50.0,Waste
+819,Field House Solar / Hursley Road,Orta Solar,7.0,Solar
+820,Fields Farm (Agden),Lightsource Renewable Energy,4.997475,Solar
+821,Fieldscale,SBC Renewables,10.6,Solar
+822,Finlarig,Scottish and Southern: Hydro Schemes - Breadalbane,16.5,Hydro
+823,Fiskerton Solar Farm,Lark Energy,13.04248,Solar
+824,Five Oaks,John Laing Ltd,8.7,Oil
+825,Fleetwood Water Treatment Works,United Utilities,1.3,Solar
+826,Flimby,Flimby Wind Energy Ltd,6.15,Wind
+827,Flixborough Industrial Estate,NESF (formerly INRG Solar),5.0,Solar
+828,Flotta,Scotwind (Scottish Renewables),1.8,Wind
+829,Folly Farm,Hive Energy,13.1,Solar
+830,Folly Lane,Combined Landfill Projects (CLP Envirogas),1.0,Waste
+831,Ford Farm (Ashurst),Conergy,10.0,Solar
+832,Ford Farm Solar Farm,Ford Farm PV Scheme LLP,5.0,Solar
+833,Ford Motor Company Ltd (Extension),,2.0,Wind
+834,Forest Farm,NESF (formerly Earthworm/Waltham Solar),3.0,Solar
+835,Forest Heath Solar Farm,Munich RE,5.0,Solar
+836,Former Pluckley Landfill Site,Farley Engineering/ Kent Weald Properties/Cleanaway,1.0,Waste
+837,Forss,Renewable Energy Systems Ltd,2.0,Wind
+838,Forss Extension,Renewable Energy Systems Ltd,5.2,Wind
+839,Four Ashes EfW,Veolia,23.0,Waste
+840,Four Burrows,TRIG,4.5,Wind
+841,Four Burrows Farm  (Extension 2),RES UK & Ireland Limited,6.3,Solar
+842,Four Burrows Solar farm (Extension 1),Inazin Power Ltd,1.5,Solar
+843,Four Burrows Wind Farm,RES,4.5,Wind
+844,Foxburrow Farm,UK Sustainable Energy,8.0,Solar
+845,Foxcombe Farm Solar Park,Mr John Wearmouth Tel: 07956 429942,5.0,Solar
+846,Foxhall Landfill Site,Renewable Power Generation Ltd,1.2,Waste
+847,Foyers,,300.0,Hydro
+848,Foyers Falls,Scottish and Southern Energy (SSE),5.0,Hydro
+849,Fraisthorpe Wind Farm,Octopus Investments,29.7,Wind
+850,Francis Court,Martifer Solar (Voltalia),4.224,Solar
+851,Freasdail Wind Farm,The Renewables Infrastructure Group (TRIG),22.5,Wind
+852,French Farm,REG Windpower (previously Cornwall Light and Power),4.025,Wind
+853,Frodsham Wind Farm Ltd,Peel Energy,50.4,Wind
+854,Frog's Loke Solar Farm,Frogs Loke Solar,5.0,Solar
+855,Frying Down Copse Solar Farm,,5.0,Solar
+856,Fullabrook Down Wind Farm,Devon Wind Power Ltd,66.0,Wind
+857,Fullenton Solar Farm,Tealing Solar Parks,4.2,Solar
+858,Furness Wind Farm/High Winds (Harlock Repowering),Baywind Co-op & Energy4All & Belltown Power,11.5,Wind
+859,G24 Innovations Turbine,,2.3,Wind
+860,GDL Wymeswold Solar Farm/land off the A6006,Green Switch Solutions,6.1,Solar
+861,Gairnieston Farm,,2.3,Wind
+862,Galawhistle,Ventient (formerly Infinis),66.0,Wind
+863,Gallowhill,Colin Risbridger,1.8,Wind
+864,Gallymoor Landfill,FCC Environment,2.9,Waste
+865,Galsworthy,Ecotricity,9.2,Wind
+866,Galton Manor Solar Park,British Solar Renewables,5.0,Solar
+867,Garbhaig Hydro Scheme,Garbhaig Hydro Power Co Ltd,2.0,Hydro
+868,Garlaff Landfill,Barr Environmental / CLP,1.3,Waste
+869,Garlaff Landfill (Extension),Garlaff Energy Ltd,3.0,Waste
+870,Garlenick,Airvolution Energy,4.0,Wind
+871,Garn Solar Farm,Equitix,7.4,Solar
+872,Garreg Lwyd,Renewables Infrastructure Group (TRIG),34.0,Wind
+873,Garrogie,RWE npower,2.4,Hydro
+874,Garves Mountain Farm,Gravis Capital Management,15.0,Wind
+875,Garvinack Farm Solar Park,Lumicity,7.0,Solar
+876,Gaultney Solar Park,United Photovoltaics,20.5,Solar
+877,Gaur,Scottish and Southern Energy (SSE),7.9,Hydro
+878,Gawcott Fields Farm,Harper Solar Ltd,9.2,Solar
+879,Gawnsmoss Cluster,Farm Energy Consulting,2.4,Wind
+880,Gayton Le Marsh Wind Farm,Energiekontor UK,16.4,Wind
+881,Gedling,Anesco,5.7408,Solar
+882,Gedney Marsh,Wind Prospect,12.0,Wind
+883,Gelli Gron,Lightsource Renewable Energy,3.596985,Solar
+884,Gelliargwellt Uchaf Farm AD,Bryn Group,1.4,Biomass
+885,Gib Lane (Aston Clinton solar park),CEE,24.2,Solar
+886,Gib Lane Solar farm (Extension),Haymaker Energy,5.0,Solar
+887,Gilford Road,Kingspan Energy,1.3,Solar
+888,Glanford,EPR Glanford Ltd,14.0,Biomass
+889,Glanford Brigg,,150.0,Gas
+890,Glapwell,Yorkshire Environmental Solutions / Waste Recycling Group,1.2,Waste
+891,Glapwell Power,NOVERA,2.0,Waste
+892,Glasgow Renewable Energy and Recycling Centre (Waste AD),Viridor,5.0,Biomass
+893,Glass Moor,Fenland Windfarms Ltd,16.0,Wind
+894,Glass Moor 2,EDF/China General Nuclear Power Corporation,12.0,Wind
+895,GlaxoSmithKline (Waste AD),GlaxoSmithKline,1.0,Biomass
+896,GlaxoSmithKline Wind Project,Glaxosmithkline Fao Mr David Bolton,7.5,Wind
+897,GlaxoSmithKline Wind Project (Turbine 4),GlaxoSmithKline,2.5,Wind
+898,Glebe Farm Solar Energy Park,Vento Ludens Ltd,15.0,Solar
+899,Glen App,Scottish Power Renewables,22.0,Wind
+900,Glen Fyne 'Merk' Hydro,Ventient (formerly Infinis),1.0,Hydro
+901,Glenbuck,Energia Renewables,9.2,Wind
+902,Glenbuck II,Energia,6.9,Wind
+903,Glenchamber,Renewable Energy Systems (RES),27.5,Wind
+904,Glenconway,Airtricity,18.4,Wind
+905,Glenconway 2 (formerly Altahullion Phase III),Scottish and Southern Energy (SSE),27.6,Wind
+906,Glendoe,Scottish and Southern Energy (SSE),100.0,Hydro
+907,Glenkerie,Novera Energy,22.0,Wind
+908,Glenlee,Scottish Power: Hydro schemes - Galloway,24.0,Hydro
+909,Glenmoriston,Scottish and Southern: Hydro Schemes - Great Glen,37.0,Hydro
+910,Glens of Foudland,Green Investment Bank  (Blackrock),26.0,Wind
+911,Glenurquhart and Strathglass Wind Farm project,Corrimony Energy Ltd & Soirbheas,10.0,Wind
+912,Goathill Quarry Turbine,Collier Quarrying Group,2.0,Wind
+913,Godley Water Treatment Works,United Utilities,3.0,Solar
+914,Godmanchester,Natural Power / SITA UK,3.0,Waste
+915,Golden Hill,John Laing Environmental Assets (formerly Camborne Capital & Lightsource / Hive energy),6.2,Solar
+916,Goldenhaye Field Solar Farm,Cricket St Thomas Estate,2.0,Solar
+917,Goldthorpe,Aldi,1.5,Solar
+918,Goole Fields,RWE npower,33.0,Wind
+919,Goole Fields 2,RWE Npower Renewables,34.85,Wind
+920,Goonabarn Farm Wind Turbines,George Richards Farms Partnership,1.0,Wind
+921,Goonhilly Downs Wind Farm,REG Windpower (previously  Cornwall Light & Power),12.09,Wind
+922,Goonhilly Solar,Wardell Armstrong International Ltd,4.51,Solar
+923,Goose Willow Farm,IKAROS SOLAR LIMITED,11.5,Solar
+924,Goose Willow Farm - extension,Ikaros Solar Limited,7.0,Solar
+925,Goosey Lodge Industrial Estate,Ancillary Components,16.0,Biomass
+926,Gordonbush,Scottish and Southern Energy (SSE),70.0,Wind
+927,Gordonstown,Ventient (formerly Infinis),12.5,Wind
+928,Gore Cross - AD,Wight Farm Energy,2.2,Biomass
+929,Gortfinbar,Energia Renewables,15.0,Wind
+930,Gosfield Airfield,Push Energy,12.6,Solar
+931,Gover Farm Solar Park,Green Energy UK Direct Ltd,8.0,Solar
+932,Gowy Landfill Site,Waste Recycling Group,1.6,Waste
+933,Gowy Landfill Site  Cheshire (Extension),Waste Recycling Group,6.0,Waste
+934,Grain CHP,Uniper UK Limited,1404.0,Cogeneration
+935,Grain GT,Uniper UK Limited,56.0,Gas
+936,Grain Harvesters Ltd,Grain Harvesters Ltd,1.0,Solar
+937,Grange,RES UK & Ireland Limited,14.0,Wind
+938,Grange Farm,Vogt Solar,5.80219,Solar
+939,Grange Farm,INRG Solar,6.0,Solar
+940,Grange Farm (Avon),Solar Power South,21.0,Solar
+941,Grange Farm (Lincolnshire),Green Switch Solutions,12.7,Solar
+942,Grange Farm Solar Farm,Anesco,4.9,Solar
+943,Grange Resubmission,Octopus Investements/Blue Energy,12.3,Wind
+944,Grange Solar Farm,Lark Energy,4.6,Solar
+945,Granox Biogas Plant,ReFood UK,5.0,Biomass
+946,Grantham Solar Park,British Solar Renewables,4.87872,Solar
+947,Granville Ecopark,Granville Ecopark,3.0,Biomass
+948,Granville Landfill Site,Biogas Technology Ltd/Natural Power,1.4,Waste
+949,Granville Road Solar Farm,Solstice Renewables,5.0,Solar
+950,Gravel Pit Farm (Resubmission),JFS Gravel Pit Farm Biogas,1.0,Biomass
+951,Gravel Works  Wasing Estate,NESF (formerly INRG Solar),5.0,Solar
+952,Great Blakenham EfW,SITA UK,20.0,Waste
+953,Great Eppleton (ex NFFO),Border Windfarm Limited / AMEC,4.1,Wind
+954,Great Eppleton RO,E.ON UK,4.1,Wind
+955,Great Hele Farm AD farm waste,Greener for Life Energy,1.3,Biomass
+956,Great Knowles,The Green Company,2.915,Solar
+957,Great Orton,Great Orton Wind Farms (II) Ltd,3.96,Wind
+958,Great Orton,Cumbria Wind Farms,4.0,Wind
+959,Great Seabrook Farm,Conergy,5.0,Solar
+960,Great Wilbraham Solar Farm,Inazin Energy Limited / Low Carbon,38.1,Solar
+961,Great Yarmouth,RWE Npower Plc,420.0,Gas
+962,Greater Gabbard,Airtricity / Fluor Ltd,504.0,Wind
+963,Greatmoor EfW,FCC Environment,22.0,Waste
+964,Greaves Solar Farm,New Energy for the World,5.0,Solar
+965,Green Croft Solar Farm,Anesco,5.0,Solar
+966,Green Farm (resubmission),Hive Energy,5.0,Solar
+967,Green Knowes,CRE Energy/ Scottish Power,27.0,Wind
+968,Green Rigg,EDF/China General Nuclear Power Corporation,36.0,Wind
+969,Green Waste Composting Facility (Waste AD),Barfoot Energy Projects Ltd,1.2,Biomass
+970,Green's Lodge Farm,A C Shropshire,2.0,Biomass
+971,GreenPark,Ecotricity / Prudential,2.0,Wind
+972,Greencroft Estate Turbines,Lanchester Properties Ltd.,4.0,Wind
+973,Greendykeside,A7 Energy,4.0,Wind
+974,Greengairs Landfill Scheme Phase I,Waste Recycling Group,1.9,Waste
+975,Greengairs Landfill Scheme Phase II,Waste Recycling Group,1.9,Waste
+976,Greengairs Landfill Scheme Phase III,Waste Recycling Group,2.0,Waste
+977,Greengairs Landfill Scheme Phase IV,Waste Recycling Group,2.0,Waste
+978,Greengairs Landfill Scheme Phase V,Waste Recycling Group,2.2,Waste
+979,Greengairs Landfill Scheme Phase VI,Waste Recycling Group,2.2,Waste
+980,Greenhill Croft,Green Cat Renewables,4.6,Wind
+981,Greenoakhill,Graveson Energy Management,3.9,Waste
+982,Greenvale AP Wind Turbine - resubmission,Greenvale AP,1.5,Wind
+983,Gremista Wind Farm,Shetland Aerogenerators,3.0,Wind
+984,Griffin,Greenpower (Griffin) Ltd,188.6,Wind
+985,Grove Farm (solar),juwi Renewable Energies,3.5,Solar
+986,Grove Solar Park (Phase 1),Solar Century,5.0,Solar
+987,Grove Solar Park (Phase 2),Solar Century,11.0,Solar
+988,Grudie,RWE Npower Renewables,2.0,Hydro
+989,Gruig,B9 Energy / RES,25.0,Wind
+990,Gunfleet Sands 1,Orsted (formerly Dong Energy),108.0,Wind
+991,Gunfleet Sands 2,Orsted (formerly Dong Energy),65.0,Wind
+992,Gunfleet Sands 3,Orsted (formerly Dong Energy),12.0,Wind
+993,Gwynt y Mor,RWE,576.0,Wind
+994,Gypsom Solar Farm,BE Renewables,5.0,Solar
+995,HENDRA HOLIDAY PARK SOLAR FARM,Hendra Holiday Park,1.2,Solar
+996,Haddo,,4.6,Wind
+997,Hadley Farm,Lightsource Renewable Energy,4.99698,Solar
+998,Hadley Farm (Orta Membury Solar Farm),Foresight Solar,17.0,Solar
+999,Hadlow Solar Park,Hadlow Solar Park,18.92176,Solar
+1000,Hadyard Hill,Scottish and Southern Energy (SSE),119.6,Wind
+1001,Hafod-Y-Dafal Farm,KS SPV53 Ltd,14.0,Solar
+1002,Hafoty Ucha '2' and '3' Wind Turbine,Mr. Smallwood,2.6,Wind
+1003,Hagshaw Hill (S15) Wind Farm  Lanarkshire,Trigen,7.8,Wind
+1004,Hagshaw Hill 1,Trigen,15.6,Wind
+1005,Hagshaw Hill 2,Scottish Power Renewables,26.0,Wind
+1006,Haigh Hall Solar Farm (Resubmission),Athos Solar,5.0,Solar
+1007,Hale Farm Solar,Hale Solar Limited,12.23156,Solar
+1008,Halifax Farm,Wentworth and Harper,1.6,Wind
+1009,Hall Farm,United Photovoltaics,5.1,Solar
+1010,Hall Farm  East Beckham,TGC Renewables,10.2,Solar
+1011,Hall Farm Routh,John Laing Environmental Assets Group/REG Power Management,24.6,Wind
+1012,Hall Farm Solar Farm (Newbold Verdon),Push Energy Ltd  PEW Milner  HA Milner & PE Milner/ NESF,5.0,Solar
+1013,Halse Farm,AEE Renewables UK 18 Ltd,8.2,Solar
+1014,Halstead Renewable Power Project (Waste AD),Tamar Energy,2.0,Biomass
+1015,Hameldon Hill Extension,Mr Stephen Milburn  RWE NPower Renewables Mr Stephen MilburnRWE NPower Renewables Mr Stephen MilburnRWE NPower Renewables,6.0,Wind
+1016,Hammar's Hill,Hammers Hill Energy Ltd,4.3,Wind
+1017,Hammerfest (EMEC),Hamerfest Strom/SPR,1.0,Wave and Tidal
+1018,Hammond Court Farm,Solar Power South,15.0,Solar
+1019,Hampole Wind Farm,Good Energy (previously nPower Renewables),8.0,Wind
+1020,Handley Park - resubmission,Haymaker Energy,5.0,Solar
+1021,Harbour Road,Glennon Brothers Troon,2.6,Biomass
+1022,Harburnhead Wind Farm,FIM Services / Enel Viento,51.7,Wind
+1023,Hardingham Solar Farm,Solar Century/ Bluefield Solar,14.8,Solar
+1024,Hardingham Solar Farm - extension,Solar Century/ Bluefield Solar,5.2,Solar
+1025,Hare Hill,Scottish Power Renewables,13.2,Wind
+1026,Hare Hill (B),Angus Cambell/ Powergen,2.7,Wind
+1027,Hare Hill 2,Scottish Power Renewables,16.15,Wind
+1028,Hare Hill RO,E.On,2.75,Wind
+1029,Harestanes,Scottish Power Renewables,136.0,Wind
+1030,Harewood Whin Landfill Site,Yorwaste /Biogas,2.4,Waste
+1031,Harlock Hill Wind Farm,The Wind Company Limited,2.5,Wind
+1032,Harn Hill Quarry Landfill Site,Biogas Technology Ltd and Avon CC,2.6,Waste
+1033,Hartlepool,British Energy (now part of EDF),1180.0,Nuclear
+1034,Hatch Penn Farm PV,Mr R Rob Such,1.0,Solar
+1035,Hatchlands Farm,Orta Solar,5.2,Solar
+1036,Haverigg 3,The Wind Company,3.4,Wind
+1037,Haverigg Repowering (Haverigg II),Windprospect,1.2,Wind
+1038,Haverton Hill Incinerator,Cleveland Waste Management Ltd,20.1,Waste
+1039,Hawkers Farm,Greenfields (A),2.5,Solar
+1040,Hawkers Farm (resubmission),Greenfields (A),9.5,Solar
+1041,Hawksland Solar,Moser Baer,3.1,Solar
+1042,Hawton Wind Farm,Temporis Capital,9.0,Wind
+1043,Hayford Farm,WS Systems Ltd,8.9,Solar
+1044,Hayford Farm - extension,Green Power,8.2,Solar
+1045,Hayle Wave Hub (Test Site),Wave Hub,23.0,Wave and Tidal
+1046,Hazard Farm,TGC Renewables,6.4,Solar
+1047,Hazlehead,Banks Renewables,6.0,Wind
+1048,Heathfield 'A' Landfill,Viridor,2.0,Waste
+1049,Heathfield 'C' Landfill Scheme,Haul Waste Limited,2.2,Waste
+1050,Heathrow Airport Biomass CHP,Heathrow Airport,1.8,Biomass
+1051,Helland Meads - resubmission,Mr & Mrs Dennis,1.2,Solar
+1052,Hellrigg,Npower Renewables,9.2,Wind
+1053,Henbury Quarry,Lightsource Renewable Energy,3.684,Solar
+1054,Hendai Farm,Conergy UK,13.4,Solar
+1055,Hendre Fawr Farm,INRG Solar,11.6,Solar
+1056,Henley Solar Farm,Greencoat/ Renesola,6.5,Solar
+1057,Hewas Solar Farm,Lightsource Renewable Energy,5.0,Solar
+1058,Heysham 1,British Energy (now part of EDF),1155.0,Nuclear
+1059,Heysham 2,British Energy (now part of EDF),1230.0,Nuclear
+1060,Heysham South Wind Farm,Banks Renewables,7.5,Wind
+1061,High Dyke (Mill Farm),Island Green Power,5.0,Solar
+1062,High Haswell Wind Farm,Hallam Land Management,4.06,Wind
+1063,High Heavens Landfill,Renewable Power Systems,1.9,Waste
+1064,High Hedley I,Border Wind,2.4,Wind
+1065,High Hedley II,EDF Energy,5.2,Wind
+1066,High Leas,European Energy Photovoltaics,6.5,Solar
+1067,High Meadow Farm,Anesco,4.0,Solar
+1068,High Penn Solar Park,Hive Energy,9.6,Solar
+1069,High Pow,REG Windpower (previously Cornwall Light and Power),3.9,Wind
+1070,High Sharpley,REG Windpower (previously Cornwall Light & Power),2.6,Wind
+1071,High Volts RO,E.On,5.5,Wind
+1072,Higher Bye,Anesco,6.79059,Solar
+1073,Higher Hatherleigh Solar Farm,Hive Energy,3.5,Solar
+1074,Higher Hatherleigh Solar Farm extension,Mr J Pertwee,1.5,Solar
+1075,Higher Hill Farm (extension),British Solar Renewables,1.5,Solar
+1076,Higher Hill Solar Park,Solar Power Generation,4.9864,Solar
+1077,Higher Knapp Farm,Lightsource Renewable Energy,1.5,Solar
+1078,Higher Pirzwell Solar Farm,Lightsource Renewable Energy,1.2,Solar
+1079,Higher Tregarne Solar Farm,John Laing Environmental Assets (formerly sPower & Cambourne Capital),5.0,Solar
+1080,Higher Trevartha Farm,Smarter Energy Solutions Ltd,3.0,Solar
+1081,Highfields Farm (Braintree),Hive Energy,2.8,Solar
+1082,Highfields Farm (Colchester),Hive Energy,12.2,Solar
+1083,Highfields South Landfill Gas,Npower,1.0,Waste
+1084,Highwood Lane,Solstice Renewables,5.0,Solar
+1085,Hill End Farm,Lightsource Renewable Energy,2.8,Solar
+1086,Hill Farm,NESF (formerly Earthworm),5.0,Solar
+1087,Hill Farm Solar Park,Lightsource Renewable Energy (BNRG Renewables),10.2,Solar
+1088,Hill Farm Solar Park (VoWH),Hill Farm Solar Park Limited,14.8,Solar
+1089,Hill Hall Farm,Lightsource Renewable Energy,4.99896,Solar
+1090,Hill and Moor Landfill Scheme,Severn Waste,3.4,Waste
+1091,Hill of Auquhirie,Octopus Investements/Blue Energy (previously Auquhirie Land Company Ltd),6.9,Wind
+1092,Hill of Balquhindachy extension,,1.7,Wind
+1093,Hill of Easterton,Mackies Ltd. Agent: Colin G Anderson,2.5,Wind
+1094,Hill of Easterton Extension,Mackies Ltd. Agent: Colin G Anderson,2.0,Wind
+1095,Hill of Fiddes,Infinis  previously Broadview Energy,6.9,Wind
+1096,Hill of Glaschyle Wind Farm,Muirden Energy,27.6,Wind
+1097,Hill of Lybster,Fivestone Ltd (subsidiary of Abbey Produce),4.9,Wind
+1098,Hill of Lybster (Extension),Renewable Energy Systems (RES),5.2,Wind
+1099,Hill of Skilmafilly Cloffrickford (Denmore) Wind Farm,SAC Environment And Design,6.9,Wind
+1100,Hill of Stroupster Windfarm,Greencoat UK Wind,29.9,Wind
+1101,Hill of Tillymorgan (Kirkton Farm) Wind turbines (resubmission),LocoGen/ Green Cat Renewables,9.6,Wind
+1102,Hill of Towie,Renewable Energy Systems (RES),48.3,Wind
+1103,Hillhouse Farm,Cambridge Solar Power/ Vogt Solar,28.5,Solar
+1104,Hillside Solar Farm,Lightsource Renewable Energy,25.2,Solar
+1105,Hillsmoor Solar Farm,Mosscliff Environmental,1.2,Solar
+1106,Himley Wood Landfill Site,Biogeneration / Biffa,4.4,Waste
+1107,Hinkley Point B,British Energy (now part of EDF),955.0,Nuclear
+1108,Hitchin,Biffa,1.5,Waste
+1109,Hoback Farm,TGC Renewables,13.1,Solar
+1110,Hogsbrook Farm - Farm AD,Greener for Life Energy,1.0,Biomass
+1111,Holbrook Community Renewable Energy Centre,UYE (UK) / Veolia,6.5,Biomass
+1112,Holiday Moss Gas to Energy II,Biffa,1.4,Waste
+1113,Holiday Moss Landfill Gas Scheme,Biffa,2.9,Waste
+1114,Hollamoor Farm (PV),Lightsource Renewable Energy,2.0,Solar
+1115,Hollies,Spencer farm producer/National Wind Power,2.6,Wind
+1116,Holly Farm Solar Park,British Solar Renewables,5.0,Solar
+1117,Holmside,E.On,2.75,Wind
+1118,Holton Airfield,Mr Steven Rademaker,11.0,Solar
+1119,Holtwood Farm,Lightsource Renewable Energy,5.0,Solar
+1120,Holwell Hill,Lightsource Renewable Energy,6.0,Solar
+1121,Home Farm,Cenin Renewables,6.7,Solar
+1122,Home Farm (Merton - solar),R S Assemblies Limited,18.3,Solar
+1123,Homeland Solar Farm,Foresight,13.2,Solar
+1124,Homestead,CEE,3.9536,Solar
+1125,Homestead Farm,Anesco,10.7,Solar
+1126,Honington Solar Farm,NextEnergy Solar Fund (NESF),13.6,Solar
+1127,Hook Moor,Banks Renewables,10.3,Wind
+1128,Hook Valley Solar Park,British Solar Renewables (formerly know as Solar Power Generation),15.3,Solar
+1129,Hope Solar Farm,Hope Solar Park Ltd,7.3,Solar
+1130,Hoplass Farm,Kronos Solar,10.0,Solar
+1131,Hoprigshiels Community Wind Farm,Mr A Hobbett,6.9,Wind
+1132,Hopton Road Industrial Estate,Hopton PV Ltd,1.3,Solar
+1133,Horam,Vogt Solar,8.11512,Solar
+1134,Horncliffe Quarry,Natural Power,1.0,Waste
+1135,Horncliffe Quarry (Extension),Natural Power,1.0,Waste
+1136,Horsacott Farm Solar Park,Hazel Capital (bought from Lumicity Limited in 2012),6.4,Solar
+1137,Horton Landfill Site,Haul Waste Limited,2.0,Waste
+1138,Houghton-le-Spring Landfill Site,Biffa,3.0,Waste
+1139,House O'Hill,Green Cat Renewables,5.0,Wind
+1140,Howdon STW,Northumbrian Water,6.0,Waste
+1141,Howton,Low carbon Solar Partners,4.99968,Solar
+1142,Hullavington Solar Park,Wessex Solar Energy,7.0,Solar
+1143,Humber Gateway,E.ON  Humber Wind Ltd/ Balfour Beatty Investments and Equitix.,219.0,Wind
+1144,Humphrey Group,Roy Humphrey Group,5.0,Wind
+1145,Hunciecroft Farm,Solar century / Magnetar Solar,8.0,Solar
+1146,Hungerford,Solstice Renewables,4.474,Solar
+1147,Hunstrete (Wilmington Farm),Bath & West Community Energy Ltd,2.3,Solar
+1148,Hunter's Hill,Wind Farm Developments  / RES UK & Ireland,20.0,Wind
+1149,Hunters Race Solar Park,Aardvark Environment Matters,9.3,Solar
+1150,Hunterston B,British Energy (now part of EDF),965.0,Nuclear
+1151,Hunterston Test Centre,Scottish Enterprise/SSE,13.0,Wind
+1152,Huntspill Level Solar Park,Wessex Solar Energy,5.5,Solar
+1153,Hurcott Copse Solar Farm,Dillington Farms Ltd,10.0,Solar
+1154,Hurst Farm,Bee Green Solar,5.0,Solar
+1155,Hyde Farm,Conergy,10.8,Solar
+1156,Hyndburn Wind Farm,Energiekontor UK,24.0,Wind
+1157,Hywind Scotland Pilot Park (Hywind 2) Demonstrator,Statoil,30.0,Wind
+1158,Iggesund Paperboard CHP Plant,Iggesund Paperboard (Workington),49.0,Biomass
+1159,Ikea Distribution Centre - resubmission,IKEA Properties Investments Ltd,1.7,Solar
+1160,Immingham,Waste Recycling Group,2.0,Waste
+1161,Immingham Landfill Scheme,Winerton Power Ltd,1.0,Waste
+1162,Imperial Park,BioConstruct,5.1,Biomass
+1163,Indian Queens,ENGIE,140.0,Oil
+1164,Inishative,Gaelectric Developments/ CGN Europe Energy,13.8,Wind
+1165,Inner Dowsing,Green Investment Bank,97.0,Wind
+1166,Inner Sound Phase 1A (MeyGen),Atlantis Resources,6.0,Wave and Tidal
+1167,Innerhadden Burn Hydro,Innerhadden Hydro Ltd,1.4,Hydro
+1168,Innerwick Hydro,Shawater,1.0,Hydro
+1169,Inver Hydro,Inver Hydro LLP,2.0,Hydro
+1170,Inverawe,Scottish and Southern: Hydro Schemes - Sloy/Awe,25.0,Hydro
+1171,Inverfarigaig,Green Power,4.0,Hydro
+1172,Invergarry,Scottish and Southern Energy (SSE),20.0,Hydro
+1173,Invergordon Pellet Mill,Balcas,5.0,Biomass
+1174,Inverlael,RWE npower,2.5,Hydro
+1175,Invervar Hydro - resubmission,Green Highland Renewables (on behalf of North Chesthill Estate),1.2,Hydro
+1176,Ipswich Hospital Energy Centre,Naturegen Energy Centre,2.6,Biomass
+1177,Iwade Solar Farm,FH Dean Ltd,1.7,Solar
+1178,Iwood Lane Solar Farm,Wessex Solar Energy,8.0,Solar
+1179,Jacks Lane,Aviva,15.0,Wind
+1180,Jacksbank Wind Farm (Glenbervie),East Coast Viners,6.8,Wind
+1181,Jameson Road,SITA UK,4.3,Waste
+1182,Jordanston Solar Farm,AEE Renewables,5.0,Solar
+1183,Jubilee Farm  Barnby Moor,NESF (formerly Lark Energy),5.0,Solar
+1184,Judkins Landfill Scheme,Waste Recycling Group,2.7,Waste
+1185,Judkins Landfill Site Phase 3,Greenways,1.2,Waste
+1186,K L Technologies Wind Turbine,KL Technology Limited,1.5,Wind
+1187,KELLAS WIND FARM,Renewable Energy Ventures,18.4,Wind
+1188,KERNICK MICA DAM - SOLAR FARM,Mr Mark Shorrock,12.0,Solar
+1189,Kaimes Landfill Site,ARC / Waste Recycling Group,2.4,Waste
+1190,Keadby,Scottish and Southern Energy (SSE),68.0,Wind
+1191,Keadby GT,Scottish and Southern: Thermal,25.0,Gas
+1192,Kelburn,Renewable Energy Systems (RES),28.0,Wind
+1193,Kellygreen Farm,INRG Solar,4.0,Solar
+1194,Kelmarsh Wind Farm (Resubmission),Blue Energy,12.5,Wind
+1195,Keltneyburn Hydro,Keltneyburn Hydro Ltd  Carse Farm  Aberfeldy  Perthshire,2.0,Hydro
+1196,Kenardington Place Farm,Kronos Solar,7.0,Solar
+1197,Kencot Hill Solar Farm (revised application),Foresight Solar Fund Limited,37.0,Solar
+1198,Kendoon,Scottish Power: Hydro schemes - Galloway,24.0,Hydro
+1199,Kenninghall Solar Farm,Norfolk Renewables,7.99986,Solar
+1200,Kentish Flats,Vattenfall,90.0,Wind
+1201,Kentish Flats Extension,Vattenfall,49.5,Wind
+1202,Kentishes Solar Farm,Push Energy/ NextEnergy Solar Fund,5.0,Solar
+1203,Kernow Solar Farm,Cornwall Council Property Services,5.0,Solar
+1204,Kerriers Solar Park,Kronos Solar,9.6,Solar
+1205,Kerry Falls,Scottish and Southern: Small Hydros,1.25,Hydro
+1206,Ketton Solar Farm,Lark Energy,9.04046,Solar
+1207,Ketton Solar Phase 2,Lark Energy,3.0855,Solar
+1208,Kia Ora Farm,Lightsource Renewable Energy,1.8,Solar
+1209,Kibblesworth Landfill Site,SITA UK,2.3,Waste
+1210,Kilbraur,Falck Renewables,67.5,Wind
+1211,Kilbraur Windfarm,Renewable Development Company (RDC),47.5,Wind
+1212,Kildrummy,Greencoat UK Wind/Bay Wa .r.e/ SunGift,18.4,Wind
+1213,Killan Farm Solar Array Extens,Y Felin Ddwr Charitable Trust,1.0,Solar
+1214,Killingholme,Uniper UK Limited,600.0,Gas
+1215,Kilmelfort,Scottish and Southern Energy (SSE),2.08,Hydro
+1216,Kilmorack,Scottish and Southern Energy (SSE),20.0,Hydro
+1217,Kiln Pit Hill,Npower Renewables,14.0,Wind
+1218,Kilroot,AES,520.0,Coal
+1219,Kilroot OCGT,AES,142.0,Gas
+1220,Kilsby Landfill Scheme,Hales Waste Control Ltd,1.0,Waste
+1221,Kinegar Quarry (resubmission),Airvolution Energy,5.0,Wind
+1222,King's Yard,Suez Energy Services,3.0,Biomass
+1223,Kingairloch,Scottish and Southern Energy (SSE),3.5,Hydro
+1224,Kingsburn,Falck Renewables,15.0,Wind
+1225,Kingsland Barton Solar Farm (resubmission),Padero Solar,5.0,Solar
+1226,Kingspan Insulation Solar Installation,Kingspan Insulation/ Eneco,5.0,Solar
+1227,Kingston Farm,Shaun Moulton; BOA Property Ltd; and AEE Renewables UK (26) Lt,5.0,Solar
+1228,Kinlochleven Hydro Power Station,Hydro Plan (on behalf of Alcan),19.5,Hydro
+1229,Kinmel 1 CIC,Haymaker Energy,5.0,Solar
+1230,Kinmel 2 CIC,Haymaker Energy,5.0,Solar
+1231,Kirkby Moor,Npower Renewables,4.8,Wind
+1232,Kirkheaton,Border Wind Farms Ltd /AMEC,1.8,Wind
+1233,Kirkless Power,FCC Environment,2.1,Waste
+1234,Kirkwall,Scottish and Southern: Island Generation,16.0,Oil
+1235,Kirton Solar PV Farm,Ethical Power,3.2,Solar
+1236,Knabs Ridge,RWE npower,16.0,Wind
+1237,Knockcairn Road,Lightsource Renewable Energy,6.5,Solar
+1238,Knockworthy Farm Solar Park,Hive Energy,4.6452,Solar
+1239,Knolton Farmhouse Cheese Solar Farm,Pegasus Group,1.0,Solar
+1240,Knottingley A,Envantage Renewables,5.0,Solar
+1241,Knottingley B,Envantage Renewables,2.4,Solar
+1242,Knowlton,Sunsave 20 (Knowlton) Ltd/ Vogt Solar,11.541,Solar
+1243,L'Field Stewartby Landfill Site,Waste Recycling Group,10.7,Waste
+1244,LITTLE TREVEASE SOLAR PARK,Mr David Jenkin,5.3,Solar
+1245,Laceby Solar Farm,Conergy,27.1,Solar
+1246,Lackford Estate Solar Park,Lackford Estate Solar Park Ltd,20.9,Solar
+1247,Lackford Landfill Scheme,Gengas Ltd,1.2,Waste
+1248,Lady Hole Farm,Solarig,3.0,Solar
+1249,Lains Farm,INRG,5.0,Solar
+1250,Lairg,Scottish and Southern Energy (SSE),4.0,Hydro
+1251,Lairg Wind Farm,ABO Wind,7.5,Wind
+1252,Lake Farm,AEE Renewables UK(3) Ltd,5.0,Solar
+1253,Lakeside EfW,Grundon Waste / Viridor,37.0,Waste
+1254,Lambrigg,Lambrigg Windfarm Ltd,6.5,Wind
+1255,Lambs Hill,Banks Renewables,8.0,Wind
+1256,Lamby Way Landfill Site,South Wales Power Ltd,4.0,Waste
+1257,Lancaster University (wind),Lancaster University,2.0,Wind
+1258,Land Adjacent Claypits Farm (a),Lightsource Renewable Energy,5.0,Solar
+1259,Land Adjacent Claypits Farm (b) (Birch Estate),Lightsource SPV 186 (community owned),2.3,Solar
+1260,Land Adjacent to Thomas Swan and Co Ltd.,Hallwick Energy,1.0,Biomass
+1261,Land At  Actrees Farm,Actrees Solar Power/ Vogt Solar,5.0,Solar
+1262,Land At Bake Farm,Murex Energy,5.0,Solar
+1263,Land At Chiddinglye Farm,REPOWER Balcombe & Chiddinglye Solar Park,5.0,Solar
+1264,Land At Court Farm,Sybac Solar International GmbH,2.2,Solar
+1265,Land At Cwm Bargoed,Kronos Solar/ Vogt Solar,5.0,Solar
+1266,Land At Debdale Lane,Equitix Fund IV,5.0,Solar
+1267,Land At Ferry Farm,BNRG (sold to another developer),10.0,Solar
+1268,Land At Guston Court Farm,Conergy West Sussex,5.0,Solar
+1269,Land At Potash Farm,PS Renewables,7.0,Solar
+1270,Land At Rymes Farm (Phase 1),TGC Renewables,6.9,Solar
+1271,Land At Rymes Farm (Phase 2)/Grange Solar Farm,Solar Century (TGC Renewables),6.8,Solar
+1272,Land At Swanland Road,Gascoyne Holdings,5.0,Solar
+1273,Land East Of Honeysome Road,Honeysome Road Solar,4.6,Solar
+1274,Land East Of Wadbrook Farm,INRG Solar,5.0,Solar
+1275,Land East of Horton Road,Lark Energy,8.5,Solar
+1276,Land East of Lawn Lane,Lightsource Renewable Energy,5.0,Solar
+1277,Land East of White Horse Lane,Island Green Power,5.0,Solar
+1278,Land NW Of Pickhill Bridge Farm,NextEnergy  Solar Fund,3.6,Solar
+1279,Land North East Of Penrose Far,Clean Earth Energy,1.5,Solar
+1280,Land North of Chiltern Greeen,Lightsource Renewable Energy,5.0,Solar
+1281,Land North of Sandhutton Lane,Greencoat Capital,5.0,Solar
+1282,Land North of the Wood at Averill Farm,Stretton Solar,5.0,Solar
+1283,Land Off Folly Lane,Solar Century/ Bluefield Solar,5.0,Solar
+1284,Land Off Ingarsby Lane,T J Coates,2.1,Solar
+1285,Land On The East Side Of Fosse Way,Anesco,10.0,Solar
+1286,Land Opposite Tyn Y Pistyll,Lightsource Renewable Energy,5.0,Solar
+1287,Land Parcel North of Goddards,INRG Solar,5.0,Solar
+1288,Land South East Of Water Treatment Works Bridge End,DJ AND SJ RECYCLING,1.5,Biomass
+1289,Land South Of Bryn Cyrnau Isaf (resubmission),Green Switch Solutions - Liquidated,5.9,Solar
+1290,Land South Off Ollerton Road,Anesco,4.2,Solar
+1291,Land South West Of Apollo Business Park,Cyrasol Ecotec,1.7,Solar
+1292,Land South of Highfield House,Lightsource Renewable Energy,5.0,Solar
+1293,Land South of Knock Lane,Solar Power Inc UK Services/SPI China (HK),4.0,Solar
+1294,Land South of Pogmore Spinney,Murex Energy,5.0,Solar
+1295,Land To The East Of Back Lane,Anesco,5.0,Solar
+1296,Land To The North Of Dairy House Farm,Lightsource Renewable Energy,3.4,Solar
+1297,Land To The North Of Moor Farm,Navitas Project,3.8,Solar
+1298,Land To The South Of Todderstaffe,Solar Power Inc UK Services/SPI China (HK),4.5,Solar
+1299,Land West Of Hunger Hill Farm,Greencoat Capital,5.0,Solar
+1300,Land West Side of Axe and Cleaver Lane,Wessex Solar Energy,5.0,Solar
+1301,Land West of Parsonage Wood,Lightsource Renewable Energy,4.2,Solar
+1302,Land West of Roberts Wall Far,Navitas Project,2.5,Solar
+1303,Land adjacent to Church Road,Canadian Solar,3.5,Solar
+1304,Land approx 75m South of 141,Mr M Mc Cullagh,20.0,Wind
+1305,Land at Ash Row Farm,Lightsource Renewable Energy,5.0,Solar
+1306,Land at Barnham,Wirsol,1.0,Solar
+1307,Land at Beech Farm,Vortex (formerly SunEdison),4.6,Solar
+1308,Land at Biggin Lane,Ramsey Solar,5.0,Solar
+1309,Land at Box Road,Suncredit UK,2.2,Solar
+1310,Land at Darran Farm,SRE (Darran),2.6,Solar
+1311,Land at Dayfields Farm,TGC Renewables,4.7,Solar
+1312,Land at East Farm - extension,J.M. Stratton & Co.,6.0,Solar
+1313,Land at Five Oaks Farm,Low Carbon,5.0,Solar
+1314,Land at Gilley's Mill Dam,NextEnergy Solar Fund,5.0,Solar
+1315,Land at Grange Farm,Lockwood Estates,1.1,Biomass
+1316,Land at Green Farm,Mr. Michael Owens,1.0,Solar
+1317,Land at Heywood Grange,Sovereign Partners,8.4,Solar
+1318,Land at High Point Farm,TGC Renewables,4.5,Solar
+1319,Land at Hill Farm,Hill Farm,1.2,Solar
+1320,Land at Ingles Hill Farm,Sunventures (Suncredit UK),3.0,Solar
+1321,Land at Lostock Works (Northwich Facility),Orsted (formerly Dong Energy),5.0,Biomass
+1322,Land at Meadow Farm,Lightsource Renewable Energy,5.0,Solar
+1323,Land at Mill Farm,Community Power Ltd,1.0,Solar
+1324,Land at Morfa Camp,Novus Solar Developments,2.8,Solar
+1325,Land at Newlands Farm,British Solar Renewables,5.0,Solar
+1326,Land at Oldstone Farm,British Solar Renewables,5.0,Solar
+1327,Land at Overside and Greenwellheads Farms,Greenside Wind Energy Ltd,9.2,Wind
+1328,Land at Pollington Airfield,Lightsource Renewable Energy,5.0,Solar
+1329,Land at Soho Farm,Mells Park Trust,1.5,Solar
+1330,Land at Stalbridge Park,British Solar Renewables / NextEnergy Solar Fund (NESF),5.0,Solar
+1331,Land at Sutor Farm,Elgin Energy EsCo,5.0,Solar
+1332,Land at Tangmere Airfield,West Sussex County Council,5.0,Solar
+1333,Land at Whatton Road,Push Energy,1.5,Solar
+1334,Land at Woodhouse Farm,Lightsource Renewable Energy,5.0,Solar
+1335,Land at Wreay,Anesco,5.0,Solar
+1336,Land between Orton Park Farm,INRG Solar,6.4,Solar
+1337,Land east of Littledown Business Park,Lightsource Renewable Energy,6.2,Solar
+1338,Land north of Ashton Road,Conergy,4.0,Solar
+1339,Land of Green Lane,TGC Renewables,5.8,Solar
+1340,Land of coal pit lane,Wirsol Energy/Island Green Power,5.0,Solar
+1341,Land off Ford Lane,Trina Solar,4.7,Solar
+1342,Land off Hooklands Lane,Conergy UK,5.0,Solar
+1343,Land off Moss Land (resubmission),Greencoat Capital,5.0,Solar
+1344,Land off Moss Side Lane (resubmission),WEL Solar Park 11,5.0,Solar
+1345,Land south of Brick Kiln Road,Lightsource Renewable Energy,5.0,Solar
+1346,Land to North West of Lodge Farm (Park Farm),Lightsource Renewable Energy,4.0,Solar
+1347,Land to the East of Burton Lane,EBS Energy LLP,2.6,Solar
+1348,Land to the north and south of Cakers Lane (Wilsom),Canadian Solar,11.0,Solar
+1349,Land to the south of Hill Farm (resubmission),TGC Renewables,6.8,Solar
+1350,Land to the west of Ashfordby Business Park,First Renewable Developments,3.5,Solar
+1351,Land west of Welton Road,Lightsource Renewable Energy,4.4,Solar
+1352,Landmead Farm (East Hanney),First Solar/Innogy (previously BELECTRIC Solar)/Foresight Solar Fund,46.0,Solar
+1353,Lands West of Belfast Road,Lightsource Renewable Energy,10.0,Solar
+1354,Langage,Centrica,905.0,Gas
+1355,Langage Solar Farm,Terrence O'Rourke Ltd,5.0,Solar
+1356,Langar Lane,Kappa Solar/ OPDE,10.0,Solar
+1357,Langenhoe Solar Farm,NextEnergy Solar Fund,21.3,Solar
+1358,Langford Solar Farm,Lark Energy,13.1835,Solar
+1359,Langford Wind Farm,Co-operative Group,20.0,Wind
+1360,Langhope Rig,Greencoat UK Wind,16.0,Wind
+1361,Langlands Solar Farm,,2.1,Solar
+1362,Langley,EDF Energy,8.0,Wind
+1363,Langley Hall Farm,Lark Energy,2.4,Solar
+1364,Langley Priory Solar Farm,Mr Stephen Hayward,2.024,Solar
+1365,Langstone Court Road Solar Farm,C. DARTNELL,2.5,Solar
+1366,Langton (FIT),Lightsource Renewable Energy,4.3472,Solar
+1367,Langunnett,Vogt Solar,6.174,Solar
+1368,Langwell Estate hydro scheme,DHG Hydro Ltd,1.2,Hydro
+1369,Laughton Level,Wessex Solar Energy,7.0,Solar
+1370,Lawrence End Park,Lightsource Renewable Energy,5.0,Solar
+1371,Lawrence Landfill,Wind Energy Direct,1.6,Wind
+1372,Ld NW Of Ratcliffe House Farm,Lightsource Renewable Energy,3.5,Solar
+1373,Leacann Hydro,DHG Hydro Ltd,1.0,Hydro
+1374,Lednock,Scottish and Southern Energy (SSE),3.0,Hydro
+1375,Lee Farm,Vogt Solar,5.0,Solar
+1376,Lee Moor,Wanageeska,4.9873,Solar
+1377,Leeming Bar (Waste AD),JFS Clapham Lodge Biogas Ltd,1.5,Biomass
+1378,Lendrum's Bridge,Renewable Energy Systems (RES),5.9,Wind
+1379,Lendrum's Bridge Extension,Renewable Energy Systems (RES),7.3,Wind
+1380,Lerwick,Scottish and Southern: Island Generation,67.0,Oil
+1381,Levenmouth demonstration turbine (Fife Energy Park),Catapult,7.0,Wind
+1382,Leverton Ings,Hazel Capital,12.0,Solar
+1383,Liberty Steel Power Station,SIMEC/ Liberty House,9.0,Biomass
+1384,Liddeston Ridge Solar Park (Milford Haven),Milford Haven Port Authority,5.0,Solar
+1385,Lidsey Landfill,LIDSEY LANDFILL LTD,1.4,Waste
+1386,Lilbourne Wind Farm,Cetis,10.0,Wind
+1387,Limberlost,Anesco,1.594,Solar
+1388,Limes Farm Wickham Solar,Lark Energy,5.7551,Solar
+1389,Lincoln EFW,Lincolnshire County Council,16.4,Waste
+1390,Lincoln Farm,juwi Renewable Energies,11.4,Solar
+1391,Lincoln Landfill Scheme,Natural Power,2.0,Waste
+1392,Lincs,GIB,270.0,Wind
+1393,Lindhurst,Npower Renewables,9.0,Wind
+1394,Lindridge Farm,Sun Farming,5.0,Solar
+1395,Ling Hall 1,Summerleaze,3.0,Waste
+1396,Lissett,Novera Energy,29.95,Wind
+1397,Little Barford,RWE Npower Plc,720.0,Gas
+1398,Little Barford GT,RWE Npower Plc,17.0,Gas
+1399,Little Belhus Restoration Site,Constantine Wind Energy,1.0,Wind
+1400,Little Byth,Lovie Ltd,4.5,Wind
+1401,Little Cheyne Court,RWE npower,59.8,Wind
+1402,Little Irchester,Lark Energy,4.67896,Solar
+1403,Little Morton Solar Farm,Lightsource Renewable Energy,14.3,Solar
+1404,Little Raith Farm,Kennedy Power Ltd,25.0,Wind
+1405,Little White Alice Solar Park,Little White Alice Ltd,1.3,Solar
+1406,Littlebourne,Bluefield Solar Income Fund,17.0,Solar
+1407,Littleton,Lightsource Renewable Energy,12.1,Solar
+1408,Littlewood Farm,,14.0,Solar
+1409,Littlewood Lane Solar,Littlewood Renewables,5.0,Solar
+1410,Liverton Farm,Clinton Devon Estates,4.8,Solar
+1411,Livishie,Scottish and Southern Energy (SSE),17.0,Hydro
+1412,Llanbabo Wind Farm,MANWEB Generation Holdings,20.4,Wind
+1413,Llancayo Solar Farm,m03 Power,3.9,Solar
+1414,Llandinam Windfarm,CELTPOWER LTD,31.0,Wind
+1415,Llandulas Landfill Scheme,Waste Recycling Group,2.9,Waste
+1416,Llangwyryfon,Westbury Windfarms Ltd  Unit 10  Strawberry how business  centre  Lorton road  Cockercroft  CA13 9XQ,9.35,Wind
+1417,Llwyn Du Solar Farm,Next Energy Solar Fund,8.0,Solar
+1418,Llyn Alaw,Beaufort Wind Ltd,20.4,Wind
+1419,Llyn Brianne Dam,Dwr Cymru Welsh Water,4.4,Hydro
+1420,Llyn Celyn,Dwr Cymru Welsh Water,4.5,Hydro
+1421,Llynfi Afan Renewable Energy Park,John Laing,6.0,Wind
+1422,Llynfi Renewable Energy Park  Land at Mynydd Caerau,John Laing,18.0,Wind
+1423,Loch An Laoigh Hydro,Gilkes Energy,1.0,Hydro
+1424,Loch Carnan  South Uist,Scottish and Southern: Island Generation,9.0,Oil
+1425,Loch Dubh,Scottish and Southern: Hydro Schemes - Conon,1.2,Hydro
+1426,Loch Eilde Mor Hydro (Kinlochleven extension),Green Highland Renewables,2.0,Hydro
+1427,Loch Ericht,Scottish and Southern Energy (SSE),2.2,Hydro
+1428,Loch Gair,Scottish and Southern Energy (SSE),6.0,Hydro
+1429,Loch Sminig Wind Project,Urras Oighreachd Ghabhsainn (Galson Estate Trust),2.7,Wind
+1430,Lochay,Scottish and Southern: Hydro Schemes - Breadalbane,46.0,Hydro
+1431,Lochay Compensation Set,Scottish and Southern: Hydro Schemes - Breadalbane,2.0,Hydro
+1432,Lochcarnan Community Windfarm,Storas Uibhist,6.9,Wind
+1433,Lochelbank,RWE npower,9.6,Wind
+1434,Lochend  Wind Farm,Wind Harvest,9.2,Wind
+1435,Lochhead,Fife Council,2.0,Waste
+1436,Lochhead,A7 Energy / Green Energy,6.0,Wind
+1437,Lochhead Landfill CHP,Fife Council,1.7,Biomass
+1438,Lochhead Landfill Scheme,Natural Power,2.0,Waste
+1439,Lochluichart,Eneco,69.0,Wind
+1440,Lochluichart (Extension),Infinergy,18.0,Wind
+1441,Lodge Farm (Broughton),G & D Castle,2.4,Solar
+1442,Lodge Farm (Poulshot),Hive Energy,14.5,Solar
+1443,Lodge Farm - Orston,Lightsource Renewable Energy,12.4,Solar
+1444,Lodge Farm 1,Mr Knight,1.0,Wind
+1445,Loftsome Bridge,Yorkshire Water,1.3,Wind
+1446,Loicher Lane,Rocpower,8.0,Biomass
+1447,London Array,Siemens Gamesa Renewable Energy,630.0,Wind
+1448,London Southend Airport (resubmission),London Southend Airport Co.,2.5,Solar
+1449,Long Hill Road,Snow Mountain Investment Ltd,2.0,Wind
+1450,Long Meadow Farm,Charles Stone,4.1,Solar
+1451,Long Mountain,Energia Renewables,27.6,Wind
+1452,Long Sutton Butterfly And Wildlife Park,Moor Solar,1.7,Solar
+1453,Long Sutton Butterfly And Wildlife Park (extension),Moor Solar,1.0,Solar
+1454,Longlands Lane,Renewable Energy Systems Ltd (RES),1.5,Wind
+1455,Longpark,Wind Prospect,38.0,Wind
+1456,Loscar,REG Windpower (previously Cornwall Light and Power),4.5,Wind
+1457,Lough Hill,B9 / Renewable Energy Systems (RES),7.8,Wind
+1458,Lount solar farm,Hadstone Energy,2.8,Solar
+1459,Lount/Smoile,SITA UK,1.1,Waste
+1460,Lovedean Farm,Lightsource Renewable Energy,4.5,Solar
+1461,Low Spinney,Infinis  previously Broadview Energy Developments,8.2,Wind
+1462,Lowbrook Farm Anaerobic Digester (Farm AD),,1.3,Biomass
+1463,Lowca Wind Farm,Windprospect,4.7,Wind
+1464,Lower Basset Down Farm,INRG Solar,10.5,Solar
+1465,Lower Bodiniel Farm,Wardell Armstrong International Ltd,5.0,Solar
+1466,Lower Coombe Farm (Bean Field),A H Warren Trust,1.0,Solar
+1467,Lower Coombe Farm Solar,Solar South West,1.0,Solar
+1468,Lower End Farm,Good Energy Generation,4.9,Solar
+1469,Lower House,3C Energy,8.22,Solar
+1470,Lower Marsh Farm,Solar Power South,5.0,Solar
+1471,Lower Melville Wood,Fife Council,1.0,Waste
+1472,Lower Pennington Farm,West Solent Solar Cooperative Ltd - Anthony Woolhouse -,2.7,Solar
+1473,Lower Severalls Farm,Sigma Solar Limited / OPDE,10.8,Solar
+1474,Lower Slade Farm,PS Renewables,4.1,Solar
+1475,Lower Stanley Farm,Green Hedge (BayWa r.e.),4.0,Solar
+1476,Lower Ufford Lane,William Notcutt Estates,1.1,Solar
+1477,Lower Venn Farm,New Energy for the World,5.0,Solar
+1478,Lowther Farms,Lowther Farms,1.8,Solar
+1479,Lubreoch,Scottish and Southern Energy (SSE),4.0,Hydro
+1480,Lune Power,,2.0,Waste
+1481,Luscott Barton,Sunsave 7 Luscott Barton Ltd/ vogt Solar,13.0,Solar
+1482,Luson Farm,Lightsource Renewable Energy,1.9,Solar
+1483,Lussa,Scottish and Southern Energy (SSE),2.4,Hydro
+1484,Lynemouth,Scottish Power Renewables,26.0,Wind
+1485,Lynn,Green Investment Bank,97.0,Wind
+1486,Lynt Farm,Meag,27.0,Solar
+1487,Lyreco - Telford Distribution Centre,Addison Energy,3.8,Solar
+1488,M1 J18 Wind Turbines,Airvolution Energy,4.0,Wind
+1489,M1 Wind Farm,Wind Prospect Developments,7.2,Wind
+1490,MALMAYNES HALL FARM,Wessex Solar Energy,12.0,Solar
+1491,MMD Shipping Services,EvoEnergy,1.2,Solar
+1492,MOD Lyneham,Defence Infrastructure Organisation,69.8,Solar
+1493,MSD Cramlington,,4.0,Wind
+1494,Mackies Dairy PV,Mackies Of Scotland Ltd,1.8,Solar
+1495,Macphie of Glenbervie,,1.2,Biomass
+1496,Maentwrog,Magnox Ltd,35.3,Hydro
+1497,Maerdy,Greencoat UK Wind,24.0,Wind
+1498,Maes Bach,Lightsource Renewable Energy,4.5594,Solar
+1499,Maesgwyn,Pennant Wind Energy Ventures Ltd,26.0,Wind
+1500,Maesgwyn Wind Farm - extension,Pennant Walters (MAESX) Limited,2.5,Wind
+1501,Maesgwyn solar farm,Walters Group,7.5,Solar
+1502,Magherafelt,Tobermore Concrete Products,1.0,Wind
+1503,Mains of Hatton,Eco2 /GreenCAT,2.4,Wind
+1504,Majors Hill/Turners Hill Solar Farm,Haymaker Energy,1.1,Solar
+1505,Maldie,RWE npower,4.0,Hydro
+1506,Malmesbury Solar,Sunstroom Energy,5.0,Solar
+1507,Manmoel Road Solar Park,Pearmat Solar,4.1,Solar
+1508,Manor Farm (Castle Cary),Brilliant Harvest Installations,1.8,Solar
+1509,Manor Farm (Dorset),INRG Solar,5.0,Solar
+1510,Manor Farm (Farm AD),Tamar Energy,1.5,Biomass
+1511,Manor Farm (Horton),Capital Stage,5.0,Solar
+1512,Manor Farm (Keinton Mandeville),,1.0,Solar
+1513,Manor Farm (Monmouthshire),3C Energy/Conergy,10.5,Solar
+1514,Manor Farm (Wiltshire) - resubmission,RB & T Barton Ltd,6.3,Solar
+1515,Manor Farm - Pertenhall,Prosolia UK,15.0,Solar
+1516,Manor Farm - Shripney,BNRG Renewables,5.0,Solar
+1517,Manor Farm Eggington,Low carbon Solar Partners,4.992,Solar
+1518,Manston,Vogt Solar,9.831,Solar
+1519,Manston Solar Farm extension (Westwood),Sunsave 16 Ltd/ Vogt Solar,9.2,Solar
+1520,March,TCI Renewables (Richard Lill),1.5,Wind
+1521,Marchington Solar Farm,Trina Solar,4.3,Solar
+1522,Marchwood,Marchwood Power Limited,842.0,Gas
+1523,Marchwood ERF,Veolia,16.0,Waste
+1524,Margam Green Energy Plant,Glennmont Partners,40.0,Biomass
+1525,Margate,Lanhydrock Estate Company,3.366,Solar
+1526,Mark Hill,Force 9 Energy,56.0,Wind
+1527,Mark's Quarry,Ylem Energy,1.0,Waste
+1528,Markinch CHP,RWE,65.0,Cogeneration
+1529,Markley Group (Premiere Kitckens) Biomass,Markley Group,2.1,Biomass
+1530,Marley Thatch Solar Farm,TGC Renewables,6.3,Solar
+1531,Marr Windfarm,Banks Renewables,8.0,Wind
+1532,Marsh Farm,Steadfast Marsh Solar Ltd - Innogy (previously BELECTRIC Solar) (Wai-Kit Cheung <waikit.cheung@belectric.co.uk>),14.0,Solar
+1533,Marsh Farm  (Farm AD),Staples,1.4,Biomass
+1534,Marsh Farm Hilperton,Hilperton PV Ltd,9.1,Solar
+1535,Marsh House Solar Park,Constantine Land Ltd,5.5,Solar
+1536,Marshborough Farm solar park (resubmission),Vogt Solar,5.0,Solar
+1537,Marshill Farm,Green Cat Renewables,1.5,Wind
+1538,Marshwood Farm,KWTN Solar,1.8,Solar
+1539,Marston,Lark Energy,4.51136,Solar
+1540,Marston Vale Country Park Wind Turbine,Blue Energy,1.5,Wind
+1541,Masons Power Plant Landfill Scheme,Haul Waste Disposal Ltd,5.5,Waste
+1542,Maw Green Landfill Site,Waste Recycling Group,1.6,Waste
+1543,Maw Green Landfill Site  Cheshire (Extension),Waste Recycling Group,2.0,Waste
+1544,Mawdesley Moss,Damian Culshaw,2.3,Wind
+1545,May Farm Anaerobic Digester (Farm AD),Barway Farms Limited/Shropshire Energy,2.4,Biomass
+1546,Mayton Wood Landfill Site,Combined Landfill Projects (CLP),1.5,Waste
+1547,McCain Foods AD Plant (AD),McCain Foods (GB) Ltd,1.0,Biomass
+1548,Meadow Farm (Thorpe Lanton),,4.998,Solar
+1549,Meadow Hall Power,Waste Recycling Group,1.1,Waste
+1550,Meall an Tuirc Wind Farm,RWE npower,17.0,Wind
+1551,Medway,Scottish and Southern: Thermal,700.0,Gas
+1552,Meece Landfill,THOMAS GRAVESON LTD,1.3,Waste
+1553,Meikle Carewe,The Renewables Infrastructure Group (TRIG),10.2,Wind
+1554,Melton Waste Park (resubmission),Seneca Global Energy,5.0,Wind
+1555,Mendennick Solar,REG Solarpower,2.64,Solar
+1556,Merevale & Blyth Estate (Waste AD),Ancala Bioenergy (formerly Biogen),2.0,Biomass
+1557,Merston,Primrose Solar / Mongoose Energy,4.999,Solar
+1558,Metheringham Heath (Farm AD),Future Biogas (Blankney Estate),6.5,Biomass
+1559,Methlick Farmers Wind Energy Project,Orkney Sustainable Energy Ltd,12.0,Wind
+1560,Mid Hill,Fred Olsen Renewables,75.9,Wind
+1561,Mid Hill I,Fred Olsen Renewables,57.5,Wind
+1562,Mid Suffolk Home Solar Scheme,Mid Suffolk District Council,4.8,Solar
+1563,Middle Balbeggie,Lightsource Renewable Energy,5.0,Solar
+1564,Middle Balbeggie,Capital Dynamics,4.0,Wind
+1565,Middle Treworder Farm,Innogy (previously BELECTRIC Solar),5.0,Solar
+1566,Middlemoor,Npower Renewables,54.0,Wind
+1567,Middleton,Scottish Power Renewables,12.0,Wind
+1568,Middlewick,Blue Energy (formerly Ridgewind Ltd),20.7,Wind
+1569,Mill Farm (resubmission),Push Energy/ NextEnergy Solar Fund (NESF),5.0,Solar
+1570,Mill Hill Farm,Lightsource Renewable Energy,5.0,Solar
+1571,Millar Farm,Lightsource Renewable Energy,7.21088,Solar
+1572,Millennium,West Coast Energy Ltd/Falck Renewables,65.0,Wind
+1573,Millennium Extension,West Coast Energy /Falck Renewables,10.0,Wind
+1574,Millennium Windfarm,Renewable Development Company (RDC) Scotland (Ltd) for FALCK RENEWABLES,40.0,Wind
+1575,Millerhill AD (Waste AD),Ancala Bioenergy (formerly Biogen/Aluana Renewable Energy),1.5,Biomass
+1576,Millour Hill Community Windfarm (Extension) resubmission,Community Windpower,6.4,Wind
+1577,Millour Hill Community Windfarm (Re-submission),Community Windpower,18.0,Wind
+1578,Milton Keynes Wind Farm,Gravis Capital Management,14.0,Wind
+1579,Milton Landfill Site,Waste Recycling Group,2.0,Waste
+1580,Milton of Fisherie Wind Cluster,LocoGen,4.6,Wind
+1581,Mingay Farm - extension,Octopus Imvetments,19.3,Solar
+1582,Minnygap (Resubmission),Minnygap (formerly RES),25.0,Wind
+1583,Minsca,Airtricity,36.8,Wind
+1584,Minsworth Sewage Treatment Works,Severn Trent Water,9.7,Waste
+1585,Misson Solar Farm,Novus,5.0,Solar
+1586,Moel Maelogen A,John Laing Environmental (formerly Atlantic Energy / EnergieKontor),2.6,Wind
+1587,Moel Maelogen A Phase 2,John Laing Environmental,11.7,Wind
+1588,Molehill Farm,Bluefield Solar Income Fund,18.0,Solar
+1589,Molly Mountain,Erne Concrete Pumping,15.0,Wind
+1590,Monan Hill Wind Turbines,North Harris Trust,1.5,Wind
+1591,Moneystone Quarry Solar Farm (resubmission),SBC Renewables,5.0,Solar
+1592,Monksham Solar Farm,John Laing Environmental Assets Group,10.7,Solar
+1593,Monnaboy Wind Farm,Gaelectric Developments/ CGN Europe Energy,12.0,Wind
+1594,Monty's Farm  Taunton,Solar Ventures,4.61032,Solar
+1595,Moor House Wind Farm (resubmission),Banks Renewables,12.0,Wind
+1596,Moorhouse Farm,Solar Park Developments,5.0,Solar
+1597,Moorhouse Lane - resubmission,Orta Solar Ltd,1.8,Solar
+1598,Morfa Farm,Lightsource Renewable Energy,2.0,Solar
+1599,Mornflake Oats Wind Turbine,Mornflake Oats/ Hamlyns Oats,2.3,Wind
+1600,Morrisons roof mounted solar,Morrisons,2.0,Solar
+1601,Morton House (Marchington),Foresight Group (TGC Renewables),6.2,Solar
+1602,Morton Wood Farm,Sun & Soil,4.8,Solar
+1603,Moss Thorn Farm,TGC Renewables,5.8,Solar
+1604,Mossmorran,Airvolution Energy,4.6,Wind
+1605,Mount Farm,INRG (Solar Park) 14,22.0,Solar
+1606,Mount Mill Farm - resubmission,OPDE,12.0,Solar
+1607,Mountsorrel Landfill Site,Redland Aggregates Ltd / Combined Landfill Projects (CLP),1.6,Waste
+1608,Moy,Eneco,60.0,Wind
+1609,Mucking Gas 2 Landfill Scheme,ENERGY DEVELOPMENTS (UK) LTD,3.8,Waste
+1610,Mucking Gas 3 Landfill Scheme,Cory Environmental,3.9,Waste
+1611,Mucomir,Scottish and Southern Energy (SSE),1.75,Hydro
+1612,Muirake,vento ludens,4.6,Wind
+1613,Muirhall,Lomond Energy,12.3,Wind
+1614,Muirhall Extension,Muirhall Energy,6.8,Wind
+1615,Muirhall South,Muirhall Energy,8.3,Wind
+1616,Mullardoch Tunnel,Scottish and Southern Energy (SSE),2.4,Hydro
+1617,Munceys Farm,Lightsource Renewable Energy,31.6,Solar
+1618,Mynydd Brombil,REG Windpower,8.0,Wind
+1619,Mynydd Bwllfa Wind Farm - Resubmission,Pennant Walters,22.5,Wind
+1620,Mynydd Clogau,Renewable Energy Systems (RES),14.5,Wind
+1621,Mynydd Gorddu,Cynllun Trydan Gwynt,10.2,Wind
+1622,Mynydd Portref,FIM Services,9.35,Wind
+1623,Mynydd Portref Wind Farm extension,REG Windpower,12.0,Wind
+1624,Mynydd Y Gwrhyd Windfarm (resubmission),Awel Aman Tawe,4.7,Wind
+1625,Mynydd y Betws,ESB (Cambrian Renewable Energy Ltd / Betws Common Holdings Ltd),34.5,Wind
+1626,Myres Hill,National Energy Laboratories (NEL),1.8,Wind
+1627,Myreton Crossroads,Seren Energy,1.6,Wind
+1628,NEILSTON WIND FARM,Renewables Infrastructure Group,9.2,Wind
+1629,NI Cluster Lough Road,Lightsource Renewable Energy,5.39904,Solar
+1630,NI Cluster Moira Road,Lightsource Renewable Energy,5.93712,Solar
+1631,NOTTINGTON LANE SOLAR FARM,PS Renewables,5.0,Solar
+1632,Nancrossa Farm solar park,Second Solar Project,6.0,Solar
+1633,Nant,Scottish and Southern: Hydro Schemes - Sloy/Awe,15.0,Hydro
+1634,Nant y Caws Landfill Site,NOVERA,1.4,Waste
+1635,Nanteague Farm,British Solar Renewables,7.7,Solar
+1636,Nanterrow Farm,Low carbon Solar Partners,4.7,Solar
+1637,Nanthenfoel Farms,Anesco,5.0,Solar
+1638,Narborough Landfill,SITA UK,2.7,Waste
+1639,Nash Waste Water Treatment Works Turbine,Welsh Water,2.5,Wind
+1640,Natewood Farm,Haymaker Energy,8.9,Solar
+1641,National Wind Turbine Test Site,NEL  East Kilbride  Glasgow G75 0QU,4.7,Wind
+1642,Nectar Way Regional Distribution Centre,Sainsburys,1.0,Solar
+1643,Nefyn (Tyddyn Cae),Lightsource Renewable Energy,4.92154,Solar
+1644,Ness point Wind Turbine 1,SLP Energy,2.3,Wind
+1645,Nether Mill Farm (resubmission),AEE Renewables,3.1,Solar
+1646,Netherfield Lane,Lightsource Renewable Energy,19.7,Solar
+1647,Netherton of Windyhills,Strathdee Energy,4.6,Wind
+1648,Netley Landfill Site  Hampshire (Extension),Hampshire Waste Services/ ONYX / Power Plant Services,1.2,Waste
+1649,Nevis Range,Nevis Range Development Company,1.1,Hydro
+1650,New Albion Wind Farm,John Laing Environmental Assets Group,14.4,Wind
+1651,New Barn Farm - Burnley,Mrs J E Haseldon of New Barn Farm,4.5,Wind
+1652,New Holland,Windflow UK,1.0,Wind
+1653,New Mains of Guynd,BWE Partnership,3.98784,Solar
+1654,New Rendy Farm,TGC Renewables,4.8,Solar
+1655,New Row Farm,Lightsource Renewable Energy,3.9,Solar
+1656,New Stone House,INRG Solar,12.5,Solar
+1657,Newlands Farm (East Devon),TGC Renewables,5.0,Solar
+1658,Newlands Farm Solar Park,SUNSAVE 10 (FAREHAM) LTD 14 HIGH CROSS TRURO CORNWALL TR1 2AJ/ Vogt Solar,4.99928,Solar
+1659,Newlincs EfW,Newlincs Developments,3.2,Waste
+1660,Newnham Estate,Solstice Renewables,14.0,Solar
+1661,Newnton Dairy,Anesco,7.176,Solar
+1662,Newport (Began Road),Eco Energy World,4.9,Solar
+1663,Newry Biomass Phase 1 (Gasification),REACT Energy (Kedco),2.0,Biomass
+1664,Newstead and Annesley Wind Turbine,Redpath Energy,1.5,Wind
+1665,Newthorpe Wind Turbine,Severn Trent Water,2.5,Wind
+1666,Newton Down,Renewable Energy Partnerships Ltd,5.0,Wind
+1667,Newton Downs Farm,Core Aries (Renewable Energy),5.0,Solar
+1668,Newton Ferrers,Gruene Energien,19.501,Solar
+1669,Newton Margate,Tulip Meats,1.5,Solar
+1670,Newton Marsh Wind Project,TCI Renewables,4.6,Wind
+1671,Next Distribution Centre Doncaster,Next/ Eneco,2.5,Solar
+1672,Ninnis Farm Solar,The Green Company,5.0,Solar
+1673,Nissan Motors Plant Extn,TNEI Services Ltd,2.0,Wind
+1674,Nissan Test Track,Nissan / On-Site Land Solutions,4.8,Solar
+1675,Nissan Wind Farm,Nissan Manufacturing UK,4.0,Wind
+1676,Noble Foods,Wind Direct,1.5,Wind
+1677,Norlands Lane Landfill Site,Thames Waste Management Ltd,2.7,Waste
+1678,Norlands Lane Landfill Site (Extension),Thames Waste Management Ltd,4.0,Waste
+1679,Norrington,Terraform Power (SunEdison),11.145,Solar
+1680,North Creake Airfield (Resubmission),British Solar Renewables (formerly known as Solar Power Generation),20.0,Solar
+1681,North East Energy Recovery Centre (adjacent to Teesside EfW),SITA UK,21.0,Waste
+1682,North East of Ainderby Steeple,Renesola UK Ainderby Farm,5.9,Solar
+1683,North Farm (Spetisbury),British Solar Renewables,11.6,Solar
+1684,North Hoyle,Greencoat (formerly Npower Renewables),60.0,Wind
+1685,North Moor Farm AD Plant (Farm AD),Rockscape Energy Ltd,4.0,Biomass
+1686,North Norfolk Business Centre Solar Park,Lumicity,11.0,Solar
+1687,North Of Field Barn,Blenheim Farm,1.0,Solar
+1688,North Pickenham,Enertrag,14.4,Wind
+1689,North Pickenham Airfield,Bernard Matthews Green Energy,4.0,Wind
+1690,North Quay ERF,Veolia,18.3,Waste
+1691,North Red Bog,Green Cat Renewables,1.6,Wind
+1692,North Rhins,Greencoat UK Wind,22.0,Wind
+1693,North Steads Wind Farm,Ventient (formerly Infinis),18.5,Wind
+1694,North Tamar Environ Project - Holsworthy  (Farm AD),Holsworthy Biogas Company ( North Tamar Business Network),1.4,Biomass
+1695,North Tenement,North Tenement Solar Farm Limited,5.0,Solar
+1696,North Wayton Farm,KS SPV21 Ltd,5.0,Solar
+1697,North Yard EfW,MVV Environment,22.5,Waste
+1698,North of Newton Farm,Primrose Solar,3.0,Solar
+1699,Northampton General Hospital,Northampton General Hospital,1.9,Biomass
+1700,Northmoor,Lightsource Renewable Energy,5.0,Solar
+1701,Northwick Estate (Extension),Northwick Power Ltd,2.2,Solar
+1702,Norton Fields Farm,REsense c/o CO2Sense,1.3,Wind
+1703,Norton Hall,Ms Power Projects Ltd,2.8,Solar
+1704,Nova Scotia Farm solar park,Equitix,13.9,Solar
+1705,Novar 2,RWE npower,36.8,Wind
+1706,Nowhere Farm,Estover Energy,8.1,Solar
+1707,Nutberry,,15.0,Wind
+1708,Oak Cottage,Anesco,4.8672,Solar
+1709,Oak Grove Biomass Facility,Oak Grove Renewables,2.0,Biomass
+1710,Oak Grove Farm,Monmouthshire County Council,5.7,Solar
+1711,Oakdale,Resonance,4.0,Wind
+1712,Oakfield Farm,Renewable Source,5.0,Solar
+1713,Oakfield Farm - extension,Renewable Source,1.7,Solar
+1714,Oakham,Anesco/Parklands Solar,4.639,Solar
+1715,Oaklands Farm - resubmission,Lightsource Renewable Energy,6.9,Solar
+1716,Oaklands Plantation,Eneco UK,5.0,Solar
+1717,Oatslie Landfill Gas,Waste Recycling Group,2.0,Waste
+1718,Ockendon 'B' Landfill Scheme,Haul Waste Disposal Ltd,4.5,Waste
+1719,Ockendon Area III,ENERGY DEVELOPMENTS (UK) LTD,8.5,Waste
+1720,Odell Glebe Solar Farm,Vento Ludens Ltd,16.8,Solar
+1721,Offham Landfill Site Phase II,ARC Ltd (Greenways Landfill)/ Waste Recycling Group plc,1.2,Waste
+1722,Office Field,Anesco,7.2,Solar
+1723,Old Rides solar Farm,Sunsave 9 (Old Rides) Ltd/ Vogt solar,8.0,Solar
+1724,Oldbury,IES (Chinook Energy),40.0,Biomass
+1725,Oldside Wind Farm,Windprospect (a subsidiary of Windcluster Ltd.),5.4,Wind
+1726,Ongar Landfill Scheme,Waste Recycling Group,1.0,Waste
+1727,Ongar Landfill Scheme 2,Waste Recycling Group,1.8,Waste
+1728,Ora More,Natural Power,15.0,Wind
+1729,Orchard End Windfarm,Renewable Energy Generation,4.1044,Wind
+1730,Orchard Farm,Omega Solar / OPDE,10.0,Solar
+1731,Ormonde,Vattenfall,150.0,Wind
+1732,Orrin,Scottish and Southern Energy (SSE),18.0,Hydro
+1733,Orton Park Farm,Orton Park Wind Energy,1.6,Wind
+1734,Otherton Farm,Wirisol (Sun & Soil),4.0,Solar
+1735,Otterham Down Wind Farm (Resubmission),Otter Power Ltd,3.2,Wind
+1736,Oulton Airfield Solar Farm (Phase 1),Solar Century/ Bluefield Solar,5.0,Solar
+1737,Out Newton,Powergen Renewables Developments Ltd,9.1,Wind
+1738,Outwood Farm (Phase 1),MS Power Projects,5.0,Solar
+1739,Ovenden Moor,Yorkshire Windpower,9.2,Wind
+1740,Overton Solar Park,British Solar Renewables,3.75232,Solar
+1741,Oving Solar Farm,Vogt Solar,5.0,Solar
+1742,Owenreagh Extension,EF Energy,5.1,Wind
+1743,Owenreagh Wind Farm,EF Energy,5.0,Wind
+1744,Owl's Hatch Solar Park,Cubico Sustainable Investments,51.9376,Solar
+1745,Owls Lodge,Anesco (previously AEE Renewables),10.00465,Solar
+1746,Owls Lodge Farm Extension,Anesco,5.0,Solar
+1747,Oxcroft,Anesco,4.189,Solar
+1748,PARK WOOD SOLAR FARM,Solar Power Generation Limited,5.0,Solar
+1749,PG1-Coxhoe Waste Disposal Site,Durham County Waste Management Company,3.8,Waste
+1750,PG2 Bolam Power Generation,CLP,1.0,Waste
+1751,PG2 Bolam Power Generator (Extension),CLP and Briagas,1.1,Waste
+1752,PG4 St Bedes Power Generation,DURHAM COUNTY WASTE MANAGEMENT LTD,2.0,Waste
+1753,PG4 St Bedes Power Generation (Extension 2),Natural Power,1.0,Waste
+1754,PG4 St Bedes Power Generation (Extension),DURHAM COUNTY WASTE MANAGEMENT LTD,2.0,Waste
+1755,PROMISED LAND FARM,Karl Spratt,1.0,Wind
+1756,Packington Generation Plant Phase 3,Energy Developments (UK) / SITA UK,8.5,Waste
+1757,Packington Solar Farm,Solstice Renewables,13.9,Solar
+1758,Paddock Wood,Foresight Solar Fund,9.2,Solar
+1759,Padleywood Farm,OST Energy,5.0,Solar
+1760,Pant y wal,Pennant Wind Energy Ventures (PWEV),25.0,Wind
+1761,Pant y wal extension,Pennant Walters (PYWX),20.0,Wind
+1762,Pant-Y-Moch Farm,Canadian Solar,5.0,Solar
+1763,Parabel North Beer Solar Farm,35 Degrees,6.8,Solar
+1764,Parc Cynog,Vattenfall,5.0,Solar
+1765,Parc Cynog,Micon Wind Turbines (UK) Limited,3.6,Wind
+1766,Parc Cynog Extension,Nuon,8.4,Wind
+1767,Parciau Farm Solar Park,Kronos Solar,13.9,Solar
+1768,Parham Airfield (Great Glenham),AG Renewables Ltd,17.5,Solar
+1769,Park Farm,BNRG (BL Solar),4.0,Solar
+1770,Park Spring,EDF Energy Renewables,8.55,Wind
+1771,Park Wall Solar Park,,5.0,Solar
+1772,ParkerSteel Shoreham Plant,Larimin,1.8,Solar
+1773,Parkhouse Corner (Orta Solar),Orta Solar,6.6,Solar
+1774,Parklands,Anesco,4.6,Solar
+1775,Parkview solar park,NextEnergy,6.5,Solar
+1776,Parkwood Landfill Scheme,Coal Products Ltd Energy,1.2,Waste
+1777,Partridge Farm,Eco Energy World,10.6,Solar
+1778,Pashley Farm,Bluefield Solar Income Fund,11.5,Solar
+1779,Pates Hill,Your Energy Ltd,14.0,Wind
+1780,Path Head,SITA UK,1.0,Waste
+1781,Patteson Court Landfill Site,Biogeneration / Biffa,1.8,Waste
+1782,Paul's Hill,Fred Olsen Renewables,64.0,Wind
+1783,Paulsgrove Landfill Site,Associated Energy Projects plc,2.4,Waste
+1784,Pearie Law,EDF Energy Renewables,19.2,Wind
+1785,Pebble Hall Farm - resubmission - Food Waste AD,Welland Waste Management Ltd,4.0,Biomass
+1786,Pebsham,Biffa,3.0,Waste
+1787,Pebsham (Extension),Biffa,1.0,Waste
+1788,Peckfield Quarry Landfill Scheme,Natural Power,3.9,Waste
+1789,Pembroke,RWE Npower Plc,2180.0,Gas
+1790,Pen Rhiw,Lightsource Renewable Energy,4.748005,Solar
+1791,Pen y Bont,Waste Recycling Group,2.3,Waste
+1792,Pen y Cymoedd,Vattenfall (previously Nuon Renewables),228.0,Wind
+1793,Pen-Y-Cae,Rockfire Capital,6.76227,Solar
+1794,Penare Farm Solar Farm,British Solar Renewables (formerly Solar Power Generation),11.0,Solar
+1795,Pencoose,First Solar Project Ltd,8.145,Solar
+1796,Penmanshiel Wind Farm,RES,28.7,Wind
+1797,Pennington Recycling Centre,Novus Solar Developments,1.2,Solar
+1798,Penny Hill Lane,Banks Renewables,19.8,Wind
+1799,Penrhiwarwydd Farm,MTS Hill Farm Solar Ltd,8.5,Solar
+1800,Penrhys Wind Farm/Ferndale Power Factory,John Laing,6.4,Wind
+1801,Pensipple Farm,Elgin Energy EsCo,5.0,Solar
+1802,Pentland Road,Arnish Electric Ltd / Farm Energy Ltd,13.8,Wind
+1803,Pentre farm,Kinetica Solar,5.5,Solar
+1804,Pentylands Farm,Moser Baer,19.0,Solar
+1805,Penycae Solar Farm,SBC Renewables,5.0,Solar
+1806,Peterborough,,240.0,Gas
+1807,Peterborough EfW,Viridor,7.3,Waste
+1808,Peterhead,,1180.0,Gas
+1809,Peterlee Solar Farm,Zaravolt Development,5.0,Solar
+1810,Pierces Farm,Andrew Wickens,1.74,Solar
+1811,Pilsworth Quarry Landfill Scheme,Terry Adams Ltd,4.1,Waste
+1812,Pingewood Road South,BayWa/ SunGift,15.8,Solar
+1813,Pingry Farm - Phase 1,Coleford Energy,3.4,Solar
+1814,Pingry Farm - Phase 2,Coleford Energy,3.4,Solar
+1815,Pinguin Foods,Pinguin Foods Ltd,1.5,Solar
+1816,Pitchford,Lightsource Renewable Energy,10.2,Solar
+1817,Pitlochry,Scottish and Southern Energy (SSE),15.0,Hydro
+1818,Pitsea Landfill Scheme,Veolia,11.6,Waste
+1819,Pitsea Tipp,,14.0,Waste
+1820,Pitts Farm (revised application),,2.6,Solar
+1821,Pitworthy Farm Solar Park,Hive Energy,18.0,Solar
+1822,Place Barton Farm,British Solar Renewables,4.9,Solar
+1823,Plascow wind cluster (resubmission),Rory Young,2.4,Wind
+1824,Playters,Anesco,8.6295,Solar
+1825,Point Wind / Beinn Ghrideag Farm,Point Power & Energy Ltd / SgurrEnergy,9.0,Wind
+1826,Pollington Solar Farm,Pollington Solar,5.0,Solar
+1827,Polmaugan Farm,Munich RE,5.0,Solar
+1828,Pond Farm Solar Farm,Lark Energy,3.60354,Solar
+1829,Pont Andrew,Lightsource Renewable Energy,1.5443,Solar
+1830,Poole Generation Plant,ENERGY DEVELOPMENTS (UK) LTD,2.4,Waste
+1831,Popehill Farm,North Tenement Solar Limited,5.0,Solar
+1832,Poplars Anaerobic Digestion Facility (Waste AD),Biffa,6.0,Biomass
+1833,Port of Barry (Resubmission) - Site 1,Associated British Ports (ABP),4.5,Solar
+1834,Port of Barry (Resubmission) - Site 2,Associated British Ports (ABP),5.0,Solar
+1835,Port of Liverpool,Mersey Docks and Harbour Company,10.0,Wind
+1836,Port of Sheerness Wind Farm Ltd,Peel Energy,8.2,Wind
+1837,Port of Tilbury,Scottish Equity Partners,9.2,Wind
+1838,Portley Ford Landfill Site,Biogeneration / Biffa,1.8,Waste
+1839,Portsmouth ERF,Veolia,14.0,Waste
+1840,Porvair International Ltd,KL Technologies,1.8,Solar
+1841,Potato Pot,Capital Dynamics,7.2,Wind
+1842,Potters Bar Solar Farm,UK Sustainable Energy,5.0,Solar
+1843,Pressock Farm,Green Power Consultants,5.0,Solar
+1844,Preston Road AD Plant (Waste AD),Emerald Biogas,2.8,Biomass
+1845,Prestop Park,SunE Prestop Park Limited,15.852,Solar
+1846,Priest Weston,Mellington Farm,1.0,Solar
+1847,Primrose Hill,Sun & Soil,4.3452,Solar
+1848,Princes Gate Spring Water,Princes Gate Spring Water,1.6,Wind
+1849,Priors Byne Farm,Gamma Solar Limited,7.6,Solar
+1850,Promens,Lightsource Renewable Energy,1.648525,Solar
+1851,Prosper Demulder Limited Anaerobic Digestion Plant (Waste AD),Prosper Demulder Limited / ReFood,2.0,Biomass
+1852,Prosper Demulder Limited Anaerobic Digestion Plant (Waste AD) - extension,Prosper Demulder Limited / ReFood,3.0,Biomass
+1853,Pulteney Distillery,GIB and Equitix,3.5,Biomass
+1854,Pure Malt Products AD,Pure Malt Products Limited,1.5,Biomass
+1855,Puriton,BNRG Renewables,4.5677,Solar
+1856,Puriton Landfill Solar Farm,SBC Renewables,11.4,Solar
+1857,PwllfaWatkin Landfill Gas Site,Waste Recycling Group,3.2,Waste
+1858,Pyde Drove,Wessex Solar Energy,7.0,Solar
+1859,Pylle Southern solar park (Lower Easton Farm),Pylle Solar/ John Laing,5.0,Solar
+1860,QE2 Reservoir,Lightsource Renewable Energy,6.33765,Solar
+1861,Quarrendon Fields,AWE Renewables,1.5,Wind
+1862,Queen's Park Road Energy,Combined Landfill Projects (CLP),1.8,Waste
+1863,Queens Park Energy,,1.9,Waste
+1864,Quixwood Moor,NTR PLC,29.9,Wind
+1865,ROOKERY FARM SOLAR FARM,Prosolia UK Ltd,5.3,Solar
+1866,RUDGE FARM SOLAR FARM,Orta Solar,7.0,Solar
+1867,Race Bank (Phase 1),Orsted (formerly Dong Energy)/ Macquarie Group,286.5,Wind
+1868,Race farm,Equitix,6.1,Solar
+1869,Radcliffe,Sirius Solar Building,4.1574,Solar
+1870,Raglington Farm Solar Park,Hive Energy,4.6452,Solar
+1871,Rainbow,Innogy (previously BELECTRIC Solar),4.7907,Solar
+1872,Rainham Landfill Scheme  Phase I,Cleanaway / EDL,3.9,Waste
+1873,Rainham Phase II,ENERGY DEVELOPMENTS (UK) LTD,17.0,Waste
+1874,Rampisham North,British Solar Renewables,5.0,Solar
+1875,Rampton Hospital Energy Centre,Cofely,1.2,Biomass
+1876,Ramsey,REG Windpower,1.8,Wind
+1877,Ramsey 2 Wind Farm,REG Windpower,8.2032,Wind
+1878,Rannoch,Scottish and Southern: Hydro Schemes - Tummel,45.0,Hydro
+1879,Ranson Moor (phase 1),Fenpower Limited,6.0,Wind
+1880,Ranson Moor Wind Farm (Phase 2),EcoGen Projects Limited for Fenpower Limited   30 Fore Street Chasewater Cornwall TR4 8PT,4.0,Wind
+1881,Ratcliffe,Uniper UK Limited,2000.0,Coal
+1882,Ratcliffe GT,Uniper UK Limited,34.0,Gas
+1883,Ratty's Lane Sustainable Enery Facility (Waste AD),Tamar Energy,3.0,Biomass
+1884,Ravens Close,Tau Solar,5.0,Solar
+1885,Raventhorpe Farm,Fengate Capital,38.0,Solar
+1886,Ray,Vattenfall,54.4,Wind
+1887,ReFood - Dagenham Docks Biogas (Waste AD),ReFood UK Ltd,1.4,Biomass
+1888,Reaches Farm Solar Park,Lightsource Renewable Energy,6.1,Solar
+1889,Reaps Moss Wind Farm (resubmitted),Infrared Capital Partners,10.2,Wind
+1890,Rectory Farm/Emberton,Low Carbon,9.0,Solar
+1891,Red Gap Moor Wind Farm,Capital Dynamics,12.5,Wind
+1892,Red Hill Farm,Lightsource Renewable Energy,4.8,Solar
+1893,Red Tile,Wind Prospect Development (DAO Mr J Pennay),24.0,Wind
+1894,Redcourt Farm,PS Renewables,3.3,Solar
+1895,Redhall Industrial Estate,Dodds Limited,5.0,Solar
+1896,Redhill 2,Biffa,3.0,Waste
+1897,Redlands Farm,juwi Renewable Energies,6.2,Solar
+1898,Reepham Road (Waste AD),Future Biogas Ltd,1.5,Biomass
+1899,Reliance Street Mechanical Biological Treatment Facility (MBT),Viridor,2.0,Biomass
+1900,Reservoir Road (Farm AD),B and D Property Services Ltd/James Cromie,1.1,Biomass
+1901,Rew Farm Solar Farm,Lightsource Renewable Energy,6.1,Solar
+1902,Rexton Cross,Padero Solaer,2.0,Solar
+1903,Reydon Farm (resubmission),Green Hedge (BayWa r.e.),3.9,Solar
+1904,Rheidol,Powergen,55.975,Hydro
+1905,Rhewl Farm,Renesola,6.0,Solar
+1906,Rhodders,EDF/Wind Prospect,12.3,Wind
+1907,Rhosygilwen Solar Farm,,1.0,Solar
+1908,Rhug Estate,Rhug Estate,1.2,Solar
+1909,Rhyd-y-Pandy Solar Farm,Wessex Solar Energy,6.0,Solar
+1910,Rhyl Flats,RWE Npower,90.0,Wind
+1911,Rickfield Farm solar park,Western Power Distribution,1.0,Solar
+1912,Ridham CHP Plant,MVV Energie  Ridham Dock,25.0,Biomass
+1913,Rigby Landfill,FCC Environment,3.0,Waste
+1914,Rigged Hill,B9 Energy Services Ltd/ ScottishPower Renewables,5.0,Wind
+1915,Ring O Bells Farm,GEUK Direct LTD - Daniel Corcoran - daniel@geukdirect.com,5.0,Solar
+1916,Risley,Biffa,2.0,Waste
+1917,Risley '4' Landfill Scheme,Biffa,5.9,Waste
+1918,Risley Sets 13 & 14,Biffa,2.1,Waste
+1919,River E,RWE npower,3.0,Hydro
+1920,River Lochy Hydro,Gilkes Energy,2.0,Hydro
+1921,River Pattack (resubmission),Gilkes Energy,2.0,Hydro
+1922,River Taodail Hydro,Gilkes Energy,1.4,Hydro
+1923,Riverside Resource Recovery Facility (RRRF),Cory Environmental,72.0,Waste
+1924,Roanhead Farm,Fengate Capital,6.5,Solar
+1925,Robin Rigg East,E.On,90.0,Wind
+1926,Robin Rigg West,E.On,90.0,Wind
+1927,Rock Farm / Goldborough Farm (Rookwood),Good Energy Generation,5.0,Solar
+1928,Rocksavage,Intergen,810.0,Gas
+1929,Rodbaston,REG Windpower,2.052,Wind
+1930,Rodbourne Rail Farm - Solar Park,British Solar Renewables,7.6,Solar
+1931,Rolleston Park Farm,Push Energy (Rolleston),18.7,Solar
+1932,Rolls Royce Filton Campus Building 184,Innogy (previously BELECTRIC Solar),1.4,Solar
+1933,Rolls Royce Filton Campus Building 185,Innogy (previously BELECTRIC Solar),1.8,Solar
+1934,Rookery Business Park,Solar Century/ Bluefield Solar,5.0,Solar
+1935,Rookery Farm,Green Switch Solutions,3.8,Solar
+1936,Roos,Renewable Energy Systems (RES),17.1,Wind
+1937,Rose And Crown Farm,Elgin Energy EsCo,30.0,Solar
+1938,Rosedew Farm,INRG,5.0,Solar
+1939,Rosehall,E.On,24.7,Wind
+1940,Rosehill Wind Turbines,Green Cat Renewables,2.4,Wind
+1941,Roskrow Barton,REG Windpower (previously Cornwall Light and Power),1.7,Wind
+1942,Roskrow Farm,Roskrow Solar,8.9,Solar
+1943,Rossendale Power,,1.6,Waste
+1944,Rotherdale Farm,Vale Green Energy,5.0,Solar
+1945,Rotherdale Farm - extension,Vale Green Energy,9.0,Solar
+1946,Rothes,Natural Power Consultants,51.0,Wind
+1947,Rothes 2,Fred Olsen Renewables,41.4,Wind
+1948,Rothes Bio-Plant,Scottish Bio-Power,8.3,Biomass
+1949,Rothiesholm,Longearth Ltd / Farm Energy,2.7,Wind
+1950,Roughside Hill,PowerGen and Natural Power,30.0,Wind
+1951,Roundponds Farm Solar Park,Hive Energy,13.5,Solar
+1952,Roves Farm (Solar) - resubmission,Bluefield Solar,12.7,Solar
+1953,Rowles Farm solar park,United Photovoltaics,13.0,Solar
+1954,Rowley,,1.9,Waste
+1955,Roxby Gas to Energy,Biffa,8.5,Waste
+1956,Roxwell Landfill Scheme,Redland Aggregates Ltd (Lafarge Redland),1.3,Waste
+1957,Royd Moor,,6.5,Wind
+1958,Royston Solar Farm (Phase 1) (a),Canadian Solar,5.0,Solar
+1959,Ruabon,Waste Recycling Group,2.1,Waste
+1960,Rudbaxton Solar Park,Rudbaxton Solar Park Limited,10.8,Solar
+1961,Rudge Hill Farm,Lightsource Renewable Energy,1.01886,Solar
+1962,Rufford Lane,Anesco,2.6,Solar
+1963,Runcorn EfW,INEOS Chlor / Viridor-Laing,81.0,Waste
+1964,Runfold Landfill,SITA UK,1.2,Waste
+1965,Rushmoor Lane Farm (Cheshire Coppice),Sunsave 38/ Vogt Solar,5.0,Solar
+1966,Rusholme,EDF/China General Nuclear Power Corporation,24.0,Wind
+1967,Ryder Point Quarry Wind Turbines,Longcliffe Quarries,5.0,Wind
+1968,Rydon Farm,MTS Rydon Solar,12.0,Solar
+1969,Rye House,Scottish Power: Thermal,715.0,Gas
+1970,Rye Meads Sewerage Treatment Works,Thames Water Utilities,2.3,Biomass
+1971,Ryston Estate Solar Park,Lightsource Renewable Energy,4.8,Solar
+1972,SAICA Paper Mill,GDF SUEZ ENERGY UK,41.6,Biomass
+1973,SAUNDERCROFT SOLAR FARM,Ms V Creber,7.0,Solar
+1974,SELCHP ERF,Veolia (SELCHP),32.0,Cogeneration
+1975,SPD 2 Hall Farm,Solar Park Developments (Blackrock),14.9147,Solar
+1976,SPD 3 Grange Farm,Solar Park Developments,9.49544,Solar
+1977,SPD 4 Gelliwern,Solar Park Developments,6.24,Solar
+1978,STRETE FARM SOLAR FARM,Ms Power Projects Ltd,4.8,Solar
+1979,Safeguard Bradwall,Lightsource Renewable Energy,4.997475,Solar
+1980,Salcey Farm,Anesco,5.46156,Solar
+1981,Salford Lodge,AR Partners,5.0,Solar
+1982,Salford Refuse Treatment Plant (AD),Viridor,2.0,Biomass
+1983,Salford Road,Aldi,1.6,Solar
+1984,Salford Road Solar Farm (resubmission),Greater Manchester Waste Disposal Authority,2.2,Solar
+1985,Salhouse Solar Farm,Island Green Power,5.0,Solar
+1986,Salt Ayre,Natural Power / SITA UK,4.0,Waste
+1987,Saltend,,1200.0,Gas
+1988,Saltend Wind Turbine,Yorkshire Water,1.3,Wind
+1989,Sancton Hill Wind Farm,REG Windpower (previously Cornwall Light and Power),10.384,Wind
+1990,Sandbach,E.On UK,56.0,Gas
+1991,Sandhill Anaerobic Digestion Plant (Waste AD),GWE Biogas,2.0,Biomass
+1992,Sandhill Solar Park,Solar Power South,2.0,Solar
+1993,Sands Farm Quarry Landfill Site,Viridor,3.5,Waste
+1994,Sandy Lane Generation Plant,ENERGY DEVELOPMENTS (UK) LTD/Cleanaway,2.0,Waste
+1995,Sandy Lane Landfill Scheme,Aveley Methane Ltd,2.3,Waste
+1996,Sandys Moor,Anesco,2.9,Solar
+1997,Saron,Anesco,6.33258,Solar
+1998,Sawmills Solar Farm,Solstice Renewables,6.5,Solar
+1999,Saxley Farm,Solar Century/ Bluefield Solar,5.0,Solar
+2000,Says Court,AEE Renewables,19.807,Solar
+2001,School Aycliffe,Lightsource Renewable Energy,5.0,Solar
+2002,Scorton,Yorwaste,1.0,Waste
+2003,Scout Moor,Munich Re (previously Peel),65.0,Wind
+2004,Scouthead Power Plant,ONYX,2.9,Waste
+2005,Screggagh,Screggagh Windfarm,20.0,Wind
+2006,Screwfix Direct,Kingfisher Scottish Limited Partnership,2.5,Solar
+2007,Scroby Sands,E.On,60.0,Wind
+2008,SeaGen Tidal Farm,Marine Current Turbines (MCT),1.2,Wave and Tidal
+2009,Seabank 1,,812.0,Gas
+2010,Seabank 2,Seabank Power Limited,410.0,Gas
+2011,Seaforth,Mersey Docks and Harbour Company and Windcluster Limited,3.0,Wind
+2012,Seamer Carr,Yorwaste,1.3,Waste
+2013,Seamer Wind Farm - Hambleton,Infinis  previously Broadview Energy,4.0,Wind
+2014,Seamer Windfarm - Stockton on Tees,Broadview Energy,6.0,Wind
+2015,Seaton Road Solar Farm,SBC Renewables,4.0,Solar
+2016,Seaview Farm,Mohammed Khaliq,1.7,Solar
+2017,Sedbury Park,Bee Green Solar,5.0,Solar
+2018,Seegronan,Seegronan Windfarm,13.8,Wind
+2019,Sefter Farm AD Plant (Farm AD),Barfoots of Botley,1.0,Biomass
+2020,Seghill Village Waste Disposal Site phase 1 and 2,Northumberland Waste Management / SITA UK,4.1,Waste
+2021,Severn Power,MPF Operations Limited,850.0,Gas
+2022,Severn Road Solar Park,Bristol City Council,1.8,Solar
+2023,Severn Trent STW,Severn Trent Water,2.5,Wind
+2024,Severn Trent Water - Stoke Bardolph Wind Turbine,Severn Trent Water,1.5,Wind
+2025,Severnside Energy Recovery Centre,SITA UK,32.0,Waste
+2026,Sevor Farm,AEE Renewables,9.3,Solar
+2027,Shacks Barn Solar Farm,Moser Baer,5.0,Solar
+2028,Shakespeare Farm Landfill Site,Biffa,1.0,Waste
+2029,Shantavny Scotch,Tyrone Wind Energy Ltd,16.1,Wind
+2030,Sharland Farm,Lightsource Renewable Energy,2.8,Solar
+2031,Shearman Field,ALCO WASTE MANAGEMENT LTD,1.9,Waste
+2032,Sheepbridge Court Farm,Orta Sheepbridge Solar,8.0,Solar
+2033,Sheffield ERF,Veolia,19.3,Waste
+2034,Shelford Generation Plant II,ENERGY DEVELOPMENTS (UK) LTD,8.0,Waste
+2035,Shelford Landfill Scheme,Brett Waste Management Ltd,1.9,Waste
+2036,Shelswell,Anesco,5.06331,Solar
+2037,Shepham Lane (Resubmission),Belltown Power,7.5,Wind
+2038,Sherburn,Kingspan,5.0,Solar
+2039,Sheriffhales,Lightsource Renewable Energy,5.0,Solar
+2040,Sheringham Shoal BMU 1 & 2,Vattenfall,316.0,Wind
+2041,Shielburn Farm,Green Cat Renewables,6.9,Wind
+2042,Shin,Scottish and Southern: Hydro Schemes - Shin,18.6,Hydro
+2043,Shipton Bellinger - Park House Corner Solar Farm,Low Carbon Solar,5.4,Solar
+2044,Shoals Hook Farm,John Laing Environmental Assets (formerly Camborne Capital),12.1,Solar
+2045,Shooters,Ecotricity,2.0,Wind
+2046,Shooters Bottom Solar Park,Anesco,7.0,Solar
+2047,Shoreham,,420.0,Gas
+2048,Short Hazel Solar Farm,Pearmat Solar,5.0,Solar
+2049,Shortheath Solar Park,Trina Solar,5.0,Solar
+2050,Shotwick,Foresight Solar Fund,72.209,Solar
+2051,Sibelco Brassington,Sibelco/ Golconda,2.3,Wind
+2052,Siddick Wind Farm,Windprospect (a subsidiary of Windcluster Ltd.),4.2,Wind
+2053,Sidegate Lane,Nene Valley Waste Ltd,2.4,Waste
+2054,Sidegate Lane Landfill Site,East Midlands Electricity Generation,1.3,Waste
+2055,Silent Valley Landfill Scheme,NOVERA,2.7,Waste
+2056,Singleton Birch (Farm AD),Singleton Birch,1.5,Biomass
+2057,Sisters,Infinis (formerly Novera Energy),8.4,Wind
+2058,Site To North East Of  Lochcraigs Farm,SBC Renewables,5.0,Solar
+2059,Six Hills Solar Farm,Lightsource Renewable Energy,18.7,Solar
+2060,Sixpenny Wood,Greencoat UK Wind,20.5,Wind
+2061,Sizewell B,British Energy (now part of EDF),1198.0,Nuclear
+2062,Skeddoway Farm Wind Turbine,RM Brown And Son,1.5,Wind
+2063,Skeddoway Farm Wind Turbine (Resubmission),Clenergy,1.5,Wind
+2064,Skegness,Mr. A. Fornal,10.684,Solar
+2065,Skegness Solar Park,Skegness Solar Park,4.9,Solar
+2066,Skelbrooke Landfill Gas Project,DARRINGTON QUARRIES LTD,2.1,Waste
+2067,Skelmonae Wind Farm,David Smith,3.2,Wind
+2068,Skelton Grange Landfill,Biffa,5.2,Waste
+2069,Skibeden,Yorwaste,2.0,Waste
+2070,Skylark,Anesco,4.93885,Solar
+2071,Slaughtergate Farm,Lightsource Renewable Energy,1.8,Solar
+2072,Sleaford Renewable Energy Plant,Glenmont,40.0,Biomass
+2073,Slieve Divena,Greencoat (formerly Infinis/SSE),30.0,Wind
+2074,Slieve Divena Phase 2 Wind Farm,Scottish and Southern Energy (SSE),18.8,Wind
+2075,Slieve Kirk,Airtricity,73.6,Wind
+2076,Slieve Rushen Extension,,54.0,Wind
+2077,Slieve Rushen Phase 1 Wind Farm,Sean Quinn Group,5.0,Wind
+2078,Slough,Scottish and Southern: Thermal,35.0,Cogeneration
+2079,Slough Sewage Treatment Works,Thames Water Utilities,1.2,Waste
+2080,Sloy,Scottish and Southern: Hydro Schemes - Sloy/Awe,152.5,Hydro
+2081,Smith Hall Farm Solar Park,Trina Solar,5.0,Solar
+2082,Snarlton Farm (Melksham solar farm),Foresight,49.6,Solar
+2083,Snetterton Biomass Plant,Burmeister & Wain Scandinavian Contractor A/S (BWSC),44.2,Biomass
+2084,Snettisham Solar Farm,Solar Associates,2.7,Solar
+2085,Sober Hill,West Coast Energy,12.3,Wind
+2086,Solar Farm at Fields Farm (Phase 1),Foresight Group (TGC Renewables),5.0,Solar
+2087,Solar farm at land at The Willows  Uttoxeter,TGC Renewables,6.4,Solar
+2088,Solutia,Solutia / Vestas,5.0,Wind
+2089,Somersal Mill Farm,Navitas Project,2.6,Solar
+2090,Somerton,Ecotricity,1.8,Wind
+2091,Somerton Door Farm,Lightsource Renewable Energy,8.7,Solar
+2092,Soothills Landfill,ONYX LANDFILL LTD,1.0,Waste
+2093,South Cathkin Landfill Site,CLP Envirogas,7.4,Waste
+2094,South Creake,Lightsource,26.001155,Solar
+2095,South Humber Bank,Centrica,1310.0,Gas
+2096,South Lees Farm,Solar Century,11.0,Solar
+2097,South Manchester Resource Recovery Centre (AD),Viridor,2.0,Biomass
+2098,South Newton Farm,Equitix,11.3,Solar
+2099,South Sharpley Wind Farm,REG Windpower (previously  Cornwall Light & Power),6.2304,Wind
+2100,South View Farm,Bioflame,2.0,Biomass
+2101,South of Henley Hall,Kronos Solar (KS SPV39),5.0,Solar
+2102,Southbrook Solar Farm,Sunventures (Suncredit UK),5.0,Solar
+2103,Southcombe Farm,Lightsource Renewable Energy,1.2,Solar
+2104,Southdown Quarry,Ethical Power,1.5,Solar
+2105,Southern Counties Shooting Ground Phase 1 (resubmission),British Solar Renewables / NextEenrgy Solar Fund (NESF),9.0,Solar
+2106,Southern Counties Shooting Ground Phase 2 (resubmission),British Solar Renewables,5.0,Solar
+2107,Southern Law,EDF Energy,5.2,Wind
+2108,Southfield Solar Park,British Solar Renewables,9.7614,Solar
+2109,Southill Solar (resubmission),Sustainable Charlbury (Community),4.5,Solar
+2110,Southleigh Landfill,ONYX LANDFILL LTD,3.5,Waste
+2111,Southrigg,Southrigg WT,1.5,Wind
+2112,Southwick Estate,Bluefield Solar Income Fund,48.0,Solar
+2113,Spalding,SPEP,880.0,Gas
+2114,Spaldington,Falck Renewables,11.75,Wind
+2115,Speyside Biomass CHP Plant,Speyside Renewable Energy Partnership Ltd,12.5,Biomass
+2116,Spicer Hill Wind Farm,,6.9,Wind
+2117,Spittleborough Farm,MTS Spittleborough Solar Ltd,12.0,Solar
+2118,Spriggs Farm,Abic,12.0,Solar
+2119,Spring Farm (biomass),Mr Phillip Lukas,1.0,Biomass
+2120,Springfield Farm,ONYX,1.4,Waste
+2121,Springhill Solar Park (Northwick),,5.0,Solar
+2122,Spurness Extension,Scottish and Southern Energy (SSE),10.0,Wind
+2123,Squabb Wood,Viridor,1.0,Waste
+2124,Sron Mor,Scottish and Southern Energy (SSE),4.0,Hydro
+2125,Srondoire Community Wind Farm,Srondoire Wind Farmers LLP,6.0,Wind
+2126,St Breock,REG & Blackrock,10.261,Wind
+2127,St Columb Major Solar Farm,Inazin Solar (previoulsy owned by Low Carbon Solar),7.0,Solar
+2128,St Day II,,2.0,Waste
+2129,St Fergus Moss Wind Farm,Greenspan Electric St Fergus Ltd,6.0,Wind
+2130,St Francis,Lightsource Renewable Energy,4.32531,Solar
+2131,St Helen's Lane,UK Sustainable Energy,5.0,Solar
+2132,St John Hill,Auquhirie Land Company Ltd,7.7,Wind
+2133,St John's Well,Green Cat Renewables,2.4,Wind
+2134,St Johns Wells Wind Cluster Extension,Green Cat Renewables,3.2,Wind
+2135,St Nicholas Court Farm (AD) - resubmission,St Nicholas Court Farms Ltd,1.2,Biomass
+2136,St. Johns Hill,K E Projects AF,25.0,Wind
+2137,Stables,Lightsource Renewable Energy,1.966,Solar
+2138,Stags Holt,Powergen / Wind Prospects,20.0,Wind
+2139,Stags Holt Extension,E.On,2.0,Wind
+2140,Staining Wood Farm,Lightsource Renewable Energy,4.9,Solar
+2141,Standen Heath,Biffa,1.5,Waste
+2142,Standford Hill,Resonance,4.6,Wind
+2143,Stangate Landfill Site,ARC Ltd (Greenways Landfill),4.5,Waste
+2144,Stanton solar park,Quercus Renewable Holding 2,5.0,Solar
+2145,Stantway Solar Farm,Mr P Walker,5.0,Solar
+2146,Staples Anaerobic Digestion CHP Plant (Waste AD),Staples Brothers Ltd,1.4,Biomass
+2147,Station Farm Landfill Scheme,Natural Power,2.0,Waste
+2148,Station Works AD,Privilege Finance/ BioWatt,1.0,Biomass
+2149,Staveley Power,Waste Recycling Group,2.1,Waste
+2150,Staythorpe C,RWE Npower Plc,1772.0,Gas
+2151,Steven's Croft,E.ON  (formerly Powergen). Agent Environmental Planning and Management,50.0,Cogeneration
+2152,Steventon,Hive Energy,10.03917,Solar
+2153,Stob House Farm,Anesco,4.9,Solar
+2154,Stoke Bardolph energy crop (Farm AD),Severn Trent Water,2.0,Biomass
+2155,Stoke-on-Trent EfW,MES Environmental (CNIM Group),14.2,Waste
+2156,Stokes Marsh Farm,South West Solar Parks,16.6,Solar
+2157,Stone Hill,Solar Century,2.6,Solar
+2158,Stonebarrow Farm,British Solar Renewables (formerly known as Solar Power Generation),8.0,Solar
+2159,Stonebyres,Scottish Power: Hydro schemes - Lanark,6.0,Hydro
+2160,Stonepit Farm,Lark Energy,5.0,Solar
+2161,Stoneshill Farm (resubmission),Green Energy UK Direct,5.0,Solar
+2162,Stoneyhill Landfill Site,Stoneyhill Waste Management Ltd,4.3,Waste
+2163,Stonish Hill Re-submission (Bilsthorpe),REG Power Management (John Laing/Peel Energy),10.3,Wind
+2164,Stormy Down (Waste AD),Agrivert,3.0,Biomass
+2165,Stormy Down Solar Farm,Belisama Energy,3.8,Solar
+2166,Stornoway,Scottish and Southern: Island Generation,24.0,Oil
+2167,Storr Lochs,Scottish and Southern: Small Hydros,2.4,Hydro
+2168,Stowbridge Farm,Magnetar Solar,24.0,Solar
+2169,Stowbridge Farm - Extension (Phase 1),FC Palmer and Sons,10.0,Solar
+2170,Stowbridge Farm - Extension (Phase 2),FC Palmer and Sons,10.0,Solar
+2171,Stragglethorpe,Lightsource Renewable Energy,4.99928,Solar
+2172,Strath of Brydock,Duncan Greenenergy,6.9,Wind
+2173,Strath of Brydock,Green Cat Renewables,4.6,Wind
+2174,Strathy North,Scottish and Southern Energy (SSE),67.65,Wind
+2175,Stratton Hall Solar Park,Stratton Hall Solar Park Limited,11.6,Solar
+2176,Strettington Solar Farm,Sunsave 30 (Strettington)/ Vogt solar,5.0,Solar
+2177,Stripe,FIM Services (formerly Anesco),4.98,Solar
+2178,Striven,Scottish and Southern Energy (SSE),8.0,Hydro
+2179,Stroupster,Greencoat UK Wind/Bay Wa .r.e/ SunGift,29.9,Wind
+2180,Stud Farm  Rufford (Farm AD),Future Biogas,2.2,Biomass
+2181,Sudforth Lane (Kellingley Solar Farm),First Renewable Developments/ Harworth Group,5.0,Solar
+2182,Summercourt Solar Farm (Glebe Farm),Solar Securities Group Ltd,1.1,Solar
+2183,Summerston Landfill,Combined Landfill Projects (CLP),2.8,Waste
+2184,Summerway Drove,BNRG Renewables,2.0,Solar
+2185,Sundon Landfill Site,Renewable Power Generation Ltd,2.6,Waste
+2186,Sundorne,Elgin Energy EsCo,18.226,Solar
+2187,Sunnyside wind cluster,Sunnyside Wind Farm,1.0,Wind
+2188,Sutton Bridge,,819.0,Gas
+2189,Sutton Courtenay Landfill Scheme,Waste Recycling Group,5.6,Waste
+2190,Sutton Courtney,Waste Recycling Group,6.0,Waste
+2191,Sutton Grange AD Plant,Fred Walter & Sons Ltd,3.0,Biomass
+2192,Sutton Landfill Site,Waste Notts Ltd 3 Sidings Court White Rose Way Doncaster,3.0,Waste
+2193,Sutton Mawr Farm,Lightsource Renewable Energy,7.5,Solar
+2194,Sutton Montis Road Solar Park / Sutton Bridge Solar Farm,PS Renewables,5.4,Solar
+2195,Swaffham II,Ecotricity,1.8,Wind
+2196,Swancote Farm,Swancote Energy,1.2,Biomass
+2197,Swancote Farm AD (Farm AD),Mr Simon Davies/Berries,2.2,Biomass
+2198,Swindon Sewerage Treatment Works,Thames Water Utilities,1.2,Biomass
+2199,Swinford,Nuon UK,22.0,Wind
+2200,Sycamore Farm,BNRG Renewables,20.0,Solar
+2201,Symonds Farm Power Ltd (Farm AD),Geo E Gittus and Son,1.4,Biomass
+2202,Sytchwythy Fields,AR Partners,1.4,Solar
+2203,Sywell (England),Lark Energy,4.99928,Solar
+2204,Taff Ely,Npower Renewables,9.0,Wind
+2205,Tallentire,The Renewables Infrastructure Group (TRIG),12.0,Wind
+2206,Tangy,Border Wind / Scottish and Southern (SSE),18.7,Wind
+2207,Tangy Wind Farm Extension/Tangy 2,Scottish and Southern Energy (SSE),6.0,Wind
+2208,Taplins Farm solar park,PS Renewables,5.9,Solar
+2209,Tappaghan Extension,Greencoat UK Wind,9.0,Wind
+2210,Tappaghan Wind Farm,Greencoat UK Wind,28.5,Wind
+2211,Tarbothill Landfill Site,Waste Recycling Group,2.2,Waste
+2212,Taunton Racecourse,Green Hedge (BayWa r.e.),1.5,Solar
+2213,Tavells Lane Solar Farm,Hive Energy,5.3,Solar
+2214,Taylor's Lane GT,Uniper UK Limited,144.0,Gas
+2215,Tedder Hill,Ventient (formerly Infinis),7.5,Wind
+2216,Teeside Green Energy Plant (Waste AD),B F BIO GAS LTD,4.8,Biomass
+2217,Teesside,EDF Energy - Northern Offshore Windfarm Ltd,62.0,Wind
+2218,Teesside EfW,SITA UK,19.2,Waste
+2219,Teesside EfW (extension),SITA UK,10.0,Waste
+2220,Temple Normanton (England),Lark Energy,4.89398,Solar
+2221,Tengore Lane - resubmission,TGC Renewables,3.0,Solar
+2222,Testwood Water Supply Works,Southern Water Services,1.9,Solar
+2223,Thame solar farm,Big 60 Million,4.3,Solar
+2224,Thameside DC,Sainsbury's,1.0,Solar
+2225,Thanet,Vattenfall Wind Power Ltd,300.0,Wind
+2226,Thatcham,Scottish and Southern: Thermal,8.7,Oil
+2227,The Breck,Lightsource Renewable Energy,5.0,Solar
+2228,The Elms,Foresight Solar Fund,10.4,Solar
+2229,The Fall of Warness Tidal Scheme  (EMEC),Tocardo/OpenHydro,4.0,Wave and Tidal
+2230,The Flit,United Photovoltaics,10.5,Solar
+2231,The Grange,Elgin Energy EsCo,8.0,Solar
+2232,The Haven,Mr. Bowles,1.2,Wind
+2233,The Kickles,Green Energy UK Direct Ltd/ Vogt Solar,5.0,Solar
+2234,The Limes Wind Turbines,Countryside Solutions,1.7,Wind
+2235,The Manor of Cadland Estate,The Manor of Cadland Estate,5.0,Solar
+2236,The Michelin Tyre Factory - Ballymena,Ecotricity,4.6,Wind
+2237,The Nurseries  Green Tye,Guy & Wright,1.2,Biomass
+2238,The Old Airfield,Lumicity,5.0,Solar
+2239,The Rosti Factory,Branna Industrial & Technical Services Ltd,2.2,Wind
+2240,The Sawmill,Veolia Energy Services,6.8,Biomass
+2241,The Stables,Anesco,1.8,Solar
+2242,Thetford,Energy Power Resources,41.5,Biomass
+2243,Thompson House Equestrian farm,Emotion Solar One,5.0,Solar
+2244,Thorfinn Wind Farm - NM1500,Vestas,1.5,Wind
+2245,Thorfinn Wind Farm - NM2000,Vestas,2.3,Wind
+2246,Thornborough Grounds (England),Lark Energy,4.9929,Solar
+2247,Thorne Farm,Lightsource Renewable Energy,6.2,Solar
+2248,Thornhill,E.On UK,50.0,Gas
+2249,Thornog Windfarm,Energia Renewables,9.2,Wind
+2250,Thornog Windfarm Extension,Energia Renewables,9.2,Wind
+2251,Thornton Lane,Green Hedge (BayWa r.e.),2.7,Solar
+2252,Thornton Power Station,TPS (UK),9.0,Biomass
+2253,Thornton Waste Recovery Park (Waste AD),Global Renewables Lancashire Ltd,1.9,Biomass
+2254,Tiddiecross Solar Farm,Vogt Solar,10.5,Solar
+2255,Tiers Cross Solar Farm,Good Energy Generation,24.0,Solar
+2256,Tievenameenta,Scottish and Southern Energy (SSE),34.5,Wind
+2257,Tilmanstone Colliery,Ovenden Plant Hire Limited,10.0,Solar
+2258,Tiln Farm Retford (extension),Pfalz Solar,1.7,Solar
+2259,Tiln Farm solar park,Pfalz Solar,8.0,Solar
+2260,Tir Mostyn & Foel Goch,Munich Re (previously Windjen Power Ltd),21.25,Wind
+2261,Tiree,Scottish and Southern: Island Generation,3.0,Oil
+2262,Tirgwynt,Belltown Power,24.6,Wind
+2263,Tod Hill Farm Wind Turbines,Falkirk Tod Hill Wind Limited,12.0,Wind
+2264,Toddleburn,Scottish and Southern Energy (SSE),27.6,Wind
+2265,Todmorden,Todmorden Moor Wind Farm Ltd,12.5,Wind
+2266,Toggam Farm,Forest Heath District Council,12.5,Solar
+2267,Tollgate Farm,CRE8 Energy (UK),4.3,Solar
+2268,Tonedale Farm,Capital Estate Tonedale,5.0,Solar
+2269,Tonge Corner Farm,Martifer Solar (Voltalia),22.0,Solar
+2270,Tongland,Scottish Power: Hydro schemes - Galloway,33.0,Hydro
+2271,Tooleys Farm,Lightsource Renewable Energy,5.3,Solar
+2272,Tormywheel,BlackRock (formerly Muirhall Energy),30.8,Wind
+2273,Torness,British Energy (now part of EDF),1185.0,Nuclear
+2274,Torr Achilty,Scottish and Southern Energy (SSE),15.0,Hydro
+2275,Torrance Farm,Future Spectrum Ltd,9.0,Wind
+2276,Torrance Farm Wind Park Extension,Capital Dynamics,5.7,Wind
+2277,Tow Law,RWE npower,2.3,Wind
+2278,Tower Hayes Farm,Elgar Middleton,5.0,Solar
+2279,Tower Hill Farm,NextEnergy Solar Fund (NESF),8.1,Solar
+2280,Towerbrook Farm (Banwell Solar Farm),Aquila Capital,7.2,Solar
+2281,Townlands of Carrickatane,Northern Wind Power,20.7,Wind
+2282,Toyota Motor Manufacturing Uk - Deeside,Toyota Motor Manufacturing Ltd  - Graham Hillier - 01244 282027,3.8,Solar
+2283,Toyota Solar Farm,Bluefield Solar Income Fund,4.6,Solar
+2284,Trackwork Limited (EfW),Trackwork,3.0,Waste
+2285,Trecatti,Biffa,7.0,Waste
+2286,Tredinnick Fields,Kronos Solar,5.8,Solar
+2287,Tredown Solar Farm,Lightsource Renewable Energy,1.2,Solar
+2288,Trefinnick,MTS Trefinnick Solar Ltd,4.40363,Solar
+2289,Trefullock Solar Farm,Bosch Solar Energy,5.0,Solar
+2290,Tregassow Farm - Solar Modules,Mr Larry Mark,6.0,Solar
+2291,Treguff,Lightsource Renewable Energy,3.736465,Solar
+2292,Trehawke Barton (Doddycross) Solar Farm,KS SPV20 Ltd,9.1,Solar
+2293,Trelow Farm,Low carbon Solar Partners,1.6,Solar
+2294,Trench Farm,Lightsource Renewable Energy,7.2,Solar
+2295,Trenouth Farm,Low Carbon Solar,3.6,Solar
+2296,Trenoweth Solar Farm,Kronos Solar,2.5,Solar
+2297,Trequite,Elgin Energy EsCo,10.988,Solar
+2298,Treswarrow Solar Park,Richard Jones,6.5,Solar
+2299,Trethosa Farm Solar Park,Trethosa Solar Ltd,4.8,Solar
+2300,Trevemper,The Green Company,1.6999,Solar
+2301,Triangle Solar Farm Park,Savills/ Cambridge County Council,10.0,Solar
+2302,Trickey Warren,Anesco,4.63197,Solar
+2303,Trident Park,Viridor,30.0,Waste
+2304,Trigon Solar Farm,Trigon Solar Farm Ltd,7.0,Solar
+2305,Trimdon,Cumbria Wind Farms,5.2,Wind
+2306,Trinity Hall Farm,Hallwick Energy,1.1,Biomass
+2307,Troughton Farm,Hive Energy,30.0,Solar
+2308,Trowbridge Sewage Treatment Works,Wessex Water,1.2,Waste
+2309,Trowle Common,Low Carbon,5.0,Solar
+2310,Trumps Farm (AD),Agrivert,2.4,Biomass
+2311,Trumps Farm Landfill Scheme,Renewable Power Systems,2.9,Waste
+2312,Trysglwyn,RWE npower,5.6,Wind
+2313,Tullo,West Coast Energy (agents for Tullo Wind Ltd and GE Wind),17.5,Wind
+2314,Tullo Wind Farm North Extension (Shiels Wind Farm),Eneco,7.5,Wind
+2315,Tullo Wind Farm South (Ext.),Eneco,10.0,Wind
+2316,Tully Quarry,Stream Bioenergy,3.0,Biomass
+2317,Tullymurdoch Wind Farm,Temporis Capital,14.4,Wind
+2318,Tummel,Scottish and Southern: Hydro Schemes - Tummel,34.0,Hydro
+2319,Tump Solar Farm,Green Energy UK Direct,5.0,Solar
+2320,Turncole,RES/ Aviva,17.5,Wind
+2321,Turret water treatment works,,1.9,Hydro
+2322,Turves Solar Farm (Resubmission),Abbey Renewables,5.0,Solar
+2323,Turves/Burtnhouse Solar Farm extension,Lightsource Renewable Energy,4.7,Solar
+2324,Turweston Solar Farm,INRG Solar,16.7,Solar
+2325,Tween Bridge,E.ON Renewables,44.0,Wind
+2326,Twemlows,Sunsave 27 (Twemlows)/ Vogt solar,10.0,Solar
+2327,Twin Elm Solar Farm,,1.0,Solar
+2328,Twin Rivers,NTR,28.7,Wind
+2329,Twin Yards Solar Farm,Global Renewable Construction,5.0,Solar
+2330,Twinwoods Heat & Power CHP,Growing Beds / Bioflame,3.4,Waste
+2331,Tyrone Energy 1,Mr Tim Traill,2.1,Biomass
+2332,Tyseley ERF,Veolia,30.0,Waste
+2333,Tythegston Landfill Site,Renewable Power Generation Ltd,1.2,Waste
+2334,UK Solar (Lower Newton) LLP,Novus Solar Developments,11.929,Solar
+2335,Ufton,Biffa,1.0,Waste
+2336,Ugley,Biffa,1.1,Waste
+2337,Uisge Dubh Hydro,Gilkes Energy,2.0,Hydro
+2338,Ulnes Walton Energy,SITA UK,1.3,Waste
+2339,United Mines Landfill Scheme,East Midlands Electricity Generation,3.0,Waste
+2340,Upper Ardgrain Wind Farm,Green Cat Renewables,2.4,Wind
+2341,Upper Clayhill,Lightsource Renewable Energy,4.7492,Solar
+2342,Upper Farm solar park,Kronos Solar,12.0,Solar
+2343,Upper Holton Wind Farm,Temporis Wind,11.5,Wind
+2344,Upper Huntingford Farm,TGC Renewables,7.7,Solar
+2345,Upper Meadowley Farm,GDL Upper Meadowley,10.7,Solar
+2346,Upper Pant-Ysgawen Farm/Crumlin,Suncredit UK,4.9,Solar
+2347,Uskmouth Power,,230.0,Coal
+2348,Uskmouth Power Station,SIMEC Group,18.0,Biomass
+2349,VENTNOR ROAD SOLAR PARK,BNRG Renewables,4.8,Solar
+2350,VPI Immingham,VPI Immingham LLP,1240.0,Cogeneration
+2351,Vantage Point,Bee Green Solar,1.4,Solar
+2352,Verwood Solar Farm,Wirsol Solar UK,20.4,Solar
+2353,Vine Farm Solar Park,Allianz,45.0,Solar
+2354,Vine Street EfW,SITA UK,9.5,Waste
+2355,Wadlow,DIF,26.0,Wind
+2356,Waen Biogas (Waste AD),Ancala Bioenergy (formerly Biogen),1.0,Biomass
+2357,Walkers Wood Solar Park,Solar century / Magnetar Solar,27.0,Solar
+2358,Walkway,Wind Prospect,14.0,Wind
+2359,Walland Farm,Lightsource Renewable Energy,5.0,Solar
+2360,Wallingford (Waste AD),Agrivert,2.4,Biomass
+2361,Wally Corner Landfill Site,SBC Renewables,7.0,Solar
+2362,Walmoor Farm solar park,Green Switch Solutions,4.0,Solar
+2363,Walney 1,Orsted (formerly Dong Energy),184.0,Wind
+2364,Walney 2,Orsted (formerly Dong Energy),184.0,Wind
+2365,Walnut Yard (Phase 1),Lark Energy,1.8,Solar
+2366,Walpole Landfill,THOMAS GRAVESON LTD,1.6,Waste
+2367,Walpole Landfill AD (Waste AD),Viridor,1.6,Biomass
+2368,Waltham Point Distribution Centre,Sainsbury's,1.8,Solar
+2369,Walton,Thames Water,1.78633,Solar
+2370,Wambrook Farm,Sunsave 19 (Wambrook)/ Vogt Solar,4.1,Solar
+2371,Wandylaw,Blue Energy,20.5,Wind
+2372,Wapsey's Wood,Veolia,7.5,Waste
+2373,Wapsey's Wood II Landfill Site,Leigh Environmental Ltd (Paul Blower 01753 888140),1.0,Waste
+2374,Wapsey's Wood III,Summerleaze,1.0,Waste
+2375,Wardlaw Wood,Wind Prospect on land owned by Community Windpower Ltd,18.0,Wind
+2376,Waresley Landfill Site,Biffa,1.6,Waste
+2377,Warleigh Barton Solar Farm,Low Carbon Solar,5.0,Solar
+2378,Warren Quarry Landfill Gas Scheme,Warren Energy Ltd,1.9,Waste
+2379,Warrington Home Solar Scheme,Warrington Council,5.3,Solar
+2380,Watchfield Lawn,Belltown Power,10.2,Solar
+2381,Water Eaton Farm / Port Farm,Foresight/ Vogt solar,34.8,Solar
+2382,Waterditch Solar Farm,New Forest Energy,18.0,Solar
+2383,Waterloo solar park,Lightsource Renewable Energy,14.6,Solar
+2384,Watford Lodge,Broadview Energy,12.5,Wind
+2385,Wathegar 2 Wind Farm,BayWa r.e.,18.5,Wind
+2386,Wathegar wind farm,Mr Danny Miller,10.0,Wind
+2387,Waverley Wood II,ENERGY DEVELOPMENTS (UK) LTD,2.4,Waste
+2388,Wear Point,John Laing,8.2,Wind
+2389,Wedgehill Farm,Orta Solar,13.0,Solar
+2390,Week Farm Solar Park,,3.3,Solar
+2391,Welbeck,Solar century / Magnetar Solar,11.2608,Solar
+2392,Welbeck Colliery,Re-Fin Solar Limited,9.6,Solar
+2393,Weldon Phase 1 and 2,Waste Recycling Group,4.0,Waste
+2394,Wellingborough Solar Farm,Lark Energy,8.5316,Solar
+2395,Welton Of Creuchies,Mr And Mrs I And J Ferguson/ Green Cat Renewables,9.2,Wind
+2396,Wern Ddu Wind Farm,Tegni,9.2,Wind
+2397,West Bradley,Lightsource Renewable Energy,1.029,Solar
+2398,West Browncastle,Falck Renewables,30.0,Wind
+2399,West Burton,EDF Energy,2012.0,Coal
+2400,West Burton CCGT,EDF Energy,1332.0,Gas
+2401,West Burton GT,EDF Energy,40.0,Gas
+2402,West Ditchen Farm (resubmission),PV Sunpower Ltd,5.0,Solar
+2403,West Durham Wind Farm,ESBI,24.0,Wind
+2404,West Farm,Vogt Solar,7.63,Solar
+2405,West Hall Solar Farm,INRG Solar,7.0,Solar
+2406,West Hill  Flotta,Scotrenewables (Scotland) Ltd,2.0,Wind
+2407,West Hill Farm,Hazel Capital LLP,2.4,Solar
+2408,West Hill Farm (solar),Lumicity,7.3,Solar
+2409,West Kingsmill Farm Solar Park,Inazin (previously Low carbon Solar Partners),1.6,Solar
+2410,West Knock Wind Cluster,West Knock Farm,2.4,Wind
+2411,West Mill,RMC Aggregates,2.5,Waste
+2412,West Quarry,,4.5,Waste
+2413,West Raynham,Bluefield Solar,49.9,Solar
+2414,West Roucan Farm,John Cunningham-Jardine,1.2,Biomass
+2415,West Strathore Solar Limited,West Strathore Solar,5.0,Solar
+2416,West Venn Solar Farm (resubmission),Solar Securities Group Ltd,5.0,Solar
+2417,West Woodlands,Sunsave 24/ Vogt solar,5.0,Solar
+2418,West of Duddon Sands,Scottish Power Renewables & Orsted (formerly Dong Energy),389.0,Wind
+2419,Westbury (Closed) Landfill Site,Viridor,3.5,Solar
+2420,Westbury Landfill Scheme,Haul Waste Disposal Ltd,1.1,Waste
+2421,Westcott Venture Park,Shanks Group,2.0,Biomass
+2422,Westcott Venture Park Phase 2 & 3,Rockspring Hanover Property Unit Trust,1.3,Solar
+2423,Westerfield Farm - resubmission,Lightsource Renewable Energy,12.5,Solar
+2424,Westermost Rough,Orsted (formerly Dong Energy),210.0,Wind
+2425,Western International Market,London Borough of Hounslow,1.7,Solar
+2426,Western Wood Energy Plant,Western Bioenergy  affiliate of Western Log,14.0,Biomass
+2427,Westfield,Infinis,9.8,Wind
+2428,Westfield Biomass Power Station,EPR Scotland,12.5,Biomass
+2429,Westfield Farm,Hive Energy/ Vogt Solar,5.0,Solar
+2430,Westmill Farm - PV,Mr Adam Twine,5.0,Solar
+2431,Westmill Qaurry,,2.6,Waste
+2432,Westmill Wind Farm,Adam Twine of Colleymore,6.5,Wind
+2433,Westnewton,,6.2,Wind
+2434,Weston Airfield Wind Turbines,Bernard Matthews,3.6,Wind
+2435,Weston Landfill Site,Vivid Waste Management,2.0,Waste
+2436,Westover Farm - resubmission,Mrs Victoria Prescott,7.0,Solar
+2437,Westwood,Lightsource Renewable Energy,9.181,Solar
+2438,Westwood AD Plant (Farm AD),Ancala Bioenergy (formerly Biogen),2.0,Biomass
+2439,Wether Hill,Scottish Power/CRE Energy,18.2,Wind
+2440,Weycock Road,Elgin Energy EsCo,7.0,Solar
+2441,Wharrels Hill Wind Farm,Wharrels Hill Windfarm Ltd/ National Windpower,10.4,Wind
+2442,Wheal Alfred Road Solar Farm,TGC Renewables,3.5,Solar
+2443,Wheal Jane,35 Degrees,1.42,Solar
+2444,Wheat Leasows Solar Park,Telford and Wrekin Borough Council,4.0,Solar
+2445,Whiddon Farm,Lightsource Renewable Energy,1.0,Solar
+2446,Whinney Hill II Energy,SITA UK,1.8,Waste
+2447,Whinney Hill Waste Disposal Site,Combined Landfill Projects (CLP),1.2,Waste
+2448,Whitchurch,Anesco,6.52,Solar
+2449,Whitehead Landfill,Biridor Limited,5.3,Waste
+2450,Whitelee,CRE Energy/ Scottish Power,322.0,Wind
+2451,Whitelee 2,Scottish Power Renewables,217.02,Wind
+2452,Whitelee Windfarm Extension phase 2,,109.0,Wind
+2453,Whitemill Wind Farm,Co-operative Energy,14.0,Wind
+2454,Whitemoor,REG Bio-Power,18.0,Biomass
+2455,Whiteparish,Biffa,1.1,Waste
+2456,Whites Landfill Site (Canford),Canford Renewable Energy Ltd,6.0,Waste
+2457,Whitley (Ashcott Farm) Solar Park,British Solar Renewables,7.5702,Solar
+2458,Whitley Farm (2 of 2),British Solar Renewables,3.5,Solar
+2459,Whitman Laboratories,Whitman Laboratories,1.0,Solar
+2460,Whittlesey,REG Windpower (previously Cornwall Light and Power),9.0,Wind
+2461,Whitton Mawr,Cenin Renewables,6.0,Solar
+2462,Wick Farm (Burnham on Crouch),Countryside Renewables,5.0,Solar
+2463,Wick Farm Solar Park,Hadstone Energy/ Communities for Renewables,14.6,Solar
+2464,Wick Lane Solar Ltd,Navitas Project,2.8,Solar
+2465,Wickfield Farm,NESF (formerly A C Crocker Properties Ltd),5.0,Solar
+2466,Widehurst Farm,Wirsol (formerly Susenco),5.0,Solar
+2467,Widnes 3MG Biomass/Mersey Bioenergy (CHP) Plant,Burmeister & Wain Scandinavian (BWSC)/ Bioenergy Infrastructure Group,20.0,Biomass
+2468,Wiggin Hill Solar Farm - Phase 1,Lightsource Renewable Energy,6.8,Solar
+2469,Wiggin Hill Solar Farm - Phase 2,Lightsource Renewable Energy,4.1,Solar
+2470,Wigley Farm,R Gough & Son,1.1,Biomass
+2471,Wilbees Farm (resubmission),Hive Energy,5.0,Solar
+2472,Wilburton,Abbey Renewables,4.99,Solar
+2473,William's Farm,Solar Ventures,4.20464,Solar
+2474,Willsland Solar farm,The Green Company,3.2,Solar
+2475,Wilmingham Lane Solar Farm,Low Carbon Solar,7.0,Solar
+2476,Wilnecote Landfill Site,Biffa,1.0,Waste
+2477,Wilsom Farm,Canadian solar,11.0,Solar
+2478,Wilton,Primrose Solar,9.484,Solar
+2479,Wilton 10,UK Wood Recycling,38.0,Biomass
+2480,Wilton 11 EfW,SUEZ / Sembcorp UK,49.0,Waste
+2481,Wind Farm Africa Alive,SLP Energy,4.1,Wind
+2482,Wind Turbine 1,Brett Martin Ltd,2.3,Wind
+2483,Windy Standard,Fred Olsen Renewables,21.6,Wind
+2484,Windy Standard II Wind Farm (Brockloch Rig Phase 1),Fred Olsen Renewables,61.5,Wind
+2485,Windyhill Road (Dunbeg) Wind Farm,Gaelectric Developments/ CGN Europe Energy,42.0,Wind
+2486,Wingates,Ventient (formerly Infinis),15.0,Wind
+2487,Wingmoor Farm (Waste AD),Grundon,1.6,Biomass
+2488,Winham Farm - resubmission,Hive Energy,5.0,Solar
+2489,Winnards Perch Solar Farm,Solar Securities Group,3.8,Solar
+2490,Winscales Moor,Gravis Capital Management,6.0,Wind
+2491,Winsdon Farm,Primrose Solar,5.0,Solar
+2492,Winterbrook,S.A.T. Sun & Alternative Technology,1.2,Solar
+2493,Winterton Landfill Site,Humberside Wastewise Ltd / Coal Products Limited,3.8,Waste
+2494,Winwick,Blue Energy,12.3,Wind
+2495,Wisbech Solar Park,British Solar Renewables,3.40472,Solar
+2496,Wisbridge Farm,Push Energy,9.3,Solar
+2497,Witches Solar Farm,Smarter Energy Solutions - Mr J Joannou -  info@smarterenergysolutions.co.uk,5.0,Solar
+2498,Withernwick,Energiekontor UK,18.0,Wind
+2499,Withnell LFS,,2.3,Waste
+2500,Withyhedge Generation Plant,,2.4,Waste
+2501,Wix Lodge,Sunsave 25 (Wix Lodge Farm) Limited/ Vogt Solar,18.7,Solar
+2502,Woden Park,Caerau Solar IQ,4.992,Solar
+2503,Wogaston Solar Farm,Elgin Energy EsCo,5.3,Solar
+2504,Wolf Bog,B9 Energy / RES,10.0,Wind
+2505,Wolseley National Distribution Centre,Wolseley UK,2.0,Solar
+2506,Wolverhampton EfW,MES Environmental (CNIM Group),8.0,Waste
+2507,Woodforde Farm,Esconrg,9.0,Solar
+2508,Woodlands Barton Solar Farm,Laurence Associates,4.9,Solar
+2509,Woodlands Barton Wind Project,Mr Jon Hyatt,4.6,Wind
+2510,Woodlands Farm Solar Park,Lightsource Renewable Energy,10.0,Solar
+2511,Woodlands Wind Farm,WhiteRock Energy,2.6,Wind
+2512,Woodtown,Woodtown Solar Limited,2.719,Solar
+2513,Woolbridge Solar Park,Good Energy Generation,5.0,Solar
+2514,Woolley Hill,Aviva,10.0,Wind
+2515,Wooton,Viridor,2.0,Waste
+2516,Workington (Eastman),,4.0,Wind
+2517,Worksopp,Ecotricity,2.0,Wind
+2518,Wormit Solar Farm,Green Hedge (BayWa r.e.),4.0,Solar
+2519,Wothersome Grange Farm House AD - crops,Nick Lane-Fox,1.0,Biomass
+2520,Wraysbury Landfill,Sirius Solar Building,4.8,Solar
+2521,Wrexham Social Housing PV,Wrexham Council,5.4,Solar
+2522,Wroughton Airfield Solar Park,Rockfire Capital,50.0,Solar
+2523,Wryde Croft,RES UK & Ireland,26.0,Wind
+2524,Wyke Farms Biogas (Farm AD),Wyke Farms,1.0,Biomass
+2525,Wyld Meadow Solar Park,Low Carbon Solar UK,4.8384,Solar
+2526,Wymeswold Airfield,Foresight Solar Fund,34.0,Solar
+2527,Wythegill,Airvolution Energy,1.5,Wind
+2528,Yarburgh,Green Switch Solutions - SOLD,8.0861,Solar
+2529,Yardwall Manor,Hadstone Energy,3.0,Solar
+2530,Yelvertoft,Greencoat UK Wind,16.4,Wind
+2531,Yerbeston Gate Farm,Sunsave 23 Limited/ Vogt solar,6.1,Solar
+2532,Yonderton Farm,Green Cat Renewables,1.0,Wind
+2533,Yonderton Wind Cluster,Wilson Strachan,4.6,Wind
+2534,Yorkley Solar Park,Bee Green Solar,5.0,Solar
+2535,Ystgellog Farm Wind Farm,Airvolution Energy,4.6,Wind

@@ -3,12 +3,12 @@ requires      = ["setuptools>=64.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools.packages.find]
-include = ["matchain"]
-exclude = ["matchain/ext*"]
+include = ["matchain", "matchain.alg*", "matchain.res"]
+exclude = ["matchain.ext*"]
 
 [project]
 name = "matchain"
-version = "0.1.1"
+version = "0.1.2"
 description = "Record linkage - simple, flexible, efficient."
 readme = "README.md"
 authors = [{name = "Andreas Eibeck"}]

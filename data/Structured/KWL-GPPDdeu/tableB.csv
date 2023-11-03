@@ -1,0 +1,983 @@
+id,name,owner,capacity,fuel,year
+0,ADS-Anlage,Infraserv GmbH & Co. Höchst KG,96.5,Gas,2012
+1,AHKW Neunkirchen,EEW Energy from Waste Saarbrücken GmbH,11.6,Waste,1999
+2,AMK - Abfallentsorgungsgesellschaft des Märkischen Kreises mbH,AMK - Abfallentsorgungsgesellschaft des Märkischen Kreises mbH,12.6,Waste,1981
+3,AVA GmbH,AVA Abfallverwertung Augsburg GmbH,10.0,Waste,1993
+4,AVA Velsen,AVA Velsen GmbH,15.8,Waste,1997
+5,Abensberg Solar Power Plant,,1.2,Solar,
+6,Abfallentsorgungszentrum Asdonkshof,Kreis Weseler Abfallgesellschaft mbH & Co. KG (KWA),20.8,Waste,1997
+7,Ahlhorn Solar Power Plant,,50.0,Solar,
+8,Ahorn Solar Power Plant,,6.4,Solar,
+9,Ahrensfelde,Vattenfall Europe Generation AG,150.0,Gas,1990
+10,Aidenbach Solar Power Plant,,1.7,Solar,
+11,Albersreuth Solar Power Plant,,3.7,Solar,
+12,Alitzheim Solar Power Plant,,8.5,Solar,
+13,Allmanshofen Solar Power Plant,,16.7,Solar,
+14,Allstedt Solar Power Plant,,19.2,Solar,
+15,Altbach power station,Energie Baden-Württemberg,769.0,Coal,1992
+16,Altd�bern Solar Power Plant,,1.3,Solar,
+17,Altenburg Flugplatz Solar Power Plant,,12.1,Solar,
+18,Altenburg Kieswerk Solar Power Plant,,4.4,Solar,
+19,Altheim,E.ON Kraftwerke GmbH,17.8,Hydro,1951
+20,Althen Solar Power Plant,,7.3,Solar,
+21,Alzwerke GmbH,Wacker Chemie AG,45.0,Hydro,1922
+22,Ammerland Solar Power Plant,,20.8,Solar,
+23,Amrumbank West,,301.32,Wind,2015
+24,Angerm�nde Solar Power Plant,,1.7,Solar,
+25,Anklam Solar Power Plant,,7.9,Solar,
+26,Apfelborn Solar Power Plant,,2.0,Solar,
+27,Artern Solar Power Plant,,4.9,Solar,
+28,Aschheim Solar Power Plant,,1.0,Solar,
+29,Attenkirchen Solar Power Plant,,2.0,Solar,
+30,Audorf,E.ON Kraftwerke GmbH,87.0,Oil,1973
+31,Aufkirchen,E.ON Kraftwerke GmbH,27.0,Hydro,1924
+32,Aufroth Solar Power Plant,,1.4,Solar,
+33,BARD Offshore 1,Ocean Breeze Energy GmbH & Co. KG,400.0,Wind,
+34,BEG,Bremerhavener Entsorgungsgesellschaft mbH,14.0,Waste,1977
+35,BHKW,Daimler AG,13.0,Gas,2013
+36,BHKW H.120,Daimler AG,16.9,Gas,2012
+37,BHKW Ludwigshafen,MVV Energie AG,12.5,Gas,2008
+38,BHKW Obere Viehweide,Stadtwerke Tübingen GmbH,13.4,Gas,2000
+39,BHKW an Klinkerweg,Stadtwerke Erkrath GmbH,10.2,Gas,2000
+40,BHKW-Hauffstraße,FairEnergie GmbH,9.8,Gas,2011
+41,BKF,Mainova AG,12.4,Biomass,2004
+42,BMHKW-BinderHolz,BinderHolz Deutschland GmbH,15.1,Biomass,2007
+43,BMHKW-RE Recklinghausen,Ã–kotech Ingenieurgesellschaft mbh,14.0,Biomass,2004
+44,BMK Lünen,STEAG New Energies GmbH,20.0,Biomass,2006
+45,BMKW Bergkamen,RWE Energiedienstleistungen GmbH,17.7,Biomass,2005
+46,BMKW Flörsheim Wicker,MVV Energie AG,12.6,Biomass,2003
+47,BMKW Königs Wusterhausen,MVV Energie AG,17.1,Biomass,2003
+48,BMKW Mannheim,MVV Energie AG,17.9,Biomass,2003
+49,BP Werk Lingen,BP Europa SE,66.0,Gas,1996
+50,BROKDORF,,1480.0,Nuclear,1986
+51,Bachhagel Solar Power Plant,,1.8,Solar,
+52,Bad Aibling Solar Power Plant,,2.3,Solar,
+53,Bad D�rrheim Solar Power Plant,,1.6,Solar,
+54,Bad Endbach Solar Power Plant,,7.3,Solar,
+55,Bad Wildungen Solar Power Plant,,1.6,Solar,
+56,Baltic 2,,288.0,Wind,2015
+57,Bandenitz Solar Power Plant,,6.0,Solar,
+58,Barderup Solar Power Plant,,22.8,Solar,
+59,Barlt Solar Power Plant,,2.2,Solar,
+60,Barth Solar Power Plant,,10.2,Solar,
+61,Beerfelden Solar Power Plant,,1.4,Solar,
+62,Beilingen Solar Power Plant,,2.1,Solar,
+63,Bergheim,Donau-Wasserkraft AG,23.7,Hydro,1970
+64,Bergkamen power station,Gemeinschaftskraftwerk Bergkamen A oHG,717.0,Coal,1981
+65,Bergrheinfeld - S&Z Solar Power Plant,,2.4,Solar,
+66,Berlin-Moabit power station,Vattenfall Europe AG,89.0,Coal,1990
+67,Berlin-Reuter power station,Vattenfall Europe AG,124.0,Coal,1969
+68,Berlin-Reuter-West power station,Vattenfall Europe AG,564.0,Coal,1988
+69,Bernburg Solar Power Plant,,10.0,Solar,
+70,Bertoldsheim,Donau-Wasserkraft AG,18.9,Hydro,1967
+71,Biederbach Solar Power Plant,,5.6,Solar,
+72,Bigge,Lister- und Lennekraftwerke GmbH,15.0,Hydro,1965
+73,Bio HKW Herbrechtingen,Biomasse-Heizkraftwerk-Herbrechtingen GmbH,14.0,Biomass,2004
+74,BioEnergie Park Klarsee,Geno Bioenergie Leasingfonds Erste GmbH & Co. KG,17.8,Biomass,2006
+75,BioHKW I,Fernwärme Ulm GmbH,13.2,Biomass,2003
+76,Biomass Generator #10,Klausner Holz Thüringen GmbH,12.9,Biomass,2008
+77,Biomass Generator #11,EEW Energy from Waste Stapelfeld GmbH,16.4,Waste,1978
+78,Biomass Generator #12,Evonik Industries AG (Werk Worms),11.9,Waste,1990
+79,Biomass Generator #13,Evonik Industries AG (Werk Worms),6.9,Waste,2011
+80,Biomass Generator #14,Deutsche Natural Gasrußwerke GmbH & Co. KG,16.0,Other,
+81,Biomass Generator #15,Biomasseheizkraftwerk Odenwald GmbH,28.4,Biomass,2003
+82,Biomass Generator #16,ACR Biokraftwerk Calbe Invest GmbH & Co. KG,10.2,Biomass,1996
+83,Biomass Generator #17,Danpower Energie Service GmbH,40.0,Biomass,2004
+84,Biomass Generator #19,,20.0,Biomass,2006
+85,Biomass Generator #2,Biomasse Heizkraftwerk Herbrechtingen GmbH,15.7,Biomass,2004
+86,Biomass Generator #20,Michelin Reifenwerke AG & Co. KGaA Standort Bad Kreuznach,10.7,Gas,2006
+87,Biomass Generator #20,Danpower GmbH,12.6,Biomass,2004
+88,Biomass Generator #21,,18.3,Biomass,2001
+89,Biomass Generator #22,Zellstoff- und Papierfabrik Rosenthal GmbH,53.5,Biomass,1999
+90,Biomass Generator #23,Borchers Biomassekraftwerk GmbH,11.4,Biomass,2006
+91,Biomass Generator #3,,19.7,Biomass,2002
+92,Biomass Generator #4,GHP Glunz  Holzwerkstoffproduktion GmbH,19.9,Biomass,2000
+93,Biomass Generator #5,Boehringer Ingelheim Pharma GmbH & Co. KG,12.4,Biomass,2004
+94,Biomass Generator #6,Pfeifer Holz GmbH,9.6,Biomass,2007
+95,Biomass Generator #7,Hummel Energiesysteme Neuss I,12.1,Biomass,2008
+96,Biomass Generator #8,Biomasse HKW Siegerland GmbH & Co.KG,14.0,Biomass,2006
+97,Biomass Generator #9,EnBW Klenk Holzenergie GmbH,18.8,Biomass,2000
+98,Biomasse-Heizkraftwerk Malchin,envia THERM GmbH,9.8,Biomass,2003
+99,Biomasse-Verstromungs-Anlage,Mark-E AG,20.0,Biomass,2004
+100,Biomasseheizkraftwerk Piesteritz,Stadtwerke Leipzig GmbH,18.1,Biomass,2009
+101,Biomasseheizkraftwerk Wiesbaden,ESWE BioEnergie GmbH,10.5,Waste,2014
+102,Biomassekraftwerk Bischofferode,Stadtwerke Leipzig GmbH,18.1,Biomass,2006
+103,Birkig Solar Power Plant,,1.2,Solar,
+104,Bischwind Solar Power Plant,,1.7,Solar,
+105,Bittenbrunn,Donau-Wasserkraft AG,20.2,Hydro,1969
+106,Bitterfeld-Wolfen - GP Joule Solar Power Plant,,3.0,Solar,
+107,Bitterfeld-Wolfen - Hinter dem Bahnhof Solar Power Plant,,6.0,Solar,
+108,Bleiloch,Vattenfall Europe Generation AG,79.8,Hydro,1932
+109,Blockheizkraftwerk 1,DS Smith Paper Deutschland GmbH,2.0,Biomass,
+110,BoA 2,RWE Power AG,2100.0,Coal,2012
+111,Bochum,RWE Generation SE,20.7,Gas,2004
+112,Bogel Solar Power Plant,,1.7,Solar,
+113,Bordelum Solar Power Plant,,3.2,Solar,
+114,Borkum Riffgrund I,Borkum Riffgrund I Offshore Windpark A/S GmbH & Co. oHG,312.0,Wind,2015
+115,Borna Solar Power Plant,,3.5,Solar,
+116,Bosb�ll Solar Power Plant,,4.4,Solar,
+117,Boxberg power station,Vattenfall Europe AG,2585.0,Coal,1989
+118,Brandenburg (Havel) Solar Power Plant,,20.0,Solar,
+119,Braschwitz Solar Power Plant,,8.0,Solar,
+120,Braunau-Simbach,Innwerk AG,50.0,Hydro,1953
+121,Braunkohlekraftwerk Lippendorf,EnBW Energie Baden-Württemberg AG,875.0,Coal,1999
+122,Breitungen Solar Power Plant,,3.6,Solar,
+123,Bremen-Farge power station,GDF SUEZ Energie Deutschland AG,350.0,Coal,1969
+124,Brenz Solar Power Plant,,7.5,Solar,
+125,Briest Solar Power Plant,,91.0,Solar,
+126,Brimingen Solar Power Plant,,1.9,Solar,
+127,Brohltal Solar Power Plant,,1.5,Solar,
+128,Brunsbüttel,Vattenfall Europe Generation AG,254.0,Oil,1973
+129,Buer power station,E.On Kraftwerke Gmbh,70.0,Coal,1985
+130,Buschhaus power station,Helmstedter Revier GmbH,352.0,Coal,1985
+131,Busenwurth Solar Power Plant,,12.2,Solar,
+132,Butendiek,OWP Butendiek GmbH & Co. KG,288.0,Wind,2015
+133,Bürgerwindpark im Kirchspiel Medelby,,82.23,Wind,2014
+134,B�ttel Solar Power Plant,,31.5,Solar,
+135,Calbe 2 Solar Power Plant,,4.3,Solar,
+136,Calv�rde Solar Power Plant,,1.3,Solar,
+137,Chamerau Solar Power Plant,,1.3,Solar,
+138,Charlottenburg,Vattenfall Europe Wärme AG,633.0,Gas,1975
+139,Chemiepark Marl power station,Infracor GmbH,136.0,Coal,1974
+140,Chemnitz Nord power station,Eins Energie in Sachsen GmbH,56.8,Coal,1989
+141,Cismar Solar Power Plant,,2.8,Solar,
+142,Co-Generation,Grace GmbH & Co. KG,11.5,Gas,1991
+143,Coal Plant #1,CropEnergies Bioethanol GmbH Zeitz,17.5,Coal,2005
+144,Coal Plant #2,Koehler SE,18.5,Coal,1986
+145,Coburg Solar Power Plant,,1.3,Solar,
+146,Cologne-Merkenich power station,Stadtwerke Köln GmbH (100% City of Cologne),75.3,Coal,2010
+147,Cottbus CHP power station,HKW Heizkraftwerksgesellschaft Cottbus mbH,74.0,Coal,1999
+148,Cottbus Solar Power Plant,,3.7,Solar,
+149,Cottbus-Drewitz Solar Power Plant,,29.5,Solar,
+150,Cronheim Solar Power Plant,,2.2,Solar,
+151,DK Kraftwerk,DK Recycling und Roheisen GmbH,21.0,Other,2010
+152,DKW Leinau,Vereinigte Wertach-Elektrizitätswerke GmbH,11.4,Oil,
+153,DKW Nord,Vereinigte Wertach-Elektrizitätswerke GmbH,11.4,Oil,1988
+154,DT,Stadtwerke Düsseldorf AG,53.7,Waste,2000
+155,Dampfkraftwerk BGH - O1,Wacker Chemie AG,178.0,Gas,2001
+156,Dampfturbinenanlage der EBS-Kessel,Solvay Chemicals GmbH,35.0,Waste,2010
+157,Darast Nord Solar Power Plant,,3.6,Solar,
+158,Dedelow Solar Power Plant,,3.8,Solar,
+159,Deesen Solar Power Plant,,4.1,Solar,
+160,Deisenhofen Solar Power Plant,,1.9,Solar,
+161,Delitzsch - Fabrikstra�e Solar Power Plant,,2.7,Solar,
+162,Delitzsch - Ziehwerk Solar Power Plant,,1.8,Solar,
+163,Delitzsch Solar Power Plant,,32.1,Solar,
+164,Dessau,E.ON Kraftwerke GmbH,10.3,Hydro,1967
+165,Dessau power station,Kraftwerk Dessau GmbH,49.0,Coal,1996
+166,Dettingen,EnBW Energie Baden-Württemberg AG,11.0,Hydro,1927
+167,Detzem,RWE Innogy GmbH,24.0,Hydro,1962
+168,Deuben power station,Mitteldeut Braunkohl (Mibrag),86.0,Coal,1936
+169,Dingolfing,E.ON Kraftwerke GmbH,15.0,Hydro,1957
+170,Dinkelsb�hl Solar Power Plant,,2.0,Solar,
+171,Dittwar Solar Power Plant,,1.8,Solar,
+172,Dormagen,RWE Generation SE,586.3,Gas,2000
+173,Dornau,E.ON Kraftwerke GmbH,16.6,Hydro,1960
+174,Dortmund,RWE Generation SE,26.0,Gas,2004
+175,Dow Stade,Dow Deutschland Anlagengesellschaft mbH,173.0,Gas,2014
+176,Driedorf Solar Power Plant,,5.0,Solar,
+177,Duisburg Hamborn,ThyssenKrupp Steel Europe AG,385.0,Gas,1958
+178,Duisburg Ruhrort,ThyssenKrupp Steel Europe AG,315.0,Gas,
+179,D�bern Solar Power Plant,,6.3,Solar,
+180,D�llstadt Solar Power Plant,,6.1,Solar,
+181,D�lzig Solar Power Plant,,3.9,Solar,
+182,D�rrr�hrsdorf Solar Power Plant,,1.9,Solar,
+183,EBKW Knapsack,EBS - Kraftwerks GmbH,33.4,Waste,2008
+184,EBS-HKW Rostock,Vattenfall Europe New Energy Ecopower GmbH,17.0,Waste,2009
+185,EBS-Heizkraftwerk,EnBW Propower GmbH,23.5,Other,2011
+186,EEV,Shell Deutschland Oil GmbH,38.0,Oil,1993
+187,EEW Energy from Waste Hannover GmbH,EEW Energy from Waste Hannover GmbH,22.5,Waste,2005
+188,EEW Großräschen,EEW Energy from Waste Großräschen GmbH,23.3,Waste,2008
+189,EEW Göppingen,EEW Energy from Waste Göppingen GmbH,11.0,Waste,2009
+190,EMSLAND,,1406.0,Nuclear,1988
+191,ENERTRAG Netz GmbH (UW Bertikow),ENERTRAG Aktiengesellschaft,20.0,Biomass,2003
+192,EVC / GLOBALFOUNDRIES,Energieversorgungscenter Dresden-Wilschdorf GmbH & Co. KG,34.3,Gas,1998
+193,EVE,EEW Energy from Waste Premnitz GmbH,14.5,Waste,2009
+194,EZ1,Südzucker AG Mannheim/Ochsenfurt  Werk Zeitz,18.5,Coal,1993
+195,Ebern - TUP Solar Power Plant,,7.1,Solar,
+196,Eckendorf Solar Power Plant,,1.6,Solar,
+197,Ecklak Solar Power Plant,,3.8,Solar,
+198,Eckolst�dt Solar Power Plant,,8.5,Solar,
+199,Eggebek Solar Power Plant,,83.2,Solar,
+200,Egger Kraftwerk Briilon 1,Egger Kraftwerk Brilon GmbH,18.0,Biomass,1990
+201,Egger Kraftwerk Briilon 2,Egger Kraftwerk Brilon GmbH,13.5,Gas,1996
+202,Egglfing,Innwerk AG,40.4,Hydro,1944
+203,Eging am See Solar Power Plant,,2.2,Solar,
+204,Egling Solar Power Plant,,6.2,Solar,
+205,Eiche Solar Power Plant,,26.5,Solar,
+206,Eisenach Solar Power Plant,,3.3,Solar,
+207,Eitting,E.ON Kraftwerke GmbH,26.0,Hydro,1925
+208,Ellgau,Rhein-Main-Donau AG,9.7,Hydro,1952
+209,Ellh�ft Solar Power Plant,,2.0,Solar,
+210,Ellighofen Solar Power Plant,,3.5,Solar,
+211,Ellscheid Solar Power Plant,,5.0,Solar,
+212,Elsterheide Solar Power Plant,,20.0,Solar,
+213,Emden Biomasse,Statkraft Markets GmbH,20.0,Biomass,2005
+214,Emden Natural Gas,Statkraft Markets GmbH,50.0,Gas,1973
+215,Emlichheim Solar Power Plant,,5.0,Solar,
+216,Emsland,RWE Generation SE,1837.0,Gas,
+217,Energieanlage 3,Kronoply GmbH,18.6,Biomass,2002
+218,Energiezentrale,RÃœTGERS InfraTec GmbH,11.1,Gas,1991
+219,Energiezentrale 1992,Flughafen München GmbH,11.06,Gas,1992
+220,Energiezentrum Mohn Media,Mohn Media Mohndruck GmbH,22.0,Gas,1994
+221,Enertec Hameln,Enertec Hameln GmbH,31.5,Waste,2002
+222,Enkirch,RWE Innogy GmbH,18.4,Hydro,1966
+223,Ergoldsbach Solar Power Plant,,5.1,Solar,
+224,Ering,Innwerk AG,36.5,Hydro,1942
+225,Erlasee Solar Power Plant,,11.4,Solar,
+226,Ernsthof Solar Power Plant,,34.4,Solar,
+227,Erweiterung Energiezentrale 2003,Flughafen München GmbH,7.44,Gas,2003
+228,Erzhausen,Statkraft Markets GmbH,220.0,Hydro,1964
+229,Espenhain Solar Power Plant,,5.0,Solar,
+230,Ettling,E.ON Kraftwerke GmbH,12.6,Hydro,1988
+231,FHKW Ludwigshafen,Technische Werke Ludwigshafen AG,28.0,Waste,1967
+232,FKK,Städtische Werke Energie + Wärme GmbH,33.5,Coal,1988
+233,FS-Karton,FS-Karton GmbH,18.9,Gas,1992
+234,Faimingen,Obere Donau Kraftwerke AG,10.1,Hydro,1965
+235,Fankel,RWE Innogy GmbH,16.4,Hydro,1963
+236,Fattendorf Solar Power Plant,,1.6,Solar,
+237,Feldkirchen,VERBUND-Innkraftwerke GmbH,38.2,Hydro,1970
+238,Finow Solar Power Plant,,84.9,Solar,
+239,Flensburg power station,Stadtwerke Flensburg GmbH,195.0,Coal,1986
+240,Forst Solar Power Plant,,3.6,Solar,
+241,Fortuna Nord,RWE Power AG,15.0,Coal,1984
+242,Franken 1,E.ON Kraftwerke GmbH,823.0,Gas,
+243,Frauental Solar Power Plant,,3.3,Solar,
+244,Freiberg Solar Power Plant,,3.0,Solar,
+245,Freimersheim Solar Power Plant,,7.3,Solar,
+246,Frimmersdorf power station,RWE Power AG,562.0,Coal,1962
+247,Froschham Solar Power Plant,,4.2,Solar,
+248,F�rstenwalde Solar Power Plant,,39.6,Solar,
+249,G-Kraftwerk,Currenta GmbH & Co. OHG,103.0,Coal,1962
+250,GHD,GHD Bayernwerk Natur GmbH & Co. KG,13.4,Gas,1998
+251,GKH Hannover power station,Gemeinschaftskraftwerk Hannover GmbH (GKH),272.0,Coal,1989
+252,GKL,Stadtwerke Hannover AG,230.0,Gas,
+253,GKM (Mannheim) power station,Grosskraftwerk Mannheim,1958.0,Coal,1980
+254,GKS,GKS Gemeinschaftskraftwerk Schweinfurt GmbH,24.4,Waste,1994
+255,GMVA Niederrhein,GMVA Gemeinschafts-Müll-Verbrennungsanlage Niederrhein GmbH,61.5,Waste,
+256,GTKW Darmstadt,HEAG Südhessische Energie AG (HSE),94.6,Gas,2013
+257,GUD-Anlage DREWSEN,DREWSEN SPEZIALPAPIERE GmbH & Co.KG,13.0,Gas,2000
+258,Gahro Solar Power Plant,,27.4,Solar,
+259,Gardelegen - S&Z Solar Power Plant,,2.3,Solar,
+260,Gars,VERBUND-Innkraftwerke GmbH,25.0,Hydro,1938
+261,Geesthacht,Vattenfall Europe Generation AG,119.1,Hydro,1958
+262,Geisling,Rhein-Main-Donau AG,25.0,Hydro,1985
+263,Gelbelsee Solar Power Plant,,1.8,Solar,
+264,Gelchsheim Solar Power Plant,,3.3,Solar,
+265,Gelnhausen Solar Power Plant,,1.4,Solar,
+266,Gemeinschaftskraftwerk Irsching,Gemeinschaftskraftwerk Irsching GmbH,1391.0,Gas,
+267,Georgsdorf Solar Power Plant,,24.7,Solar,
+268,Gergweis Solar Power Plant,,1.7,Solar,
+269,Gersteinwerk,RWE Generation SE,2004.5,Gas,
+270,Gerstungen Solar Power Plant,,3.8,Solar,
+271,Gerwisch Solar Power Plant,,8.6,Solar,
+272,Geusa Solar Power Plant,,5.9,Solar,
+273,GichtNatural Gaskraftwerk Dillingen,Aktien-Gesellschaft der Dillinger Hüttenwerke  ROGESA Roheisengesellschaft Saar mbH und Zentralkokerei Saar GmbH  als Bruchteilsgemeinschaft,85.0,Other,2010
+274,Giebelstadt Solar Power Plant,,28.0,Solar,
+275,Glau Solar Power Plant,,8.0,Solar,
+276,Glebitzsch Solar Power Plant,,3.9,Solar,
+277,Glesien Solar Power Plant,,4.2,Solar,
+278,Global Tech I,HEAG Südhessische Energie AG /   Stadtwerke München GmbH,400.0,Wind,2015
+279,Gnannenweiler Solar Power Plant,,6.4,Solar,
+280,Gnoien Solar Power Plant,,6.4,Solar,
+281,Gode Wind 1 - Teil 1,,263.1,Wind,2015
+282,Goldbach Solar Power Plant,,2.8,Solar,
+283,Goldisthal,Vattenfall Europe Generation AG,1052.0,Hydro,
+284,Gollhofen Solar Power Plant,,3.0,Solar,
+285,Goodyear - Philippsburg Solar Power Plant,,7.4,Solar,
+286,Gotha Solar Power Plant,,11.8,Solar,
+287,Grabsleben Solar Power Plant,,2.2,Solar,
+288,Greding Solar Power Plant,,4.5,Solar,
+289,Gribow Solar Power Plant,,1.0,Solar,
+290,Grohnde,E.ON Kernkraft GmbH,1360.0,Nuclear,1985
+291,Gro� Stieten Solar Power Plant,,6.9,Solar,
+292,Gro�engottern Solar Power Plant,,2.1,Solar,
+293,Grubenheizkraftwerk,ROMONTA GmbH,49.0,Coal,1979
+294,Gr�den Solar Power Plant,,3.4,Solar,
+295,Gr�neberg Solar Power Plant,,7.5,Solar,
+296,GuD,Stadtwerke Düsseldorf AG,100.0,Gas,2000
+297,GuD Anlage WVK,Solvay Acetow GmbH,60.1,Gas,1998
+298,GuD Baunatal  VW Werksgelände,Volkswagen AG,78.0,Gas,2013
+299,GuD Bitterfeld,envia THERM GmbH,106.0,Gas,2000
+300,GuD Kraftwerk Hillegossen,Stadtwerke Bielefeld GmbH,37.5,Gas,2005
+301,GuD Leuna,InfraLeuna GmbH,52.0,Gas,1998
+302,GuD Marienehe,Stadtwerke Rostock AG,108.0,Gas,1996
+303,GuD Schwarzheide,BASF Schwarzheide GmbH,122.0,Gas,1994
+304,GuD Tiefstack,Vattenfall Europe Wärme Aktiengesellschaft,127.0,Gas,2009
+305,GuD-Anlage,DS Smith Paper Deutschland GmbH,47.0,Gas,2013
+306,GuD-Anlage Rüsselsheim,Adam Opel AG,112.1,Gas,1999
+307,GuD-HKW Neubrandenburg,Neubrandenburger Stadtwerke GmbH / VASA Kraftwerkepool GmbH und Co. KG,75.0,Gas,1997
+308,GuD-Ikw Staßfurt,KWG-Kraftwerksgesellschaft Staßfurt mbH,132.0,Gas,1996
+309,GuD-Kraftwerk,Energie- und Medienversorgung Sandhofer Straße GmbH & Co. KG,17.2,Gas,2005
+310,Gummering,E.ON Kraftwerke GmbH,14.8,Hydro,1957
+311,Gundelfingen - Gartner Solar Power Plant,,1.0,Solar,
+312,Gundellfingen - Gehrlicher Solar Power Plant,,2.7,Solar,
+313,G�rlitz Solar Power Plant,,6.0,Solar,
+314,G�ttelborn Solar Power Plant,,8.4,Solar,
+315,G�ttersdorf Solar Power Plant,,1.3,Solar,
+316,HBB,HBB Heizkraftwerk Bauernfeind Betreibergesellschaft mbh,24.0,Gas,2001
+317,HHKW Berlin-Neukölln,RWE Energiedienstleistungen GmbH,16.5,Biomass,2005
+318,"HKW ""Helmshäger Berg""",Energieerzeugungsgesellschaft Greifswald GmbH,14.7,Gas,1996
+319,HKW 1,Energieversorgung Oberhausen AG,23.1,Gas,1972
+320,HKW 1 Werk Offstein,Südzucker AG Mannheim/Ochsenfurt,30.0,Gas,1992
+321,HKW 2,Energieversorgung Oberhausen AG,24.5,Gas,1995
+322,HKW Altenstadt,Heizkraftwerk Altenstadt GmbH & Co. KG,9.8,Biomass,1999
+323,HKW Bad Salzungen,Thüringer Energie AG,9.7,Gas,1994
+324,HKW Barmen,WSW Energie & Wasser AG,82.0,Gas,2005
+325,HKW Bohrhügel,Stadtwerke Suhl/Zella-Mehlis GmbH,13.5,Gas,1995
+326,HKW Brandenburg,Stadtwerke Brandenburg an der Havel GmbH,36.0,Gas,1997
+327,HKW Chemnitz  Nord II (Natural Gas),eins energie in sachsen GmbH & Co. KG,57.2,Gas,1986
+328,HKW Dresden-Nossener Brücke,DREWAG Stadtwerke Dresden GmbH,263.0,Gas,1995
+329,HKW Eltmann,Palm Power GmbH & Co. KG,57.0,Gas,2008
+330,HKW Erfurt-Ost,SWE Energie GmbH,109.1,Gas,
+331,HKW Erlangen (Coal),Erlanger Stadtwerke AG,17.4,Coal,1980
+332,HKW Erlangen (Natural Gas),Erlanger Stadtwerke AG,28.5,Gas,
+333,HKW Fenne  GrubenNatural Gaskraftwerk,STEAG New Energies GmbH,42.0,Gas,2003
+334,HKW Freiberg,Universitätsklinikum Freiburg AdöR,27.0,Gas,2001
+335,HKW Göttingen,Georg-August-Universität Göttingen Stiftung Ã–ffentlichen Rechts,18.8,Gas,1998
+336,HKW Halle Trotha,EVH GmbH,254.0,Gas,
+337,HKW Hiltrop,Stadtwerke Bochum Holding GmbH,44.0,Gas,2014
+338,HKW Humboldtstr.,Stadtwerke Kiel AG,31.0,Gas,
+339,HKW I,Stadtwerke Duisburg AG,95.0,Coal,1985
+340,HKW III/B,Stadtwerke Duisburg AG,274.0,Gas,2005
+341,HKW Jena,Thüringer Energie AG,182.0,Gas,1996
+342,HKW Karcherstr. (Coal),SWK - Stadtwerke Kaiserslautern,13.4,Coal,1996
+343,HKW Karcherstr. (Natural Gas),SWK - Stadtwerke Kaiserslautern,11.6,Gas,1989
+344,HKW Mannheim,MVV Energie AG,44.7,Waste,
+345,HKW Merheim,RheinEnergie AG,15.8,Gas,2001
+346,HKW Merkenich,RheinEnergie AG,15.5,Gas,1965
+347,HKW Merkenich (Natural Gas),RheinEnergie AG,108.0,Gas,2004
+348,HKW Niederrad,Mainova AG,126.0,Gas,2005
+349,HKW Niehl 2,RheinEnergie AG,413.0,Gas,2005
+350,HKW Nord,Volkswagen AG,61.5,Coal,2000
+351,HKW Nord West,Volkswagen AG,200.0,Coal,
+352,HKW Pfaffenwald,Universität Stuttgart,36.0,Gas,
+353,HKW Potsdam-Süd,Energie und Wasser Potsdam GmbH,81.8,Gas,1996
+354,HKW Sachtleben,Sachtleben Chemie GmbH,27.5,Coal,1962
+355,HKW Sandreuth,N-ERGIE AG,18.0,Waste,1996
+356,HKW Sandreuth,N-ERGIE AG,150.0,Gas,2005
+357,HKW Schwarza,Energie- und Medienversorgung Schwarza GmbH,26.5,Gas,
+358,HKW Schwerin Lankow,Energieversorgung Schwerin GmbH & Co. Erzeugung KG,23.0,Gas,1994
+359,HKW Schwerin Süd,Energieversorgung Schwerin GmbH & Co. Erzeugung KG,44.9,Gas,1994
+360,HKW Südstadt,RheinEnergie AG,35.0,Gas,1994
+361,HKW West,Volkswagen AG,138.5,Coal,1985
+362,HKW West,Mainova AG,123.0,Coal,1989
+363,HKW West,Mainova AG,99.0,Gas,1994
+364,HKW West ?,Mainova AG,19.7,Other,1954
+365,HKW Wiesengrund,ENAG/MainNatural Gas Energieanlagen GmbH,22.1,Gas,1993
+366,HKW Wörth,Palm Power GmbH & Co. KG,59.0,Gas,2008
+367,HKW-Mitte,Braunschweiger Versorgungs-AG & Co. KG,137.3,Gas,
+368,HKW-Nord,Braunschweiger Versorgungs-AG & Co. KG,25.0,Gas,1965
+369,HKW-West,Stadtwerke Lemgo GmbH,12.8,Gas,2002
+370,HKW3 UPM Schongau,UPM GmbH,65.0,Gas,2015
+371,Haag Solar Power Plant,,5.5,Solar,
+372,Hafen power station,swb Erzeugung GmbH & Co. KG,427.0,Coal,1973
+373,Haidenaab Solar Power Plant,,3.2,Solar,
+374,Halberstadt Solar Power Plant,,3.8,Solar,
+375,Hamburg-Moorburg,Vattenfall Europe AG,1600.0,Coal,2015
+376,Hamburger Rieger,Spreestromerzeugungs GmbH,18.7,Waste,2013
+377,Harthausen Solar Power Plant,,4.5,Solar,
+378,Hasselbach Solar Power Plant,,1.9,Solar,
+379,Hastedt power station,swb Erzeugung GmbH & Co. KG,119.0,Coal,1989
+380,Hattorf,K+S AG,52.3,Gas,
+381,Ha�loch Solar Power Plant,,3.3,Solar,
+382,Heckfeld Solar Power Plant,,1.9,Solar,
+383,Heilbronn power station,Energie Baden-Württemberg,778.0,Coal,1977
+384,Heimbach,RWE Innogy GmbH,16.0,Hydro,1905
+385,Heinersdorf Solar Power Plant,,7.1,Solar,
+386,Heizkraftwerk 1,ADM Hamburg Aktiengesellschaft,22.5,Gas,1992
+387,Heizkraftwerk 2,Infraserv GmbH & Co. Höchst KG,152.0,Gas,
+388,Heizkraftwerk 3,STEAG Power Saar GmbH,211.0,Coal,1989
+389,Heizkraftwerk 4,Stadtwerke Augsburg Energie GmbH,18.0,Gas,1976
+390,Heizkraftwerk 5,Merck KGaA,10.0,Gas,1999
+391,Heizkraftwerk Altbach/Deizisau (Natural Gas),EnBW Energie Baden-Württemberg AG,65.0,Gas,
+392,Heizkraftwerk Bomlitz,Dow Wolff Cellulosics GmbH,22.1,Gas,1912
+393,Heizkraftwerk Evonik Rheinfelden,Evonik Degussa GmbH,16.0,Gas,1980
+394,Heizkraftwerk FFO,Stadtwerke Frankfurt (Oder) GmbH,45.0,Coal,1997
+395,Heizkraftwerk Gera-Nord,Energieversorgung Gera GmbH,148.0,Gas,1996
+396,Heizkraftwerk Hafen,Stadtwerke Münster GmbH,100.2,Gas,2005
+397,Heizkraftwerk Hagen-Kabel,Mark-E AG,230.0,Gas,1980
+398,Heizkraftwerk Karlstraße 1,Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH,12.0,Waste,1991
+399,Heizkraftwerk Karlstraße 2,Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH,95.0,Gas,2013
+400,Heizkraftwerk Krefeld,SWK ENERGIE GmbH,12.6,Gas,
+401,Heizkraftwerk Leipzig-Nord,Stadtwerke Leipzig GmbH,167.0,Gas,1996
+402,Heizkraftwerk Magirusstraße,Fernwärme Ulm GmbH,20.7,Coal,1978
+403,Heizkraftwerk Pforzheim GmbH,Heizkraftwerk Pforzheim GmbH,12.3,Biomass,2004
+404,Heizkraftwerk Pforzheim GmbH,Heizkraftwerk Pforzheim GmbH,52.5,Gas,1969
+405,Heizkraftwerk Sindelfingen,Daimler AG,95.0,Gas,
+406,Heizkraftwerk Stendal,VASA Kraftwerke-Pool GmbH & Co. KG,22.0,Gas,1994
+407,Heizkraftwerk Stuttgart-Gaisburg,EnBW Energie Baden-Württemberg AG,22.6,Coal,2009
+408,Heizkraftwerk West,Stadtwerke Karlsruhe GmbH,37.0,Gas,1984
+409,Heizkraftwerk der Sappi Stockstadt GmbH,Sappi Stockstadt GmbH,24.8,Coal,1969
+410,Heizkraftwerk zur Papierfabrik,Delkeskamp Verpackungswerke GmbH,18.1,Gas,1995
+411,Heizkraftwerke an der Friedensbrücke,Heizkraftwerk Würzburg GmbH,122.0,Gas,
+412,Hemfurth,E.ON Kraftwerke GmbH,40.0,Hydro,1915
+413,Hengersberg Solar Power Plant,,1.5,Solar,
+414,Heretsried Solar Power Plant,,2.5,Solar,
+415,Herforst Solar Power Plant,,1.6,Solar,
+416,Herne power station,STEAG GmbH,729.0,Coal,1976
+417,Herzberg Solar Power Plant,,16.4,Solar,
+418,Hettenleidelheim Solar Power Plant,,1.4,Solar,
+419,Heubach Solar Power Plant,,4.8,Solar,
+420,Heyden power station,E.On Kraftwerke GmbH,875.0,Coal,1987
+421,Himmelstadt Solar Power Plant,,4.3,Solar,
+422,Hinzerath Solar Power Plant,,1.4,Solar,
+423,Hkw Offenbach power station,Evs Offenbach Ag,54.0,Coal,1988
+424,Hohenerxleben Solar Power Plant,,1.3,Solar,
+425,Hohenthurm Solar Power Plant,,4.3,Solar,
+426,Hohenwarte,Vattenfall Europe Generation AG,377.6,Hydro,1966
+427,Holthausen,Henkel AG & Co.KGaA,84.0,Gas,1948
+428,Holzg�nz Solar Power Plant,,4.7,Solar,
+429,Horgau Solar Power Plant,,5.0,Solar,
+430,Huckingen,Hüttenwerke Krupp Mannesmann GmbH,606.0,Gas,
+431,Huerth Ville / Berrenrath power station,RWE Power AG,52.0,Coal,1991
+432,Humlangen Solar Power Plant,,2.5,Solar,
+433,Humtrup Solar Power Plant,,2.9,Solar,
+434,Huntorf,E.ON Kraftwerke GmbH,321.0,Gas,1978
+435,Hurlach Solar Power Plant,,4.3,Solar,
+436,Hutthurm Solar Power Plant,,1.6,Solar,
+437,Häusern,Schluchseewerk Aktiengesellschaft,100.0,Hydro,1931
+438,Höchstädt,Mittlere Donau Kraftwerke AG,10.0,Hydro,1982
+439,H�hein�d Solar Power Plant,,2.1,Solar,
+440,H�rlkofen Solar Power Plant,,3.7,Solar,
+441,H�ttigweiler Solar Power Plant,,2.3,Solar,
+442,IHKW Andernach,IHKW Industrieheizkraftwerk Andernach GmbH,12.5,Waste,2009
+443,IHKW Heidenheim,Voith Dienstleistungen und Grundstücks GmbH & Co. KG,26.5,Gas,
+444,IKS PCK Schwedt,PCK Raffinerie GmbH,333.5,Oil,
+445,IKW,Arcelor Mittal Eisenhüttenstadt GmbH,101.0,Other,2013
+446,IKW Rüdersdorf,Vattenfall Europe New Energy Ecopower GmbH,30.0,Waste,2009
+447,ILK-EKT,InfraLeuna GmbH,14.0,Other,2000
+448,ILK-GuD,InfraLeuna GmbH,135.7,Gas,1994
+449,INEOS Kraftwerk,INEOS Solvents Germany GmbH,24.0,Gas,1995
+450,ISAR-2,,1485.0,Nuclear,1988
+451,Ibbenbüren-B power station,RWE Power AG,794.0,Coal,1985
+452,Idenheim Solar Power Plant,,3.9,Solar,
+453,Igenhausen Solar Power Plant,,3.7,Solar,
+454,Ilbesheim Solar Power Plant,,6.4,Solar,
+455,Ilfeld Solar Power Plant,,5.6,Solar,
+456,Immenreuth Solar Power Plant,,5.8,Solar,
+457,Inden Solar Power Plant,,3.8,Solar,
+458,Industrie-Kraftwerk,Solvay Chemicals GmbH,79.0,Coal,1975
+459,Industriekraftwerk Bernburg (IKB),Solvay Chemicals GmbH,66.0,Gas,1994
+460,Industriekraftwerk Breuberg,Industriekraftwerk Breuberg GmbH / Pirelli Deutschland GmbH,11.4,Gas,1999
+461,Industriekraftwerk Greifswald,Industriekraftwerk Greifswald GmbH,37.7,Gas,2014
+462,Industriekraftwerk Ludwigshafen,MVV Energie AG,12.0,Gas,2003
+463,Industriepark Werk Gendorf,InfraServ GmbH & Co. Gendorf KG,49.0,Gas,2002
+464,Ingolstadt,Donau-Wasserkraft AG,19.8,Hydro,1971
+465,Itzehoe,E.ON Kraftwerke GmbH,88.0,Oil,1972
+466,Janschwalde power station,Vattenfall Europe AG,2790.0,Coal,1985
+467,Jesserndorf Solar Power Plant,,1.0,Solar,
+468,Jochenstein,Innwerk AG,66.0,Hydro,1955
+469,Jocksdorf Solar Power Plant,,103.9,Solar,
+470,J�lich Solar Power Plant,,1.5,Solar,
+471,K&N PFK AG EV,Kübler & Niethammer Papierfabrik Kriebstein AG,12.75,Gas,1993
+472,KW Hafen,swb Entsorgung GmbH & Co. KG,33.0,Waste,2009
+473,KW Kirchlengern,Energieservice Westfalen Weser GmbH,201.5,Gas,1980
+474,KW Mittelsbüren,swb Erzeugung GmbH & Co. KG,198.0,Oil,
+475,KW Rheinfelden,Energiedienst AG,46.7,Hydro,2010
+476,KW Voerde,Kraftwerk Voerde beschränkt haftende OHG,1390.0,Coal,
+477,KW Walsum,Steag GmbH,1200.0,Coal,
+478,KW West,Steag GmbH,640.0,Coal,1971
+479,KW Wyhlen,Energiedienst AG,37.9,Hydro,1912
+480,KWH,Stadtwerke Hannover AG,102.0,Gas,1975
+481,KWK AOS GmbH,Aluminium Oxid Stade GmbH,30.7,Gas,2012
+482,KWK Gütersloh,Pfleiderer Gütersloh GmbH,12.1,Biomass,2001
+483,KWK Neumarkt,Pfleiderer Neumarkt GmbH,15.6,Biomass,1997
+484,KWK-Anlage Barby,Cargill Deutschland GmbH,18.0,Gas,1993
+485,KWK-Anlage Krefeld DT,Cargill Deutschland GmbH,25.8,Gas,2004
+486,KWK-Anlage Krefeld VM,Cargill Deutschland GmbH,14.0,Gas,2004
+487,KWKK Heidelberg,RWE Energiedienstleistungen GmbH,13.5,Gas,2002
+488,KWM,Stadtwerke Hannover AG,690.0,Coal,1979
+489,Kachlet,Rhein-Main-Donau AG,53.7,Hydro,1927
+490,Kaisersesch Solar Power Plant,,9.3,Solar,
+491,Kalenberg Solar Power Plant,,3.7,Solar,
+492,Kamenz Solar Power Plant,,3.8,Solar,
+493,Karnap,RWE Generation SE,38.0,Waste,1987
+494,Karwitz Solar Power Plant,,10.1,Solar,
+495,Kaufering,E.ON Kraftwerke GmbH,16.7,Hydro,1975
+496,Kemnat Solar Power Plant,,1.1,Solar,
+497,Kempfeld Solar Power Plant,,2.7,Solar,
+498,Kernkraft Gundremmingen,Kernkraftwerk Gundremmingen GmbH (KGG),2572.0,Nuclear,1984
+499,Kessel 2,Papierfabrik Schoellershammer Heinrich August Schoeller Söhne GmbH & Co. KG,2.9,Gas,1967
+500,Kessel 4,Papierfabrik Schoellershammer  Heinrich August Schoeller Söhne GmbH & Co. KG,9.3,Coal,1983
+501,Kesselhaus Zuckerfabrik,Suiker Unie GmbH,15.1,Gas,1993
+502,Kiel power station,Gemeinschafts Kraftwerk Kiel,323.0,Coal,1970
+503,Kirchmöser,E.ON Kraftwerke GmbH,160.0,Gas,1994
+504,Klanxb�ll Solar Power Plant,,6.0,Solar,
+505,Klausheide Solar Power Plant,,4.1,Solar,
+506,Kleinaitingen Solar Power Plant,,5.0,Solar,
+507,Klettbach Solar Power Plant,,1.9,Solar,
+508,Klingenberg,Vattenfall Europe Wärme Aktiengesellschaft,164.0,Coal,1981
+509,Kläranlage,BASF SE,12.0,Waste,1992
+510,Kl�den Solar Power Plant,,6.0,Solar,
+511,Knapsack Natural Gas I,Statkraft Markets GmbH,1230.0,Gas,
+512,Koblenz,RWE Innogy GmbH,16.0,Hydro,1951
+513,Kodersdorf Solar Power Plant,,3.8,Solar,
+514,Koepchenwerk,RWE Power AG,153.0,Hydro,1989
+515,Kohlekraftwerk,Smurfit Kappa Zülpich Papier GmbH,14.4,Coal,2010
+516,Kombi-HKW,Städtische Werke Energie + Wärme GmbH,50.0,Gas,1987
+517,Kombikraftwerk,Stora Enso Sachsen GmbH,46.6,Gas,1993
+518,Kopswerk I,EnBW Energie Baden-Württemberg AG,247.0,Hydro,1968
+519,Kraftwerk,Martinswerk GmbH,10.0,Coal,1995
+520,Kraftwerk,Basell Polyolefine GmbH,66.3,Oil,1962
+521,Kraftwerk 2,Papierfabrik Adolf Jass Schwarza GmbH,34.2,Gas,
+522,Kraftwerk 3,Alzkraftwerke Heider GmbH,18.5,Hydro,1920
+523,Kraftwerk Bexbach,STEAG GmbH,721.0,Coal,1983
+524,Kraftwerk Ensdorf,Gemeinschaft nach Bruchteilen der Saarstahl AG (SAG) und Saarschmiede GmbH Freiformschmiede (SSF),389.0,Coal,
+525,Kraftwerk Fulda,RhönEnergie Fulda GmbH,24.8,Oil,2011
+526,Kraftwerk Grenzach-Wyhlen,KGW - Kraftwerk Grenzach-Wyhlen GmbH,40.0,Gas,2004
+527,Kraftwerk Hausham,Peissenberger Kraftwerksgesellschaft mbH Kraftwerk Hausham,92.8,Oil,1982
+528,Kraftwerk II,Evonik Degussa GmbH,296.2,Coal,1966
+529,Kraftwerk III,Evonik Degussa GmbH,139.0,Gas,
+530,Kraftwerk L 57,Currenta GmbH & Co. OHG,26.0,Coal,1957
+531,Kraftwerk Mainz,Kraftwerke Mainz-Wiesbaden AG,434.2,Gas,2001
+532,Kraftwerk Meggle,Molkerei MEGGLE Wasserburg GmbH & Co. KG,12.6,Gas,2000
+533,Kraftwerk Mitte,BASF SE,490.0,Gas,2005
+534,Kraftwerk N 230,Currenta GmbH & Co. OHG,110.0,Coal,1971
+535,Kraftwerk Nord,BASF SE,56.0,Other,1964
+536,Kraftwerk Plattling,Daimler AG / UPM GmbH,97.9,Gas,2010
+537,Kraftwerk Salzgitter,Salzgitter Flachstahl GmbH,288.5,Other,2010
+538,Kraftwerk Schwedt GmbH & Co.KG,Kraftwerk Schwedt GmbH & Co. KG,28.9,Waste,2011
+539,Kraftwerk Süd,BASF SE,390.0,Gas,1997
+540,Kraftwerk Waldshut,Schluchseewerk Aktiengesellschaft,150.0,Hydro,1951
+541,Kraftwerk Walheim,EnBW Energie Baden-Württemberg AG,136.0,Oil,1981
+542,Kraftwerk Werdohl-Elverlingsen,Mark-E AG,310.0,Coal,1982
+543,Kraftwerksgruppe Pfreimd,GDF SUEZ Energie Deutschland AG,127.0,Hydro,1959
+544,Krassow Solar Power Plant,,8.5,Solar,
+545,Kremmen Solar Power Plant,,6.7,Solar,
+546,Krumbach Solar Power Plant,,5.2,Solar,
+547,K�ching Solar Power Plant,,5.6,Solar,
+548,K�rlitz Solar Power Plant,,2.0,Solar,
+549,K�then Solar Power Plant,,45.0,Solar,
+550,Laisa Solar Power Plant,,2.8,Solar,
+551,Landau,E.ON Kraftwerke GmbH,12.6,Hydro,1984
+552,Landesbergen Biomasse,Statkraft Markets GmbH,20.0,Biomass,2005
+553,Langenhahn Solar Power Plant,,5.3,Solar,
+554,Langenzenn Solar Power Plant,,2.2,Solar,
+555,Laubusch Solar Power Plant,,3.0,Solar,
+556,Laufenburg,Energiedienst Holding AG,104.4,Hydro,1914
+557,Lauingen - Gehrlicher Solar Power Plant,,25.7,Solar,
+558,Lauingen - Juwi Solar Power Plant,,2.8,Solar,
+559,Lauta Solar Power Plant,,23.5,Solar,
+560,Lefchfeld Nord Solar Park,,24.9,Solar,
+561,Lehmen,RWE Innogy GmbH,20.0,Hydro,1962
+562,Leideneck Solar Power Plant,,1.0,Solar,
+563,Leitzach 1,Stadtwerke München GmbH,136.0,Hydro,
+564,Leiwen Solar Power Plant,,3.6,Solar,
+565,Lettewitz Solar Power Plant,,13.3,Solar,
+566,Lichterfelde,Vattenfall Europe Wärme AG,432.0,Gas,
+567,Lieberose Solar Power Plant,,53.0,Solar,
+568,Liepolding B�gen Solar Power Plant,,2.5,Solar,
+569,Lippendorf power station,Vattenfall Europe Generation AG,875.0,Coal,2000
+570,Listerfehrda Solar Power Plant,,2.9,Solar,
+571,Litten Solar Power Plant,,38.3,Solar,
+572,Lob�bach-Lobenfeld Solar Power Plant,,5.9,Solar,
+573,Lochau Solar Power Plant,,3.3,Solar,
+574,Luckau Solar Power Plant,,21.0,Solar,
+575,Luckenwalde Solar Power Plant,,6.0,Solar,
+576,Lutstrut Solar Power Plant,,4.5,Solar,
+577,Lünen power station (KSBG),Steag GmbH,473.0,Coal,1967
+578,L�nnewitz Solar Power Plant,,25.9,Solar,
+579,MHKW,swb Entsorgung GmbH & Co. KG,44.0,Waste,
+580,MHKW  WKW,Stadtwerke Rosenheim GmbH & Co. KG,9.0,Waste,1988
+581,MHKW Burgkirchen,Zweckverband Abfallverwertung Südostbayern,12.5,Waste,1994
+582,MHKW Frankfurt,Mainova AG,72.5,Waste,2006
+583,MHKW Mainz,Entsorgungsgesellschaft Mainz mbH,15.6,Waste,2009
+584,MHKW Pirmasens,EEW Energy from Waste Saarbrücken GmbH,15.0,Waste,1999
+585,MHKW Rothensee,Müllheizkraftwerk Rothensee GmbH,58.4,Waste,2005
+586,MKVA Krefeld,EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG,33.1,Waste,
+587,MT  Düren,Metsä Tissue GmbH Werk Düren,14.0,Gas,2011
+588,MVA Bielefeld,MVA Bielefeld-Herford GmbH,34.0,Waste,1981
+589,MVA Hamm,MHB Hamm Betriebsführungsgesellschaft mbH,14.6,Waste,1985
+590,MVA Ingolstadt,Zweckverband Müllverwertungsanlage Ingolstadt (MVA Ingolstadt),25.5,Waste,1984
+591,MVA Weisweiler,RWE Power AG,24.0,Waste,1996
+592,MVR Müllverwertung Rugenberger Damm GmbH & Co. KG,MVR Müllverwertung Rugenberger Damm GmbH & Co. KG,24.0,Waste,1999
+593,Mahlwinkel Solar Power Plant,,18.8,Solar,
+594,Markersbach,Vattenfall Europe Generation AG,1045.2,Hydro,1980
+595,Markranst�dt Solar Power Plant,,4.1,Solar,
+596,Meerwind SüdIOst,WindMW GmbH,288.0,Wind,2014
+597,Meitingen,Bayerische Elektrizitätswerke GmbH,11.3,Hydro,1922
+598,Meldorf Solar Power Plant,,3.5,Solar,
+599,Mengersgereuth-H�mmern Solar Power Plant,,1.4,Solar,
+600,Mengkofen Solar Power Plant,,21.7,Solar,
+601,Merching,E.ON Kraftwerke GmbH,12.0,Hydro,1978
+602,Metzdorf Solar Power Plant,,6.0,Solar,
+603,Meuro Solar Power Plant,,166.0,Solar,
+604,Me�kirch Solar Power Plant,,1.0,Solar,
+605,MiRO,Mineraloelraffinerie Oberrhein GmbH & Co. KG,70.0,Oil,1995
+606,Miegersbach Solar Power Plant,,5.2,Solar,
+607,Missen Solar Power Plant,,10.1,Solar,
+608,Mitte,Vattenfall Europe Wärme AG,444.0,Gas,1996
+609,Mittelwasungen Solar Power Plant,,2.1,Solar,
+610,Moabit (Oil),Vattenfall Europe Wärme Aktiengesellschaft,51.0,Oil,1971
+611,Modellkraftwerk,STEAG Power Saar GmbH,179.0,Coal,1982
+612,Moos Solar Power Plant,,15.8,Solar,
+613,Mooshof Solar Power Plant,,4.7,Solar,
+614,Morbach Solar Power Plant,,1.1,Solar,
+615,Muggensturm Solar Power Plant,,1.8,Solar,
+616,Mutterstadt Solar Power Plant,,1.6,Solar,
+617,Müden,RWE Innogy GmbH,16.4,Hydro,1965
+618,Mühltal,E.ON Kraftwerke GmbH,11.2,Hydro,1924
+619,Müllheizkraftwerk Kassel,Müllheizkraftwerk Kassel GmbH,14.7,Waste,1985
+620,Müllheizkraftwerk Offenbach,Energieversorgung Offenbach AG,10.4,Waste,1972
+621,Müllheizkraftwerk Wuppertal,AWG Abfallwirtschaftsgesellschaft mbH Wuppertal,30.0,Waste,1976
+622,Müllkraftwerk Schwandorf,Zweckverband Müllverwertung Schwandorf,54.0,Waste,1982
+623,Müllverwertung Borsigstraße MVB,MVB Müllverwertung Borsigstraße GmbH,20.0,Biomass,2005
+624,M�hlhausen Solar Power Plant,,4.4,Solar,
+625,M�nchweiler Solar Power Plant,,1.7,Solar,
+626,M�sthinsdorf Solar Power Plant,,5.1,Solar,
+627,NECKARWESTHEIM-2,,1400.0,Nuclear,1989
+628,Natural Gas Turbine #1,Buchmann GmbH,28.0,Gas,1975
+629,Natural Gas Turbine #2,Smurfit Kappa Herzberger Papierfabrik GmbH,19.5,Gas,1978
+630,Natural Gas Turbine #3,Sachsenmilch Leppersdorf GmbH,36.0,Gas,2014
+631,Natural Gas Turbine #6,Stadtwerke Düsseldorf AG,217.8,Gas,
+632,Natural Gas Turbine #7,Prinovis Ltd. & Co. KG,18.6,Gas,
+633,Natural Gas Turbine #8,Stadtwerke Augsburg Energie GmbH,28.8,Gas,2004
+634,Natural Gas Turbine #9,Basell Polyolefine GmbH,51.9,Gas,1975
+635,Natural Gas- u. Dampfturbinenanlage Südraum,ZF Friedrichshafen AG,38.6,Gas,2012
+636,Natural Gasblock,Stadtwerke Düsseldorf AG,293.0,Gas,1976
+637,Natural Gaskraftwerk #1,Smurfit Kappa Zülpich Papier GmbH,45.3,Gas,1966
+638,Natural Gasmotore,Stadtwerke Rosenheim GmbH & Co. KG,23.3,Gas,2011
+639,Nauroth Solar Power Plant,,8.5,Solar,
+640,Neckarsulm - Audi Solar Power Plant,,1.9,Solar,
+641,Neef,RWE Innogy GmbH,16.4,Hydro,1966
+642,Nemsdorf Solar Power Plant,,4.8,Solar,
+643,Nessa Solar Power Plant,,1.0,Solar,
+644,Neubrandenburg Solar Power Plant,,2.9,Solar,
+645,Neuburg F�rstobl Solar Power Plant,,1.3,Solar,
+646,Neuenhagen Solar Power Plant,,7.2,Solar,
+647,Neuhardenberg Solar Power Plant,,76.7,Solar,
+648,Neuhausen Solar Power Plant,,10.6,Solar,
+649,Neurath power station,RWE Power AG,2068.0,Coal,1974
+650,Neuruppin Solar Power Plant,,7.9,Solar,
+651,Neusch�nau Solar Power Plant,,1.2,Solar,
+652,Neuötting,VERBUND-Innkraftwerke GmbH,26.1,Hydro,1951
+653,Nieb�ll- GP Joule Solar Power Plant,,5.0,Solar,
+654,Niederaichbach,E.ON Kraftwerke GmbH,16.2,Hydro,1951
+655,Niederaussem power station,RWE Power AG,3430.0,Coal,1979
+656,Niederwartha,Vattenfall Europe Generation AG,39.8,Hydro,1957
+657,Nord 2,SWM Services GmbH,332.7,Coal,1991
+658,Nordband Solar Power Plant,,4.9,Solar,
+659,Nordendorf Solar Power Plant,,7.4,Solar,
+660,Nordhausen Solar Power Plant,,3.0,Solar,
+661,Norstedt Solar Power Plant,,1.4,Solar,
+662,Nußdorf,Innwerk AG,36.6,Hydro,1982
+663,O10,Ineos Manufacturing Deutschland GmbH,94.2,Other,
+664,OWP Nordsee Ost,RWE International S.E.,295.2,Wind,2014
+665,Oberaudorf-Ebbs,Innwerk AG,30.0,Hydro,1992
+666,Oberdreis Solar Power Plant,,2.9,Solar,
+667,Oberehring Solar Power Plant,,3.9,Solar,
+668,Oberh�rbach Solar Power Plant,,1.9,Solar,
+669,Oberlauda Solar Power Plant,,2.2,Solar,
+670,Obernach,E.ON Kraftwerke GmbH,12.8,Hydro,1955
+671,Obernburg,Kraftwerk Obernburg GmbH,100.0,Gas,
+672,Oberostendorf Solar Power Plant,,2.6,Solar,
+673,Oberottmarshausen Solar Power Plant,,5.6,Solar,
+674,Oberpeiching,Rhein-Main-Donau AG,11.9,Hydro,1954
+675,Oberr�blingen Solar Power Plant,,8.1,Solar,
+676,Oberseifertsdorf Solar Power Plant,,10.0,Solar,
+677,Ober�tzdorf Solar Power Plant,,1.7,Solar,
+678,Offshore Windfarm Danysk,Vattenfall Europe Windkraft GmbH /   Stadtwerke München GmbH,284.4,Wind,2015
+679,Oppin Solar Power Plant,,6.9,Solar,
+680,Oranienburg Solar Power Plant,,3.8,Solar,
+681,Oschatz Solar Power Plant,,3.8,Solar,
+682,Ostseeflughafen Stralsund,,31.55326,Solar,
+683,Oxea GmbH,Oxea GmbH,38.0,Other,1929
+684,P&L Werk Appeldorn,Pfeifer & Langen Kommanditgesellschaft,11.4,Gas,2004
+685,P&L Werk Euskirchen,Pfeifer & Langen Kommanditgesellschaft,14.5,Coal,
+686,P&L Werk Jülich,Pfeifer & Langen Kommanditgesellschaft,24.6,Coal,2004
+687,P&L Werk Könnern,Pfeifer & Langen Kommanditgesellschaft,20.3,Coal,1993
+688,P&L Werk Lage,Pfeifer & Langen Kommanditgesellschaft,10.2,Gas,1980
+689,PD energy GmbH,PD energy GmbH,9.9,Waste,2010
+690,PHILIPPSBURG-2,,1468.0,Nuclear,1984
+691,PKV Kraftwerk,Papier- u. Kartonfabrik Varel GmbH & Co. KG,60.0,Gas,1989
+692,PSW Langenprozelten,Donau-Wasserkraft AG,164.0,Hydro,1974
+693,PSW Vianden,SociÃ©tÃ© Electrique de l'Our S.A.,1096.0,Hydro,
+694,PVA Dallgow-D�beritz,,20956,Solar,
+695,PWG,Peißenberger Wärmegesellschaft mbH,10.6,Gas,
+696,Panitzsch Solar Power Plant,,7.5,Solar,
+697,Pasewalk Solar Power Plant,,4.8,Solar,
+698,Passau-Ingling,Innwerk AG,43.2,Hydro,1965
+699,Peitz Solar Power Plant,,3.0,Solar,
+700,Penzing Solar Power Plant,,3.7,Solar,
+701,Perach,VERBUND-Innkraftwerke GmbH,19.4,Hydro,1977
+702,Perleberg Solar Power Plant,,35.0,Solar,
+703,Pfeffenhausen Solar Power Plant,,5.6,Solar,
+704,Pferdsfeld Solar Power Plant,,28.5,Solar,
+705,Pforzheim power station,Heizkraftwerk Pforzheim GmbH,26.9,Coal,1990
+706,Pfrombach,E.ON Kraftwerke GmbH,22.3,Hydro,1929
+707,Pielweichs,E.ON Kraftwerke GmbH,12.6,Hydro,1994
+708,Plattling Solar Power Plant,,1.6,Solar,
+709,Plessa Solar Power Plant,,3.1,Solar,
+710,Pocking 1 Solar Power Plant,,10.0,Solar,
+711,Pocking 2 Solar Power Plant,,12.0,Solar,
+712,Polch Solar Power Plant,,12.5,Solar,
+713,Preist Solar Power Plant,,2.6,Solar,
+714,Prem,E.ON Kraftwerke GmbH,19.2,Hydro,1971
+715,Prittriching,E.ON Kraftwerke GmbH,12.1,Hydro,1984
+716,Puchheim Solar Power Plant,,1.1,Solar,
+717,Pumpspeicherkraftwerk Glems,EnBW Energie Baden-Württemberg AG,90.0,Hydro,1964
+718,Pumpspeicherwerk Rönkhausen,Mark-E AG,138.0,Hydro,1969
+719,P�lling Solar Power Plant,,2.6,Solar,
+720,P�ssensheim Solar Power Plant,,5.5,Solar,
+721,P�tnitz Solar Power Plant,,18.8,Solar,
+722,P�ttlingen Solar Power Plant,,4.9,Solar,
+723,RADAG,Rheinkraftwerk Albbruck- Dogern AG,79.5,Hydro,1933
+724,RAG Anthrazit Ibbenbüren GmbH,RAG Anthrazit Ibbenbüren GmbH,33.4,Gas,1985
+725,REMONDIS Thermische Abfallverwertung GmbH,REMONDIS Thermische Abfallverwertung GmbH,24.0,Waste,2008
+726,RMVA Köln,AVG Köln mbH,45.1,Waste,1997
+727,RZR Herten II,AGR Abfallentsorgungsgesellschaft Ruhrgebiet mbH,29.6,Waste,2009
+728,Rackwitz Solar Power Plant,,4.2,Solar,
+729,Raffineriekraftwerk,TOTAL Raffinerie Mitteldeutschland GmbH,92.5,Oil,1997
+730,Raffineriekraftwerk Köln Godorf,Steag GmbH,80.0,Oil,2004
+731,Rain,Rhein-Main-Donau AG,10.9,Hydro,1955
+732,Ramin Solar Power Plant,,9.0,Solar,
+733,Rapshagen Solar Power Plant,,9.4,Solar,
+734,Ra�nitz Solar Power Plant,,7.1,Solar,
+735,Reckahn Solar Power Plant,,37.7,Solar,
+736,Reno De Medici,Reno De Medici Arnsberg GmbH,19.0,Coal,
+737,Rentweinsdorf Solar Power Plant,,13.0,Solar,
+738,Repperndorf Solar Power Plant,,8.3,Solar,
+739,Restabfallbehandlungsanlage,Zweckverband für Abfallwirtschaft Südwestthüringen (ZASt),11.2,Waste,2007
+740,Restmüll-Heizkraftwerk Stuttgart-Münster (Waste),EnBW Energie Baden-Württemberg AG,19.5,Waste,2009
+741,Restmüllheizkraftwerk Böblingen,Zweckverband Restmüllheizkraftwerk Böblingen,9.5,Waste,1999
+742,Reurieth Solar Power Plant,,4.3,Solar,
+743,Reuter Waste Facility,Vattenfall Europe Wärme Aktiengesellschaft,36.0,Waste,1998
+744,Reu�enk�ge Solar Power Plant,,2.7,Solar,
+745,Rheinhafen-Dampfkraftwerk,EnBW Energie Baden-Württemberg AG,1547.0,Coal,
+746,Rheinhafen-Dampfkraftwerk,EnBW Energie Baden-Württemberg AG,353.0,Gas,1998
+747,Rheinkraftwerk Iffezheim,EnBW Energie Baden-Württemberg AG,146.0,Hydro,
+748,Rheinkraftwerk Reckingen,EnBW Energie Baden-Württemberg AG,19.0,Hydro,1938
+749,Rheinkraftwerk Ryburg-Schwörstadt,EnBW Energie Baden-Württemberg AG,30.0,Hydro,1931
+750,Rheinkraftwerk Säckingen,EnBW Energie Baden-Württemberg AG / Energiedienst AG,36.8,Hydro,1959
+751,Ribnitz Solar Power Plant,,2.6,Solar,
+752,Richelbach Solar Power Plant,,14.3,Solar,
+753,Rickelshausen Solar Power Plant,,6.0,Solar,
+754,Riedstadt-Leeheim Solar Power Plant,,1.9,Solar,
+755,Riethnordhausen Solar Power Plant,,7.3,Solar,
+756,Rietschen Solar Power Plant,,2.2,Solar,
+757,Rockenhausen Solar Power Plant,,1.8,Solar,
+758,Roden�s Solar Power Plant,,2.6,Solar,
+759,Rohr Solar Power Plant,,4.7,Solar,
+760,Rohrbuckel Solar Power Plant,,1.1,Solar,
+761,Roitzsch - Capital Stage Solar Power Plant,,12.7,Solar,
+762,Roitzsch - Enerparc Solar Power Plant,,10.0,Solar,
+763,Ronneburg - Juwi Solar Power Plant,,19.9,Solar,
+764,Rosenheim,VERBUND-Innkraftwerke GmbH,35.1,Hydro,1960
+765,Rostock Solar Power Plant,,6.2,Solar,
+766,Rostock power station,Kraftwerks- und Netzgesellschaft,514.0,Coal,1994
+767,Rote Jahne Solar Power Plant,,13.2,Solar,
+768,Rothenburg Solar Power Plant,,37.0,Solar,
+769,Rothenschirmbach Solar Power Plant,,1.2,Solar,
+770,Roßhaupten,E.ON Kraftwerke GmbH,45.5,Hydro,1954
+771,Ro�la Solar Power Plant,,6.0,Solar,
+772,Rudolf-Fettweis-Werk 2,EnBW Energie Baden-Württemberg AG,65.0,Hydro,1926
+773,Ruhland Solar Power Plant,,2.2,Solar,
+774,R�dersdorf Solar Power Plant,,7.5,Solar,
+775,R�dgen Solar Power Plant,,7.0,Solar,
+776,SCA Mannheim,SCA HYGIENE PRODUCTS GmbH,59.2,Biomass,
+777,SITA Abfallverwertung GmbH,SITA Abfallverwertung GmbH,25.4,Waste,2005
+778,SKW Diesel,Allgäuer Ãœberlandwerk GmbH,10.5,Oil,1978
+779,SKW Natural Gasturbine,Allgäuer Ãœberlandwerk GmbH,24.0,Oil,1988
+780,STW,Schoeller Technocell GmbH & Co. KG,13.5,Gas,2007
+781,SWM Wind Havelland GmbH & Co. KG,Stadtwerke München GmbH    HEAG Südhessische Energie AG (HSE),171.0,Wind,2009
+782,Saalhaupt Solar Power Plant,,2.6,Solar,
+783,Sachsenham Solar Power Plant,,1.2,Solar,
+784,Saerbeck Solar Power Plant,,5.7,Solar,
+785,Salching Solar Power Plant,,1.3,Solar,
+786,Salmdorf Solar Power Plant,,1.0,Solar,
+787,Sangerhausen Solar Power Plant,,1.0,Solar,
+788,Sankt Wendel Solar Power Plant,,3.3,Solar,
+789,Schelklingen Solar Power Plant,,4.9,Solar,
+790,Scheuring,E.ON Kraftwerke GmbH,12.2,Hydro,1980
+791,Schierling Solar Power Plant,,2.4,Solar,
+792,Schipkau Solar Power Plant,,2.2,Solar,
+793,Schkopau power station,E.ON,900.0,Coal,1996
+794,Schleiz Solar Power Plant,,11.2,Solar,
+795,Schmidtheim Solar Power Plant,,3.1,Solar,
+796,Schneebergerhof Solar Power Plant,,1.1,Solar,
+797,Scholven power station,E.On Kraftwerke GmbH,690.0,Coal,1973
+798,Schwabstadl,E.ON Kraftwerke GmbH,12.0,Hydro,1981
+799,Schwabstadl Solar Power Plant,,10.0,Solar,
+800,Schwammenauel,RWE Innogy GmbH,14.0,Hydro,1938
+801,Schwarze Pumpe power station,Vattenfall Europe AG,1500.0,Coal,1998
+802,Schwarzheide Solar Power Plant,,12.73116,Solar,
+803,Schwege Solar Power Plant,,8.2,Solar,
+804,Schweizer Berg Solar Power Plant,,3.8,Solar,
+805,Schärding-Neuhaus,Innwerk AG,48.0,Hydro,1963
+806,Sch�newalde Solar Power Plant,,3.7,Solar,
+807,Seitendorf Solar Power Plant,,1.8,Solar,
+808,Senftenberg Solar Power Plant,,18.0,Solar,
+809,Sengkofen Solar Power Plant,,2.0,Solar,
+810,Serrig,RWE Innogy GmbH,12.1,Hydro,1985
+811,Sietzsch Solar Power Plant,,10.0,Solar,
+812,Sigmundshall,K+S AG,19.0,Gas,1974
+813,Sinzheim Solar Power Plant,,1.4,Solar,
+814,Solar Schipkau II GmbH & Co. KG,,81.0,Solar,
+815,Solarpark Amsdorf,,28344,Solar,
+816,Solarpark Baasdorf,,12.70439,Solar,
+817,Solarpark Baumgarten,,11.30404,Solar,
+818,Solarpark Burg,,20.0044,Solar,
+819,Solarpark Calau,,10.0515,Solar,
+820,Solarpark Elmenhorst,,25.0,Solar,
+821,Solarpark Finsterwalde,,20.3862,Solar,
+822,Solarpark Marienflie�,,25.55914,Solar,
+823,Solarpark Nei�e-Malxetal,,22.12467,Solar,
+824,Solarpark Stedten,,28.34412,Solar,
+825,Solarpark Turnow,,34.8,Solar,
+826,Solarpark Wittstock,,68.0,Solar,
+827,Solms Solar Power Plant,,2.9,Solar,
+828,Sontra Solar Power Plant,,1.1,Solar,
+829,Spangdahlem Solar Power Plant,,2.1,Solar,
+830,Spitzenlastanlage Barmen,WSW Energie & Wasser AG,60.0,Oil,2008
+831,Spitzenlastkraftwerk Großkayna,envia THERM GmbH,120.0,Oil,1994
+832,Spitzenlastkraftwerk Sermuth,envia THERM GmbH,17.0,Oil,1995
+833,Spitzenlastkraftwerk Wolfen,envia THERM GmbH,40.0,Gas,1997
+834,Sprotta Solar Power Plant,,2.6,Solar,
+835,Staig Solar Power Plant,,4.5,Solar,
+836,Stammham,VERBUND-Innkraftwerke GmbH,23.2,Hydro,1955
+837,Staudinger power station,E.On Kraftwerke GmbH,1132.0,Coal,1992
+838,Sta�furt 1 Solar Power Plant,,5.0,Solar,
+839,Sta�furt 2 Solar Power Plant,,2.5,Solar,
+840,Stefanskirchen Solar Power Plant,,1.2,Solar,
+841,Steinbeis Energie,Steinbeis Energie GmbH,17.0,Waste,2010
+842,Steinitz,GDF SUEZ E&P DEUTSCHLAND GMBH,11.4,Gas,1995
+843,Stockstadt am Main Solar Power Plant,,2.5,Solar,
+844,Stora Enso Maxau,Stora Enso Maxau GmbH,78.0,Biomass,2010
+845,Straubing,Rhein-Main-Donau AG,21.5,Hydro,1994
+846,Stra�kirchen Solar Power Plant,,54.0,Solar,
+847,Stutensee Solar Power Plant,,1.2,Solar,
+848,Stuttgart-Muenster,EnBW Energie Baden-Württemberg AG,159.9,Coal,1983
+849,Suxdorf Solar Power Plant,,2.5,Solar,
+850,Säckingen,Schluchseewerk Aktiengesellschaft,360.0,Hydro,1966
+851,Süd DT1,SWM Services GmbH,79.7,Gas,1980
+852,Süd DT60,SWM Services GmbH,127.6,Gas,2004
+853,Süd GT 61,SWM Services GmbH,444.6,Gas,2004
+854,TREA Breisgau,EEW Energy from Waste Saarbrücken GmbH,13.6,Waste,2005
+855,TREA Leuna,MVV Energie AG,32.6,Waste,
+856,TRV Buschhaus,EEW Energy from Waste Helmstedt GmbH,37.5,Waste,1998
+857,Tannheim,EnBW Energie Baden-Württemberg AG,12.3,Hydro,1923
+858,Tapfheim Solar Power Plant,,1.3,Solar,
+859,Taucha Solar Power Plant,,5.3,Solar,
+860,Templin Solar Power Plant,,128.4,Solar,
+861,Teufelsbruck,VERBUND-Innkraftwerke GmbH,25.0,Hydro,1938
+862,Teutschenthal Solar Power Plant,,7.1,Solar,
+863,Thermische Abfallbehandlung Lauta GmbH & Co. oHG,Thermische Abfallbehandlung Lauta GmbH & Co. oHG,15.7,Waste,2004
+864,Thierhaupten Solar Power Plant,,5.0,Solar,
+865,Thundorf Solar Power Plant,,2.1,Solar,
+866,Thyrow,Vattenfall Europe Generation AG,296.0,Gas,
+867,Tiefstack power station,Vattenfall Europe AG,194.0,Coal,1993
+868,Torgau Solar Power Plant,,8.9,Solar,
+869,Treia Solar Power Plant,,2.4,Solar,
+870,Trianel Kohlekraftwerk Lünen,Trianel Kohlekraftwerk Lünen GmbH & Co. KG,746.0,Coal,2013
+871,Trianel Natural Gaskraftwerk,Trianel Natural Gaskraftwerk Hamm GmbH & Co. KG,838.0,Gas,2008
+872,Trianel Windpark Borkum,Trianel Windkraftwerk Borkum GmbH & Co. KG,200.0,Wind,2015
+873,Trier,RWE Innogy GmbH,18.8,Hydro,1961
+874,Troisdorf Oberlar Solar Power Plant,,3.5,Solar,
+875,Turbosatz 1,Zweckverband Abfallwirtschaft Raum Würzburg,22.7,Waste,
+876,Tutow Solarpark 1 FF,,6.8,Solar,
+877,Tutow Solarpark 2 FF Infrastruktur,,25.5,Solar,
+878,Tutow Solarpark 5,,19.3,Solar,
+879,Töging,VERBUND-Innkraftwerke GmbH,85.3,Hydro,1924
+880,T�pchin - Enerparc Solar Power Plant,,4.2,Solar,
+881,UPM Augsburg,UPM GmbH,29.0,Gas,1966
+882,UPM Schongau,UPM GmbH,10.5,Hydro,1959
+883,UPM Schwedt,UPM GmbH Werk Schwedt,13.3,Biomass,2009
+884,UTB,Pfleiderer Baruth GmbH,16.0,Biomass,2002
+885,UW Bertikow,ENERTRAG Aktiengesellschaft,340.0,Wind,2003
+886,Ulm-Eggingen Solar Power Plant,,6.5,Solar,
+887,Unterbergen,E.ON Kraftwerke GmbH,12.4,Hydro,1983
+888,Unterbreizbach,K+S AG,33.6,Gas,1965
+889,Unterliezheim Solar Power Plant,,1.5,Solar,
+890,Unteropfingen,EnBW Energie Baden-Württemberg AG,14.2,Hydro,1991
+891,Untersteinach Solar Power Plant,,10.0,Solar,
+892,Uphusum Solar Power Plant,,3.8,Solar,
+893,Uppenborn 1,Stadtwerke München GmbH,25.0,Hydro,1930
+894,Uppenborn 2,Stadtwerke München GmbH,18.0,Hydro,1951
+895,Urspring,E.ON Kraftwerke GmbH,10.1,Hydro,1966
+896,Viernau Solar Power Plant,,1.6,Solar,
+897,Vilseck Solar Power Plant,,10.0,Solar,
+898,Vilshofen an der Donau Solar Power Plant,,2.0,Solar,
+899,Vi�l Solar Power Plant,,4.0,Solar,
+900,Vockerode Solar Power Plant,,9.6,Solar,
+901,Vogtsburg Solar Power Plant,,7.8,Solar,
+902,Vohburg,Donau-Wasserkraft AG,23.3,Hydro,1992
+903,Voigstedt Solar Power Plant,,3.7,Solar,
+904,WKW,Rheinkraftwerk Albbruck- Dogern AG,24.0,Hydro,2009
+905,Wachtberg power station,Rwe Power Ag,118.0,Coal,1959
+906,Waehlitz power station,Mitteldeut Braunkohl (Mibrag),31.0,Coal,1994
+907,Walbeck Solar Power Plant,,2.5,Solar,
+908,Walchensee,E.ON Kraftwerke GmbH,124.0,Hydro,1924
+909,Waldalgesheim Solar Power Plant,,2.5,Solar,
+910,Waldbrunn Solar Power Plant,,4.6,Solar,
+911,Waldeck 2,E.ON Kraftwerke GmbH,480.0,Hydro,1974
+912,Waldeck1/Bringhausen,E.ON Kraftwerke GmbH,143.0,Hydro,1931
+913,Waldpolenz Solar Power Plant,,45.0,Solar,
+914,Waldrehna Solar Power Plant,,52.7,Solar,
+915,Walheim power station,EnBW,267.0,Coal,1966
+916,Wallhausen Solar Power Plant,,5.4,Solar,
+917,Wange Solar Power Plant,,5.2,Solar,
+918,Wasserburg,VERBUND-Innkraftwerke GmbH,24.1,Hydro,1938
+919,Waste Incinerator #1,AVEA Entsorgungsbetriebe GmbH & Co. KG,11.6,Waste,2011
+920,Wedel,Vattenfall Europe Generation AG,101.0,Oil,1972
+921,Wedel power station,Vattenfall Europe AG,260.0,Coal,1961
+922,Weeze Solar Power Plant,,14.0,Solar,
+923,Wehr,Schluchseewerk Aktiengesellschaft,910.0,Hydro,1975
+924,Weiher,STEAG Power Saar GmbH,655.6,Coal,1976
+925,Weil Solar Power Plant,,1.4,Solar,
+926,Weimar - Hydrema Solar Power Plant,,1.0,Solar,
+927,Weisweiler power station,RWE Power AG,1800.0,Coal,1968
+928,Welzow II Flughafen,,18.6,Solar,
+929,Wendefurth,Vattenfall Europe Generation AG,79.7,Hydro,
+930,Werdau Solar Power Plant,,1.7,Solar,
+931,Werkskraftwerk Sappi Alfeld 1,Sappi Alfeld GmbH,16.8,Biomass,1988
+932,Werkskraftwerk Sappi Alfeld 2,Sappi Alfeld GmbH,20.0,Gas,1947
+933,Werkskraftwerk Sappi Ehingen,Sappi Ehingen GmbH,21.2,Biomass,
+934,Werneuchen - Enerparc Solar Power Plant,,18.8,Solar,
+935,Werneuchen - S&Z Solar Power Plant,,2.2,Solar,
+936,Weserkraftwerk Bremen,swb Erzeugung GmbH & Co. KG,9.9,Hydro,2012
+937,Westerwiehe 1 Solar Power Plant,,2.0,Solar,
+938,Westerwiehe 2 Solar Power Plant,,1.0,Solar,
+939,Westfalen,Kraftwerksgesellschaft Steinkohlendoppelblock Westfalen GmbH & Co. KG (GEKKO),1049.0,Coal,2014
+940,Westheim Solar Power Plant,,2.9,Solar,
+941,Wetschhauser Hof Solar Power Plant,,4.1,Solar,
+942,Wi-Biebrich,InfraServ GmbH & Co. Wiesbaden KG,31.7,Biomass,
+943,Wiesenena Solar Power Plant,,5.2,Solar,
+944,Wilhelmshaven (Oil),E.ON Kraftwerke GmbH,56.0,Oil,1973
+945,Wilhelmshaven power station,E.On Kraftwerke GmbH,757.0,Coal,1976
+946,Wilmersdorf,Vattenfall Europe Wärme AG,828.0,Oil,1977
+947,Windpark Arneburg 2,SachsenFonds GmbH & Co. Windpark I KG,31.5,Wind,2001
+948,Windpark Arneburg 2,SachsenFonds GmbH & Co. Windpark I KG,117.0,Wind,2001
+949,Windpark Dahme,Windpark Dahme GmbH & Co. KG,76.5,Wind,2005
+950,Windpark Druxberge,Umspannwerke Druxberge GmbH & Co. KG   c/o Windstrom GmbH,116.7,Wind,2003
+951,Windpark Fehmarn,Fehmarn Netz GmbH & Co. OHG,143.0,Wind,2006
+952,Windpark Hakenstedt,Umspannwerke Druxberge GmbH & Co. KG   c/o Windstrom GmbH,82.7,Wind,1999
+953,Windpark Hüselitz,,92.4,Wind,2015
+954,Windpark Klettwitz,,89.1,Wind,2015
+955,Windpark Reußenköge,UW Reußenköge GmbH,189312,Wind,2013
+956,Windpark Riffgat,Offshore-Windpark RIFFGAT GmbH & Co. KG/EWE ERNEUERBARE ENERGIEN GmbH,113.4,Wind,2014
+957,Windparks Biere und Borne,UWB Umspannwerk Betriebsgesellschaft Biere mbH    UWB Umspannwerk Betriebsgesellschaft Borne mbH,94.5,Wind,1999
+958,Wintershall,K+S AG,109.5,Gas,1967
+959,Wintrich,RWE Innogy GmbH,20.0,Hydro,1965
+960,Wismar Solar Power Plant,,8.6,Solar,
+961,Wisselsing Solar Power Plant,,6.2,Solar,
+962,Wittenberge Solar Power Plant,,3.9,Solar,
+963,Witznau,Schluchseewerk Aktiengesellschaft,220.0,Hydro,1943
+964,Woldegk Solar Power Plant,,9.0,Solar,
+965,Wulfen Solar Power Plant,,2.7,Solar,
+966,Wuppertal-Elberfeld power station,WSW Wuppertaler Stadtwerke AG,85.0,Coal,1989
+967,Wustermark Solar Power Plant,,3.0,Solar,
+968,W�lfersheim Solar Power Plant,,5.3,Solar,
+969,W�nsdorf Solar Power Plant,,7.8,Solar,
+970,W�rrstadt Solar Power Plant,,5.6,Solar,
+971,X-Kraftwerk,Currenta GmbH & Co. OHG,27.0,Gas,1981
+972,ZWSF,EEW Energy from Waste Premnitz GmbH,2.5,Waste,2002
+973,Zachow Solar Power Plant,,5.5,Solar,
+974,Zahna Solar Power Plant,,3.3,Solar,
+975,Zellstoff Stendal GmbH,Zellstoff Stendal GmbH,138.9,Biomass,
+976,Zeltingen,RWE Innogy GmbH,13.6,Hydro,1964
+977,Zerbst Solar Power Plant,,12.0,Solar,
+978,Zielitz,K+S AG,52.0,Gas,1996
+979,Zolling power station,GDF SUEZ Energie Deutschland AG,528.0,Biomass,1986
+980,Zweimen Solar Power Plant,,4.0,Solar,
+981,Zwochau Solar Power Plant,,3.8,Solar,

@@ -1,0 +1,1984 @@
+id,name,owner,capacity,fuel,year,locality,postalcode,street,region
+0,,,15.0,Wind,1997,Aachen,52074,,Nordrhein-Westfalen
+1,,ecoJoule construct GmbH,13.3,Wind,2002,Achim,28832,,Niedersachsen
+2,,Sendenhorster Windenergie GmbH & Co. KG,15.0,Wind,2003,Ahlen,59229,,Nordrhein-Westfalen
+3,,Windpark Ahlerstedt GmbH & Co. KG,39.6,Wind,1999,Ahlerstedt,21702,,Niedersachsen
+4,Ahrensfelde,Lausitz Energie Kraftwerke AG,37.5,Gas,1990,Ahrensfelde,16356,Lindenberger Weg,Brandenburg
+5,Ahrensfelde,Lausitz Energie Kraftwerke AG,37.5,Gas,1990,Ahrensfelde,16356,Lindenberger Weg,Brandenburg
+6,Ahrensfelde,Lausitz Energie Kraftwerke AG,37.5,Gas,1990,Ahrensfelde,16356,Lindenberger Weg,Brandenburg
+7,Ahrensfelde,Lausitz Energie Kraftwerke AG,37.5,Gas,1990,Ahrensfelde,16356,Lindenberger Weg,Brandenburg
+8,,Erste Buergerwindp. Ahrenvioel Ahrenvioelfeld GmbH & Co. KG,15.0,Wind,2002,Ahrenviölfeld,25885,,Schleswig-Holstein
+9,RADAG,Rheinkraftwerk Albbruck-Dogern AG,79.5,Hydro,1934,Albbruck,79774,Kraftwerkstrasse 34,Baden-Württemberg
+10,WKW,Rheinkraftwerk Albbruck-Dogern AG,24.0,Hydro,2009,Dogern,79804,Zollstrasse,Baden-Württemberg
+11,Papierfabrik Albbruck,Papierfabrik Albbruck GmbH,28.0,Coal,2009,Albbruck,79774,,Baden-Württemberg
+12,Werkskraftwerk Sappi Alfeld,Sappi Alfeld GmbH,13.0,Biomass,2003,Alfeld,31061,Mühlenmarsch 1,Niedersachsen
+13,Werkskraftwerk Sappi Alfeld,Sappi Alfeld GmbH,11.0,Gas,1947,Alfeld,31061,Mühlenmarsch 1,Niedersachsen
+14,Werkskraftwerk Sappi Alfeld,Sappi Alfeld GmbH,0.1,Hydro,1912,Alfeld,31061,Mühlenmarsch 1,Niedersachsen
+15,Werkskraftwerk Sappi Alfeld,Sappi Alfeld GmbH,2.8,Oil,1994,Alfeld,31061,Mühlenmarsch 1,Niedersachsen
+16,,Windpark Balkum-Thiene GmbH & Co. KG,27.6,Wind,2007,Alfhausen ,49594,,Niedersachsen
+17,Windpark Alsleben,Dortmunder Energie- und Wasserversorgung GmbH,21.0,Wind,2016,Alsleben (Saale),6425,,Sachsen-Anhalt
+18,Heizkraftwerk Altbach/Deizisau,EnBW Energie Baden-Württemberg AG,65.0,Gas,1997,Altbach,73776,Industriestraße 11,Baden-Württemberg
+19,Heizkraftwerk Altbach/Deizisau,EnBW Energie Baden-Württemberg AG,50.0,Gas,1971,Altbach,73776,Industriestraße 11,Baden-Württemberg
+20,Heizkraftwerk Altbach/Deizisau,EnBW Energie Baden-Württemberg AG,57.0,Gas,1973,Altbach,73776,Industriestraße 11,Baden-Württemberg
+21,Heizkraftwerk Altbach/Deizisau,EnBW Energie Baden-Württemberg AG,81.0,Gas,1975,Altbach,73776,Industriestraße 11,Baden-Württemberg
+22,Heizkraftwerk Altbach/Deizisau,EnBW Energie Baden-Württemberg AG,336.0,Coal,1997,Altbach,73776,Industriestraße 11,Baden-Württemberg
+23,Heizkraftwerk Altbach/Deizisau,EnBW Energie Baden-Württemberg AG,433.0,Coal,1985,Altbach,73776,Industriestraße 11,Baden-Württemberg
+24,HKW Altenstadt,Heizkraftwerk Altenstadt GmbH & Co. KG,9.8,Biomass,1999,Altenstadt,86972,Triebstraße 90,Bayern
+25,,,25.7,Wind,2003,Altlüdersdorf,16775,,Brandenburg
+26,KW Amlach,TIWAG-Tiroler Wasserkraft AG,60.0,Hydro,1989,Amlach,,,Österreich
+27,Kesselhaus Zuckerfabrik,Suiker Unie GmbH & Co. KG,15.1,Gas,1993,Anklam,17389,Bluthsluster Str. 24,Mecklenburg-Vorpommern
+28,,Windpark Fehnland GmbH & Co. KG Renditefonds,19.8,Wind,2001,Apen,26689,,Niedersachsen
+29,Zellstoff Stendal GmbH,Zellstoff Stendal GmbH,138.9,Biomass,2004,Arneburg,39596,Goldbecker Straße 1,Sachsen-Anhalt
+30,,SachsenFonds GmbH & Co. Windpark I KG,31.5,Wind,2001,Arneburg,39596,,Sachsen-Anhalt
+31,,,85.5,Wind,2001,Arneburg,39596,,Sachsen-Anhalt
+32,Solarpark Petzenbach,ESK Solarenergie GmbH & Co. KG,10.0,Solar,2010,Arnstorf,94424,,Bayern
+33,,e.disnatur Erneuerbare Energien GmbH,12.0,Wind,2002,Artern,6556,,Thüringen
+34,Gasturbine,Stadtwerke Augsburg Energie GmbH,30.7,Gas,2004,Augsburg ,86167,Beim Grenzgraben 10,Bayern
+35,,Bürgerwindpark Königsmoor GmbH & Co KG,19.5,Wind,2009,Aurich,26607,,Niedersachsen
+36,,,14.4,Wind,2002,Aurich,26607,,Niedersachsen
+37,,,15.9,Wind,1999,Ausleben,39393,,Sachsen-Anhalt
+38,,,12.0,Wind,2002,Ausleben,39393,,Sachsen-Anhalt
+39,,,10.0,Wind,1999,Ausleben,39393,,Sachsen-Anhalt
+40,Bard Offshore 1,Ocean Breeze Energy GmbH & Co. KG,400.0,Wind,2013,Nordsee ,,90 km nordwestlich von Borkum,AWZ
+41,Egglfing,Innwerk AG,84.0,Hydro,1944,Bad Füssing,94072,Am Innwerk 13,Bayern
+42,,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,35.8,Wind,1999,Bad Langensalza,99947,,Thüringen
+43,Windpark Wiegleben,ENERCON Windpark GmbH & Co. Wiegleben KG,9.0,Wind,2001,Bad Langensalza,99947,,Thüringen
+44,Windpark Wiegleben II,Windpark Wiegleben II GmbH & Co. KG,6.0,Wind,2010,Wiegleben,99947,,Thüringen
+45,Rheinkraftwerk Säckingen,EnBW Energie Baden-Württemberg AG,36.8,Hydro,1966,Bad Säckingen,79713,Murger Weg 2,Baden-Württemberg
+46,Säckingen,Schluchseewerk Aktiengesellschaft,360.0,Hydro,1966,Bad Säckingen,79713,Stollenweg 2,Baden-Württemberg
+47,,EREM European Renewable Energy Management GmbH & Co. 8.German Wind KG,10.5,Wind,2001,Bad Salzuflen,32108,,Nordrhein-Westfalen
+48,,Luftstrom Kinzig Trasse GmbH & Co. ,18.0,Wind,2009,Bad Soden-Salmünster,63628,,Hessen
+49,,Windpark Büren GmbH & Co. KG,10.0,Wind,2009,Bad Wünnenberg,33181,,Nordrhein-Westfalen
+50,,,16.5,Wind,2002,Badel,39624,,Sachsen-Anhalt
+51,KWK-Anlage Barby,Cargill Deutschland GmbH,17.8,Gas,1994,Barby,39249,Monplaisirstr. 22,Sachsen-Anhalt
+52,,,10.8,Wind,2001,Barleben,39179,,Sachsen-Anhalt
+53,,,16.9,Wind,2005,Barsinghausen,30890,,Niedersachsen
+54,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,32.0,Wind,2009,Bartelsdorf,27383,,Niedersachsen
+55,UTB,Pfleiderer Baruth GmbH,16.0,Biomass,2002,Baruth/Mark,15837,An der Birkenpfuhlheide 3,Brandenburg
+56,UW Basedow,ENERTRAG Aktiengesellschaft,21.9,Wind,2009,Basedow,17291,"Gemarkung Klinkow, Flur 1, Flurstück 109",Brandenburg
+57,,BHT-Windpark GmbH & Co. Hollwedel KG,14.0,Wind,2004,Bassum,27211,,Niedersachsen
+58,HKW Kassel,Volkswagen AG,12.2,Gas,,Baunatal,34225,,Hessen
+59,"GuD Baunatal, VW Werksgelände",Volkswagen AG,78.0,Gas,2011,Baunatal,34225,,Hessen
+60,,Breeze Two Energy GmbH & Co. KG,24.0,Wind,2006,Bedburg ,50181,,Nordrhein-Westfalen
+61,,,10.5,Wind,2002,Beerfelde,15518,,Brandenburg
+62,BHW Beeskow,Sonae Arauco Beeskow GmbH,18.3,Biomass,2001,Beeskow,15848,,Brandenburg
+63,Beeskow-Neuendorf,Breeze Four Energy GmbH & Co. KG,30.0,Wind,2002,Beeskow,15848,,Brandenburg
+64,Windpark Berge / Kleeste,Windpark Berge-Kleeste GmbH & Co. KG,28.8,Wind,2003,Berge,19348,,Brandenburg
+65,Bergheim,Donau-Wasserkraft AG,23.7,Hydro,1970,Bergheim,86673,,Bayern
+66,BMKW Bergkamen,Innogy SE,17.7,Biomass,2005,Bergkamen,59192,Ernst-Schering-Straße 10,Nordrhein-Westfalen
+67,Bergkamen,STEAG GmbH,717.0,Coal,1981,Bergkamen,59192,,Nordrhein-Westfalen
+68,HHKW Berlin-Neukölln,innogy SE,16.5,Biomass,2004,Berlin,12355,Köpenicker Straße 32,Berlin
+69,Mitte,Vattenfall Wärme Berlin AG,444.0,Gas,1996,Berlin,10179,Köpenicker Straße 60,Berlin
+70,Charlottenburg,Vattenfall Wärme Berlin AG,144.0,Gas,1975,Berlin,10589,Am Spreebord 5,Berlin
+71,Lichterfelde,Vattenfall Wärme Berlin AG,144.0,Gas,1972,Berlin,12207,Ostpreußendamm 61,Berlin
+72,Lichterfelde,Vattenfall Wärme Berlin AG,144.0,Gas,1974,Berlin,12207,Ostpreußendamm 61,Berlin
+73,Lichterfelde,Vattenfall Europe Wärme AG,144.0,Gas,,Berlin,12207,Ostpreußendamm 61,Berlin
+74,Klingenberg,Vattenfall Wärme Berlin AG,164.0,Gas,1981,Berlin,10317,Köpenicker Chaussee 42 - 45 ,Berlin
+75,Reuter,Vattenfall Wärme Berlin AG,124.0,Coal,1969,Berlin,13599,Otternbuchtstr. 11,Berlin
+76,Wilmersdorf,Vattenfall Wärme Berlin AG,92.0,Oil,1977,Berlin,14199,Forckenbeckstr. 3 - 6,Berlin
+77,Wilmersdorf,Vattenfall Wärme Berlin AG,184.0,Oil,1977,Berlin,14199,Forckenbeckstr. 3 - 6,Berlin
+78,Reuter,Vattenfall Wärme Berlin AG,36.0,Waste,1998,Berlin,13599,Otternbuchtstr. 11,Berlin
+79,Moabit,Vattenfall Wärme Berlin AG,89.0,Coal,1990,Berlin,13353,Friedrich-Krause-Ufer 10- 15,Berlin
+80,Moabit,Vattenfall Wärme Berlin AG,17.0,Oil,1971,Berlin,13353,Friedrich-Krause-Ufer 10- 15,Berlin
+81,Moabit,Vattenfall Wärme Berlin AG,34.0,Oil,1971,Berlin,13353,Friedrich-Krause-Ufer 10- 15,Berlin
+82,Reuter West,Vattenfall Wärme Berlin AG,282.0,Coal,1987,Berlin,13599,Großer Spreering 5,Berlin
+83,Reuter West,Vattenfall Wärme Berlin AG,282.0,Coal,1988,Berlin,13599,Großer Spreering 5,Berlin
+84,Industriekraftwerk Bernburg (IKB),Solvay Chemicals GmbH,140.5,Gas,1994,Bernburg,6406,,Sachsen-Anhalt
+85,Dampfturbinenanlage der EBS-Kessel,Solvay Chemicals GmbH,35.0,Waste,2009,Bernburg,6406,,Sachsen-Anhalt
+86,,Erzeugergemeinschaft Dittersbach GbR,20.8,Wind,2003,Bernstadt a. d. Eigen,2748,,Sachsen
+87,ENERTRAG Netz GmbH  (UW Bertikow),ENERTRAG Aktiengesellschaft,20.0,Biomass,2006,Bertikow,17291,,Brandenburg
+88,UW Bertikow,ENERTRAG Aktiengesellschaft,328.0,Wind,2003,Weselitz,17291,"Flur 1, Flurst. 130/1",Brandenburg
+89,Windpark Falkenwalde,Theolia Naturenergien GmbH,12.0,Wind,2004,Uckerfelde-Kleinow,17291,,Brandenburg
+90,Windpark Holste / Ringstedt,Windpark GmbH & Co. Weserbrise KG,25.2,Wind,2006,Beverstedt,27616,,Niedersachsen
+91,Kraftwerk Bexbach,STEAG GmbH,726.0,Coal,1983,Bexbach,66450,Grubenstraße,Saarland
+92,MVA Bielefeld,MVA Bielefeld-Herford GmbH,34.0,Waste,1981,Bielefeld,33609,Schelpmilser Weg 30,Nordrhein-Westfalen
+93,HKW Schildescher Straße,Stadtwerke Bielefeld GmbH,23.0,Gas,1977,Bielefeld,33611,,Nordrhein-Westfalen
+94,Gasturbinenkraftwerk Bielefeld Ummeln,Uniper Kraftwerke GmbH ,55.0,Gas,1975,Bielefeld,33649,,Nordrhein-Westfalen
+95,GuD Kraftwerk Hillegossen,Stadtwerke Bielefeld GmbH,37.5,Gas,2005,Bielefeld,33697,,Nordrhein-Westfalen
+96,HKW Schildescher Straße,Stadtwerke Bielefeld GmbH,41.0,Gas,1966,Bielefeld,33611,,Nordrhein-Westfalen
+97,Windparks Biere und Borne,"UWB Umspannwerk Betriebsgesellschaft Biere mbH, UWB Umspannwerk Betriebsgesellschaft Borne mbH",94.5,Wind,1999,Biere,39221,,Sachsen-Anhalt
+98,Biomassekraftwerk Bischofferode,Stadtwerke Leipzig GmbH,18.1,Biomass,2005,Bischofferode,37345,,Thüringen
+99,,Bau- und Umwelttechnik Gesellschaft für ökologisches Investment mbH & Co.Windwelt KG,20.0,Wind,2003,Bischofswerda,1877,,Sachsen
+100,GuD Bitterfeld,envia THERM GmbH,106.0,Gas,2000,Bitterfeld,6749,,Sachsen-Anhalt
+101,,Zellstoff- und Papierfabrik Rosenthal GmbH,53.5,Biomass,1999,Blankenstein,7366,Hauptstraße 16,Thüringen
+102,Bliesdorf,Neue GHF Bliesdorf-Ketzin GmbH & Co. KG,33.5,Wind,2001,Bliesdorf,16269,,Brandenburg
+103,,CaSa Energy GmbH,10.0,Wind,2007,Bocholt,46395,,Nordrhein-Westfalen
+104,Bochum,RWE Generation SE,20.7,Gas,2004,Bochum,44799,,Nordrhein-Westfalen
+105,HKW Hiltrop,Stadtwerke Bochum Holding GmbH,44.0,Gas,2013,Bochum,44805,,Nordrhein-Westfalen
+106,Windpark Bockelwitz,BKW Deutschland GmbH,15.0,Wind,1999,Bockelwitz,4703,,Sachsen
+107,,,12.0,Wind,2003,Bockenem,31167,,Niedersachsen
+108,,Windpark Hiddels GmbH & Co. Betriebs KG,18.3,Wind,2000,Bockhorn,26345,,Niedersachsen
+109,Lippendorf,Lausitz Energie Kraftwerke AG,875.0,Coal,2000,Böhlen,4007,Werkstraße,Sachsen
+110,Braunkohlekraftwerk Lippendorf,EnBW Energie Baden-Württemberg AG,875.0,Coal,1999,Böhlen,4564,Werkstraße,Sachsen
+111,Heizkraftwerk Karlstraße,Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH,12.0,Waste,1990,Bonn,53115,,Nordrhein-Westfalen
+112,Heizkraftwerk Karlstraße,Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH,95.0,Gas,2013,Bonn,53115,,Nordrhein-Westfalen
+113,Heizkraftwerk Süd,Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH,14.4,Gas,,Bonn,53121,,Nordrhein-Westfalen
+114,,Mönikes Energie GmbH & Co. KG,16.8,Wind,2002,Borchen,33178,,Nordrhein-Westfalen
+115,,H & P Windkraft GmbH & Co. KG,11.8,Wind,2001,Borchen,33178,,Nordrhein-Westfalen
+116,,,11.4,Biomass,2006,Borken,46325,,Nordrhein-Westfalen
+117,Boxberg,Lausitz Energie Kraftwerke AG,465.0,Coal,1979,Boxberg,2943,Am Kraftwerk 1,Sachsen
+118,Boxberg,Lausitz Energie Kraftwerke AG,465.0,Coal,1980,Boxberg,2943,Am Kraftwerk 1,Sachsen
+119,Boxberg,Lausitz Energie Kraftwerke AG,857.0,Coal,2000,Boxberg,2943,Am Kraftwerk 1,Sachsen
+120,,Wind 100 GmbH & Co.KG,10.0,Wind,2004,Boxberg,97944,,Baden-Württemberg
+121,,Windpark Braderup GmbH & Co.KG ,11.8,Wind,2005,Braderup,25923,,Schleswig-Holstein
+122,,Windpark Brake GmbH & Co KG Renditefonds,10.0,Wind,2002,Brake,26919,,Niedersachsen
+123,,FWE Windpark Wittstedt K/S c/o ESSEX INVEST A/S,19.5,Wind,2001,Bramstedt,27628,,Niedersachsen
+124,HKW,StWB Stadtwerke Brandenburg an der Havel GmbH & Co. KG,36.0,Gas,1997,Brandenburg,14772,,Brandenburg
+125,Kirchmöser,Uniper Kraftwerke GmbH ,160.0,Gas,1994,Brandenburg,14774,,Brandenburg
+126,,,18.6,Solar,2010,Brandenburg,14770,,Brandenburg
+127,Waldpolenz Energiepark FF 2,SachsenFonds Solar II GmbH & Co. KG,7.98,Solar,2008,Brandis,4821,,Sachsen
+128,Waldpolenz Energiepark FF 3,SachsenFonds Solar III GmbH & Co. KG,8.0,Solar,2008,Brandis,4821,,Sachsen
+129,Waldpolenz Energiepark FF 1,SachsenFonds Solar I GmbH & Co. KG,24.1,Solar,2007,Brandis,4821,,Sachsen
+130,HKW-Mitte,Braunschweiger Versorgungs-AG & Co. KG,20.0,Gas,1971,Braunschweig,38106,,Niedersachsen
+131,HKW-Mitte,Braunschweiger Versorgungs-AG & Co. KG,74.0,Gas,2010,Braunschweig,38106,,Niedersachsen
+132,HKW-Nord,Braunschweiger Versorgungs-AG & Co. KG,25.0,Gas,1965,Braunschweig,38112,,Niedersachsen
+133,HKW-Mitte,Braunschweiger Versorgungs-AG & Co. KG,43.3,Coal,1984,Braunschweig,38106,,Niedersachsen
+134,KW Hafen,swb Entsorgung GmbH & Co. KG,33.0,Waste,2009,Bremen,28237,Otavistr. 7-9,Bremen
+135,KW Hastedt,swb Erzeugung GmbH & Co. KG,155.0,Gas,,Bremen,28207,Hastedter Osterdeich 255,Bremen
+136,KW Mittelsbüren,swb Erzeugung AG & Co. KG,86.0,Oil,1975,Bremen,28237,Auf den Delben 35,Bremen
+137,KW Mittelsbüren,ArcelorMittal Bremen GmbH,160.0,Other,1975,Bremen,28237,Auf den Delben 35,Bremen
+138,KW Mittelsbüren,swb Erzeugung GmbH & Co. KG,110.0,Other,,Bremen,28237,Auf den Delben 35,Bremen
+139,KW Hastedt,swb Erzeugung AG & Co. KG,119.0,Coal,1989,Bremen,28207,Hastedter Osterdeich 255,Bremen
+140,KW Hafen,swb Erzeugung GmbH & Co. KG,127.0,Coal,1968,Bremen,28237,Otavistr. 7-9,Bremen
+141,KW Hafen,swb Erzeugung AG & Co. KG,303.0,Coal,1979,Bremen,28237,Otavistr. 7-9,Bremen
+142,Farge,ENGIE Deutschland AG,350.0,Coal,1969,Bremen,28777,Wilhelmshavener Str. 6,Bremen
+143,,WindRAT Bremen GmbH & Co.KG,13.2,Wind,2004,Bremen,28237,,Bremen
+144,,swb Weserwind GmbH & Co. KG,12.0,Wind,2001,Bremen,28237,,Bremen
+145,,,10.0,Wind,2002,Bremen,28307,,Bremen
+146,Windpark Lehe,Stadtwerke Bochum Holding GmbH,10.0,Wind,2008,Bremerhaven,27576,,Bremen
+147,Windpark Speckenbüttel,Stadtwerke Bochum Holding GmbH,5.0,Wind,2006,Bremerhaven,27580,,Bremen
+148,Windpark Speckenbüttel,Stadtwerke Bochum Holding GmbH,5.0,Wind,2004,Bremerhaven,27580,,Bremen
+149,,Windpark Altenbruch GmbH & Co. Betriebs-KG,14.3,Wind,1999,Brest,21698,,Niedersachsen
+150,,,10.0,Wind,2006,Briesen OT Biegen,15518,,Brandenburg
+151,,,17.9,Wind,2002,Briest,16306,,Brandenburg
+152,Egger Kraftwerk Brilon,Egger Holzwerkstoffe Brilon GmbH & Co. KG,18.0,Biomass,1991,Brilon ,59929,Im Kissen 19,Nordrhein-Westfalen
+153,Egger Kraftwerk Brilon,Egger Holzwerkstoffe Brilon GmbH & Co. KG,13.5,Gas,1996,Brilon ,59929,Im Kissen 19,Nordrhein-Westfalen
+154,Brokdorf,Preussen Elektra GmbH,1410.0,Nuclear,1986,Brokdorf,25576,,Schleswig-Holstein
+155,,,14.0,Wind,2005,Bruchhausen-Vilsen,27305,,Niedersachsen
+156,,,10.0,Wind,2010,Bruchhausen-Vilsen,27305,,Niedersachsen
+157,Brunsbüttel,Vattenfall Europe Nuclear Energy GmbH,63.5,Oil,,Brunsbüttel,25541,Otto Hahn Str. 76,Schleswig-Holstein
+158,Brunsbüttel,Vattenfall Europe Nuclear Energy GmbH,63.5,Oil,,Brunsbüttel,25541,Otto Hahn Str. 76,Schleswig-Holstein
+159,Brunsbüttel,Vattenfall Europe Nuclear Energy GmbH,63.5,Oil,,Brunsbüttel,25541,Otto Hahn Str. 76,Schleswig-Holstein
+160,Brunsbüttel,Vattenfall Europe Nuclear Energy GmbH,63.5,Oil,,Brunsbüttel,25541,Otto Hahn Str. 76,Schleswig-Holstein
+161,Brunsbüttel,ERG Power Generation S.p.A.,20.0,Wind,2004,Brunsbüttel,25541,,Schleswig-Holstein
+162,,Windpark Brunsbüttel GmbH ,20.0,Wind,2010,Brunsbüttel,25542,,Schleswig-Holstein
+163,,Windpark Brunsbüttel GmbH ,10.0,Wind,2010,Brunsbüttel,25541,,Schleswig-Holstein
+164,Windpark Weimar,"Windfarm Weimar GmbH & Co.KG, RheinEnergieAG",12.0,Wind,2002,Bucha,7751,,Thüringen
+165,Windpark Buchholz,EnBW Onshore Portfolio GmbH,36.0,Wind,2009,Buchholz (Aller),29690,,Niedersachsen
+166,,,16.0,Wind,2007,Burg,39288,,Sachsen-Anhalt
+167,Burghausen 01 - GT,Wacker Chemie AG,120.0,Gas,2001,Burghausen,84489,Johannes-Hess Straße 24,Bayern
+168,Burghausen 01 - DT,Wacker Chemie AG,50.0,Gas,1979,Burghausen,84489,Johannes-Hess Straße 24,Bayern
+169,Alzwerke,Alzwerke GmbH,45.0,Hydro,1922,Burghausen,84489,Johannes-Hess Straße 24,Bayern
+170,Industriepark Werk Gendorf,InfraServ GmbH & Co. Gendorf KG,73.1,Gas,2002,Burgkirchen,84508,,Bayern
+171,,Edrifta GmbH & Co. KG,14.5,Solar,2010,Busenwurth,25719,,Schleswig-Holstein
+172,,ACR Biokraftwerk Calbe Invest GmbH & Co. KG,10.2,Biomass,1996,Calbe,,,Sachsen-Anhalt
+173,HKW Chemnitz  Nord II,eins - energie in sachsen GmbH & Co. KG,56.8,Coal,1988,Chemnitz,9115,,Sachsen
+174,HKW Chemnitz  Nord II,eins - energie in sachsen GmbH & Co. KG,57.2,Gas,1986,Chemnitz,9114,,Sachsen
+175,HKW Chemnitz  Nord II,eins - energie in sachsen GmbH & Co. KG,90.8,Coal,1990,Chemnitz,9116,,Sachsen
+176,,Denker & Wulf AG ,10.5,Wind,2000,Cismar,23743,,Schleswig-Holstein
+177,,,12.0,Wind,2010,Clenze,29459,,Niedersachsen
+178,,,12.4,Wind,2002,Coesfeld,48653,,Nordrhein-Westfalen
+179,HKW Cottbus,Stadtwerke Cottbus mbH,74.0,Coal,1999,Cottbus,3052,,Brandenburg
+180,Windpark Altenbruch II,PNE WIND AG,25.8,Wind,2009,Cuxhaven-Altenbruch,27478,,Niedersachsen
+181,,Windpark Dahlenburg GmbH & Co. KG,36.0,Wind,2003,Dahlenburg,21368,,Niedersachsen
+182,WP Dargelütz,E.ON Climate & Renewables GmbH,21.6,Wind,2006,Parchim,19374,,Mecklenburg-Vorpommern
+183,Datteln,Uniper Kraftwerke GmbH ,95.0,Coal,1964,Datteln,45711,,Nordrhein-Westfalen
+184,Datteln,Uniper Kraftwerke GmbH ,95.0,Coal,1964,Datteln,45711,,Nordrhein-Westfalen
+185,Datteln,Uniper Kraftwerke GmbH ,113.0,Coal,1969,Datteln,45711,,Nordrhein-Westfalen
+186,,ENERTRAG Aktiengesellschaft,48.0,Wind,,Dauer,17292,,Brandenburg
+187,,Danpower Energie Service GmbH,18.4,Biomass,2004,Delitzsch,4509,,Sachsen
+188,,Knock on Wood GmbH,20.0,Biomass,,Delitzsch,4509,,Sachsen
+189,,Zweite Volkswind GmbH & Co KG,10.0,Wind,2004,Delmenhorst,27755,,Niedersachsen
+190,Kraftwerk Dessau,Fernwärmeversorgungs-GmbH Dessau,39.0,Gas,1996,Dessau-Roßlau,6842,,Sachsen-Anhalt
+191,,Windpark Nienhagen GmbH & Co. KG,10.0,Wind,2008,Detmold,32758,,Nordrhein-Westfalen
+192,Deuben,Mitteldeutsche Braunkohlengesellschaft mbH,67.0,Coal,1936,Teuchern,6682,,Sachsen-Anhalt
+193,,WP Höne Planungs- u. Betriebs GmbH & Co.KG,16.2,Wind,2003,Dinklage,49413,,Niedersachsen
+194,,Windpark Littdorf GmbH & Co. KG,10.5,Wind,1999,Döbeln,4720,,Sachsen
+195,Dormagen,RWE Generation SE,586.0,Gas,2000,Dormagen,41539,,Nordrhein-Westfalen
+196,,DIF Windpark Heede GmbH & Co.KG,16.5,Wind,2000,Dörpen,26892,,Niedersachsen
+197,"Windpark Dörpum GmbH & Co. KG, Infrastrukturgesellschaft Windpark Norstedt GmbH, BL Wind GmbH & Co. KG, Bürgerwindpark Bordelum III GmbH & Co. KG",UW Dörpum GmbH,89.5,Wind,2001,Dörpum,25821,,Schleswig-Holstein
+198,"Windpark Reußenköge GmbH & Co. I KG,  Windpark Reußenköge III GmbH & Co. KG,  Windpark Reußenköge III GmbH & Co. Pionier KG,  Windpark Reußenköge IV GmbH & Co. KG,  Windpark Reußenköge V GmbH & Co. KG, Windpark Reußenköge VI GmbH & Co. KG",UW Reußenköge GmbH,99.85,Wind,2013,Reußenköge,25821,,Schleswig-Holstein
+199,Dortmund,RWE Generation SE,26.0,Gas,2004,Dortmund,44143,,Nordrhein-Westfalen
+200,Knepper,Uniper Kraftwerke GmbH ,345.0,Coal,1971,Dortmund,44357,,Nordrhein-Westfalen
+201,,Windkraft Iserloy GmbH & Co KG,12.0,Wind,2001,Dötlingen,27801,,Niedersachsen
+202,,Windpark Greifenhain GmbH & Co. KG,20.0,Wind,2009,"Drebkau, OT Casel",3116,,Brandenburg
+203,HKW Dresden-Nossener Brücke,DREWAG Stadtwerke Dresden GmbH,260.0,Gas,1995,Dresden ,1169,Oederaner Str. 21 - 25,Sachsen
+204,,Windfeld Drochtersen Netz- und Abrechnungs GbR,11.0,Wind,2003,Drochtersen,21706,,Niedersachsen
+205,Windpark Druxberge,Umspannwerke Druxberge GmbH & Co. KG c/o Windstrom GmbH,116.7,Wind,2003,Druxberge,39365,,Sachsen-Anhalt
+206,Windpark Dubener Platte,BKW Deutschland GmbH,40.0,Wind,2010,Luckau,15926,,Brandenburg
+207,HKW I,Stadtwerke Duisburg AG,95.0,Coal,1985,Duisburg,47053,Zirkelstraße,Nordrhein-Westfalen
+208,HKW II/B,Stadtwerke Duisburg AG,133.0,Coal,1965,Duisburg,47053,Zirkelstraße,Nordrhein-Westfalen
+209,HKW III/A,Stadtwerke Duisburg AG,40.0,Gas,2002,Duisburg,47249,Wanheimer Straße 439-454,Nordrhein-Westfalen
+210,HKW III/B,Stadtwerke Duisburg AG,234.0,Gas,2005,Duisburg,47249,Wanheimer Straße 439-454,Nordrhein-Westfalen
+211,KW Walsum,Steag GmbH,129.0,Coal,1959,Duisburg,47179,Dr. Wilhelm-Roelen-Str.129,Nordrhein-Westfalen
+212,KW Walsum,Steag GmbH,370.0,Coal,1988,Duisburg,47180,Dr. Wilhelm-Roelen-Str.129,Nordrhein-Westfalen
+213,KW Walsum,STEAG-EVN Walsum 10 Kraftwerksgesellsellschaft mbH,725.0,Coal,2013,Duisburg,47180,Dr. Wilhelm-Roelen-Str.129,Nordrhein-Westfalen
+214,Duisburg Ruhrort 2,ThyssenKrupp Steel Europe AG,60.0,Other,1955,Duisburg - Ruhrort,47166,,Nordrhein-Westfalen
+215,Duisburg Ruhrort 3,ThyssenKrupp Steel Europe AG,95.0,Other,1963,Duisburg - Ruhrort,47166,,Nordrhein-Westfalen
+216,Duisburg Ruhrort 4,ThyssenKrupp Steel Europe AG,170.0,Other,1968,Duisburg - Ruhrort,47166,,Nordrhein-Westfalen
+217,GuD,Stadtwerke Düsseldorf AG,100.0,Gas,2000,Düsseldorf,40221,Auf der Lausward 75,Nordrhein-Westfalen
+218,GT,Stadtwerke Düsseldorf AG,64.7,Gas,1975,Düsseldorf,40221,Auf der Lausward 75,Nordrhein-Westfalen
+219,GT,Stadtwerke Düsseldorf AG,66.7,Gas,1974,Düsseldorf,40221,Auf der Lausward 75,Nordrhein-Westfalen
+220,Gasblock,Stadtwerke Düsseldorf AG,293.0,Gas,1977,Düsseldorf,40221,Auf der Lausward 75,Nordrhein-Westfalen
+221,GT,Stadtwerke Düsseldorf AG,86.2,Oil,1972,Düsseldorf,40233,Behrenstraße 85,Nordrhein-Westfalen
+222,DT,Stadtwerke Düsseldorf AG,48.9,Waste,1955,Düsseldorf,40233,Behrenstraße 85,Nordrhein-Westfalen
+223,DT,Stadtwerke Düsseldorf AG,53.7,Waste,2000,Düsseldorf,40233,Behrenstraße 85,Nordrhein-Westfalen
+224,,,24.2,Solar,2010,Eberswalde,16227,,Brandenburg
+225,,DK Bürgerwindpark Eckolstädt GmbH & Co. KG,14.3,Wind,1999,Eckolstädt,99510,,Thüringen
+226,,Windpark Oelerse I-III GmbH & Co. Infrastruktur KG,15.6,Wind,1999,Edemissen,31234,,Niedersachsen
+227,Waldeck1/Bringhausen,Uniper Kraftwerke GmbH ,145.0,Hydro,1931,Edertal Hemfurth-Edersee,34549,Kraftwerkstraße 10,Hessen
+228,Waldeck 2,Uniper Kraftwerke GmbH ,480.0,Hydro,1974,Edertal Hemfurth-Edersee,34549,Kraftwerkstraße 10,Hessen
+229,Hemfurth,Uniper Kraftwerke GmbH ,20.0,Hydro,1915,Edertal Hemfurth-Edersee,34549,Ederstraße,Hessen
+230,Werkskraftwerk Sappi Ehingen,Sappi Ehingen GmbH,13.2,Biomass,1990,Ehingen,89584,Kessel 5 - Turbine 5,Baden-Württemberg
+231,Werkskraftwerk Sappi Ehingen,Sappi Ehingen GmbH,8.0,Biomass,1961,Ehingen,89584,Kessel 4 - Turbine 3,Baden-Württemberg
+232,Werkskraftwerk Sappi Ehingen,Sappi Ehingen GmbH,4.0,Gas,1977,Ehingen,89584,Kessel 6 - Turbine 4,Baden-Württemberg
+233,Kombikraftwerk,Stora Enso Sachsen GmbH,46.6,Gas,1993,Eilenburg,4838,Am Schanzberg 1,Sachsen
+234,,,17.6,Wind,1998,Eisenach,99817,,Thüringen
+235,,Green Energy GmbH,14.4,Wind,2004,Eisenach,99819,,Thüringen
+236,EBS-Heizkraftwerk,Progroup Power 1 GmbH,23.5,Other,2011,Eisenhüttenstadt,15890,,Brandenburg
+237,IKW,ArcelorMittal Eisenhüttenstadt GmbH,45.0,Other,1954,Eisenhüttenstadt,15890,Werkstraße 1,Brandenburg
+238,IKW,ArcelorMittal Eisenhüttenstadt GmbH,56.0,Other,2013,Eisenhüttenstadt,15890,Werkstraße 1,Brandenburg
+239,Huntorf,Uniper Kraftwerke GmbH ,321.0,Gas,1978,Elsfleth,26931,,Niedersachsen
+240,,Wehrder Bürgerwp.u. Wehrderwp. 1.Betr. u. Wp Wehrder Bautr. GmbH,23.4,Wind,2000,Elsfleth,26931,,Niedersachsen
+241,,Huntorfer Windpark GmbH & Co. KG und Bürgerwp. Huntorf GmbH,11.5,Wind,2006,Elsfleth,26931,,Niedersachsen
+242,,Danpower GmbH,12.6,Biomass,2004,Elsterwerda,4910,,Brandenburg
+243,HKW Eltmann,Palm Power GmbH & Co. KG,57.0,Gas,2007,Eltmann,97483,Industriestraße 23,Bayern
+244,Emden Biomasse,Statkraft Markets GmbH,22.0,Biomass,2005,Emden,26725,,Niedersachsen
+245,Emden Gas,Statkraft Markets GmbH,52.0,Biomass,1973,Emden,26725,,Niedersachsen
+246,Emden Gas,Statkraft Markets GmbH,433.0,Gas,1973,Emden,26725,,Niedersachsen
+247,,EWE ERNEUERBARE ENERGIEN GmbH,26.8,Wind,1997,Emden,,Am Neuen Seedeich / Wolfsburger Straße,Niedersachsen
+248,Windpark Wybelsumer Polder ,Windpark Wybelsumer Polder GmbH & Co. KG,30.0,Wind,2000,Emden,26723,,Niedersachsen
+249,Windpark SWE (Larrelter Polder),Stadtwerke Emden GmbH,29.6,Wind,1994,Emden,26723,,Niedersachsen
+250,Windpark Rysumer Nacken,BARD Holding GmbH,6.5,Wind,2012,Emden,26723,,Niedersachsen
+251,Windpark Rysumer Nacken,BARD Holding GmbH,6.5,Wind,2012,Emden,26723,,Niedersachsen
+252,Biomasse-HKW,innogy SE,10.6,Biomass,2013,Emlichheim,49824,Neuerostraße 8,Niedersachsen
+253,,innogy SE,10.6,Biomass,2013,Emlichheim,49824,Emslandstr. 900 Z,Niedersachsen
+254,Grohnde,Preussen Elektra GmbH,1360.0,Nuclear,1985,Emmerthal,31857,,Niedersachsen
+255,Kraftwerk Ensdorf,Gemeinschaft nach Bruchteilen der Saarstahl AG (SAG) und Saarschmiede GmbH Freiformschmiede (SSF),283.0,Coal,2011,Ensdorf,66806,Kurt Kessler Str. 1,Saarland
+256,Kraftwerk Ensdorf,"VSE AG, Kraftwerk Ensdorf",106.0,Coal,1963,Ensdorf,66806,Kurt-Kessler-Str.,Saarland
+257,Windpark Erfstadt,Enercon Windpark GmbH & Co. Erfstadt KG,12.0,Wind,2005,Erfstadt,50374,,Nordrhein-Westfalen
+258,HKW Iderhoffstraße,SWE Energie GmbH,11.0,Gas,1996,Erfurt,99085,,Thüringen
+259,HKW Erfurt-Ost,SWE Energie GmbH,76.5,Gas,1999,Erfurt,99087,,Thüringen
+260,HKW Erfurt-Ost,SWE Energie GmbH,32.6,Gas,2014,Erfurt,99087,,Thüringen
+261,,Ventimotor GmbH & Co.UHW KG,22.0,Wind,2005,Erfurt,99094,,Thüringen
+262,,Windpark Katzenberg GmbH & Co. KG,11.9,Wind,2004,Erfurt-Kerspleben,99198,,Thüringen
+263,Ering,Innwerk AG,72.5,Hydro,1942,Ering,94140,Innwerkstraße 38,Bayern
+264,,Windpark Erkelenz Nr. 14,20.7,Wind,2000,Erkelenz,41812,,Nordrhein-Westfalen
+265,HKW Erlangen,Erlanger Stadtwerke AG,21.6,Gas,2005,Erlangen,91052, Äußere Bruckerstr. 33,Bayern
+266,HKW Erlangen,Erlanger Stadtwerke AG,17.4,Coal,1982,Erlangen,91052, Äußere Bruckerstr. 33,Bayern
+267,HKW Erlangen,Erlanger Stadtwerke AG,6.7,Gas,2014,Erlangen,, Äußere Bruckerstr. 33,Bayern
+268,WP Esperstedt-Obhausen,WEO GmbH & Co. KG,40.0,Wind,2009,Esperstedt,6279,Außenbereich,Sachsen-Anhalt
+269,Isar 2,Preussen Elektra GmbH,1410.0,Nuclear,1988,Essenbach,84051,,Bayern
+270,,Windpark Kesfeld-Heckhuscheid GmbH & Co. KG,32.5,Wind,2005,Euscheid,54597,,Rheinland-Pfalz
+271,,Fehmarn Netz GmbH & Co. KG,119.6,Wind,2006,Fehmarn,23769,"Osterhof, Däschendorf",Schleswig-Holstein
+272,,Bürger-Windpark-Westfehmarn GmbH & Co. KG,11.9,Wind,2000,Fehmarn,23769,,Schleswig-Holstein
+273,,Windpark Fehmarn-Mitte GmbH & Co. KG,11.5,Wind,2006,Fehmarn,23769,,Schleswig-Holstein
+274,Windpark Feldheim VI,Energiequelle GmbH & Co. Windpark Feldheim KG,12.0,Wind,2005,Feldheim,14929,,Brandenburg
+275,WP Feldheim,Windpark GmbH & Co. Feldheim KG,20.0,Wind,2006,Feldheim,14913,,Brandenburg
+276,Pumpspeicherwerk Rönkhausen,Mark-E AG,138.0,Hydro,1969,Finnentrop,57413,,Nordrhein-Westfalen
+277,HKW Flensburg,Stadtwerke Flensburg GmbH,30.0,Oil,,Flensburg,24939,Batteriestr. 48,Schleswig-Holstein
+278,Heizkraftwerk FL,Stadtwerke Flensburg GmbH,31.0,Coal,1992,Flensburg,24939,Batteriestr. 48,Schleswig-Holstein
+279,Heizkraftwerk FL,Stadtwerke Flensburg GmbH,33.0,Coal,1989,Flensburg,24939,Batteriestr. 48,Schleswig-Holstein
+280,Heizkraftwerk FL,Stadtwerke Flensburg GmbH,33.0,Coal,1985,Flensburg,24939,Batteriestr. 48,Schleswig-Holstein
+281,Heizkraftwerk FL,Stadtwerke Flensburg GmbH,35.0,Coal,1982,Flensburg,24939,Batteriestr. 48,Schleswig-Holstein
+282,Heizkraftwerk FL,Stadtwerke Flensburg GmbH,23.0,Coal,1978,Flensburg,24939,Batteriestr. 48,Schleswig-Holstein
+283,Windpark Flomborn,Windpark Flomborn / Stetten GmbH & Co. KG,12.0,Wind,1999,Flomborn,55234,,Rheinland-Pfalz
+284,BMKW Flörsheim Wicker,MVV Energie AG,12.6,Biomass,2003,Flörsheim Wicker,65439,Am Steinmühlenweg 5,Hessen
+285,Rudolf-Fettweis-Werk     ,EnBW Energie Baden-Württemberg AG,22.0,Hydro,1918,Forbach,76596,Werkstraße 5,Baden-Württemberg
+286,Rudolf-Fettweis-Werk     ,EnBW Energie Baden-Württemberg AG,43.0,Hydro,1926,Forbach,76596,Werkstraße 5,Baden-Württemberg
+287,,,28.0,Wind,2007,Förderstedt,39443,,Sachsen-Anhalt
+288,,,27.0,Wind,2009,Förderstedt,39443,,Sachsen-Anhalt
+289,,,18.0,Wind,2006,Förderstedt,39443,,Sachsen-Anhalt
+290,BKF,Mainova AG,12.4,Biomass,2004,Frankfurt am Main,60382,Alt Fechenheim 34,Hessen
+291,Heizkraftwerk FFO,Stadtwerke Frankfurt (Oder) GmbH,48.0,Gas,1997,Frankfurt Oder,15236,,Brandenburg
+292,HKW Niederrad,Mainova AG,70.0,Gas,2004,Frankfurt am Main,60528,Lyoner Straße  8,Hessen
+293,HKW West,Mainova AG,99.0,Gas,1994,Frankfurt am Main,60627,Gutleutstraße 231,Hessen
+294,MHKW Frankfurt,Mainova AG,26.0,Waste,1969,Frankfurt am Main,60440,Heddernheimer Landstraße 158,Hessen
+295,MHKW Frankfurt,Mainova AG,46.5,Waste,2006,Frankfurt am Main,60439,Heddernheimer Landstraße 157,Hessen
+296,HKW Niederrad,Mainova AG,56.0,Gas,,Frankfurt am Main,60528,Lyoner Straße  9,Hessen
+297,HKW West,Mainova AG,19.7,Other,,Frankfurt am Main,60627,Gutleutstraße 231,Hessen
+298,HKW West,Mainova AG,61.5,Coal,1988,Frankfurt am Main,60627,Gutleutstraße 231,Hessen
+299,HKW West,Mainova AG,61.5,Coal,1989,Frankfurt am Main,60627,Gutleutstraße 231,Hessen
+300,,,11.0,Wind,1995,Frauenprießnitz,7774,,Thüringen
+301,Frechen/Wachtberg,RWE Power AG,176.0,Coal,1959,Frechen,50226,,Nordrhein-Westfalen
+302,GuD Anlage WVK,Rhodia Acetow GmbH,38.6,Gas,1998,Freiburg,79108,,Baden-Württemberg
+303,,Energiekontor Windkraft GmbH & Co. WP OE KG,15.0,Wind,1999,Freiburg,21729,,Niedersachsen
+304,,Energiekontor Ökofonds GmbH & Co. WP BD KG,11.5,Wind,2003,Freiburg,21729,,Niedersachsen
+305,,Bürgerwindpark Oederquart Erschließungsges.mbH & Co.,10.0,Wind,2003,Freiburg,21729,,Niedersachsen
+306,Bürgerwindpark Freren,BW-Bürgerwindpark Freren Verwaltungsgesellschaft mbH,35.4,Wind,2007,Freren ,49832,Bardel,Niedersachsen
+307,,BVT Windpark Sustrum/Renkenberge GmbH & Co. KG,25.5,Wind,1998,Fresenburg,49762,,Niedersachsen
+308,,Windpark Freyenstein-Halenbeck GmbH & Co. KG,16.0,Wind,2006,Freyenstein,16918,,Brandenburg
+309,,,34.2,Wind,2000,Friesoythe,26169,,Niedersachsen
+310,,SachsenFonds Windpark IV GmbH & Co. KG,14.0,Wind,2002,Friesoythe,26169,,Niedersachsen
+311,Frimmersdorf,RWE Power AG,129.0,Coal,1957,Frimmersdorf,41517,,Nordrhein-Westfalen
+312,Frimmersdorf,RWE Power AG,130.0,Coal,1957,Frimmersdorf,41517,,Nordrhein-Westfalen
+313,Frimmersdorf,RWE Power AG,124.0,Coal,1960,Frimmersdorf,41517,,Nordrhein-Westfalen
+314,Frimmersdorf,RWE Power AG,130.0,Coal,1959,Grevenbroich-Frimmersdorf,41517,,Nordrhein-Westfalen
+315,Frimmersdorf,RWE Power AG,132.0,Coal,1960,Grevenbroich-Frimmersdorf,41517,,Nordrhein-Westfalen
+316,Frimmersdorf,RWE Power AG,128.0,Coal,1960,Frimmersdorf,41517,,Nordrhein-Westfalen
+317,Frimmersdorf,RWE Power AG,136.0,Coal,1962,Frimmersdorf,41517,,Nordrhein-Westfalen
+318,Frimmersdorf,RWE Power AG,135.0,Coal,1964,Grevenbroich-Frimmersdorf,41517,,Nordrhein-Westfalen
+319,Frimmersdorf,RWE Power AG,138.0,Coal,1962,Grevenbroich-Frimmersdorf,41517,,Nordrhein-Westfalen
+320,Frimmersdorf,RWE Power AG,131.0,Coal,1962,Grevenbroich-Frimmersdorf,41517,,Nordrhein-Westfalen
+321,Frimmersdorf,RWE Power AG,133.0,Coal,1964,Grevenbroich-Frimmersdorf,41517,,Nordrhein-Westfalen
+322,Frimmersdorf,RWE Power AG,284.0,Coal,1966,Grevenbroich-Frimmersdorf,41517,,Nordrhein-Westfalen
+323,Frimmersdorf,RWE Power AG,278.0,Coal,1970,Grevenbroich-Frimmersdorf,41517,,Nordrhein-Westfalen
+324,,Windpark Ermsleben GmbH & Co. KG,18.0,Wind,2010,Frose,6464,72 im Flur 4 Gemarkung Rheinstedt,Sachsen-Anhalt
+325,,Winag Neue Energie GmbH & Co. Reinstedt KG,12.3,Wind,2010,Frose,6464,,Sachsen-Anhalt
+326,Kraftwerk Fulda,RhönEnergie Fulda GmbH,24.8,Oil,2011,Fulda,36043,,Hessen
+327,,Bürgerwindpark Galmsbüll GmbH ,10.8,Wind,2006,Galmsbüll,25899,,Schleswig-Holstein
+328,,PWG GmbH & Co. Bürgerwindpark Grüppenbühren KG,11.6,Wind,2000,Ganderkesee,27777,,Niedersachsen
+329,,Windpark Breberen GmbH & Co. KG,18.0,Wind,2005,Gangelt ,52538,,Nordrhein-Westfalen
+330,,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,58.0,Wind,2006,Gangloffsömmern,99634,,Thüringen
+331,Gars,VERBUND-Innkraftwerke GmbH,25.0,Hydro,1938,Gars,83536,Agg 4,Bayern
+332,,REWAG Regensburger Energie-und Wasserversorgung AG&Co. KG,10.0,Wind,2010,Gattendorf,95185,,Bayern
+333,Geesthacht,Vattenfall Wasserkraft GmbH,119.1,Hydro,1958,Geesthacht,21502,Elbuferstr. 49,Schleswig-Holstein
+334,Geesthacht,Vattenfall Wasserkraft GmbH,,Hydro,1958,Geesthacht,21502,Elbuferstr. 49,Schleswig-Holstein
+335,Geesthacht,Vattenfall Wasserkraft GmbH,,Hydro,1958,Geesthacht,21502,Elbuferstr. 49,Schleswig-Holstein
+336,Scholven,Uniper Kraftwerke GmbH ,345.0,Coal,1969,Gelsenkirchen,45896,,Nordrhein-Westfalen
+337,Scholven,Uniper Kraftwerke GmbH ,345.0,Coal,1968,Gelsenkirchen,45896,,Nordrhein-Westfalen
+338,Scholven,Uniper Kraftwerke GmbH ,345.0,Coal,1970,Gelsenkirchen,45896,,Nordrhein-Westfalen
+339,Scholven,Uniper Kraftwerke GmbH ,345.0,Coal,1971,Gelsenkirchen,45896,,Nordrhein-Westfalen
+340,Scholven,Uniper Kraftwerke GmbH ,676.0,Coal,1979,Gelsenkirchen,45896,,Nordrhein-Westfalen
+341,FWK Buer,Uniper Kraftwerke GmbH ,70.0,Coal,1985,Gelsenkirchen,45896,,Nordrhein-Westfalen
+342,PSW Langenprozelten,Donau-Wasserkraft AG,164.0,Hydro,1974,Gemünden,97737,,Bayern
+343,,,20.0,Wind,2009,Genthin,39307,,Sachsen-Anhalt
+344,,,16.0,Wind,2009,Genthin,39307,,Sachsen-Anhalt
+345,,,16.0,Wind,2009,Genthin,39307,,Sachsen-Anhalt
+346,,,15.0,Wind,2002,Genthin,39307,,Sachsen-Anhalt
+347,,,11.7,Wind,2001,Genthin,39307,,Sachsen-Anhalt
+348,Heizkraftwerk Gera-Nord,Energieversorgung Gera GmbH,74.0,Gas,1996,Gera,7546,Siemensstraße 45,Thüringen
+349,,Windpark K/S Difko Gerdshagen / Dänemark,14.0,Wind,2005,Gerdshagen,16928,,Brandenburg
+350,,Trianel Onshore Winkraftwerk Gerdshagen/ Falkenhagen II GmbH & Co. KG,6.9,Wind,2013,Gerdshagen,16928,,Brandenburg
+351,,Gnannenweiler Windnetz GmbH & Co. KG,16.8,Wind,2009,Gerstetten,89547,,Baden-Württemberg
+352,,Ecomill Windpark GmbH & Co. Giersleben KG,12.8,Wind,1999,Giersleben,6449,,Sachsen-Anhalt
+353,Windpark Karstädt,ENGIE WP Portfolio 2 GmbH,22.0,Wind,2007,Glövzin,19357,,Brandenburg
+354,Goldisthal,Vattenfall Wasserkraft GmbH,1052.0,Hydro,2004,Goldisthal,98746,Am Rotseifenbach,Thüringen
+355,Goldisthal,Vattenfall Wasserkraft GmbH,,Hydro,2003,Goldisthal,98746,Am Rotseifenbach,Thüringen
+356,Goldisthal,Vattenfall Wasserkraft GmbH,,Hydro,2003,Goldisthal,98746,Am Rotseifenbach,Thüringen
+357,Goldisthal,Vattenfall Wasserkraft GmbH,,Hydro,2004,Goldisthal,98746,Am Rotseifenbach,Thüringen
+358,HKW Göttingen,Georg-August-Universität Göttingen Stiftung Öffentlichen Rechts,18.8,Gas,1998,Göttingen,37075,Rudolf-Diesel-Straße 1,Niedersachsen
+359,Grafenrheinfeld,E.ON Kernkraft GmbH,1275.0,Nuclear,,Grafenrheinfeld,97506,,Bayern
+360,,,14.0,Wind,2003,Gransee,16775,,Brandenburg
+361,"HKW ""Helmshäger Berg""",Stadtwerke Greifswald GmbH,14.7,Gas,1996,Greifswald,17489,,Mecklenburg-Vorpommern
+362,Kraftwerk Grenzach-Wyhlen,KGW - Kraftwerk Grenzach-Wyhlen GmbH,30.0,Gas,2017,Grenzach-Wyhlen,79639,,Baden-Württemberg
+363,KW Wyhlen,Energiedienst AG,37.9,Hydro,1912,Grenzach-Wyhlen,79639,,Baden-Württemberg
+364,Jochenstein,Innwerk AG,66.0,Hydro,1955,Griesbach,94107,Am Kraftwerk 2,Bayern
+365,,Acciona Energie Windparks Deutschland GmbH,10.0,Wind,2006,Gröditz,1609,,Sachsen
+366,,,11.6,Wind,2002,Gronau,48599,,Nordrhein-Westfalen
+367,,Windpark Niedere Börde GmbH & Co. KG,12.0,Wind,2006,Groß Santersleben,39343,,Sachsen-Anhalt
+368,,Windpark Großberndten GmbH & Co. KG c/o Deutsche Structured Finance GmbH,21.9,Wind,2003,Großberndten,99713,,Thüringen
+369,Spitzenlastkraftwerk Sermuth,envia THERM GmbH,17.0,Oil,1995,Großbothen,4668,,Sachsen
+370,,Windpark Timmeler Kampen II/Reidenweg GmbH & Co. KG,23.9,Wind,1998,Großefehn,26629,,Niedersachsen
+371,,,11.8,Wind,1995,Großenkneten,26197,,Niedersachsen
+372,,AOS WP Bissel GmbH & Co KG,10.8,Wind,2000,Großenkneten,26197,,Niedersachsen
+373,Spitzenlastkraftwerk Großkayna,envia THERM GmbH,120.0,Oil,1994,Großkayna,6242,,Sachsen-Anhalt
+374,Staudinger,Uniper Kraftwerke GmbH ,572.0,Gas,1977,Großkrotzenburg,63538,,Hessen
+375,Staudinger,Uniper Kraftwerke GmbH ,249.0,Coal,1965,Großkrotzenburg,63538,,Hessen
+376,Staudinger,Uniper Kraftwerke GmbH ,293.0,Coal,1970,Großkrotzenburg,63538,,Hessen
+377,Staudinger,Uniper Kraftwerke GmbH ,510.0,Coal,1992,Großkrotzenburg,63538,,Hessen
+378,Ingolstadt,Uniper Kraftwerke GmbH ,386.0,Oil,1973,Großmehring,85098,,Bayern
+379,Ingolstadt,Uniper Kraftwerke GmbH ,386.0,Oil,1974,Großmehring,85098,,Bayern
+380,EEW Großräschen,EEW Energy from Waste Großräschen GmbH,23.3,Waste,2007,Großräschen,1983,,Brandenburg
+381,Kernkraft Gundremmingen ,RWE Power AG,1284.0,Nuclear,1984,Gundremmingen,89355,,Bayern
+382,Kernkraft Gundremmingen ,RWE Power AG,1288.0,Nuclear,1984,Gundremmingen,89355,,Bayern
+383,,Windpark Altmark GmbH & Co. Infrastruktur KG,32.0,Wind,2006,Güssefeld,39624,,Sachsen-Anhalt
+384,KWK Gütersloh,Pfleiderer Gütersloh GmbH,12.1,Biomass,2000,Gütersloh,33332,Stadtring Nordhorn 61,Nordrhein-Westfalen
+385,Energiezentrum Mohn Media,Mohn Media Mohndruck GmbH,25.0,Gas,1994,Gütersloh,33334,Carl Bertelsmann Straße 161,Nordrhein-Westfalen
+386,Windpark Hartenfelser Kopf,Breeze Two Energy GmbH & Co. KG,26.0,Wind,2006,Hachenburg,56244,,Rheinland-Pfalz
+387,Biomasse-Verstromungs-Anlage,Mark-E AG,20.0,Biomass,2004,Hagen,58099,,Nordrhein-Westfalen
+388,Heizkraftwerk Hagen-Kabel,Mark-E AG,230.0,Gas,1980,Hagen,58099,,Nordrhein-Westfalen
+389,,Umspannwerke Druxberge GmbH & Co. KG c/o Windstrom GmbH,82.7,Wind,1999,Hakenstedt,39343,,Sachsen-Anhalt
+390,,Windpark Freyenstein-Halenbeck GmbH & Co. KG,18.0,Wind,2006,Halenbeck,16945,,Brandenburg
+391,HKW Halle Trotha,EVH GmbH,97.0,Gas,2005,Halle,6130,Dieselstraße 141,Sachsen-Anhalt
+392,HKW Halle Trotha,Heizkraftwerk Halle-Trotha GmbH,56.1,Gas,2013,Halle,6130,Brachwitzer Straße 23,Sachsen-Anhalt
+393,,,19.8,Wind,2003,Halle,37619,,Niedersachsen
+394,Duisburg Hamborn 3,ThyssenKrupp Steel Europe AG,59.0,Other,1958,Hamborn,47166,,Nordrhein-Westfalen
+395,Duisburg Hamborn 4,ThyssenKrupp Steel Europe AG,101.0,Other,1976,Hamborn,47166,,Nordrhein-Westfalen
+396,Duisburg Hamborn 5,ThyssenKrupp Steel Europe AG,225.0,Other,2003,Hamborn,47166,,Nordrhein-Westfalen
+397,MVR Müllverwertung Rugenberger Damm GmbH & Co. KG,MVR Müllverwertung Rugenberger Damm GmbH & Co. KG,24.0,Waste,1999,Hamburg,21129,Rugenberger Damm 1,Hamburg
+398,Müllverwertung Borsigstraße MVB,Müllverwertung Borsigstraße GmbH,20.0,Biomass,2005,Hamburg,22113,Borsigstraße 3,Hamburg
+399,GuD Tiefstack,Wärme Hamburg GmbH,127.0,Gas,2009,Hamburg,22113,Andreas-Meyer-Straße 8,Hamburg
+400,Heizkraftwerk,ADM Hamburg Aktiengesellschaft,22.5,Gas,1993,Hamburg,21107,Nippoldstr. 117,Hamburg
+401,Tiefstack,Wärme Hamburg GmbH,194.0,Coal,1993,Hamburg,22113,Andreas-Meyer-Straße 8,Hamburg
+402,Wedel,Wärme Hamburg GmbH,123.0,Coal,1962,Wedel,22880,Tinsdaler Weg 146,Schleswig-Holstein
+403,Wedel,Wärme Hamburg GmbH,137.0,Coal,1961,Wedel,22880,Tinsdaler Weg 146,Schleswig-Holstein
+404,,,12.0,Wind,2009,Hamburg,21129,,Hamburg
+405,Windpark Hamburg,Windpark GmbH & Co. Hamburg KG,12.0,Wind,2009,Hamburg,21129,,Hamburg
+406,,,12.2,Wind,1995,Hamburg,21039,,Schleswig-Holstein
+407,Enertec Hameln,Enertec Hameln GmbH,13.2,Waste,1913,Hameln,31789,,Niedersachsen
+408,Enertec Hameln,Enertec Hameln GmbH,14.5,Biomass,2002,Hameln,31789,,Niedersachsen
+409,,Windpark Hamersen GmbH & Co. KG,18.0,Wind,2007,Hamersen,27419,,Niedersachsen
+410,Trianel Gaskraftwerk ,Trianel Gaskraftwerk Hamm GmbH & Co. KG ,407.0,Gas,2008,Hamm,59071,Trianelstraße 1,Nordrhein-Westfalen
+411,Trianel Gaskraftwerk ,Trianel Gaskraftwerk Hamm GmbH & Co. KG ,410.0,Gas,2008,Hamm,59071,Trianelstraße 1,Nordrhein-Westfalen
+412,Westfalen,RWE Generation SE,284.0,Coal,1969,Hamm-Uentrop,59071,,Nordrhein-Westfalen
+413,Westfalen,RWE Generation SE,765.0,Coal,2014,Hamm-Uentrop,59071,,Nordrhein-Westfalen
+414,Westfalen,RWE Generation SE,763.7,Coal,2014,Hamm-Uentrop,59071,,Nordrhein-Westfalen
+415,Westfalen,RWE Generation SE,152.0,Coal,1963,Hamm-Uentrop,59071,,Nordrhein-Westfalen
+416,Westfalen,RWE Generation SE,152.0,Coal,1963,Hamm-Uentrop,59071,,Nordrhein-Westfalen
+417,Windpark Handewitt,Denker & Wulf AG,10.8,Wind,1996,Handewitt,24983,,Schleswig-Holstein
+418,EEW Energy from Waste Hannover GmbH,EEW Energy from Waste Hannover GmbH,22.5,Waste,2005,Hannover,30659,,Niedersachsen
+419,GKL,enercity AG,230.0,Gas,1998,Hannover,30169,,Niedersachsen
+420,KWH,enercity AG,102.0,Gas,1975,Hannover,30419,,Niedersachsen
+421,GKH,enercity AG,136.0,Coal,1989,Hannover,30419,,Niedersachsen
+422,GKH,enercity AG,136.0,Coal,1989,Hannover,30419,,Niedersachsen
+423,Happurg,Uniper Kraftwerke GmbH ,160.0,Hydro,1958,Happurg,91230,Haupstraße 26,Bayern
+424,Windparks Schwanebeck und Wulferstedt,WP Schwanebeck u. Wulferstedt Infrastruktur GbR,30.0,Wind,2003,Harsleben,38829,,Sachsen-Anhalt
+425,Windparks Gröningen und Wegeleben,Windpark Wegeleben GmbH & Co. KG und Wind Am Speckberg GmbH,28.0,Wind,2006,Harsleben,38829,,Sachsen-Anhalt
+426,,Raiffeisenwindpark Haselünne Flechum GmbH & Co. KG,19.5,Wind,1999,Haselünne,49740,,Niedersachsen
+427,Häusern,Schluchseewerk Aktiengesellschaft,100.0,Hydro,1931,Häusern,79837,Schwarzabruck 2,Baden-Württemberg
+428,Kraftwerk Hausham,Peissenberger Kraftwerksgesellschaft mbH,23.4,Oil,1982,Hausham,83734,,Bayern
+429,Kraftwerk Hausham,Peissenberger Kraftwerksgesellschaft mbH,23.4,Oil,1982,Hausham,83734,,Bayern
+430,Kraftwerk Hausham,Peissenberger Kraftwerksgesellschaft mbH,23.4,Oil,1982,Hausham,83734,,Bayern
+431,Kraftwerk Hausham,Peissenberger Kraftwerksgesellschaft mbH,23.4,Oil,1982,Hausham,83734,,Bayern
+432,Windfarm Heckelberg-Breydin,Windpark Heckelberg-Breydin GmbH & Co. KG,27.0,Wind,2005,Heckelberg-Brunow und Breydin,,,Brandenburg
+433,Windfarm Heckelberg-Breydin,,10.0,Wind,2004,Heckelberg-Brunow und Breydin,,,Brandenburg
+434,Heizkraftwerk Heilbronn,EnBW Energie Baden-Württemberg AG,125.0,Coal,1965,Heilbronn,74076,Lichtenbergerstraße 23,Baden-Württemberg
+435,Heizkraftwerk Heilbronn,EnBW Energie Baden-Württemberg AG,125.0,Coal,1966,Heilbronn,74076,Lichtenbergerstraße 23,Baden-Württemberg
+436,Heizkraftwerk Heilbronn,EnBW Energie Baden-Württemberg AG,778.0,Coal,1985,Heilbronn,74076,Lichtenbergerstraße 23,Baden-Württemberg
+437,,,18.0,Wind,2004,Heinsberg,52525,,Nordrhein-Westfalen
+438,,GVK Windpark Hellenthal GmbH & Co. KG WKA Oberreifferscheid Süd,10.2,Wind,2001,Hellenthal,53940,,Nordrhein-Westfalen
+439,TRV Buschhaus,EEW Energy from Waste Helmstedt GmbH,37.5,Waste,1999,Helmstedt,38350,,Niedersachsen
+440,Buschhaus,Helmstedter Revier GmbH,352.0,Coal,1985,Helmstedt,38350,,Niedersachsen
+441,WP Treue/Treue Ost,E.ON Climate & Renewables GmbH,15.8,Wind,2007,Helmstedt,38350,Bundesstraße L640,Niedersachsen
+442,,NEIF (Merinda Windpark) GmbH & Co. KG,12.0,Wind,2003,Helmstedt,38350,,Niedersachsen
+443,Cuno Heizkraftwerk Herdecke,Mark-E AG / Statkraft Markets,417.0,Gas,2007,Herdecke,58313,,Nordrhein-Westfalen
+444,Koepchenwerk,RWE Power AG,165.0,Hydro,1989,Herdecke,,,Nordrhein-Westfalen
+445,Wintershall,K+S AG,69.0,Gas,2009,Heringen,,,Hessen
+446,Mehringer Höhe,juwi Beteiligungs GmbH & Co. Naturpower 10KG ,22.3,Wind,2005,Herl ,54317,,Rheinland-Pfalz
+447,KW Herne,Steag GmbH,133.0,Coal,1963,Herne,44653,Hertener Str. 16,Nordrhein-Westfalen
+448,Shamrock,Uniper Kraftwerke GmbH ,132.0,Coal,1957,Herne,44652,,Nordrhein-Westfalen
+449,KW Herne,Steag GmbH,280.0,Coal,1966,Herne,44654,Hertener Str. 16,Nordrhein-Westfalen
+450,KW Herne,Steag GmbH,449.0,Coal,1989,Herne,,Hertener Str. 16,Nordrhein-Westfalen
+451,Heynitz,Breeze Four Energy GmbH & Co. KG,20.3,Wind,2002,Heynitz,1683,,Sachsen
+452,,Windpark Hinte GmbH & Co. Ost KG,13.2,Wind,2001,Hinte,26759,,Niedersachsen
+453,,,26.0,Wind,2006,Höchstenbach,57629,,Rheinland-Pfalz
+454,,Anlagenbetreiber Windpark Ohe/Höfer deanBV Verwaltungs-GmbH,11.5,Wind,2002,Höfer,29361,,Niedersachsen
+455,Windpark Hohen Pritz,Windpark Hohen Pritz GbR,21.0,Wind,2001,Hohen Pritz,19089,,Mecklenburg-Vorpommern
+456,Windpark Krusemark,Theolia Naturenergien GmbH,12.0,Wind,2005,Hohenberg-Krusemark,39596,,Sachsen-Anhalt
+457,KWM,Kraftwerk Mehrum GmbH,690.0,Coal,1979,Hohenhameln OT Mehrum,31249,,Niedersachsen
+458,Hohenwarte 1,Vattenfall Wasserkraft GmbH,59.8,Hydro,1959,Hohenwarte,7338,Preßwitzer Str. 25,Thüringen
+459,Hohenwarte 1,Vattenfall Wasserkraft GmbH,,Hydro,1959,Hohenwarte,7338,Preßwitzer Str. 25,Thüringen
+460,Hohenwarte 2,Vattenfall Wasserkraft GmbH,317.8,Hydro,1965,Hohenwarte,7338,Preßwitzer Str. 25,Thüringen
+461,Hohenwarte 2,Vattenfall Wasserkraft GmbH,,Hydro,1965,Hohenwarte,7338,Preßwitzer Str. 25,Thüringen
+462,Hohenwarte 2,Vattenfall Wasserkraft GmbH,,Hydro,1965,Hohenwarte,7338,Preßwitzer Str. 25,Thüringen
+463,Hohenwarte 2,Vattenfall Wasserkraft GmbH,,Hydro,1966,Hohenwarte,7338,Preßwitzer Str. 25,Thüringen
+464,Hohenwarte 2,Vattenfall Wasserkraft GmbH,,Hydro,1965,Hohenwarte,7338,Preßwitzer Str. 25,Thüringen
+465,Hohenwarte 2,Vattenfall Wasserkraft GmbH,,Hydro,1966,Hohenwarte,7338,Preßwitzer Str. 25,Thüringen
+466,Hohenwarte 2,Vattenfall Wasserkraft GmbH,,Hydro,1966,Hohenwarte,7338,Preßwitzer Str. 25,Thüringen
+467,Hohenwarte 2,Vattenfall Wasserkraft GmbH,,Hydro,1966,Hohenwarte,7338,Preßwitzer Str. 25,Thüringen
+468,,Windpark Westerwald GmbH,18.0,Wind,2004,Höhn,56462,,Rheinland-Pfalz
+469,,Germania Windpark GmbH & Co KG,24.6,Wind,1996,Holtgast,26427,,Niedersachsen
+470,,PROKON Regenerative Energien eG,20.0,Wind,2007,Homburg,66424,,Saarland
+471,,GHP Glunz  Holzwerkstoffproduktion GmbH,,Biomass,,Horn-Bad Meinberg,32805,Bahnhofstraße 57,Nordrhein-Westfalen
+472,Windpark Horst,PROKON Regenerative Energien eG,10.4,Wind,1999,Horst,25358,,Schleswig-Holstein
+473,Huckingen,Hüttenwerke Krupp Mannesmann GmbH,303.0,Other,1976,Duisburg-Huckingen,47259,,Nordrhein-Westfalen
+474,Huckingen,Hüttenwerke Krupp Mannesmann GmbH,303.0,Other,1977,Duisburg-Huckingen,47259,,Nordrhein-Westfalen
+475,,,25.6,Wind,2002,Hude,27798,,Niedersachsen
+476,,WKN Windkraft Nord GmbH & Co. Windpark Huje KG ,21.45,Wind,2000,Huje,25588,,Schleswig-Holstein
+477,Goldenberg,RWE Power AG,40.0,Coal,1992,Hürth,50354,,Nordrhein-Westfalen
+478,Goldenberg,RWE Power AG,,Coal,1993,Hürth,50354,,Nordrhein-Westfalen
+479,Goldenberg,RWE Power AG,45.0,Coal,1993,Hürth,50354,,Nordrhein-Westfalen
+480,Ville/Berrenrath,RWE Power AG,98.0,Coal,1917,Hürth,50354,,Nordrhein-Westfalen
+481,RAG Anthrazit Ibbenbüren GmbH,RAG Anthrazit Ibbenbüren GmbH,33.4,Gas,2000,Ibbenbüren,49477,,Nordrhein-Westfalen
+482,Ibbenbüren,RWE Generation SE,794.0,Coal,1985,Ibbenbüren,49479,,Nordrhein-Westfalen
+483,Rheinkraftwerk Iffezheim,Rheinkraftwerk Iffezheim GmbH,148.0,Hydro,1978,Iffezheim,76473,An der Staustufe 27,Baden-Württemberg
+484,Windpark Ihlow,Enercon Windpark GmbH & Co. Ihlow KG,58.1,Wind,1999,Ihlow,26632,,Niedersachsen
+485,WP Ihlow,Enercon Windpark GmbH & Co. Ihlow KG,15.0,Wind,2000,Ihlow,26632,,Niedersachsen
+486,KW Imst,TIWAG-Tiroler Wasserkraft AG,89.0,Hydro,1956,Imsterberg,,,Österreich
+487,ADS-Anlage,Infraserv GmbH & Co. Höchst KG,96.5,Gas,2012,Industriepark Höchst,65926,,Hessen
+488,Heizkraftwerk,Infraserv GmbH & Co. Höchst KG,66.0,Coal,1989,Industriepark Höchst,65926,,Hessen
+489,Heizkraftwerk,Infraserv GmbH & Co. Höchst KG,86.0,Gas,2003,Industriepark Höchst,65926,,Hessen
+490,,Boehringer Ingelheim Pharma GmbH & Co. KG,12.4,Biomass,2004,Ingelheim,55218,,Rheinland-Pfalz
+491,,UWB Umspannwerk Betriebsgesellschaft Sallentin mbH,27.0,Wind,2003,Jeggeleben,29416,,Sachsen-Anhalt
+492,HKW Jena,TEAG Thüringer Energie AG,182.0,Gas,1996,Jena,7749,,Thüringen
+493,KW Jenbach,TIWAG-Tiroler Wasserkraft AG,79.0,Hydro,1927,Jenbach,,,Österreich
+494,,Windpark Jever GbR,12.2,Wind,2002,Jever,26441,,Niedersachsen
+495,,Windpark Jülicher Land GmbH,9.5,Wind,2005,Jülich,52428,,Nordrhein-Westfalen
+496,Windpark Jülicher Börde,MVV Energie AG,10.5,Wind,2005,Jülich,52428,Gereonstr. 6,Nordrhein-Westfalen
+497,,Windpark Jürgenshagen GmbH & Co.Betriebs-KG Renditefonds,11.8,Wind,2002,Jürgenshagen,18246,,Mecklenburg-Vorpommern
+498,,Windfarm Zettingen GmbH,12.5,Wind,2009,Kaisersesch ,56759,,Rheinland-Pfalz
+499,HKW Karcherstr.,"SWK Stadtwerke Kaiserslautern, Versorgungs-AG",11.6,Gas,1989,Kaiserslautern,67655,,Rheinland-Pfalz
+500,HKW Karcherstr.,"SWK Stadtwerke Kaiserslautern, Versorgungs-AG",13.4,Coal,1996,Kaiserslautern,67655,,Rheinland-Pfalz
+501,,,22.95,Wind,2001,Kalbe,39624,,Sachsen-Anhalt
+502,,Windpark Kall GmbH & Co WPKA KG,10.0,Wind,2009,Kall,53925,,Nordrhein-Westfalen
+503,,EST Elektro-Spezial-Technik Inh. Steffen Stecher,12.8,Wind,2001,Kamenz,1917,,Sachsen
+504,Rheinhafen-Dampfkraftwerk,EnBW Energie Baden-Württemberg AG,353.0,Gas,1998,Karlsruhe,76189,Fettweisstraße 42,Baden-Württemberg
+505,Heizkraftwerk West,Stadtwerke Karlsruhe GmbH,37.0,Gas,1984,Karlsruhe,76189,,Baden-Württemberg
+506,MiRO,MiRO Mineraloelraffinerie Oberrhein GmbH & Co. KG,45.0,Oil,1995,Karlsruhe,76187,,Baden-Württemberg
+507,MiRO,MiRO Mineraloelraffinerie Oberrhein GmbH & Co. KG,25.0,Oil,1995,Karlsruhe,76187,,Baden-Württemberg
+508,Rheinhafen-Dampfkraftwerk,EnBW Energie Baden-Württemberg AG,517.0,Coal,1985,Karlsruhe,76189,Fettweisstraße 42,Baden-Württemberg
+509,Rheinhafen-Dampfkraftwerk,EnBW Energie Baden-Württemberg AG,834.0,Coal,2014,Karlsruhe,76189,Fettweisstraße 42,Baden-Württemberg
+510,Karnap,RWE Generation SE,38.0,Waste,1987,Essen,45329,,Nordrhein-Westfalen
+511,Stora Enso Maxau,Stora Enso Maxau GmbH,78.0,Biomass,2010,Karlsruhe,76187,,Baden-Württemberg
+512,Kombi-HKW,Städtische Werke Energie + Wärme GmbH,48.31,Gas,1988,Kassel,34134,,Hessen
+513,FKK,Städtische Werke Energie + Wärme GmbH,33.5,Coal,1989,Kassel,34134,,Hessen
+514,,,13.3,Wind,1995,Kesdorf,23701,,Schleswig-Holstein
+515,Gemeinschaftskraftwerk Kiel,Gemeinschaftskraftwerk Kiel GmbH,323.0,Coal,1970,Kiel,24149,,Schleswig-Holstein
+516,HKW Humboldtstr.,Stadtwerke Kiel AG,21.5,Gas,2005,Kiel,24116,,Schleswig-Holstein
+517,Braunau-Simbach,Innwerk AG,100.0,Hydro,1953,Kirchdorf,84375,Ach 6,Bayern
+518,,Windpark Großenehrich GmbH & Co. KG Renditefonds,22.0,Wind,2004,Kirchengel,99718,,Thüringen
+519,KW Kirchlengern,Energieservice Westfalen Weser GmbH,125.0,Gas,1981,Kirchlengern,32278,,Nordrhein-Westfalen
+520,Windpark Kirchwistedt,REG Regenerative Energien Standortentwicklung Gmbh & Co. Kirchwistedt KG,18.6,Wind,2005,Kirchwistedt,27616,,Niedersachsen
+521,Windpark Vollersode,Windpark GmbH & Co. Weserbrise KG,6.4,Wind,2006,Kirchwistedt,27616,,Niedersachsen
+522,Windpark Kisselbach,Breeze Two Energy GmbH & Co. KG,22.4,Wind,2006,Kisselbach,56291,,Rheinland-Pfalz
+523,,Windpark Klein Twülpstedt GmbH & Co. KG,14.3,Wind,2000,Klein Twülpstedt,38464,,Niedersachsen
+524,,ewz Windpark Kleinbrembach GmbH,16.0,Wind,2006,Kleinbrembach,99610,,Thüringen
+525,,Solarkraftwerk Reckahn I GmbH & Co. KG,35976.0,Solar,2010,Kloster Lehnin OT Reckahn,14797,,Brandenburg
+526,,GSI Photovoltaik Projektgesellschaft Helbra mbH,10.63,Solar,2010,Klostermansfeld,6308,,Sachsen-Anhalt
+527,Walchensee,Uniper Kraftwerke GmbH ,124.0,Hydro,1924,Kochel am See,82431,Altjoch 21,Bayern
+528,,,38.0,Wind,2003,Kodersdorf,2923,,Sachsen
+529,,IBERDROLA Renovables Deutschland GmbH,10.0,Wind,2005,Kölleda,99625,,Thüringen
+530,HKW Merkenich,RheinEnergie AG,75.3,Coal,2010,Köln,50769,,Nordrhein-Westfalen
+531,HKW Südstadt,RheinEnergie AG,35.0,Gas,1994,Köln,50677,,Nordrhein-Westfalen
+532,HKW Niehl 2,RheinEnergie AG,413.0,Gas,2005,Köln,50735,,Nordrhein-Westfalen
+533,HKW Merkenich,RheinEnergie AG,108.0,Gas,2004,Köln,50769,,Nordrhein-Westfalen
+534,Shell Deutschland Oil GmbH,Shell Deutschland Oil GmbH,97.1,Oil,2004,Köln,50997,Godorfer Hauptstr. 150,Nordrhein-Westfalen
+535,Knapsack Gas I,Knapsack Power GmbH & Co. KG,800.0,Gas,2007,Hürth-Knapsack,50351,,Nordrhein-Westfalen
+536,Knapsack Gas II,Statkraft Markets GmbH,430.0,Gas,2013,Hürth-Knapsack,50351,,Nordrhein-Westfalen
+537,BMKW Königs Wusterhausen,MVV Energie AG,17.1,Biomass,2003,Königs Wusterhausen,15711,Am Nordhafen 12,Brandenburg
+538,UW Körbelitz Wind,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,68.0,Wind,2008,Körbelitz,39175,,Sachsen-Anhalt
+539,,,18.0,Wind,2009,Körbelitz,39175,,Sachsen-Anhalt
+540,UW Körbelitz,ENERTRAG Aktiengesellschaft,12.0,Wind,2006,Körbelitz,39175,Woltersdorfer Str.,Sachsen-Anhalt
+541,BMHKW-BinderHolz,BinderHolz Deutschland GmbH,15.13,Biomass,2007,Kösching,85092,Einsteinstraße 9,Bayern
+542,,ASPERG SECHSTE SOLAR GmbH,12.9,Solar,2008,Köthen,6366,,Sachsen-Anhalt
+543,,KOGEP vierzehn GmbH & Co. Solar 1411 KG,11666.0,Solar,2010,Köthen,6366,,Sachsen-Anhalt
+544,KWK-Anlage Krefeld DT,Cargill Deutschland GmbH,25.8,Gas,1999,Krefeld,47809,Düsseldorfer Str. 191,Nordrhein-Westfalen
+545,KWK-Anlage Krefeld VM,Cargill Deutschland GmbH,14.0,Gas,1999,Krefeld,47809,Düsseldorfer Str. 191,Nordrhein-Westfalen
+546,Kraftwerk L 57,Currenta GmbH & Co. OHG,26.0,Coal,1957,Krefeld-Uerdingen,47812,"CHEMPARK, Geb. L 57",Nordrhein-Westfalen
+547,Kraftwerk N 230,Currenta GmbH & Co. OHG,110.0,Coal,1971,Krefeld-Uerdingen,47812,"CHEMPARK, Geb. N 230",Nordrhein-Westfalen
+548,Erzhausen,Statkraft Markets GmbH,220.0,Hydro,1964,Kreiensen,37547,,Niedersachsen
+549,,Windpark Kremsdorf GmbH ,12.6,Wind,2001,Kremdorf,23758,,Schleswig-Holstein
+550,,WKN Windkraft Nord GmbH & Co. Windpark Krempdorf KG,17.75,Wind,2003,Krempdorf,25376,,Schleswig-Holstein
+551,,,14.42,Wind,2010,Kronprinzenkoog,25709,,Schleswig-Holstein
+552,WEP Hamswehrum ,EWE ERNEUERBARE ENERGIEN GmbH,12.0,Wind,1994,Krummhörn,26736,Hoher Grodenweg / Groothuser Grodenweg,Niedersachsen
+553,,Windpark Groothusen GmbH & Co. Betriebs KG,12.0,Wind,2005,Krummhörn,26736,,Niedersachsen
+554,,Windpark Jennelt GmbH ,9.0,Wind,2001,Krummhörn,26736,,Niedersachsen
+555,,Pfeifer Holz GmbH,8.4,Biomass,2007,Kühbach,86556,,Bayern
+556,KW Kühtai,TIWAG-Tiroler Wasserkraft AG,144.5,Hydro,1981,Kühtai,,,Österreich
+557,KW Kühtai,TIWAG-Tiroler Wasserkraft AG,144.5,Hydro,1981,Kühtai,,,Österreich
+558,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,28.0,Wind,2007,Hohne,29393,,Niedersachsen
+559,,deag Energie GmbH,10.6,Wind,2009,Lachendorf,29331,,Niedersachsen
+560,,Raiffeisenwindpark Lahn GmbH & Co.KG,14.0,Wind,2000,Lahn,49757,,Niedersachsen
+561,,Windpark Lahstedt ApS & Co. OHG,10.0,Wind,2006,Lahstedt,31246,,Niedersachsen
+562,,Windpark Lamstedt GbR,22.0,Wind,2009,Lamstedt,21769,,Niedersachsen
+563,Landesbergen Biomasse,Statkraft Markets GmbH,22.0,Biomass,2005,Landesbergen,31628,,Niedersachsen
+564,Landesbergen Gas,Statkraft Markets GmbH,56.0,Gas,1973,Landesbergen,31628,,Niedersachsen
+565,Landesbergen Gas,Statkraft Markets GmbH,431.0,Gas,1973,Landesbergen,31628,,Niedersachsen
+566,,Wattner SunAsset Solarkraftwerk 006 GmbH & Co. KG,12.0,Solar,2010,"Landsberg, OT Sietzsch",6188,,Sachsen-Anhalt
+567,,ENERGIEKONTOR Windkraft GmbH & Co.,25.0,Wind,1999,Langen,27607,,Niedersachsen
+568,,Energiekontor Windkraft GmbH & Co. WP KRE KG,20.8,Wind,2000,Langen,27607,,Niedersachsen
+569,,Energiekontor Umwelt GmbH & Co.,11.0,Wind,1999,Langen,27607,,Niedersachsen
+570,,Energiekontor Windkraft GmbH & Co. WP SIE-Gem. d. Eigentümer,11.0,Wind,2000,Langen,27607,,Niedersachsen
+571,,,10.5,Wind,2001,Langen,27607,,Niedersachsen
+572,,LERAK Mobiliengesellschaft mbH & Co. KG,20.0,Wind,2009,Langwedel,29386,,Niedersachsen
+573,Laufenburg,Energiedienst Holding AG,104.4,Hydro,1914,Laufenburg,,,Schweiz
+574,Helmeringen KG,Stadtwerke München GmbH,10.0,Solar,2008,Lauingen ,89415,Hygstetter Weg,Bayern
+575,,ENERGIE KONTOR UMWELT GMBH,15.6,Wind,2000,Lautertal/Dirlammen,36369,,Hessen
+576,Heizkraftwerk Leipzig-Nord,Stadtwerke Leipzig GmbH,167.0,Gas,1996,Leipzig,4105,,Sachsen
+577,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,14.4,Wind,2002,Lengede,38268,,Niedersachsen
+578,TREA Leuna,MVV Energie AG,16.25,Waste,2005,Leuna,6237,An der B91,Sachsen-Anhalt
+579,TREA Leuna,MVV Energie AG,16.25,Waste,2007,Leuna,6237,An der B91,Sachsen-Anhalt
+580,GuD Leuna,InfraLeuna GmbH,39.0,Gas,1998,Leuna,6237,,Sachsen-Anhalt
+581,ILK-GuD,InfraLeuna GmbH,35.0,Gas,1994,Leuna,6237,,Sachsen-Anhalt
+582,ILK-GuD,TOTAL Raffinerie Mitteldeutschland GmbH,35.0,Gas,1994,Leuna,6237,,Sachsen-Anhalt
+583,ILK-GuD,InfraLeuna GmbH,37.0,Gas,1994,Leuna,6237,,Sachsen-Anhalt
+584,Raffineriekraftwerk,TOTAL Raffinerie Mitteldeutschland GmbH,92.5,Oil,1997,Leuna,6237,,Sachsen-Anhalt
+585,ILK-GuD,InfraLeuna GmbH,8.7,Other,1994,Leuna,6237,,Sachsen-Anhalt
+586,ILK-EKT,InfraLeuna GmbH,14.0,Other,2000,Leuna,6237,,Sachsen-Anhalt
+587,ILK-GuD,InfraLeuna GmbH,20.0,Other,2010,Leuna,6237,,Sachsen-Anhalt
+588,,AVEA Entsorgungsbetriebe GmbH & Co. KG,11.6,Waste,2011,Leverkusen,51373,,Nordrhein-Westfalen
+589,X-Kraftwerk,Currenta GmbH & Co. OHG,25.0,Gas,1981,Leverkusen,51368,"CHEMPARK, Geb. X 50",Nordrhein-Westfalen
+590,G-Kraftwerk,Currenta GmbH & Co. OHG,103.0,Coal,1962,Leverkusen,51368,"CHEMPARK, Geb. G 22",Nordrhein-Westfalen
+591,,Biomasse HKW Siegerland GmbH & Co.KG,14.0,Biomass,2016,Liebenscheid ,56479,,Rheinland-Pfalz
+592,Emsland,RWE Generation SE,116.0,Gas,1974,Lingen,49811,,Niedersachsen
+593,Emsland,RWE Generation SE,116.0,Gas,1973,Lingen,49811,,Niedersachsen
+594,Emsland,RWE Generation SE,359.0,Gas,1973,Lingen,49811,,Niedersachsen
+595,Emsland,RWE Generation SE,359.0,Gas,1974,Lingen,49811,,Niedersachsen
+596,Emsland,RWE Generation SE,887.0,Gas,2010,Lingen,49811,,Niedersachsen
+597,Kernkraftwerk Emsland,RWE Power AG,1336.0,Nuclear,1988,Lingen,49811,,Niedersachsen
+598,,,15.3,Wind,2001,Linnich,52441,,Nordrhein-Westfalen
+599,,Enercon Windpark GmbH & Co. Küstenwind I KG,3.6,Wind,2003,Linnich,52441,,Nordrhein-Westfalen
+600,Windpark Löbau,BOREAS Energie GmbH,38.55,Wind,1999,Löbau,2708,,Sachsen
+601,,,16.0,Wind,2002,Lohne,49393,,Niedersachsen
+602,,,13.6,Wind,2002,Lommatzsch,1623,,Sachsen
+603,UW Louisfelde,ENERTRAG Aktiengesellschaft,64.6,Wind,2006,Louisfelde,17335,"Gemarkung Straßburg, Flur 1, Flurstück 144/2",Mecklenburg-Vorpommern
+604,KW Mitte,BASF SE,47.0,Gas,1992,Ludwigshafen,67056,A 855,Rheinland-Pfalz
+605,Kraftwerk Mitte,BASF SE,497.5,Gas,2005,Ludwigshafen,67056,A 800,Rheinland-Pfalz
+606,Kraftwerk Süd,BASF SE,410.0,Gas,1997,Ludwigshafen,67056,C 200,Rheinland-Pfalz
+607,Kläranlage,BASF SE,12.0,Waste,1992,Ludwigshafen,67056,Z 564,Rheinland-Pfalz
+608,Kraftwerk Nord,BASF SE,87.5,Other,1964,Ludwigshafen,67056,S 300,Rheinland-Pfalz
+609,BMK Lünen ,STEAG New Energies GmbH,20.0,Biomass,2006,Lünen,44536,Josef Rethmann Straße 4,Nordrhein-Westfalen
+610,KW Lünen,Steag GmbH,149.0,Coal,1962,Lünen,44536,Moltkestr. 215,Nordrhein-Westfalen
+611,KW Lünen,Steag GmbH,324.0,Coal,1970,Lünen,44537,Moltkestr. 215,Nordrhein-Westfalen
+612,,WG Westerwischer GmbH & Co KG; Windpark Norderland Verwaltgs.- u. Beteiligungs GmbH,26.0,Wind,2003,Lütetsburg,26524,,Niedersachsen
+613,Biomasseheizkraftwerk Piesteritz,Stadtwerke Leipzig GmbH,18.1,Biomass,2009,Wittenberg/ Piesteritz,6886,,Sachsen-Anhalt
+614,MHKW Rothensee,Müllheizkraftwerk Rothensee GmbH,29.2,Waste,2005,Magdeburg,39126,,Sachsen-Anhalt
+615,MHKW Rothensee,Müllheizkraftwerk Rothensee GmbH,29.2,Waste,2006,Magdeburg,39126,,Sachsen-Anhalt
+616,Mahlwinkel-Nord,Breeze Four Energy GmbH & Co. KG,32.0,Wind,2008,Mahlwinkel,39517,,Sachsen-Anhalt
+617,Kraftwerk Mainz,Kraftwerke Mainz-Wiesbaden AG,434.2,Gas,2000,Mainz,55120,,Rheinland-Pfalz
+618,Kraftwerk Mainz,Kraftwerke Mainz-Wiesbaden AG,335.0,Gas,1976,Mainz,55120,,Rheinland-Pfalz
+619,Biomasse-Heizkraftwerk Malchin,envia THERM GmbH,9.8,Biomass,2003,Malchin,17139,,Mecklenburg-Vorpommern
+620,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,28.8,Wind,2001,Niedergörsdorf,14913,,Brandenburg
+621,,EREM GmbH & Co. German Wind KG c/o Treucon Asset Mgmt. GmbH,14.4,Wind,2002,Mannhagen und Bälau,23881,,Schleswig-Holstein
+622,BMKW Mannheim,MVV Energie AG,17.9,Biomass,2003,Mannheim,68169,Otto-Hahn-Str. 1,Baden-Württemberg
+623,SCA Mannheim,Essity Operations Mannheim GmbH,40.0,Biomass,2003,Mannheim,68305,Sandhofer Straße 176,Baden-Württemberg
+624,HKW Mannheim,MVV Energie AG,2.78,Waste,,Mannheim,68169,Otto-Hahn-Straße 1,Baden-Württemberg
+625,HKW Mannheim,MVV Energie AG,5.56,Waste,,Mannheim,68169,Otto-Hahn-Straße 1,Baden-Württemberg
+626,HKW Mannheim,MVV Energie AG,8.65,Waste,2006,Mannheim,68169,Otto-Hahn-Straße 1,Baden-Württemberg
+627,HKW Mannheim,MVV Energie AG,22.1,Waste,2010,Mannheim,68169,Otto-Hahn-Straße 1,Baden-Württemberg
+628,HKW Mannheim,MVV Energie AG,5.37,Waste,2012,Mannheim,68169,Otto-Hahn-Straße 1,Baden-Württemberg
+629,HKW Mannheim,MVV Energie AG,3.88,Waste,2012,Mannheim,68169,Otto-Hahn-Straße 1,Baden-Württemberg
+630,GKM ,Grosskraftwerk Mannheim AG,202.5,Coal,1966,Mannheim,68199,Marguerrestraße 1,Baden-Württemberg
+631,GKM ,Grosskraftwerk Mannheim AG,202.5,Coal,1970,Mannheim,68199,Marguerrestraße 1,Baden-Württemberg
+632,GKM ,Grosskraftwerk Mannheim AG,255.0,Coal,2005,Mannheim,68199,Marguerrestraße 1,Baden-Württemberg
+633,GKM ,Grosskraftwerk Mannheim AG,425.0,Coal,1982,Mannheim,68199,Marguerrestraße 1,Baden-Württemberg
+634,GKM ,Grosskraftwerk Mannheim AG,435.0,Coal,1993,Mannheim,68199,Marguerrestraße 1,Baden-Württemberg
+635,GKM ,Grosskraftwerk Mannheim AG,843.0,Coal,2015,Mannheim,68199,Marguerrestraße 1,Baden-Württemberg
+636,Dampfkraftwerk Marbach am Neckar,EnBW Energie Baden-Württemberg AG,77.4,Oil,1971,Marbach,71672,Thomas-Alva-Edison-Ring 6,Baden-Württemberg
+637,Dampfkraftwerk Marbach am Neckar,EnBW Energie Baden-Württemberg AG,85.0,Oil,1975,Marbach,71672,Thomas-Alva-Edison-Ring 6,Baden-Württemberg
+638,Dampfkraftwerk Marbach am Neckar,EnBW Energie Baden-Württemberg AG,263.5,Oil,1975,Marbach,71672,Thomas-Alva-Edison-Ring 6,Baden-Württemberg
+639,,Planung-Aufbau-Verwaltung Eidelweg GmbH & Co. KG,18.8,Wind,2004,Marienhafe,26529,,Niedersachsen
+640,Windpark Bredenborn,Breeze Three Energy GmbH & Co. KG,16.5,Wind,2002,Marienmünster/ Bredenborn,37696,,Nordrhein-Westfalen
+641,Markersbach,Vattenfall Wasserkraft GmbH,1045.2,Hydro,1979,Markersbach,8352,Oberbeckenstr. 8,Sachsen
+642,Markersbach,Vattenfall Wasserkraft GmbH,,Hydro,1980,Markersbach,8352,Oberbeckenstr. 8,Sachsen
+643,Markersbach,Vattenfall Wasserkraft GmbH,,Hydro,1980,Markersbach,8352,Oberbeckenstr. 8,Sachsen
+644,Markersbach,Vattenfall Wasserkraft GmbH,,Hydro,1981,Markersbach,8352,Oberbeckenstr. 8,Sachsen
+645,Markersbach,Vattenfall Wasserkraft GmbH,,Hydro,1981,Markersbach,8352,Oberbeckenstr. 8,Sachsen
+646,Markersbach,Vattenfall Wasserkraft GmbH,,Hydro,1980,Markersbach,8352,Oberbeckenstr. 8,Sachsen
+647,Kraftwerk III,Evonik Degussa GmbH,61.13,Gas,1973,Marl,45772,Paul-Baumann-Str. 1,Nordrhein-Westfalen
+648,Kraftwerk III,Evonik Degussa GmbH,77.57,Gas,1974,Marl,45772,Paul-Baumann-Str. 1,Nordrhein-Westfalen
+649,Kraftwerk I  ,Evonik Degussa GmbH,55.56,Coal,1971,Marl,45772,Paul-Baumann-Str. 1,Nordrhein-Westfalen
+650,Kraftwerk II,Evonik Degussa GmbH,60.4,Coal,1966,Marl,45772,Paul-Baumann-Str. 1,Nordrhein-Westfalen
+651,Kraftwerk I ,Evonik Degussa GmbH,68.4,Coal,1983,Marl,45772,Paul-Baumann-Str. 1,Nordrhein-Westfalen
+652,Kraftwerk I,Evonik Degussa GmbH,169.32,Other,1940,Marl,45772,Paul-Baumann-Str. 1,Nordrhein-Westfalen
+653,,Sintfeld REGO-Strom GmbH,18.0,Wind,2000,Marsberg ,34431,,Nordrhein-Westfalen
+654,,Windpark Mastershausen GmbH & Co. KG,20.9,Wind,2007,Mastershausen ,56869,,Rheinland-Pfalz
+655,,Vernet GmbH,10.5,Wind,2000,Mechernich,53894,,Nordrhein-Westfalen
+656,,MS Windkraft GmbH,13.0,Wind,2000,Meinheim,91802,,Bayern
+657,Rasch,Solarparc AG,21.7,Solar,2009,Mengkofen ,84152,,Bayern
+658,Pumpspeicherkraftwerk Glems,EnBW Energie Baden-Württemberg AG,90.0,Hydro,1964,Metzingen-Glems,72555,Unterer Hof 2,Baden-Württemberg
+659,,TREF Wind Midlum GmbH & Co. KG,35.0,Wind,1999,Midlum,27632,,Niedersachsen
+660,,Windkonzept - Energieanlagen GmbH & Co. KG,16.0,Wind,2002,Mieste,39649,,Sachsen-Anhalt
+661,,Enercon Windpark GmbH & Co.Megawind I KG,7.2,Wind,2002,Mittelherwigsdorf,2763,,Sachsen
+662,,Enercon Windpark GmbH & Co. Mittelherwigsdorf KG,6.6,Wind,2004,Mittelherwigsdorf,2763,,Sachsen
+663,,Windpark Mittelstenahe GmbH & Co. Betriebs-KG,12.0,Wind,2006,Mittelstenahe,21770,,Niedersachsen
+664,,Lorica Windpark Stegelitz GmbH & Co. KG,27.0,Wind,2009,Möckern,39291,,Sachsen-Anhalt
+665,,ENGIE WP Molau GmbH,26.4,Wind,2002,"Molauer Land, OT Molau",6618,,Sachsen-Anhalt
+666,,Infrastruktur Windpark Wanlo GbR (MAIBARA Mobiliengesellschaft mbH & Co.KG),17.2,Wind,2007,Mönchengladbach,41199,,Nordrhein-Westfalen
+667,,,14.6,Wind,2003,Moormerland,26802,,Niedersachsen
+668,Energiepark Morbach,juwi Verwaltungs GmbH & Co. Morbach I-VI KG,12.0,Wind,2002,Morbach,54497,,Rheinland-Pfalz
+669,Energiepark Morbach,juwi Windenergie GmbH & Co. S+S  I+III KG,12.0,Wind,2002,Morbach,54497,,Rheinland-Pfalz
+670,Mumsdorf,Mitteldeutsche Braunkohlengesellschaft mbH,60.0,Coal,1968,Mumsdorf,4613,,Sachsen-Anhalt
+671,Freimann GT 1,SWM Services GmbH,80.0,Gas,,München,80807,,Bayern
+672,Freimann GT 2,SWM Services GmbH,80.0,Gas,,München,80807,,Bayern
+673,Süd DT1,SWM Services GmbH,79.7,Gas,1980,München,81371,,Bayern
+674,Süd GT3,SWM Services GmbH,97.9,Gas,1980,München,81371,,Bayern
+675,Süd GT2,SWM Services GmbH,97.9,Gas,1980,München,81371,,Bayern
+676,Süd GT 61,SWM Services GmbH,124.9,Gas,2004,München,81371,,Bayern
+677,Süd GT 62,SWM Services GmbH,123.9,Gas,2004,München,81371,,Bayern
+678,Süd DT60,SWM Services GmbH,127.6,Gas,2004,München,81371,,Bayern
+679,Heizkraftwerk Hafen,Stadtwerke Münster GmbH,104.14,Gas,2005,Münster,48145,,Nordrhein-Westfalen
+680,Gemeinschaftskernkraftwerk Neckarwestheim II,EnBW Energie Baden-Württemberg AG,1310.0,Nuclear,1989,Neckarwestheim,74382,Im Steinbruch,Baden-Württemberg
+681,GuD-HKW Neubrandenburg,Neubrandenburger Stadtwerke GmbH,75.0,Gas,1997,Neubrandenburg,17034,,Mecklenburg-Vorpommern
+682,Bittenbrunn,Donau-Wasserkraft AG,20.2,Hydro,1969,Neuburg an der Donau,86633,,Bayern
+683,,Windpark Achmer Vinte GmbH & Co. KG Renditefonds,18.4,Wind,2005,Neuenkirchen ,49586,,Niedersachsen
+684,Windpark Neuenkirchen,ENERCON Windpark GmbH & Co. Tornado KG,10.8,Wind,2002,Neuenkirchen-Vörden,49434,,Niedersachsen
+685,,Windpark Gehrde GmbH & Co. KG,7.2,Wind,2002,Neuenkirchen-Vörden,49434,,Niedersachsen
+686,KWK Neumarkt,Pfleiderer Neumarkt GmbH,15.6,Biomass,1997,Neumarkt i.d. Oberpfalz,92318,Dreichlinger Str. 76,Bayern
+687,Heizkraftwerk NMS,SWN Stadtwerke Neumünster GmbH,53.6,Other,1974,Neumünster,24534,,Schleswig-Holstein
+688,Neuötting,VERBUND-Innkraftwerke GmbH,26.1,Hydro,1951,Neuötting,84524,Innstr. 11,Bayern
+689,Neurath,RWE Power AG,294.0,Coal,1972,Grevenbroich-Neurath,41517,,Nordrhein-Westfalen
+690,Neurath,RWE Power AG,294.0,Coal,1972,Grevenbroich-Neurath,41517,,Nordrhein-Westfalen
+691,Neurath,RWE Power AG,292.0,Coal,1973,Grevenbroich-Neurath,41517,,Nordrhein-Westfalen
+692,Neurath,RWE Power AG,607.0,Coal,1975,Grevenbroich-Neurath,41517,,Nordrhein-Westfalen
+693,Neurath,RWE Power AG,604.0,Coal,1976,Grevenbroich-Neurath,41517,,Nordrhein-Westfalen
+694,Cogeneration,Bayernoil Raffineriegesellschaft mbH,25.4,Gas,1996,Neustadt,93328,Postfach 1252,Bayern
+695,,,15.6,Wind,1999,Neustadt,31535,,Niedersachsen
+696,,,11.7,Wind,1999,Neustadt,31535,,Niedersachsen
+697,Niederaußem,RWE Power AG,297.0,Coal,1968,Bergheim,50129,,Nordrhein-Westfalen
+698,Niederaußem,RWE Power AG,299.0,Coal,1971,Bergheim,50129,,Nordrhein-Westfalen
+699,Niederaußem,RWE Power AG,648.0,Coal,1974,Bergheim,50129,,Nordrhein-Westfalen
+700,Niederaußem,RWE Power AG,628.0,Coal,1974,Bergheim,50129,,Nordrhein-Westfalen
+701,Niederaußem,RWE Power AG,944.0,Coal,2002,Bergheim,50129,,Nordrhein-Westfalen
+702,Niederaußem,RWE Power AG,125.0,Coal,1963,Bergheim,50129,,Nordrhein-Westfalen
+703,Niederaußem,RWE Power AG,125.0,Coal,1963,Bergheim,50129,,Nordrhein-Westfalen
+704,Niederaußem,RWE Power AG,295.0,Coal,1965,Bergheim,50129,,Nordrhein-Westfalen
+705,Niederaußem,RWE Power AG,295.0,Coal,1970,Bergheim,50129,,Nordrhein-Westfalen
+706,Fortuna Nord,RWE Power AG,15.0,Coal,1939,Bergheim,50129,,Nordrhein-Westfalen
+707,Lehmen,innogy SE,20.0,Hydro,1962,Lehmen,56332,,Rheinland-Pfalz
+708,Windpark Niederkirchen,pfalzwind GmbH,20.0,Wind,2000,Niederkirchen,67000,,Rheinland-Pfalz
+709,,,24.0,Wind,1998,Niederlangen,49779,,Niedersachsen
+710,,,22.5,Wind,1998,Niederlangen,49779,,Niedersachsen
+711,,,13.5,Wind,1999,Niederlangen,49779,,Niedersachsen
+712,Windpark Vogelsberg,Theolia Naturenergien GmbH,19.5,Wind,2006,Brachttal-Streitberg,63636,,Hessen
+713,Niederwartha,Vattenfall Wasserkraft GmbH,39.8,Hydro,1958,Niederwartha,1462,Am Fährhaus 4,Sachsen
+714,Niederwartha,Vattenfall Wasserkraft GmbH,,Hydro,1958,Niederwartha,1462,Am Fährhaus 4,Sachsen
+715,Windpark Nielebock,Breeze Three Energy GmbH & Co. KG,12.0,Wind,2003,Nielebock,39319,,Sachsen-Anhalt
+716,,,10.0,Wind,2004,Nienburg,31582,,Niedersachsen
+717,,,18.0,Wind,2001,Norby,24848,,Schleswig-Holstein
+718,,Windpark Norderland GmbH & Co. KG,44.5,Wind,1993,Norden,26506,,Niedersachsen
+719,,,14.7,Wind,1995,Nordholz,27637,,Niedersachsen
+720,,ENERGIEKONTOR Windkraft GmbH & Co.,23.9,Wind,1998,Nordleda,21765,,Niedersachsen
+721,Alpha Ventus,EWE ERNEUERBARE ENERGIEN GmbH,60.0,Wind,2010,Nordsee,,45 Kilometer nördlich der Insel Borkum,AWZ
+722,,NeNo GmbH ,13.8,Wind,2010,Nordstrand,25845,,Schleswig-Holstein
+723,,Betreibergemeinschaft Windpark Vettweiß/Nörvenich/Erp,12.6,Wind,2002,Nörvenich ,52388,,Nordrhein-Westfalen
+724,,Umspannwerk Heynitz GmbH,20.25,Wind,2002,Nossen,1683,,Sachsen
+725,Thyrow,Lausitz Energie Kraftwerke AG,37.5,Gas,1989,Nunsdorf,15806,,Brandenburg
+726,Thyrow,Lausitz Energie Kraftwerke AG,37.5,Gas,,Nunsdorf,15806,,Brandenburg
+727,Thyrow,Lausitz Energie Kraftwerke AG,37.5,Gas,,Nunsdorf,15806,,Brandenburg
+728,Thyrow,Lausitz Energie Kraftwerke AG,37.5,Gas,,Nunsdorf,15806,,Brandenburg
+729,Thyrow,Lausitz Energie Kraftwerke AG,36.5,Gas,1987,Nunsdorf,15806,,Brandenburg
+730,Thyrow,Lausitz Energie Kraftwerke AG,36.5,Gas,1987,Nunsdorf,15806,,Brandenburg
+731,Thyrow,Lausitz Energie Kraftwerke AG,36.5,Gas,1987,Nunsdorf,15806,,Brandenburg
+732,Thyrow,Lausitz Energie Kraftwerke AG,36.5,Gas,1987,Nunsdorf,15806,,Brandenburg
+733,HKW Sandreuth,N-ERGIE AG,75.0,Gas,2005,Nürnberg,90441,Sandreuthstr. 51,Bayern
+734,HKW Sandreuth,N-ERGIE AG,75.0,Gas,2005,Nürnberg,90441,Sandreuthstr. 51,Bayern
+735,Franken 1,Uniper Kraftwerke GmbH ,383.0,Gas,1973,Nürnberg,90449,,Bayern
+736,Franken 1,Uniper Kraftwerke GmbH ,440.0,Gas,1976,Nürnberg,90449,,Bayern
+737,HKW Sandreuth,N-ERGIE AG,18.0,Waste,1996,Nürnberg,90441,Sandreuthstr. 51,Bayern
+738,Nußdorf,Innwerk AG,48.0,Hydro,1982,Nußdorf,83131,Am Inn 19,Bayern
+739,Oberaudorf-Ebbs,Innwerk AG,60.0,Hydro,1992,Oberaudorf,83080,Untere Innauen 1,Bayern
+740,,,12.0,Wind,2002,Ober-Flörsheim,55234,,Rheinland-Pfalz
+741,GMVA Niederrhein,GMVA Gemeinschafts-Müll-Verbrennungsanlage Niederrhein GmbH,40.4,Waste,1991,Oberhausen,46049,Liricher Straße 121,Nordrhein-Westfalen
+742,GMVA Niederrhein,GMVA Gemeinschafts-Müll-Verbrennungsanlage Niederrhein GmbH,21.1,Waste,2006,Oberhausen,46049,Liricher Straße 121,Nordrhein-Westfalen
+743,HKW 1,Energieversorgung Oberhausen AG,23.1,Gas,1971,Oberhausen,46045,,Nordrhein-Westfalen
+744,HKW 2,Energieversorgung Oberhausen AG,24.5,Gas,1996,Oberhausen,46147,,Nordrhein-Westfalen
+745,Windpark Lauterburg,Breeze Three Energy GmbH & Co. KG,10.0,Wind,2006,Oberkochen,73447,,Baden-Württemberg
+746,Obernburg,Kraftwerk Obernburg GmbH,40.0,Gas,1920,Obernburg,63784,,Bayern
+747,Obernburg,Kraftwerk Obernburg GmbH,60.0,Gas,1995,Obernburg,63784,,Bayern
+748,,,16.5,Wind,2000,Oederquart,21734,,Niedersachsen
+749,Heizkraftwerk Offenbach,Energieversorgung Offenbach AG,54.0,Coal,1990,Offenbach,63067,,Hessen
+750,Itzehoe,Uniper Kraftwerke GmbH ,88.0,Oil,1972,Oldendorf,25588,,Schleswig-Holstein
+751,,Windpark Oldenswort Moordeich GmbH & Co.KG,12.0,Wind,2001,Oldenswort,25870,,Schleswig-Holstein
+752,WP Naundorf I,e.disnatur Erneuerbare Energien GmbH,14.0,Wind,2004,Naundorf,4769,,Sachsen
+753,,,12.3,Wind,2009,Oschersleben,39387,,Sachsen-Anhalt
+754,,,11.0,Wind,1999,Osterbruch,21762,,Niedersachsen
+755,Windpark Krevese,Windpark Krevese Verwaltungsgesellschaft mbH,30.0,Wind,2002,Osterburg,39606,,Sachsen-Anhalt
+756,,Windpark Osterrade GmbH ,12.25,Wind,2001,Osterrade,24796,,Schleswig-Holstein
+757,Audorf,Uniper Kraftwerke GmbH ,87.0,Oil,1973,Osterrönfeld,24783,,Schleswig-Holstein
+758,,Windkonzept - Energieanlagen GmbH & Co. KG,22.4,Wind,2002,Ostingersleben,39343,,Sachsen-Anhalt
+759,,N.prior energy GmbH,18.0,Wind,1999,Ostrhauderfehn,26842,,Niedersachsen
+760,Baltic 1,EnBW Baltic 1 GmbH & Co. KG,48.3,Wind,2011,Ostsee,,"16 km vor der Küste Mecklenburg-Vorpommerns, nördlich der Halbinsel Fischland-Darß-Zingst",AWZ
+761,,WPO GmbH & Co. Betriebs KG WPM GmbH & Co. Betriebs KG,22.85,Wind,2001,Ovelgönne,26939,,Niedersachsen
+762,,Dezentrale Energie Anlagen Beteiligungs-und Verwaltungsgesellschaft mbH,10.0,Wind,2001,Oyten,28876,,Niedersachsen
+763,,,16.96,Wind,1997,Paderborn,33100,,Nordrhein-Westfalen
+764,,,12.0,Wind,1995,Paderborn,33100,,Nordrhein-Westfalen
+765,,,11.15,Wind,1998,Paderborn,33100,,Nordrhein-Westfalen
+766,Biomasse-HKW,B+S Papenburg Energie GmbH,20.0,Biomass,2003,Papenburg,26871,Am Nordhafen 5,Niedersachsen
+767,Windpark Lüdersdorf Parstein,HelveticWind Deutschland GmbH,22.5,Wind,2004,Parsteinsee,16248,,Brandenburg
+768,Kopswerk I ,EnBW Energie Baden-Württemberg AG,247.0,Hydro,1969,Partenen,,,Österreich
+769,Kopswerk II ,EnBW Energie Baden-Württemberg AG,525.0,Hydro,2008,Partenen,,,Österreich
+770,Obervermuntwerk 1,EnBW Energie Baden-Württemberg AG,29.0,Hydro,1943,Partenen,,,Österreich
+771,Vermuntwerk,EnBW Energie Baden-Württemberg AG,158.0,Hydro,1930,Partenen,,,Österreich
+772,ÜST Ruhleben,ENERTRAG Aktiengesellschaft,29.1,Wind,2000,Pasewalk,17309,"Gemarkung Pasewalk, Flur 23, Flurstück 26/1",Mecklenburg-Vorpommern
+773,Kachlet,Rhein-Main-Donau GmbH,53.7,Hydro,1927,Passau,94034,Schleusenweg 10,Bayern
+774,Passau-Ingling,Innwerk AG,86.4,Hydro,1965,Passau,94036,Innstraße 121,Bayern
+775,KW Jänschwalde,Lausitz Energie Kraftwerke AG,465.0,Coal,1981,Peitz,3185,Kraftwerksstraße,Brandenburg
+776,KW Jänschwalde,Lausitz Energie Kraftwerke AG,465.0,Coal,1982,Peitz,3185,Kraftwerksstraße,Brandenburg
+777,KW Jänschwalde,Lausitz Energie Kraftwerke AG,465.0,Coal,1984,Peitz,3185,Kraftwerksstraße,Brandenburg
+778,KW Jänschwalde,Lausitz Energie Kraftwerke AG,465.0,Coal,1985,Peitz,3185,Kraftwerksstraße,Brandenburg
+779,KW Jänschwalde,Lausitz Energie Kraftwerke AG,465.0,Coal,1987,Peitz,3185,Kraftwerksstraße,Brandenburg
+780,KW Jänschwalde,Lausitz Energie Kraftwerke AG,465.0,Coal,1989,Peitz,3185,Kraftwerksstraße,Brandenburg
+781,,Acciona Energie Windparks Deutschland GmbH,10.5,Wind,2005,"Peitz, OT Drehnower Vorstadt",3185,,Brandenburg
+782,Perach,VERBUND-Innkraftwerke GmbH,19.4,Hydro,1977,Perach,84567,Niederperach,Bayern
+783,Heyden,Uniper Kraftwerke GmbH ,875.0,Coal,1987,Petershagen,32469,,Nordrhein-Westfalen
+784,,Windkraft Unger GmbH,18009.0,Wind,2007,"Pfaffroda/E., OT Dörnthal",9526,,Sachsen
+785,Geisling,Rhein-Main-Donau GmbH,25.0,Hydro,1985,Pfatter,93102,,Bayern
+786,Heizkraftwerk Pforzheim GmbH,Heizkraftwerk Pforzheim GmbH,12.3,Biomass,2004,Pforzheim,75175,Hohwiesenweg 15,Baden-Württemberg
+787,Heizkraftwerk Pforzheim GmbH,Heizkraftwerk Pforzheim GmbH,11.3,Gas,,Pforzheim,75175,Hohwiesenweg 15,Baden-Württemberg
+788,Heizkraftwerk Pforzheim GmbH,Heizkraftwerk Pforzheim GmbH,41.2,Gas,1980,Pforzheim,75175,Hohwiesenweg 15,Baden-Württemberg
+789,Heizkraftwerk Pforzheim GmbH,Heizkraftwerk Pforzheim GmbH,26.9,Coal,1990,Pforzheim,75175,Hohwiesenweg 15,Baden-Württemberg
+790,Kernkraftwerk Philippsburg 2,EnBW Energie Baden-Württemberg AG,1402.0,Nuclear,1985,Philippsburg,76661,Rheinschanzinsel,Baden-Württemberg
+791,Hattorf,K+S AG,52.0,Gas,2013,Philippsthal,36269,,Hessen
+792,Kraftwerk Plattling,Kraftwerk Platting GmbH,118.5,Gas,2010,Plattling,94447,,Bayern
+793,Windpark Plauerhagen,MVV Energie AG,16.0,Wind,2010,Plauerhagen,19395,,Mecklenburg-Vorpommern
+794,,Solarpark Pocking 2 GmbH,12052.0,Solar,2009,Pocking,94060,,Bayern
+795,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,62.0,Wind,2004,Porep,16949,,Brandenburg
+796,Kraftwerk Veltheim,Uniper Kraftwerke GmbH ,65.0,Gas,1974,Porta Westfalica,32457,,Nordrhein-Westfalen
+797,Kraftwerk Veltheim,Uniper Kraftwerke GmbH ,335.0,Gas,1975,Porta Westfalica,32457,,Nordrhein-Westfalen
+798,Kraftwerk Veltheim,Gemeinschaftskraftwerk Veltheim GmbH,93.0,Coal,1965,Porta Westfalica,32457,,Nordrhein-Westfalen
+799,Kraftwerk Veltheim,Uniper Kraftwerke GmbH ,303.0,Coal,1970,Porta Westfalica,32457,,Nordrhein-Westfalen
+800,HKW Potsdam-Süd,Energie und Wasser Potsdam GmbH,81.8,Gas,1996,Potsdam,14478,,Brandenburg
+801,,,11.5,Wind,2000,Prenzlau,17291,,Brandenburg
+802,KW Kaunertal,TIWAG-Tiroler Wasserkraft AG,392.0,Hydro,1964,Prutz,,,Österreich
+803,,WKN Windkraft Nord GmbH & Co. Windpark Puls KG,16.5,Wind,1999,Puls,25560,,Schleswig-Holstein
+804,,SCE Wind Puschwitz GmbH & Co. KG,20.0,Wind,2001,Puschwitz,2699,,Sachsen
+805,,N.prior energy GmbH,18.0,Wind,1999,Quenstedt,6333,,Sachsen-Anhalt
+806,Weiher,Steag GmbH,655.6,Coal,1976,Quierschied,66287,Holzer Straße,Saarland
+807,Umspannwerk Raguhn GmbH,ENERTRAG Aktiengesellschaft,52.9,Wind,,Raguhn-Jeßnitz,6779,,Sachsen-Anhalt
+808,,WKN Windkraft Nord GmbH & Co. BWP Rantrum KG,9.9,Wind,1998,Rantrum,25873,,Schleswig-Holstein
+809,SWM Wind Havelland GmbH & Co. KG,Stadtwerke München GmbH,171.0,Wind,2009,Raum Brandenburg,14776,,Brandenburg
+810,,Windpark Wetzdorf GmbH & Co.KG c/o Deutsche Structured Finance GmbH,21.0,Wind,2003,Rauschwitz,7616,,Thüringen
+811,Rheinkraftwerk Reckingen,EnBW Energie Baden-Württemberg AG,19.0,Hydro,1942,Küssaberg,79790,Kraftwerkstraße 24,Baden-Württemberg
+812,BMHKW-RE Recklinghausen,Ökotech Ingenieurgesellschaft mbh,15.0,Biomass,2004,Recklinghausen,45665,Maria-May-Straße 1,Nordrhein-Westfalen
+813,Windpark Loccum/Wasserstraße,Loccumer Windparksbetriebsgesellschaft mbH,13.8,Wind,2002,Loccum,31547,,Niedersachsen
+814,,Windpark Reher II GmbH & Co. KG ,16.0,Wind,2005,Reher,25593,,Schleswig-Holstein
+815,,Trassengesellschaft Reinsbüttel GmbH & Co. KG,25.0,Wind,2009,Reinsbüttel,25764,,Schleswig-Holstein
+816,,Solarkraftwerk Rentweinsdorf GmbH & Co. KG,12585.0,Solar,2010,Rentweinsdorf,96184,,Bayern
+817,BHKW-Hauffstraße,FairEnergie GmbH,9.84,Gas,2011,Reutlingen,72762,Hauffstraße 89 m,Baden-Württemberg
+818,Solvay Kraftwerk Rheinberg,Solvay Chemicals GmbH,79.0,Coal,1961,Rheinberg,47495,,Nordrhein-Westfalen
+819,KW Rheinfelden,Energiedienst AG,46.7,Hydro,2010,Rheinfelden,79618,,Baden-Württemberg
+820,,Windfarm Ringstedt II GmbH,10.0,Wind,2007,Ringstedt,27624,,Niedersachsen
+821,,,28.0,Wind,2006,Rochau,39579,,Sachsen-Anhalt
+822,,,36.6,Wind,2003,Rodeberg,99976,,Thüringen
+823,Rosenheim,VERBUND-Innkraftwerke GmbH,35.1,Hydro,1960,Rohrdorf,83101,Ahornstr. 10,Bayern
+824,Rosendahl,Mergen GmbH & Co. KG Windpark Rosendahl,10.8,Wind,2007,Rosendahl,48720,Gebiet Höven,Nordrhein-Westfalen
+825,Gasmotore,Stadtwerke Rosenheim GmbH & Co. KG,9.81,Gas,2011,Rosenheim,83022,Färberstraße 47,Bayern
+826,Gasmotor 4,Stadtwerke Rosenheim GmbH & Co. KG,9.2,Gas,2013,Rosenheim,83022,Färberstraße 47,Bayern
+827,Gasmotor 5,Stadtwerke Rosenheim GmbH & Co. KG,4.3,Gas,2012,Rosenheim,83026,Oberaustraße 12,Bayern
+828,"MHKW, WKW",Stadtwerke Rosenheim GmbH & Co. KG,9.0,Waste,1988,Rosenheim,83022,Färberstraße 47,Bayern
+829,,SCE Wind Zernitz GmbH & Co. KG,14175.0,Wind,2003,Rositz,4617,,Thüringen
+830,Roßhaupten,Uniper Kraftwerke GmbH ,45.5,Hydro,1954,Roßhaupten,87672,Forggenseestraße 100,Bayern
+831,GuD Marienehe,Stadtwerke Rostock AG,108.0,Gas,1996,Rostock,18069,,Mecklenburg-Vorpommern
+832,KNG Kraftwerk Rostock,EnBW Energie Baden-Württemberg AG,514.0,Coal,1994,Rostock,18147,Am Kühlturm 1,Mecklenburg-Vorpommern
+833,Windpark Elsdorf II,Windfarm Elsdorf II GmbH,18.4,Wind,2008,Rotenburg,27356,,Niedersachsen
+834,,KOLBA Grundstücksgesellschaft mbH & Co. KG Windpark Eifel GmbH & Co. KG,35.0,Wind,2005,Roth ,54597,,Rheinland-Pfalz
+835,Rothenburg KG,,20493.0,Solar,2009,Rothenburg ,2929,,Sachsen
+836,Feldkirchen,VERBUND-Innkraftwerke GmbH,38.2,Hydro,1970,Rott,83543,Oberwöhrn 100,Bayern
+837,IKW Rüdersdorf,Steag GmbH,30.0,Waste,2009,Rüdersdorf bei Berlin,15562,Siedlerweg 11,Brandenburg
+838,HKW Schwarza,TWS Thüringer Wärme Service GmbH,26.5,Gas,1936,Rudolstadt,7407,,Thüringen
+839,GuD-Anlage Rüsselsheim,Opel Automobile GmbH ,112.1,Gas,1999,Rüsselheim,65429,,Hessen
+840,,Denker & Wulf AG ,15.0,Wind,2000,Rüting,23743,,Schleswig-Holstein
+841,Rheinkraftwerk Ryburg-Schwörstadt ,EnBW Energie Baden-Württemberg AG,30.0,Hydro,1930,Rheinfelden,79603,Postfach 1370,Baden-Württemberg
+842,,Mercer Timber Products GmbH,12.8,Biomass,2009,Saalburg-Ebersdorf,7929,Am bahnhof 123,Thüringen
+843,HKW Römerbrücke,Energie SaarLorLux AG,75.0,Gas,2005,Saarbrücken,66121,,Saarland
+844,HKW Römerbrücke,Energie SaarLorLux AG,50.0,Coal,1988,Saarbrücken,66121,,Saarland
+845,Sallgast,ERG Power Generation S.p.A.,26.0,Wind,2003,Sallgast,3238,,Brandenburg
+846,Kraftwerk Salzgitter,Salzgitter Flachstahl GmbH,94.5,Other,1939,Salzgitter,38239,,Niedersachsen
+847,Kraftwerk Salzgitter,Salzgitter Flachstahl GmbH,97.0,Other,2010,Salzgitter,38239,,Niedersachsen
+848,Kraftwerk Salzgitter,Salzgitter Flachstahl GmbH,97.0,Other,2010,Salzgitter,38239,,Niedersachsen
+849,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,21.0,Wind,2009,Salzgitter,38228,,Niedersachsen
+850,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,19.8,Wind,2002,Salzgitter,38228,,Niedersachsen
+851,,Salzhemmendorf Wind GmbH & Co. KG,10.0,Wind,2006,Salzhemmendorf,31020,,Niedersachsen
+852,,Windpark Sande GmbH & Co KG; Gemeinde Sande,10.6,Wind,1999,Sande,26452,,Niedersachsen
+853,,Energiewind Scharrel GmbH & Co. KG,14.0,Wind,2005,Saterland,26683,,Niedersachsen
+854,,Kabeltrassen- und Infrastruktur GmbH & Co. Sellstedt/Nückel,14.0,Wind,2005,Schiffdorf,27619,,Niedersachsen
+855,,,4.0,Wind,2007,Schinne,39579,,Sachsen-Anhalt
+856,WP Schinne I,Windpark GmbH & Co. Schinne I KG,10.0,Wind,2007,Schinne,39579,,Sachsen-Anhalt
+857,WP Schinne IV,Windpark GmbH & Co. Schinne IV KG,10.0,Wind,2007,Schinne,39579,,Sachsen-Anhalt
+858,WP Schinne III,Windpark GmbH & Co. Schinne III KG,10.0,Wind,2008,Schinne,39579,,Sachsen-Anhalt
+859,WP Schinne V,Windpark GmbH & Co. Schinne V KG,10.0,Wind,2009,Schinne,39579,,Sachsen-Anhalt
+860,WP Schinne II,Windpark GmbH & Co. Schinne II KG,10.0,Wind,2008,Schinne,39579,,Sachsen-Anhalt
+861,Schkopau,Uniper Kraftwerke GmbH ,450.0,Coal,1996,Schkopau,6258,,Sachsen-Anhalt
+862,Schkopau,Uniper Kraftwerke GmbH ,450.0,Coal,1996,Schkopau,6258,,Sachsen-Anhalt
+863,Detzem,innogy SE,24.0,Hydro,1962,Schleich,54340,,Rheinland-Pfalz
+864,,Betreibergemeinschaft Windpark Schleiden ABO Wind Betriebs GmbH,25517.0,Wind,2000,Schleiden,53937,,Nordrhein-Westfalen
+865,Bleiloch,Vattenfall Wasserkraft GmbH,79.8,Hydro,1932,Schleiz,7907,Gräfenwarth,Thüringen
+866,Bleiloch,Vattenfall Wasserkraft GmbH,,Hydro,1932,Schleiz,7907,Gräfenwarth,Thüringen
+867,,Erzeugergemeinschaft Schloßvippach GbR,12.0,Wind,2006,Schloßvippach,99195,,Thüringen
+868,Windpark Schlüchtern,HSE Windpark Schlüchtern GmbH & Co. KG,27.68,Wind,2010,Schlüchtern,36381,,Hessen
+869,Windpark Schönewalde,,27.2,Wind,2005,Schönewalde,4916,,Brandenburg
+870,WP Schlalach,Windpark GmbH & Co. Schlalach KG,51.3,Wind,2010,Schlalach,14822,,Brandenburg
+871,WP Feldheim,Windpark GmbH & Co. Feldheim KG,20.0,Wind,2006,Feldheim,14913,,Brandenburg
+872,Windpark Heidehof,Windpark Jänickendorfer Heide GmbH & Co. KG,62.0,Wind,2006,Jänickendorf,14913,,Brandenburg
+873,Windpark Altes Lager,Windpark Altes Lager GmbH & Co. KG,36.0,Wind,2009,Altes Lager,14913,,Brandenburg
+874,WP Jänickendorf,Windpark GmbH & Co. Jänickendorf KG,18.4,Wind,2013,Heidehof/Markendorf,14913,,Brandenburg
+875,Windpark Heidehof II,LHI Green Infrastructure Solar Deutschland I GmbH & Co. KG,18.4,Wind,2012,Markendorf,14913,Landkreis Teltow-Fläming,Brandenburg
+876,,Difko Schönhagen ,20.0,Wind,2004,Schönhagen,16866,,Brandenburg
+877,,Windpark Badeleben ApS & Co. OHG,10.0,Wind,2005,Schöningen,38364,,Niedersachsen
+878,,,11.0,Wind,2001,Schöppenstedt,38170,,Niedersachsen
+879,,NSG Netzanschluß Schuby GmbH ,18.0,Wind,2001,Schuby,24855,,Schleswig-Holstein
+880,,Winkra Krokhorst Windparkbetriebsgesellschaft mbH,10.8,Wind,2002,Schwanewede,28790,,Niedersachsen
+881,GuD Schwarzheide,BASF Schwarzheide GmbH,122.0,Gas,1994,Schwarzheide,1987,Schipkauer Str.1,Brandenburg
+882,IKS PCK Schwedt,PCK Raffinerie GmbH,28.0,Oil,1972,PCK Schwedt,16303,,Brandenburg
+883,IKS PCK Schwedt,PCK Raffinerie GmbH,34.5,Oil,1994,PCK Schwedt,16303,,Brandenburg
+884,IKS PCK Schwedt,PCK Raffinerie GmbH,106.0,Oil,1998,PCK Schwedt,16303,,Brandenburg
+885,IKS PCK Schwedt,PCK Raffinerie GmbH,106.0,Oil,1998,PCK Schwedt,16303,,Brandenburg
+886,IKS PCK Schwedt,PCK Raffinerie GmbH,59.0,Oil,2011,PCK Schwedt,16303,,Brandenburg
+887,GKS,GKS Gemeinschaftskraftwerk Schweinfurt GmbH,24.4,Waste,1990,Schweinfurt,97424,Hafenstraße 30,Bayern
+888,HKW Schwerin Süd,Energieversorgung Schwerin GmbH & Co. Erzeugung KG,44.9,Gas,1994,Schwerin,19061,,Mecklenburg-Vorpommern
+889,HKW Schwerin Lankow,Energieversorgung Schwerin GmbH & Co. Erzeugung KG,23.0,Gas,1994,Schwerin,19057,,Mecklenburg-Vorpommern
+890,,,12.0,Wind,2009,Sehnde,31319,,Niedersachsen
+891,,NEIF (Sehnde Lehrte Windpark) GmbH & Co. KG,10.0,Wind,2005,Sehnde,31319,,Niedersachsen
+892,Windpark Sendenhorst,HelveticWind Deutschland GmbH,14.5,Wind,2006,Sendenhorst,48324,,Nordrhein-Westfalen
+893,WP Sendenhorst,Windpark Sendenhorst GmbH & Co. KG,14.3,Wind,2007,Sendenhorst,48324,,Nordrhein-Westfalen
+894,,PAM Infra 456 GmbH & Co. KG,13.23,Solar,2010,Senftenberg,1968,,Brandenburg
+895,PVA Senftenberg,saferay holding GmbH,17.9,Solar,2011,Senftenberg,1968,"Flur 4, Flurst. 24",Brandenburg
+896,PVA Senftenberg,saferay holding GmbH,17.36,Solar,2011,Senftenberg,1968,"Flur 4, Flurst. 24",Brandenburg
+897,PVA Senftenberg,saferay holding GmbH,23.0,Solar,2011,Senftenberg,1968,"Flur 4, Flurst. 24",Brandenburg
+898,,Lockstedt-Siestedt II Netzanschluss GbR,22.0,Wind,2007,Siestedt,39356,,Sachsen-Anhalt
+899,,,14.57,Wind,1995,Sillerup,24969,,Schleswig-Holstein
+900,,Windpark Silmersdorf GmbH & Co KG,22.5,Wind,2005,Silmersdorf,16949,,Brandenburg
+901,KW Silz,TIWAG-Tiroler Wasserkraft AG,500.0,Hydro,1981,Silz,,,Österreich
+902,WP Strauch-Michelshof,Enercon Windpark GmbH & Co. Strauch-Michelshof KG,14.0,Wind,2004,Simmerath,52152,,Nordrhein-Westfalen
+903,,Breeze Two Energy GmbH & Co. KG,28.0,Wind,2006,Simmersfeld,72226,,Baden-Württemberg
+904,,WSW Energie GmbH,22.9,Wind,2008,Sögel,49751,,Niedersachsen
+905,,ProVento Pool  Verwaltungs-GmbH & Co. KG,11.5,Wind,2001,Sohren ,55487,,Rheinland-Pfalz
+906,,,18.0,Wind,1999,"Sornzig-Ablass, OT Ablass",4769,,Sachsen
+907,Teufelsbruck,VERBUND-Innkraftwerke GmbH,25.0,Hydro,1938,Soyen,83564,Ponschabaustr. 25,Bayern
+908,GuD Anlage Spreetal,Alpiq Spreetal GmbH,50.0,Gas,,Spreetal,2979,Südstraße,Sachsen
+909,Schwarze Pumpe,Lausitz Energie Kraftwerke AG,750.0,Coal,1997,Spremberg,3130,An der alten Ziegelei 1,Brandenburg
+910,Schwarze Pumpe,Lausitz Energie Kraftwerke AG,750.0,Coal,1998,Spremberg,3130,An der alten Ziegelei 1,Brandenburg
+911,,Windpark Springe Bennigsen GmbH & Co.KG,10.0,Wind,2009,Springe,31832,,Niedersachsen
+912,Schärding-Neuhaus,Innwerk AG,96.0,Hydro,1961,St. Florian am Inn,,Badhöring 16,Österreich
+913,Dow Stade,Dow Deutschland Anlagengesellschaft mbH,190.0,Gas,,Stade,21683,Bützflethersand,Niedersachsen
+914,Dow Stade,Dow Deutschland Anlagengesellschaft mbH,157.0,Gas,2015,Stade,21683,Bützflethersand,Niedersachsen
+915,,Abrechnungsgemeinschaft Windpark Rodenkircherwurp GbR,11.3,Wind,2000,Stadland,26935,,Niedersachsen
+916,Stammham,VERBUND-Innkraftwerke GmbH,23.2,Hydro,1955,Stammham,84533,Innstufenstr. 15,Bayern
+917,GuD-Ikw Staßfurt,CIECH Energy Deutschland GmbH,100.0,Gas,2015,Staßfurt,39418,Athenslebener Weg 57,Sachsen-Anhalt
+918,GuD-Ikw Staßfurt,CIECH Energy Deutschland GmbH,9.0,Gas,,Staßfurt,39418,Athenslebener Weg 57,Sachsen-Anhalt
+919,,,17.0,Wind,2000,Staßfurt,39418,,Sachsen-Anhalt
+920,,,13.86,Wind,2002,Stendal,39576,,Sachsen-Anhalt
+921,Heizkraftwerk der Sappi Stockstadt GmbH,Sappi Stockstadt GmbH,13.9934,Biomass,2003,Stockstadt,63811,Obernburger Straße 1-9,Bayern
+922,Heizkraftwerk der Sappi Stockstadt GmbH,Sappi Stockstadt GmbH,24.79,Coal,1970,Stockstadt,63811,Obernburger Straße 1-9,Bayern
+923,,PROKON Regenerative Energien eG,14.3,Wind,2001,Störkathenquarnstedt,25548,,Schleswig-Holstein
+924,Solarpark Gänsdorf,Umspannwerk Straßkirchen GmbH & Co. KG,54.34,Solar,2009,Straßkirchen,94342,,Bayern
+925,Straubing,Rhein-Main-Donau GmbH,21.5,Hydro,1994,Straubing,94315,Kagerser Hauptstraße 164,Bayern
+926,,,10.0,Wind,2004,Striethof,73577,,Baden-Württemberg
+927,,Siekwind GmbH & Co. KG; WP Windpark Stuhr GmbH & Co. Betriebs KG,10.1,Wind,2002,Stuhr,28816,,Niedersachsen
+928,Heizkraftwerk Stuttgart-Gaisburg,EnBW Energie Baden-Württemberg AG,55.0,Gas,,Stuttgart,70376,Langwiesenweg 23,Baden-Württemberg
+929,Heizkraftwerk Stuttgart-Gaisburg,EnBW Energie Baden-Württemberg AG,22.6,Coal,2009,Stuttgart,70376,Langwiesenweg 23,Baden-Württemberg
+930,Restmüll-Heizkraftwerk Stuttgart-Münster,EnBW Energie Baden-Württemberg AG,45.0,Coal,1982,Stuttgart,70376,Voltastraße 45,Baden-Württemberg
+931,Restmüll-Heizkraftwerk Stuttgart-Münster,EnBW Energie Baden-Württemberg AG,45.0,Coal,1984,Stuttgart,70376,Voltastraße 45,Baden-Württemberg
+932,Restmüll-Heizkraftwerk Stuttgart-Münster,EnBW Energie Baden-Württemberg AG,23.3,Oil,1974,Stuttgart,70376,Voltastraße 45,Baden-Württemberg
+933,Restmüll-Heizkraftwerk Stuttgart-Münster,EnBW Energie Baden-Württemberg AG,23.3,Oil,1974,Stuttgart,70376,Voltastraße 45,Baden-Württemberg
+934,Restmüll-Heizkraftwerk Stuttgart-Münster,EnBW Energie Baden-Württemberg AG,19.5,Waste,2009,Stuttgart,70376,Voltastraße 45,Baden-Württemberg
+935,Restmüll-Heizkraftwerk Stuttgart-Münster,EnBW Energie Baden-Württemberg AG,23.3,Oil,1974,Stuttgart,70376,Voltastraße 45,Baden-Württemberg
+936,,,21.8,Wind,2005,Sülzetal,39171,,Sachsen-Anhalt
+937,,,10.0,Wind,2009,Sülzetal,39171,,Sachsen-Anhalt
+938,,WindStrom GmbH & Co. Windpark Okeler Bruch Infrastruktur KG,11.5,Wind,2005,Syke,28857,,Niedersachsen
+939,,e.n.o. energy finance GmbH & Co. KG,25.3,Wind,2006,Tagewerben,6667,,Sachsen-Anhalt
+940,,,3.8,Wind,2002,Tanna,7922,,Thüringen
+941,,Windpark Enercon GmbH & Co. Windnutzung II KG,9.0,Wind,2002,Tanna,7922,,Thüringen
+942,Kraftwerksgruppe Pfreimd,ENGIE Deutschland AG,28.0,Hydro,1958,Trausnitz,92555,Seestraße 6,Bayern
+943,Kraftwerksgruppe Pfreimd,ENGIE Deutschland AG,3.3,Hydro,1955,Trausnitz,92555,Seestraße 6,Bayern
+944,Kraftwerksgruppe Pfreimd,ENGIE Deutschland AG,1.8,Hydro,1952,Trausnitz,92555,Seestraße 6,Bayern
+945,,Rowind GmbH,25.5,Wind,2004,"Teutschenthal, OT Steuden",6179,,Sachsen-Anhalt
+946,,Windpark Beppen II- Intschede Netz GbR; Windstrom GmbH & Co. Windfeld Beppener Bruch Infrastruktur KG,35.3,Wind,2003,Thedinghausen,27321,,Niedersachsen
+947,,,13982.0,Wind,2001,"Tiefenbach, OT Etzdorf (SC Mittweida)",9661,,Sachsen
+948,Töging,VERBUND-Innkraftwerke GmbH,85.3,Hydro,1924,Töging,84513,Werkstr. 18,Bayern
+949,,,62.0,Wind,1999,Tonna,99958,,Thüringen
+950,,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,63.45,Wind,2006,Tonna,99958,,Thüringen
+951,Kraftwerksgruppe Pfreimd,ENGIE Deutschland AG,99.0,Hydro,1955,Trausnitz,92555,Seestraße 6,Bayern
+952,Lünerseewerk,EnBW Energie Baden-Württemberg AG,238.0,Hydro,1957,Tschagguns,,Latschauwerk,Österreich
+953,BHKW Obere Viehweide,Stadtwerke Tübingen GmbH,13.4,Gas,2000,Tübingen,72072,,Baden-Württemberg
+954,,Solar Power Turnow GmbH & Co. KG,34.8,Solar,2009,Turnow-Preilack,3185,,Brandenburg
+955,"Solar Power Turnow West I GmbH & Co. KG,  Solar Power Turnow West II GmbH & Co. KG",STAWAG Energie GmbH,18.0,Solar,2009,Turnow-Preilack,3185,,Brandenburg
+956,Tutow Solarpark 1 FF,Solarpark Tutow I GmbH,6.78,Solar,2009,Tutow,17129,,Mecklenburg-Vorpommern
+957,Solarpark Tutow V GmbH & Co. KG,Solarpark Tutow V GmbH & Co. KG,19.3,Solar,2011,Tutow,17129,,Mecklenburg-Vorpommern
+958,Tutow Solarpark 2 FF Infrastruktur,Solarpark Tutow II GmbH & Co. KG,25.5,Solar,2010,Tutow,17129,,Mecklenburg-Vorpommern
+959,WP Twist,Enercon Windpark GmbH & Co. Twist KG,14.4,Wind,2004,Twist,49767,,Niedersachsen
+960,,ewz Windpark Dörmte GmbH c/o Deutsche Immobilien Leasing,16.5,Wind,2006,Uelzen,29525,,Niedersachsen
+961,,,18.1,Wind,2001,Uetze,31311,,Niedersachsen
+962,,HESSEN WIND II GMBH & CO.KG,10.3,Wind,1996,Ulrichstein/Helpershain,35327,,Hessen
+963,,HESSENENERGIE GMBH,10.0,Wind,2000,Ulrichstein/Wohnfeld,35327,,Hessen
+964,Nord 1,SWM Services GmbH,18.0,Waste,1991,Unterföhring,85774,,Bayern
+965,Nord 2,SWM Services GmbH,332.7,Coal,1991,Unterföhring,85774,,Bayern
+966,Nord 3,SWM Services GmbH,22.0,Waste,1984,Unterföhring,85774,,Bayern
+967,UW Osterweddingen,ENERTRAG Aktiengesellschaft,75.0,Wind,2005,Osterweddingen,39171,"Gemarkung Osterweddingen Flur 8, Flurstück 5/1",Sachsen-Anhalt
+968,Leitzach 1,Stadtwerke München GmbH,48.0,Hydro,1983,Vagen,83620,,Bayern
+969,Leitzach 2,Stadtwerke München GmbH,44.0,Hydro,1960,Vagen,83620,,Bayern
+970,Rodundwerk I,EnBW Energie Baden-Württemberg AG,198.0,Hydro,1943,Vandans,,,Österreich
+971,Rodundwerk II,EnBW Energie Baden-Württemberg AG,295.0,Hydro,2011,Vandans,,,Österreich
+972,,Breeze Two Energy GmbH & Co. KG,10.0,Wind,2006,Veitshöchheim,97209,,Bayern
+973,,UW Eichow GmbH & Co. KG,12.0,Wind,2006,Vetschau,3226,,Brandenburg
+974,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1962,Vianden,,B.P. 2,Luxemburg
+975,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1962,Vianden,,B.P. 2,Luxemburg
+976,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1963,Vianden,,B.P. 2,Luxemburg
+977,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1963,Vianden,,B.P. 2,Luxemburg
+978,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1963,Vianden,,B.P. 2,Luxemburg
+979,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1964,Vianden,,B.P. 2,Luxemburg
+980,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1964,Vianden,,B.P. 2,Luxemburg
+981,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1963,Vianden,,B.P. 2,Luxemburg
+982,PSW Vianden,Société Electrique de l'Our S.A.,100.0,Hydro,1964,Vianden,,B.P. 2,Luxemburg
+983,PSW Vianden,Société Electrique de l'Our S.A.,196.0,Hydro,1975,Vianden,,B.P. 2,Luxemburg
+984,,CHORUS CleanTech GmbH & Co. Solarpark Vilseck KG,10017.0,Solar,2010,Vilseck,92249,,Bayern
+985,KW West,Steag GmbH,318.0,Coal,1971,Voerde,46563,Frankfurter Str. 430,Nordrhein-Westfalen
+986,KW West,Steag GmbH,322.0,Coal,1971,Voerde,46562,Frankfurter Str. 430,Nordrhein-Westfalen
+987,KW Voerde,RWE Generation SE,695.0,Coal,1982,Voerde,46562,Frankfurter Str 430,Nordrhein-Westfalen
+988,KW Voerde,RWE Generation SE,695.0,Coal,1985,Voerde,46563,Frankfurter Str 430,Nordrhein-Westfalen
+989,Irsching,Uniper Kraftwerke GmbH ,415.0,Oil,1974,Vohburg,85088,,Bayern
+990,Gemeinschaftskraftwerk Irsching ,Gemeinschaftskraftwerk Irsching GmbH,846.0,Gas,2010,Vohburg,85088,,Bayern
+991,Ulrich Hartmann (Irsching),Uniper Kraftwerke GmbH ,561.0,Gas,2011,Vohburg,85088,,Bayern
+992,Vohburg,Donau-Wasserkraft AG,23.3,Hydro,1992,Vohburg,85088,,Bayern
+993,"HKW Fenne, Grubengaskraftwerk",STEAG New Energies GmbH,42.0,Gas,2003,Völklingen-Fenne,66333,,Saarland
+994,Modellkraftwerk,Steag GmbH,179.0,Coal,1982,Völklingen-Fenne,66333,Saarbrücker Straße 135-137,Saarland
+995,Heizkraftwerk,Steag GmbH,211.0,Coal,1989,Völklingen-Fenne,66333,Saarbrücker Straße 135-137,Saarland
+996,,Windpark Vollstedt ,15.5,Wind,1997,Vollstedt,25821,,Schleswig-Holstein
+997,,Windpark Voltlage-Höckel GbR,10.5,Wind,2006,Voltlage ,49599,,Niedersachsen
+998,Wählitz,Mitteldeutsche Braunkohlengesellschaft mbH,31.0,Coal,1994,Wählitz,6679,,Sachsen-Anhalt
+999,Kraftwerk Waldshut,Schluchseewerk Aktiengesellschaft,150.0,Hydro,1951,Waldshut-Tiengen,79761,Kraftwerkstraße 13,Baden-Württemberg
+1000,Kraftwerk Walheim,EnBW Energie Baden-Württemberg AG,136.0,Oil,1981,Walheim,74399,Mühlstraße,Baden-Württemberg
+1001,Kraftwerk Walheim,EnBW Energie Baden-Württemberg AG,96.0,Coal,1964,Walheim,74399,Mühlstraße,Baden-Württemberg
+1002,Kraftwerk Walheim,EnBW Energie Baden-Württemberg AG,148.0,Coal,1967,Walheim,74399,Mühlstraße,Baden-Württemberg
+1003,SKW Gasturbine,Allgäuer Überlandwerk GmbH,24.0,Oil,1988,Waltenhofen-Veits,87448,13,Bayern
+1004,SKW Diesel,Allgäuer Überlandwerk GmbH,10.5,Oil,1978,Waltenhofen-Veits,87448,13,Bayern
+1005,Uppenborn 1,Stadtwerke München GmbH,25.0,Hydro,1930,Wang,85368,,Bayern
+1006,,Bassens Windpark GmbH & Co KG,20.4,Wind,1996,Wangerland,26434,,Niedersachsen
+1007,,Windpark am süßen See Verwaltung GmbH,12.0,Wind,2002,Wansleben am See,6318,,Sachsen-Anhalt
+1008,Windpark Waldhausen,Breeze Three Energy GmbH & Co. KG,14.0,Wind,2006,Aalen,73433,,Baden-Württemberg
+1009,Wasserburg,VERBUND-Innkraftwerke GmbH,24.1,Hydro,1938,Wasserburg,83512,Innwerkstr. 15,Bayern
+1010,Windpark Dardesheim-Druiberg,GENERALRENEWABLES GMBH & CO. KG,66.6,Wind,2004,Wasserleben,38871,,Sachsen-Anhalt
+1011,Wedel,Vattenfall Hamburg Wärme GmbH,50.5,Oil,1972,Wedel,22880,,Schleswig-Holstein
+1012,Wedel,Vattenfall Hamburg Wärme GmbH,50.5,Oil,1972,Wedel,22880,,Schleswig-Holstein
+1013,,Windpark Weener Verwaltungs-GmbH,21.45,Wind,1998,Weener,26826,,Niedersachsen
+1014,,Windpark Weenermoor Netzbetriebs-GbR mbH,19.5,Wind,1998,Weener,26826,,Niedersachsen
+1015,Wehr,Schluchseewerk Aktiengesellschaft,910.0,Hydro,1975,Wehr,79664,Todtmooserstr. 150,Baden-Württemberg
+1016,MVA Weisweiler,RWE Power AG,27.0,Waste,1996,Weisweiler,52249,,Nordrhein-Westfalen
+1017,Weisweiler,RWE Power AG,123.0,Coal,1955,Eschweiler-Weisweiler,52249,,Nordrhein-Westfalen
+1018,Weisweiler,RWE Power AG,135.0,Coal,1959,Eschweiler-Weisweiler,52249,,Nordrhein-Westfalen
+1019,Weisweiler,RWE Power AG,200.0,Gas,2006,Eschweiler-Weisweiler,52249,,Nordrhein-Westfalen
+1020,Weisweiler,RWE Power AG,200.0,Gas,2006,Eschweiler-Weisweiler,52249,,Nordrhein-Westfalen
+1021,Weisweiler,RWE Power AG,321.0,Coal,1965,Eschweiler-Weisweiler,52249,,Nordrhein-Westfalen
+1022,Weisweiler,RWE Power AG,321.0,Coal,1967,Eschweiler-Weisweiler,52249,,Nordrhein-Westfalen
+1023,Weisweiler,RWE Power AG,663.0,Coal,1974,Eschweiler-Weisweiler,52249,,Nordrhein-Westfalen
+1024,Weisweiler,RWE Power AG,656.0,Coal,1975,Eschweiler-Weisweiler,52249,,Nordrhein-Westfalen
+1025,,UW Wellen Betreiber GbR c/o Germania Windpark GmbH & Co. KG,15.0,Wind,2002,Wellen,39167,,Sachsen-Anhalt
+1026,,Windpark Ochtmersleben OHG,10.0,Wind,2006,Wellen,39167,,Sachsen-Anhalt
+1027,Wendefurth,Vattenfall Wasserkraft GmbH,79.7,Hydro,1967,Wendefurth,38889,Hangstraße,Sachsen-Anhalt
+1028,Wendefurth,Vattenfall Wasserkraft GmbH,,Hydro,1968,Wendefurth,38889,Hangstraße,Sachsen-Anhalt
+1029,,Breeze Two Energy GmbH & Co. KG,18.0,Wind,2007,Werbach,97956,,Baden-Württemberg
+1030,,Windpark Niederer Fläming GmbH & Co. KG / c.o. BEC Energie Consult GmbH,16.0,Wind,2006,Werbig,14913,,Brandenburg
+1031,Kraftwerk Werdohl-Elverlingsen,Mark-E AG,186.0,Coal,1971,Werdohl,58791,,Nordrhein-Westfalen
+1032,Kraftwerk Werdohl-Elverlingsen,Mark-E AG,206.0,Oil,1975,Werdohl,58791,,Nordrhein-Westfalen
+1033,Kraftwerk Werdohl-Elverlingsen,Mark-E AG,310.0,Coal,1982,Werdohl,58791,,Nordrhein-Westfalen
+1034,,WP Wergzahna GmbH & Co. KG,10.6,Wind,2009,Wergzahna,14913,,Brandenburg
+1035,Gersteinwerk,RWE Generation SE,55.0,Gas,1973,Werne,59368,,Nordrhein-Westfalen
+1036,Gersteinwerk,RWE Generation SE,55.0,Gas,1973,Werne,59368,,Nordrhein-Westfalen
+1037,Gersteinwerk,RWE Generation SE,55.0,Gas,1973,Werne,59368,,Nordrhein-Westfalen
+1038,Gersteinwerk,RWE Generation SE,55.0,Gas,1973,Werne,59368,,Nordrhein-Westfalen
+1039,Gersteinwerk,RWE Generation SE,355.0,Gas,1973,Werne,59368,,Nordrhein-Westfalen
+1040,Gersteinwerk,RWE Generation SE,355.0,Gas,1973,Werne,59368,,Nordrhein-Westfalen
+1041,Gersteinwerk,RWE Generation SE,355.0,Gas,1973,Werne,59368,,Nordrhein-Westfalen
+1042,Gersteinwerk,RWE Generation SE,614.0,Coal,1984,Werne,59368,,Nordrhein-Westfalen
+1043,Gersteinwerk,RWE Generation SE,112.0,Gas,1984,Werne,59368,,Nordrhein-Westfalen
+1044,Windpark Wertheim,Breeze Three Energy GmbH & Co. KG,10.5,Wind,2002,Wertheim,97877,,Baden-Württemberg
+1045,,,42.0,Wind,2002,Westeregeln,39448,,Sachsen-Anhalt
+1046,,,16.2,Wind,2001,Westeregeln,39448,,Sachsen-Anhalt
+1047,,Windpark Norderland Verwaltgungs- und Beteiligungs GmbH,49.5,Wind,1997,Westerholt,26556,,Niedersachsen
+1048,,K/S Hydrovind VI,20.0,Wind,2007,Wettendorf-Bottendorf,29386,,Niedersachsen
+1049,,Bürger-Windpark Wiemersdorf GmbH,17.5,Wind,2010,Wiemersdorf,24647,,Schleswig-Holstein
+1050,,Windpark Wiemersdorf GmbH & Co. KG ,12.3,Wind,2001,Wiemersdorf,24649,,Schleswig-Holstein
+1051,Wi-Biebrich,InfraServ GmbH & Co. Wiesbaden KG,6.7,Biomass,2003,Wiesbaden,65203,,Hessen
+1052,Wi-Biebrich,InfraServ GmbH & Co. Wiesbaden KG,25015.0,Gas,2006,Wiesbaden,65203,,Hessen
+1053,,DIF Windpark Wiesmoor GmbH & Co. KG,19.8,Wind,2000,Wiesmoor,26639,,Niedersachsen
+1054,,,18.6,Wind,2003,Wiesmoor,26639,,Niedersachsen
+1055,,EBV WP Düngstrup GmbH & Co. Betriebs KG,10.4,Wind,2000,Wildeshausen,27793,,Niedersachsen
+1056,Wilhelmshaven,Uniper Kraftwerke GmbH ,56.0,Oil,1973,Wilhelmshaven,26386,,Niedersachsen
+1057,Wilhelmshaven,Uniper Kraftwerke GmbH ,757.0,Coal,1976,Wilhelmshaven,26386,,Niedersachsen
+1058,,Abrechnungsstelle Windpark Willenscharen-Brokstedt GBR,13.2,Wind,1999,Willenscharen,24616,,Schleswig-Holstein
+1059,,e.n.o. Windpark GmbH & Co. Wilmersdorf KG,13.5,Wind,2003,Wilmersdorf,16928,,Brandenburg
+1060,,Windpark Wilstedt GmbH & Co. KG,18.0,Wind,2009,Wilstedt,27412,,Niedersachsen
+1061,,Eigentümergemeinschaft 4. Volkswind GmbH & Co. KG und Spradau Wind Betriebs GmbH & Co. KG,13.8,Wind,2006,Winkelsett,27243,,Niedersachsen
+1062,Wintrich,innogy SE,20.0,Hydro,1965,Wintrich,54487,,Rheinland-Pfalz
+1063,,,14.0,Wind,2005,Wittmund,26409,,Niedersachsen
+1064,,,12.5,Wind,1999,Wittmund,26409,,Niedersachsen
+1065,,,12.0,Wind,2005,Wittmund,26409,,Niedersachsen
+1066,,,10.0,Wind,2005,Wittmund,26409,,Niedersachsen
+1067,Witznau,Schluchseewerk Aktiengesellschaft,220.0,Hydro,1943,Witznau,79777,Schwarzatalstr.5,Baden-Württemberg
+1068,,,10.0,Wind,2007,Woddow,17326,,Brandenburg
+1069,,WKN Windkraft Nord GmbH & Co. Windpark Wöhrden I KG; WKN Windkraft Nord GmbH & Co. Windpark Wöhrden II KG ,8.9,Wind,1999,Wöhrden,25797,,Schleswig-Holstein
+1070,Spitzenlastkraftwerk Wolfen,envia THERM GmbH,40.0,Gas,1997,Wolfen,6766,,Sachsen-Anhalt
+1071,HKW Nord,Volkswagen AG,61.5,Coal,2000,Wolfsburg,38436,,Niedersachsen
+1072,HKW Nord,Volkswagen AG,61.5,Coal,2000,Wolfsburg,38436,,Niedersachsen
+1073,HKW West,Volkswagen AG,138.5,Coal,1985,Wolfsburg,38436,,Niedersachsen
+1074,HKW West,Volkswagen AG,138.5,Coal,1985,Wolfsburg,38436,,Niedersachsen
+1075,Windpark Wörrstadt-Ost,New Breeze GmbH & Co. Wind Wörrstadt KG,11.5,Wind,2011,Wörrstadt,55286,,Rheinland-Pfalz
+1076,New Breeze GmbH & Co. Wind Wörrstadt KG,New Breeze GmbH & Co. Wind Wörrstadt KG,15.7,Wind,2009,Wörrstadt,55286,,Rheinland-Pfalz
+1077,HKW Wörth,Palm Power GmbH & Co. KG,59.0,Gas,2007,Wörth,76744,Am Oberwald 2,Rheinland-Pfalz
+1078,,Windkraftwerk Wremen GmbH & Co. KG; Energiekontor Windkraft GmbH & Co. WP Wremen-Grauwallkan. KG,22.0,Wind,1994,Wremen,27638,,Niedersachsen
+1079,PVA Wülknitz,saferay holding GmbH,11.2,Solar,2010,Wülknitz,1609,,Sachsen
+1080,,Netzbetrieb Windpark Wülknitz GbR,10.2,Wind,2001,Wülknitz,1609,,Sachsen
+1081,HKW Barmen,WSW Energie & Wasser AG,88019.0,Gas,2005,Wuppertal,42275,,Nordrhein-Westfalen
+1082,Spitzenlastanlage Barmen,WSW Energie & Wasser AG,60.0,Oil,2008,Wuppertal,42275,,Nordrhein-Westfalen
+1083,HKW Elberfeld ,WSW Energie & Wasser AG,85.0,Coal,1992,Wuppertal,42117,,Nordrhein-Westfalen
+1084,Heizkraftwerke an der Friedensbrücke,Heizkraftwerk Würzburg GmbH,23.0,Gas,1971,Würzburg,97080,Veitshöchheimer Str. 1,Bayern
+1085,Heizkraftwerke an der Friedensbrücke,Heizkraftwerk Würzburg GmbH,25.0,Gas,1993,Würzburg,97080,Veitshöchheimer Str. 1,Bayern
+1086,Heizkraftwerke an der Friedensbrücke,Heizkraftwerk Würzburg GmbH,29.5,Gas,2009,Würzburg,97080,Veitshöchheimer Str. 1,Bayern
+1087,Heizkraftwerke an der Friedensbrücke,Heizkraftwerk Würzburg GmbH,44.5,Gas,2005,Würzburg,97080,Veitshöchheimer Str. 1,Bayern
+1088,Zielitz,K+S AG,27.0,Gas,1996,Zielitz,39326,,Sachsen-Anhalt
+1089,Kladrum,Breeze Four Energy GmbH & Co. KG,13.8,Wind,1998,Zölkow / OT Kladrum,19374,,Mecklenburg-Vorpommern
+1090,Zolling,ENGIE Deutschland AG,18.3,Biomass,2003,Zolling,85406,Leininger Str. 1,Bayern
+1091,Zolling,ENGIE Deutschland AG,50.0,Oil,1976,Zolling,85406,Leininger Str. 1,Bayern
+1092,Zolling,ENGIE Deutschland AG,472.0,Coal,1985,Zolling,85406,Leininger Str. 1,Bayern
+1093,Gaskraftwerk,Smurfit Kappa Zülpich Papier GmbH,15.1,Gas,1996,Zülpich,53910,Bessenicher Weg,Nordrhein-Westfalen
+1094,Kohlekraftwerk,Smurfit Kappa Zülpich Papier GmbH,19.5,Coal,2010,Zülpich,53909,Bessenicher Weg,Nordrhein-Westfalen
+1095,Weserkraftwerk Bremen,Weserkraftwerk Bremen GmbH & Co. KG,9.9,Hydro,2011,Bremen (Hastedt),28207,,Bremen
+1096,11 Windkraftanlagen,Breloh Windenergie GmbH und Co. KG,25.3,Wind,2011,Ahlen,59227,Halene - Kampen ,Nordrhein-Westfalen
+1097,Windpark Alterkülz-Spesenroth,ENGIE WP Portfolio 2 GmbH,14.0,Wind,2008,Alterkülz-Spesenroth,56288,,Rheinland-Pfalz
+1098,ÜST Anklam,ENERTRAG Aktiengesellschaft,11.6,Wind,1999,Anklam,17389,Demminer Landstrasse,Mecklenburg-Vorpommern
+1099,Bigge,Bigge Energie GmbH & Co. KG,15.0,Hydro,1965,Attendorn,57439,In der Stesse 14,Nordrhein-Westfalen
+1100,UPM Augsburg,UPM GmbH Werk Augsburg,29.0,Gas,1967,Augsburg,86153,Georg-Heindl-Strasse 4,Bayern
+1101,Heizkraftwerk,Stadtwerke Augsburg Energie GmbH,20.4,Gas,1976,Augsburg ,86152,Franziskanergasse 9,Bayern
+1102,HKW Bad Salzungen,TEAG Thüringer Energie AG,9.7,Gas,1994,Bad Salzungen,36433,,Thüringen
+1103,Beeskow – Hufenfeld,Breeze Four Energy GmbH & Co. KG,14.0,Wind,2003,Beeskow,15848,,Brandenburg
+1104,Bergholz,Breeze Four Energy GmbH & Co. KG,12.0,Wind,1999,Bergholz,17321,,Mecklenburg-Vorpommern
+1105,PD energy GmbH,PD energy GmbH,9.9,Waste,2010,Bitterfeld - Wolfen,6749,Ostraße 1,Sachsen-Anhalt
+1106,UW Raguhn,ENERTRAG Aktiengesellschaft,16.9,Wind,2005,Bobbau,6776,"Gemarkung Bobbau, Flur 6, Flurstück 11",Sachsen-Anhalt
+1107,Restmüllheizkraftwerk Böblingen,Zweckverband Restmüllheizkraftwerk Böblingen,9.5,Waste,1999,Böblingen,71032,Musbergersträßle 11,Baden-Württemberg
+1108,UW Roitzsch,ENERTRAG Aktiengesellschaft,21.7,Wind,2003,Brehna / Roitzsch,6809,"Gemarkung Brehna / Roitzsch, an der Umgehungsstrasse",Sachsen-Anhalt
+1109,MHKW,swb Entsorgung GmbH & Co. KG,44.0,Waste,2012,Bremen,28219,Oken 2,Bremen
+1110,Gichtgaskraftwerk Dillingen,"Aktien-Gesellschaft der Dillinger Hüttenwerke, ROGESA Roheisengesellschaft Saar mbH und Zentralkokerei Saar GmbH, als Bruchteilsgemeinschaft",85.0,Other,2010,Dillingen/Saar,66763,Werkstraße 1,Saarland
+1111,BEG,Bremerhavener Entsorgungsgesellschaft mbH,14.0,Waste,1977,Bremerhaven,27570,Zur Hexenbrücke 16,Bremen
+1112,Industriekraftwerk Breuberg,Pirelli Deutschland GmbH,11.4,Gas,1999,Breuberg,64747,Höchster Str. 48-60,Hessen
+1113,Dessau,Uniper Kraftwerke GmbH ,10.3,Hydro,1967,Burggen,86977,Dessau,Bayern
+1114,MHKW Burgkirchen,Zweckverband Abfallverwertung Südostbayern,12.5,Waste,1994,Burgkirchen,84508,Bruck 110,Bayern
+1115,Energiezentrale,RÜTGERS Germany GmbH,10.2,Gas,1991,Castrop-Rauxel,44579,Kekulestraße 30,Nordrhein-Westfalen
+1116,Energiezentrale,RÜTGERS Germany GmbH,0.9,Gas,2005,Castrop-Rauxel,44579,Kekulestraße 30,Nordrhein-Westfalen
+1117,Christinendorf,Breeze Four Energy GmbH & Co. KG,14.0,Wind,2009,Christinendorf,15806,,Brandenburg
+1118,Weimar,Windfarm Weimar GmbH & Co. KG,12.0,Wind,2002,Coppanz,7751,,Thüringen
+1119,PVA Dallgow-Döberitz,saferay holding GmbH,21.0,Solar,2011,Dallgow-Döberitz,14624,Hamburger Chaussee,Brandenburg
+1120,Heizkraftwerk,Merck KGaA,10.0,Gas,1999,Darmstadt ,64293,Frankfurter Str. 250,Hessen
+1121,Dettingen,Kernkraftwerk Obrigheim GmbH,11.0,Hydro,1927,Dettingen,88451,,Baden-Württemberg
+1122,GHD,GHD Bayernwerk Natur GmbH & Co. KG,6.7,Gas,1997,Dingolfing,84130,Landshuter Straße 56,Bayern
+1123,GHD,GHD Bayernwerk Natur GmbH & Co. KG,6.7,Gas,1997,Dingolfing,84130,Landshuter Straße 56,Bayern
+1124,Dingolfing,Uniper Kraftwerke GmbH ,15.0,Hydro,1957,Dingolfing,84130,Bayernwerkstraße 55,Bayern
+1125,"MT, Düren",Metsä Tissue GmbH (Werk Düren),14.0,Gas,1940,Düren,52349,Veldener Strasse 121 - 131,Nordrhein-Westfalen
+1126,WP Edersleben,e.disnatur Erneuerbare Energien GmbH,12.0,Wind,2002,Edersleben,6528,,Sachsen-Anhalt
+1127,Eitting,Uniper Kraftwerke GmbH ,26.0,Hydro,1925,Eitting,85462,Am Moosrain 10,Bayern
+1128,Fankel,innogy SE,16.4,Hydro,1963,Ellenz-Poltersdorf,56821,,Rheinland-Pfalz
+1129,Ellgau,Bayerische Elektrizitätswerke GmbH,9.7,Hydro,1952,Ellgau,86679,,Bayern
+1130,Enkirch,innogy SE,18.4,Hydro,1966,Enkirch,56850,,Rheinland-Pfalz
+1131,BHKW an Klinkerweg,Stadtwerke Erkrath GmbH,10.2,Gas,2000,Erkrath,,Klinkerweg 4,Nordrhein-Westfalen
+1132,TREA Breisgau,EEW Energy from Waste Saarbrücken GmbH,13.6,Waste,2005,Eschbach,79427,Heitersheimer Straße 2,Baden-Württemberg
+1133,Altheim,Uniper Kraftwerke GmbH ,17.8,Hydro,1951,Essenbach,84051,Kraftwerkstraße 22,Bayern
+1134,P&L Werk Euskirchen,Pfeifer & Langen GmbH & Co. KG,14.5,Coal,1979,Euskirchen,53879,Bonner Strasse 2,Nordrhein-Westfalen
+1135,WP Frauenhagen,e.disnatur Erneuerbare Energien GmbH,10.4,Wind,2002,Frauenhagen,16278,,Brandenburg
+1136,Serrig,innogy SE,12.1,Hydro,1985,Freudenburg,54450,,Rheinland-Pfalz
+1137,EEW Göppingen,EEW Energy from Waste Göppingen GmbH,11.0,Waste,1975,Göppingen,73037,,Baden-Württemberg
+1138,Windpark Görike,EnBW Windpark Eisenach II GmbH,10.0,Wind,2010,Görike,16866,,Brandenburg
+1139,Windpark Schenkendöbern,Windfarm Idesheim GmbH & Co. KG,12.0,Wind,2009,Gubin / Schenkendöbern,3172,,Brandenburg
+1140,MVA Hamm,MHB Hamm Betriebsführungsgesellschaft mbH,14.6,Waste,1986,Hamm,59075,Am Lausbach 2,Nordrhein-Westfalen
+1141,Windpark Haupersweiler,EnBW Onshore Portfolio GmbH,15.0,Wind,2011,Haupersweiler,66629,,Saarland
+1142,UW Flensburg Wind,ENERTRAG Aktiengesellschaft,26.1,Wind,2008,Haurup,24983,"Gemarkung Haurup, Flur 1, Flurstück 17 & 41",Schleswig-Holstein
+1143,KWKK Heidelberg,innogy SE,13.5,Gas,2001,Heidelberg,69120,Neuenheimer Feld 530,Baden-Württemberg
+1144,Schwammenauel,innogy SE,14.0,Hydro,1938,Heimbach,52396,,Nordrhein-Westfalen
+1145,Heimbach,innogy SE,16.0,Hydro,1905,Heimbach,52396,,Nordrhein-Westfalen
+1146,RZR Herten I,AGR Abfallentsorgungsgesellschaft Ruhrgebiet mbH,15.5,Waste,1982,Herten,,Im Emscherbruch 11,Nordrhein-Westfalen
+1147,RZR Herten II,AGR Abfallentsorgungsgesellschaft Ruhrgebiet mbH,11.7,Waste,2009,Herten,45699,Im Emscherbruch 11,Nordrhein-Westfalen
+1148,UW Hettstedt,ENERTRAG Aktiengesellschaft,12.0,Wind,1999,Hettstedt,6333,,Sachsen-Anhalt
+1149,Höchstädt,Bayerische Elektrizitätswerke GmbH,10.0,Hydro,1982,Höchstädt,89420,,Bayern
+1150,Windpark Holzhausen,Stadtwerke München GmbH,12.0,Wind,2008,Holzhausen,16845,,Brandenburg
+1151,Ingolstadt,Donau-Wasserkraft AG,19.8,Hydro,1971,Ingolstadt,85049,,Bayern
+1152,MVA Ingolstadt,Zweckverband Müllverwertungsanlage Ingolstadt (MVA Ingolstadt),25.5,Waste,1984,Ingolstadt,85055,Am Mailinger Bach 141,Bayern
+1153,Jabel FF,LHI Solar Deutschland V GmbH & Co. KG,17.3,Solar,2011,Jabel,17194,,Mecklenburg-Vorpommern
+1154,Windpark Jänschwalde,Vattenfall Europe Windkraft GmbH,12.0,Wind,2004,Jänschwalde,3052,,Brandenburg
+1155,P&L Werk Jülich,Pfeifer & Langen GmbH & Co. KG,23.22,Coal,2004,Jülich,52428,Dürenerstr. 20,Nordrhein-Westfalen
+1156,P&L Werk Appeldorn,Pfeifer & Langen GmbH & Co. KG,11.4,Gas,2002,Kalkar,47546,Reeser Str 280-300,Nordrhein-Westfalen
+1157,Abfallentsorgungszentrum Asdonkshof,Kreis Weseler Abfallgesellschaft mbH & Co. KG (KWA),4.8,Oil,1997,Kamp-Lintfort,47475,Graftstr. 25,Nordrhein-Westfalen
+1158,Abfallentsorgungszentrum Asdonkshof,Kreis Weseler Abfallgesellschaft mbH & Co. KG (KWA),16.0,Waste,1997,Kamp-Lintfort,47475,Graftstr. 25,Nordrhein-Westfalen
+1159,Müllheizkraftwerk,Müllheizkraftwerk Kassel GmbH,14.7,Waste,1985,Kassel,34123,,Hessen
+1160,Kaufering,Uniper Kraftwerke GmbH ,16.7,Hydro,1975,Kaufering,86916,Lechfeldwiesen,Bayern
+1161,Windpark Kemberg,,15.0,Wind,2005,Kemberg ,6901,,Sachsen-Anhalt
+1162,Windpark Kemberg II,EnBW Onshore Portfolio GmbH,10.0,Wind,2012,Kemberg bzw. Bad Schmiedeberg,,,Sachsen-Anhalt
+1163,WP Ketzin,e.disnatur Erneuerbare Energien GmbH,18.4,Wind,2005,Ketzin,14669,,Brandenburg
+1164,Windpark Kirchberg,Windpark Kirchberg GmbH & Co. KG,52.9,Wind,2011,Kirchberg,55481,,Rheinland-Pfalz
+1165,Unteropfingen,EnBW Energie Baden-Württemberg AG,14.5,Hydro,1924,Kirchdorf,88457,,Baden-Württemberg
+1166,,Windpark Kittlitz GmbH & Co. KG,10.0,Wind,2006,Kittlitz,2708,,Brandenburg
+1167,Lübbenau,Repower Deutschland GmbH,16.0,Wind,2010,Kittlitz,3222,,Brandenburg
+1168,Solar Schipkau I GmbH & Co. KG,Solar Schipkau I GmbH & Co. KG,12.65,Solar,2011,Klettwitz,1998,Flurstück 14 Flur 3,Brandenburg
+1169,Solar Meuro I GmbH & Co. KG,Solar Meuro I GmbH & Co. KG,15.36,Solar,2011,Klettwitz,1998,Flurstück 11 Flur 3,Brandenburg
+1170,Solar Schipkau II GmbH & Co. KG,Solar Schipkau II GmbH & Co. KG,16.12,Solar,2011,Klettwitz,1998,Flurstück 14 Flur 3,Brandenburg
+1171,Solar Meuro II GmbH & Co. KG,Solar Meuro II GmbH & Co. KG,17.28,Solar,2011,Klettwitz,1998,Flurstück 12 Flur 3,Brandenburg
+1172,Koblenz,innogy SE,16.0,Hydro,1951,Koblenz,56073,,Rheinland-Pfalz
+1173,HKW Merkenich,RheinEnergie AG,15.5,Gas,2010,Köln,50769,,Nordrhein-Westfalen
+1174,HKW Merheim,RheinEnergie AG,15.8,Gas,2001,Köln,51109,,Nordrhein-Westfalen
+1175,RMVA Köln,AVG Köln mbH,45.1,Waste,1998,Köln,50735,Geestemünder Str. 23,Nordrhein-Westfalen
+1176,P&L Werk Könnern,Pfeifer & Langen GmbH & Co. KG,20.3,Coal,2014,Könnern,6420,An den Sieben Stücken,Sachsen-Anhalt
+1177,MKVA Krefeld,EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG,13.5,Waste,1982,Krefeld,47829,Parkstr. 234,Nordrhein-Westfalen
+1178,MKVA Krefeld,EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG,13.8,Waste,2002,Krefeld,47829,Parkstr. 234,Nordrhein-Westfalen
+1179,MKVA Krefeld,EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG,1.5,Waste,1976,Krefeld,47829,Parkstr. 234,Nordrhein-Westfalen
+1180,MKVA Krefeld,EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG,2.8,Waste,1997,Krefeld,47829,Parkstr. 234,Nordrhein-Westfalen
+1181,MKVA Krefeld,EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG,1.5,Waste,1976,Krefeld,47829,Parkstr. 234,Nordrhein-Westfalen
+1182,P&L Werk Lage,Pfeifer & Langen GmbH & Co. KG,10.2,Gas,2017,Lage,32791,Heidensche Str. 70,Nordrhein-Westfalen
+1183,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,10.8,Wind,2004,Lasbek,23847,,Schleswig-Holstein
+1184,Faimingen,Obere Donau Kraftwerke AG,10.1,Hydro,1965,Lauingen,89415,,Bayern
+1185,Thermische Abfallbehandlung Lauta GmbH & Co. oHG,Steag GmbH,15.7,Waste,2004,Lauta,2991,"Industrie- und Gewerbegebiet Lauta, Straße B Nr. 5",Sachsen
+1186,Urspring,Uniper Kraftwerke GmbH ,10.1,Hydro,1966,Lechbruck,86983,Via Claudia,Bayern
+1187,Prem,Uniper Kraftwerke GmbH ,19.2,Hydro,1971,Lechbruck,86983,Am Premer Lechsee,Bayern
+1188,HKW-West,Stadtwerke Lemgo GmbH,12.6,Gas,2001,Lemgo ,32657,Liemer Weg 71,Nordrhein-Westfalen
+1189,RWE Innogy Mistral Windparkbetriebsgesellschaft mbH,innogy SE,11.5,Wind,1997,Lichtenau,33165,,Nordrhein-Westfalen
+1190,WP Losten,e.disnatur Erneuerbare Energien GmbH,11.5,Wind,2004,Losten,23996,,Mecklenburg-Vorpommern
+1191,BHKW Ludwigshafen,MVV Energie AG,12.5,Gas,2008,Ludwigshafen,67065,Giulinistraße 2,Rheinland-Pfalz
+1192,Industriekraftwerk Ludwigshafen,MVV Energie AG,11.96,Gas,2003,Ludwigshafen,67065,Giulinistr. 2,Rheinland-Pfalz
+1193,FHKW Ludwigshafen,Technische Werke Ludwigshafen AG,28.0,Waste,1967,Ludwigshafen,67063,Industriestr. 3 ,Rheinland-Pfalz
+1194,SITA Abfallverwertung GmbH ,SUEZ Energie und Verwertung GmbH,23.0,Waste,2005,Lützen OT Zorbau,6686,Bayerische Str.20,Sachsen-Anhalt
+1195,MHKW Mainz,Entsorgungsgesellschaft Mainz mbH,15.6,Waste,2009,Mainz,55120,Kraftwerkallee 1,Rheinland-Pfalz
+1196,GuD-Kraftwerk,Energie- und Medienversorgung Sandhofer Straße GmbH & Co. KG,17.2,Gas,2005,Mannheim,68305,,Baden-Württemberg
+1197,,Windkraftwerk Meckel/Gilzem GmbH & Co. KG,11.6,Wind,2009,Meckel,54636,,Rheinland-Pfalz
+1198,Meitingen,Bayerische Elektrizitätswerke GmbH,11.3,Hydro,1922,Meitingen,86405,,Bayern
+1199,Merching,Uniper Kraftwerke GmbH ,12.0,Hydro,1978,Merching,86504,Friedenaustraße,Bayern
+1200,WP Miltzow,e.disnatur Erneuerbare Energien GmbH,14.0,Wind,2013,Miltzow,18519,,Mecklenburg-Vorpommern
+1201,DKW Nord,Vereinigte Wertach-Elektrizitätswerke GmbH,11.4,Oil,1988,Mindelheim,87719,Mindelmähderweg 10,Bayern
+1202,Pfrombach,Uniper Kraftwerke GmbH ,22.3,Hydro,1929,Moosburg-Pfrombach,85368,Am Kraftwerk 1,Bayern
+1203,Müden,innogy SE,16.4,Hydro,1965,Müden,56254,,Rheinland-Pfalz
+1204,Neef,innogy SE,16.4,Hydro,1966,Neef,56858,,Rheinland-Pfalz
+1205,Niederaichbach,Uniper Kraftwerke GmbH ,16.2,Hydro,1951,Niederaichbach,84100,Kraftwerkstraße 26,Bayern
+1206,Windpark Illmersdorf,Stadtwerke München GmbH,12.0,Wind,2009,Niederer Fläming,14913,,Brandenburg
+1207,Gummering,Uniper Kraftwerke GmbH ,14.8,Hydro,1957,Niederviehbach,84183,Untere Au 60,Bayern
+1208,Aufkirchen,Uniper Kraftwerke GmbH ,27.0,Hydro,1924,Oberding,85445,Bayernwerkstraße 1,Bayern
+1209,Oberpeiching,Bayerische Elektrizitätswerke GmbH,11.9,Hydro,1954,Oberndorf,86698,,Bayern
+1210,Müllheizkraftwerk Offenbach,Energieversorgung Offenbach AG,14.5,Waste,1972,Offenbach,63069,,Hessen
+1211,Windpark Oldendorf,EnBW Onshore Portfolio GmbH,12.0,Wind,2010,Oldendorf/Schnega,29465,,Niedersachsen
+1212,UW Langholt,ENERTRAG Aktiengesellschaft,12.0,Wind,1999,Ostrhauderfehn,26842,Langholter Str. 10,Niedersachsen
+1213,PWG,Peißenberger Wärmegesellschaft mbH,5.3,Gas,1989,Peißenberg,82380,,Bayern
+1214,PWG,Peißenberger Wärmegesellschaft mbH,5.3,Gas,1987,Peißenberg,82380,,Bayern
+1215,DKW Leinau,Vereinigte Wertach-Elektrizitätswerke GmbH,11.4,Oil,1978,Pforzen,87666,Am Kraftwerk 1,Bayern
+1216,Landau,Uniper Kraftwerke GmbH ,12.6,Hydro,1984,Pilsting-Harburg,94431,Stauseestraße 1,Bayern
+1217,MHKW Pirmasens,EEW Energy from Waste Saarbrücken GmbH,15.0,Waste,1999,Pirmasens,66954,Am Staffelberg 2-4,Rheinland-Pfalz
+1218,Pielweichs,Uniper Kraftwerke GmbH ,12.6,Hydro,1994,Plattling,94447,An der Staustufe 1,Bayern
+1219,Prettin,Repower Deutschland GmbH,10.0,Wind,2006,Plossig,6925,,Sachsen-Anhalt
+1220,ZWSF,EEW Energy from Waste Premnitz GmbH,2.5,Waste,2004,Premnitz,14727,Dr. Herbert-Rein-Straße 1,Brandenburg
+1221,EVE,EEW Energy from Waste Premnitz GmbH,14.5,Waste,2009,Premnitz,14727,Dr. Herbert-Rein-Straße 1,Brandenburg
+1222,Prittriching,Uniper Kraftwerke GmbH ,12.1,Hydro,1984,Prittriching,86931,Lechstraße,Bayern
+1223,Rain,Bayerische Elektrizitätswerke GmbH,10.9,Hydro,1956,Rain,86641,,Bayern
+1224,Windpark Lockstedt,Stadtwerke München GmbH,18.0,Wind,2007,Rätzlingen,39359,,Sachsen-Anhalt
+1225,Redekin,Windpark Redekin-Genthin GmbH & Co. KG,22.0,Wind,2009,Redekin,39319,,Sachsen-Anhalt
+1226,Kraftwerk Meggle,Molkerei MEGGLE Wasserburg GmbH & Co. KG,15.1,Gas,2000,Reitmehring,83512,Megglestraße 6 - 12,Bayern
+1227,Bertoldsheim,Donau-Wasserkraft AG,18.9,Hydro,1968,Rennertshofen,86643,,Bayern
+1228,WP Rheine,Rheiner Windpark GmbH & Co. KG,10.45,Wind,2002,Rheine,48432,Kampelweg,Nordrhein-Westfalen
+1229,WP Riethnordhausen ,e.disnatur Erneuerbare Energien GmbH,10.0,Wind,2007,Riethnordhausen,6528,,Sachsen-Anhalt
+1230,ÜST Röbel,ENERTRAG Aktiengesellschaft,19.2,Wind,1999,Röbel,17207,"Gemarkung Röbel, Flur 14, Flurstück 335/6",Mecklenburg-Vorpommern
+1231,EBS-HKW Rostock,Vattenfall Europe New Energy Ecopower GmbH,17.0,Waste,2009,Rostock,18147,Ost-West-Straße 25,Mecklenburg-Vorpommern
+1232,AVA Velsen,AVA Velsen GmbH,16.0,Waste,1997,Saarbrücken-Velsen,66127,Alte Grube Velsen 16,Saarland
+1233,Schwabstadl,Uniper Kraftwerke GmbH ,12.0,Hydro,1981,Scheuring,86937,Zollhaus,Bayern
+1234,Scheuring,Uniper Kraftwerke GmbH ,12.2,Hydro,1980,Scheuring,86937,Lechau,Bayern
+1235,Unterbergen,Uniper Kraftwerke GmbH ,12.3,Hydro,1983,Schmiechen-Unterbergen,86511,Lechfeldstraße,Bayern
+1236,UPM Schongau,UPM GmbH,64.0,Gas,1954,Schongau,86956,Friedrich-Haindl-Strasse 10,Bayern
+1237,HKW3 UPM Schongau,UPM GmbH,76.0,Gas,2014,Schongau,86956,Friedrich-Haindl-Strasse 10,Bayern
+1238,UPM Schongau,UPM GmbH,6.0,Other,1989,Schongau,86956,Friedrich-Haindl-Strasse 10,Bayern
+1239,UPM Schongau,UPM GmbH,10.5,Hydro,1959,Schongau,86956,Friedrich-Haindl-Strasse 10,Bayern
+1240,Dornau,Uniper Kraftwerke GmbH ,16.6,Hydro,1960,Schongau,86956,Lechuferstraße 21,Bayern
+1241,ÜZ-Wind-Schonungen,ÜZ Windpark Schonungen GmbH & Co. KG,11.5,Wind,2011,Schonungen,97451,Außenbereich,Bayern
+1242,WP Schortewitz,e.disnatur Erneuerbare Energien GmbH,15.0,Wind,2004,Schortewitz,6369,,Sachsen-Anhalt
+1243,Müllkraftwerk Schwandorf,Zweckverband Müllverwertung Schwandorf,54.0,Waste,1982,Schwandorf,92421,Alustraße 7,Bayern
+1244,Kraftwerk Schwedt GmbH & Co.KG,Kraftwerk Schwedt GmbH & Co. KG,28.9,Waste,2011,Schwedt,16303,,Brandenburg
+1245,Kraftwerk Leipa Georg Leinfelder GmbH Werk Schwedt Nord,LEIPA Georg Leinfelder GmbH,13.3,Biomass,1993,Schwedt,16306,Kuhheide 1,Brandenburg
+1246,Heinersdorf,Breeze Four Energy GmbH & Co. KG,13.5,Wind,2001,Schwedt / OT Heinersdorf,16303,,Brandenburg
+1247,Windpark Schwienau II,EnBW Onshore Portfolio GmbH,10.0,Wind,2009,Schwienau,29593,,Niedersachsen
+1248,Solarpark Amsdorf,GERO Solarpark GmbH,28344.0,Solar,2012,Seegebiet Mansfelder Land OT Amsdorf,6317,Chausseestraße 1,Sachsen-Anhalt
+1249,Heizkraftwerk Sindelfingen,Daimler AG,95.0,Gas,2013,Sindelfingen,71059,,Baden-Württemberg
+1250,,EEW Energy from Waste Stapelfeld GmbH,16.4,Waste,1979,Stapelfeld,22145,,Schleswig-Holstein
+1251,REMONDIS Thermische Abfallverwertung GmbH,REMONDIS Thermische Abfallverwertung GmbH,24.0,Waste,2008,Staßfurt,39418,Butterwecker Weg 6,Sachsen-Anhalt
+1252,Mühltal,Uniper Kraftwerke GmbH ,11.2,Hydro,1924,Straßlach,82064,Mühltal 7,Bayern
+1253,HKW Bohrhügel,Stadtwerke Suhl/Zella-Mehlis GmbH,13.5,Gas,1995,Suhl,98528,Fröhliche-Mann-Straße 2,Thüringen
+1254,Tannheim,EnBW Energie Baden-Württemberg AG,12.3,Hydro,1920,Tannheim,88459,,Baden-Württemberg
+1255,Solarpark Thüngen,HSE Solarpark Thüngen GmbH & Co. KG,18.7,Solar,2010,Thüngen,97289,Flur 625,Bayern
+1256,Uppenborn 2,Stadtwerke München GmbH,18.0,Hydro,1951,Tiefenbach,84184,,Bayern
+1257,Tarnow,Breeze Four Energy GmbH & Co. KG,13.5,Wind,2000,Tranow,18249,,Mecklenburg-Vorpommern
+1258,Trier,innogy SE,18.8,Hydro,1962,Trier,54234,,Rheinland-Pfalz
+1259,RWE Innogy Brise Windparkbetriebsgesellschaft mbH,innogy SE,12.0,Wind,2007,Twistringen,27239,,Niedersachsen
+1260,Unterbreizbach,K+S AG,20.0,Gas,1995,Unterbreizbach,36414,,Thüringen
+1261,Windpark Waigandshain/Homberg,KEVAG - Koblenzer Elektrizitätswerk und Verkehrs-AG,18.0,Wind,2004,Waigandshain,56477,Auf der Höhe 4,Rheinland-Pfalz
+1262,Obernach,Uniper Kraftwerke GmbH ,12.8,Hydro,1955,Walchensee,82432,Einsiedl,Bayern
+1263,Ettling,Uniper Kraftwerke GmbH ,12.6,Hydro,1988,Wallersorf/Ettling,94522,Kraftwerkstraße 1,Bayern
+1264,,,21.0,Gas,,Weinheim,69469,Höhnerweg 2-4,Baden-Württemberg
+1265,,,21.0,Gas,,Weinheim,69469,Höhnerweg 2-4,Baden-Württemberg
+1266,Windpark Eisenach II,EnBW Windpark Eisenach II GmbH,12.0,Wind,2009,Welschbillig,54298,,Rheinland-Pfalz
+1267,Welzow II Flughafen,LHI Solar Deutschland VI GmbH & Co. KG,18.6,Solar,2011,Welzow,3119,,Brandenburg
+1268,Gasturbine,Basell Polyolefine GmbH,51.9,Gas,1996,Wesseling,50389,,Nordrhein-Westfalen
+1269,Kraftwerk,Basell Polyolefine GmbH,90.0,Oil,1962,Wesseling,50389,,Nordrhein-Westfalen
+1270,Solarpark Ammerland II GmbH & Co. KG,Solarpark Ammerland II GmbH & Co. KG,5.76,Solar,2011,Wiefelstede,26215,Flurstück 31/6 & 58/6,Niedersachsen
+1271,Solarpark Ammerland III GmbH & Co. KG,Solarpark Ammerland III GmbH & Co. KG,6.3,Solar,2011,Wiefelstede,26215,Flurstück 58/6,Niedersachsen
+1272,Solarpark Ammerland I GmbH & Co. KG,Solarpark Ammerland I GmbH & Co. KG,6.72,Solar,2011,Wiefelstede,26215,Flurstück 31/6,Niedersachsen
+1273,Co-Generation,Grace GmbH,11.5,Gas,1991,Worms,67547,In der Hollerhecke 1,Rheinland-Pfalz
+1274,Sigmundshall,K+S AG,11.0,Gas,1974,Wunstorf,31515,,Niedersachsen
+1275,Restabfallbehandlungsanlage,Zweckverband für Abfallwirtschaft Südwestthüringen (ZASt),12.1,Waste,2007,Zella-Mehlis,98544,,Thüringen
+1276,Zeltingen,innogy SE,13.6,Hydro,1964,Zeltingen,54492,,Rheinland-Pfalz
+1277,Zerre,GHF Windpark Chüden-Zerre GmbH & Co. KG,10.0,Wind,2002,Zerre,2979,,Sachsen
+1278,AMK - Abfallentsorgungsgesellschaft des Märkischen Kreises mbH,AMK - Abfallentsorgungsgesellschaft des Märkischen Kreises mbH,12.61,Waste,1981,Iserlohn,58636,Giesestraße 10,Nordrhein-Westfalen
+1279,Windpark Landesbergen-Nord,Windpark GmbH & Co. Weserbrise KG,9.6,Wind,2005,Landesbergen,31628,,Niedersachsen
+1280,Windpark Landesbergen-Süd,Windpark GmbH & Co. Weserbrise KG,2.0,Wind,2006,Landesbergen,31628,,Niedersachsen
+1281,IHKW Andernach,IHKW Industrieheizkraftwerk Andernach GmbH,12.5,Waste,2008,Andernach,56626,Koblenzer Straße 141,Rheinland-Pfalz
+1282,IHKW Heidenheim,Sales & Solutions GmbH,18.9,Gas,2014,Heidenheim,89522,Alexanderstr. 8,Baden-Württemberg
+1283,Kraftwerk,Martinswerk GmbH,10.0,Coal,1995,Bergheim,50127,Kölner Straße 110,Nordrhein-Westfalen
+1284,Kraftwerk,Martinswerk GmbH,10.0,Coal,1995,Bergheim,50127,Kölner Straße 110,Nordrhein-Westfalen
+1285,Kraftwerk,Martinswerk GmbH,3.0,Gas,1995,Bergheim,50127,Kölner Straße 110,Nordrhein-Westfalen
+1286,Kraftwerk,Martinswerk GmbH,0.8,Oil,1995,Bergheim,50127,Kölner Straße 110,Nordrhein-Westfalen
+1287,EEV,Nynas GmbH & Co KG ,38.0,Oil,1994,Hamburg,21107,Hohe-Schaar-Straße 34,Hamburg
+1288,AVA GmbH,AVA Abfallverwertung Augsburg GmbH,10.0,Waste,1994,Augsburg,86167,Am Mittleren Moos 60,Bayern
+1289,Windpark Bertkow II,Enercon Windpark GmbH & Co. Bertkow II KG,55.1,Wind,2004,Bertkow,39596,,Sachsen-Anhalt
+1290,Windpark Bertkow,Enercon Windpark GmbH & Co. Bertkow KG,21.6,Wind,2001,Bertkow,39596,,Sachsen-Anhalt
+1291,Windpark Deblinghausen,Enercon Windpark GmbH & Co. Deblinghausen KG,16.2,Wind,2003,Steyerberg,31595,,Niedersachsen
+1292,Windpark Anemolter/Steyerberg,Enercon Windpark GmbH & Co. Frische Brise I KG,26.1,Wind,2003,Steyerberg,31595,,Niedersachsen
+1293,Windpark Kutenholz I,Enercon Windpark GmbH & Co. Kutenholz KG,12.6,Wind,2003,Kutenholz,27449,,Niedersachsen
+1294,Windpark Lammersdorf,Enercon Windpark GmbH & Co. Passat III KG,10.8,Wind,2002,Simmerath,52152,,Nordrhein-Westfalen
+1295,Windpark Füchtorf,Enercon Windpark GmbH & Co. Passat II KG,16.2,Wind,2002,Sassenberg,48336,,Nordrhein-Westfalen
+1296,Windpark Monschau,Enercon Windpark GmbH & Co. Passat I KG,23.4,Wind,2003,Monschau,52156,,Nordrhein-Westfalen
+1297,Windpark Niederndodeleben,Enercon Windpark GmbH & Co. Scirocco I KG,10.8,Wind,2001,Ebendorf,39179,,Sachsen-Anhalt
+1298,Windpark Stößen II,Enercon Windpark GmbH & Co. Stößen II KG,12.0,Wind,1999,Stößen,6667,,Sachsen-Anhalt
+1299,Windpark Mehring,Enercon Windpark GmbH & Co. Windrose KG,10.0,Wind,2006,Mehring,54346,,Rheinland-Pfalz
+1300,Windpark Lohe,REG Regenerative Energien Standortentwicklung GmbH & Co. Beverstedt KG,18.0,Wind,2007,Lohe,27616,,Niedersachsen
+1301,Windpark Fiebing,Windpark Fiebing GmbH & Co. KG,10.8,Wind,2003,Fiebing,26629,,Niedersachsen
+1302,Windpark Bröckel-Eicklingen,Windpark GmbH & Co. Bröckel-Eicklingen KG,10.0,Wind,2009,Bröckel,29356,,Niedersachsen
+1303,Windpark Enningerloh,Windpark GmbH & Co. Enningerloh KG,18.0,Wind,2009,Enningerloh,59320,,Nordrhein-Westfalen
+1304,Windpark Jennelt II,Windpark Jennelt II GmbH & Co. KG,10.0,Wind,2007,Jennelt,26736,,Niedersachsen
+1305,Windpark Kutenholz II,Windpark Kutenholz GmbH & Co. KG,16.2,Wind,2004,Kutenholz,27449,,Niedersachsen
+1306,Windpark Zwischenbergen,Windpark Zwischenbergen GmbH & Co.  KG,10.0,Wind,2006,Zwischenbergen,26639,,Niedersachsen
+1307,Windpark Märkisch Linden,Windfarm Märkisch Linden GmbH & Co. KG,30.0,Wind,2008,Märkisch Linden,16818,,Brandenburg
+1308,HKW,Universitätsklinikum Freiburg AdöR,27.0,Gas,2001,Freiburg,79106,Hartmannstrasse 1,Baden-Württemberg
+1309,Müllheizkraftwerk,EKOCity GmbH,30.0,Waste,1976,Wuppertal,42349,Korzert 15,Nordrhein-Westfalen
+1310,Windpark Bornstedt-Holdenstedt,Theolia Naturenergien GmbH,13.5,Wind,2007,Bornstedt,6295,,Sachsen-Anhalt
+1311,Windpark Großvargula,Theolia Naturenergien GmbH,12.0,Wind,2001,Großvargula,99958,,Thüringen
+1312,Windpark Kribbe-Premslin,Theolia Naturenergien GmbH,27.0,Wind,2003,Karstädt,19357,,Brandenburg
+1313,Windpark Mühlanger,Theolia Naturenergien GmbH,14.0,Wind,2007,Mühlanger,6888,,Sachsen-Anhalt
+1314,Windpark Perleberg,Theolia Naturenergien GmbH,19.8,Wind,2002,Perleberg,19348,,Brandenburg
+1315,Windpark Wolgast,Theolia Naturenergien GmbH,24.0,Wind,2001,Karlsburg,17495,,Mecklenburg-Vorpommern
+1316,Windpark Bimolten,Öko Windpark Bimolten GmbH,29.2,Wind,2002,Nordhorn (Bimolten),48527,Barrinkbölt,Niedersachsen
+1317,Windpark Bawöste,Agrowea GmbH & Co. KG,26.0,Wind,2011,Freren,49832,Beestener Str. 17,Niedersachsen
+1318,Windpark Lengerich,Öko Windpark Lengerich GmbH,14.4,Wind,2000,Lengerich,49838,,Niedersachsen
+1319,Windpark Esche,Bürgerwindpark Esche Verwaltungsgesellschaft mbH,10.0,Wind,2003,Esche,49828,,Niedersachsen
+1320,Energiezentrale 1992,Flughafen München GmbH,9.5,Gas,1992,München,85326,nicht öffentlicher Bereich (Btl. 145.01),Bayern
+1321,Erweiterung Energiezentrale 2003,Terminal 2 Gesellschaft mbH & Co oHG,7.44,Gas,2003,München,85326,nicht öffentlicher Bereich (Btl. 145.01),Bayern
+1322,HBB,HBB Heizkraftwerk Bauernfeind Betreibergesellschaft mbh,24.0,Gas,2001,Raubling,83064,Rosenheimer Str. 37,Bayern
+1323,K&N PFK AG EV,Kübler & Niethammer Papierfabrik Kriebstein AG,13.11,Gas,1993,Kriebstein,9648,Bauhofstr. 1,Sachsen
+1324,Steinbeis Energie,Steinbeis Energie GmbH,17.0,Waste,2010,Glückstadt,25348,Stadtstraße 20,Schleswig-Holstein
+1325,Reno De Medici,R.D.M. Arnsberg GmbH,19.0,Coal,1923,Arnsberg,59821,Hellefelderstr. 51,Nordrhein-Westfalen
+1326,INEOS Kraftwerk,INEOS Solvents Germany GmbH,24.0,Gas,1995,Moers,47443,Römerstr. 733,Nordrhein-Westfalen
+1327,HKW Pfaffenwald,Universität Stuttgart,12181.0,Gas,1988,Stuttgart,70569,Pfaffenwaldring 8,Baden-Württemberg
+1328,HKW Pfaffenwald,Universität Stuttgart,11.3377,Gas,1969,Stuttgart,70569,Pfaffenwaldring 8,Baden-Württemberg
+1329,HKW Pfaffenwald,Universität Stuttgart,11.6188,Gas,1968,Stuttgart,70569,Pfaffenwaldring 8,Baden-Württemberg
+1330,KWK-Anlage,CR3-Kaffeeveredelung M. Hermsen GmbH,14.8,Gas,2002,Bremen,28237,Waterbergstraße 14,Bremen
+1331,PKV Kraftwerk,Papier- u. Kartonfabrik Varel GmbH & Co. KG,58.1,Gas,1989,Varel,26316,Dangaster Straße 38,Niedersachsen
+1332,PKV Kraftwerk,Papier- u. Kartonfabrik Varel GmbH & Co. KG,0.48,Gas,1968,Varel,26316,Dangaster Straße 38,Niedersachsen
+1333,PKV Kraftwerk,Papier- u. Kartonfabrik Varel GmbH & Co. KG,1.92,Biomass,2006,Varel,26316,Dangaster Straße 38,Niedersachsen
+1334,Holthausen,Henkel AG & Co. KGaA,84.0,Gas,1948,Düsseldorf,40589,Henkelstr. 67,Nordrhein-Westfalen
+1335,Heizkraftwerk,DS Smith Paper Deutschland GmbH,27.0,Gas,,Aschaffenburg,63741,Weichertstr. 7,Bayern
+1336,Blockheizkraftwerk 1,DS Smith Paper Deutschland GmbH,1.1,Biomass,2005,Aschaffenburg,63741,Weichertstr. 7,Bayern
+1337,Blockheizkraftwerk 2,DS Smith Paper Deutschland GmbH,0.8,Biomass,2010,Aschaffenburg,63741,Weichertstr. 7,Bayern
+1338,Notstromdiesel,DS Smith Paper Deutschland GmbH,0.5,Oil,1991,Aschaffenburg,63741,Weichertstr. 7,Bayern
+1339,GuD-Anlage,DS Smith Paper Deutschland GmbH,47.0,Gas,2013,Aschaffenburg,63741,Weichertstr. 7,Bayern
+1340,Spitzenkraftwerk,Eurowatt Spitzenkraft GmbH,19.0,Oil,,Deggendorf,94469,Ruselbergstr. 87,Bayern
+1341,Windpark Walchum,WEA Windpark Walchum Verwaltungsgesellschaft mbH,6.0,Wind,2011,Dersum,26906,,Niedersachsen
+1342,Windpark Walchum,WEA Windpark Walchum Verwaltungsgesellschaft mbH,6.0,Wind,2011,Niederlangen,49779,,Niedersachsen
+1343,Windpark Walchum,WEA Windpark Walchum Verwaltungsgesellschaft mbH,2.3,Wind,2010,Walchum,26907,,Niedersachsen
+1344,,SILVINO GmbH & Co. KG,21.6,Solar,2009,Finsterwalde,3238,"Flur 50, Fl-St. 191 u. Flur 52, Fl-St. 107",Brandenburg
+1345,,MITAB GmbH & Co. KG,20.4,Solar,2009,Finsterwalde,3238,"Flur 50, Fl-St. 191 u. Flur 52, Fl-St. 107",Brandenburg
+1346,,,15.8,Solar,2010,Geroldshausen,97256,"Flurstücke 600,503,644,642,978",Bayern
+1347,,,11.14704,Solar,2010,Karlstadt,97753,Duttenbrunner Weg,Bayern
+1348,,,18.73695,Solar,2010,Thüngen,97289,Flurstück 625,Bayern
+1349,,,10.1,Solar,2010,Calau,3205,Laasower Weg,Brandenburg
+1350,,,10.9,Solar,2010,Ahrensfelde,16356,,Brandenburg
+1351,,,23597.0,Solar,2011,Senftenberg,1968,Flur 24 Flurstück 14,Brandenburg
+1352,,,15734.0,Solar,2011,Senftenberg,1968,Flur 24 Flurstück 14,Brandenburg
+1353,,,15689.0,Solar,2011,Senftenberg,1968,Flur 24 Flurstück 14,Brandenburg
+1354,,,13464.0,Solar,2011,Klettwitz,1998,"Flurstück 12, Flur 3, Gemarkung Meuro",Brandenburg
+1355,,,12.73116,Solar,2011,Klettwitz,1998,"Flurstück 14, Flur 3, Gemarkung Meuro",Brandenburg
+1356,,,12.7,Solar,2010,Baasdorf,6388,,Sachsen-Anhalt
+1357,,,10171.0,Solar,2011,Martinsheim,97340,Flurstück 416 u.a.,Bayern
+1358,,,11.16288,Solar,2011,Stavenhagen,17153,Hubschrauberlandeplatz Basepohl,Mecklenburg-Vorpommern
+1359,,LHI Solar Georgsdorf GmbH & Co. KG,24.7,Solar,2011,Georgsdorf,49828,Georgsdorf 14/10; 1/41; 1/39; 2/7; 1/42; 11/4; 11/5; u.a.,Niedersachsen
+1360,,,23.54858,Solar,2011,Lauta,2991,Industrie strasse B,Sachsen
+1361,,LHI Solar Prenzlau GmbH & Co. KG,15.7047,Solar,2011,Prenzlau,17291,"Flur 6 (Flst.418), Flur 7 (Flst.241,244,247,158/14,139/2)",Brandenburg
+1362,,STAWAG Energie GmbH,14.9,Solar,2011,Giebelstadt,97232,Flurnummer 452 (Süd),Bayern
+1363,,,14.0624,Solar,2011,Weeze,47652,Flughafenring 60 Flurstück 12 Flur 17,Nordrhein-Westfalen
+1364,,,13.89696,Solar,2011,Oldenburg,26127,,Niedersachsen
+1365,,,13.4,Solar,2011,Giebelstadt,97232,Flurnummer 452 (Nord),Bayern
+1366,,,11.7,Solar,2011,Gotha,99867,Güldene Aue; Gotha; Flur15; Sundhausen; Flur 2,Thüringen
+1367,,,10.6005,Solar,2011,Neuhausen,3058,"Flur 1, Flurstück 466",Brandenburg
+1368,,,10.28352,Solar,2011,Sukow,19079,"85-86,146-153,160-165,175-180,284,305-309,325-330,z.T.84,87/",Mecklenburg-Vorpommern
+1369,,,20.0,Solar,2011,Burg,2979,"Burg, Flur 1 Flst. 56 u. Seidenwinkel, Flur 15 Flst. 116,117,118",Sachsen
+1370,,,12.8,Solar,2011,Polch,56751,Im Gohl 2,Rheinland-Pfalz
+1371,,Solarpark Bronkow Luckaitztal GmbH,11425.0,Solar,2012,Luckaitztal,3229,Flugplatzstraße,Brandenburg
+1372,,,10.8,Solar,2012,Großweitzschen,4720,Heiterer Blick,Sachsen
+1373,,,28.34412,Solar,2012,Seegebiet Mansfelder Land,6317,Chausseestraße,Sachsen-Anhalt
+1374,,,10.7448,Solar,2012,Tagewerben,6667,Lindenstraße,Sachsen-Anhalt
+1375,,,25.55914,Solar,2012,Marienfließ,16945,,Brandenburg
+1376,,Solarpark Elmenhorst GmbH & Co. KG,24.4,Solar,2012,Elmenhorst,21493,FS 1/4 und 13; Flur 6; FS 91; Flur 7 (Lanken),Schleswig-Holstein
+1377,,,20.9,Solar,2012,Güstrow,18273,Glasewitzer Chausee,Mecklenburg-Vorpommern
+1378,,STAWAG Energie GmbH,19.92192,Solar,2012,Ronneburg,7580,Schmirchau Flst.90/9+Ronnebg. Flst.852/6+852/15+Flst.1730/22,Thüringen
+1379,,,18.97884,Solar,2012,Perleberg,19348,Gem.Perleb. Fl. 19 Flst. 74&765;Fl. 20 Flst. 73&763,Brandenburg
+1380,,,18854.0,Solar,2012,Oeversee,24988,A 7,Schleswig-Holstein
+1381,Flugplatz Mahlwinkel,Solarparc AG,18.78336,Solar,2012,Mahlwinkel,39517,ehemaliger Militärflughafen,Sachsen-Anhalt
+1382,,,17.6,Solar,2012,Delitzsch,4509,Carl-Friedrich-Benz-Straße,Sachsen
+1383,,,15.7,Solar,2012,Grafenwöhr,92649,"Gemarkung Grafenwöhr Flst. 124,125,127,128 u.a.",Bayern
+1384,,,15.37704,Solar,2012,Sükow,19348,"Gem. Sükow, Flur 4, Flst. 54",Brandenburg
+1385,,,14.903945,Solar,2012,Marienfließ,16945,,Brandenburg
+1386,,,13.6,Solar,2012,Großenkneten,26197,,Niedersachsen
+1387,,,12.9,Solar,2012,Großenkneten,26197,,Niedersachsen
+1388,,,12.59688,Solar,2012,Salzatal,6198,Neutz-Lettewitz 2/14 2/15 2/16 2/17 2/18 2/19 2/20 2/21 2/22,Sachsen-Anhalt
+1389,,,12.1464,Solar,2012,Nobitz,4603,Am Flughafen 1,Thüringen
+1390,,,11.3,Solar,2012,Baumgarten,18246,"Gemarkung Wendorf, Flur 1, Flurstücke 39/2 & 45/3 & 47",Mecklenburg-Vorpommern
+1391,,,11.23296,Solar,2012,Wallersdorf,94522,1982+1982/2+1983+1984+2604+2607+2615+2615/1+2615/3+2616,Bayern
+1392,,,11.06784,Solar,2012,Schleiz,7907,,Thüringen
+1393,,,10.59552,Solar,2012,Stephansposching,94569,1123 -24 -26 -26/1 -20 -22 -41 -42 -44 -45 48 1714,Bayern
+1394,,,10.5,Solar,2012,Herzogenrath,52134,,Nordrhein-Westfalen
+1395,,,10.42186,Solar,2012,Überherrn,66802,"Flst. 119/5, 137/20, 137/24, 137/30 und 396/133",Saarland
+1396,Barth,Solarparc AG,10.3,Solar,2012,Barth,18356,"Flur 24, Flurstücke NN 61, NN 62, NN 63",Mecklenburg-Vorpommern
+1397,,,22.12467,Solar,2012,Neiße-Malxetal,3159,,Brandenburg
+1398,,,16.0,Solar,2012,Heideblick,15926,Pilzheide,Brandenburg
+1399,,,14.9,Solar,2012,Heideblick,15926,Pilzheide,Brandenburg
+1400,,,14.5,Solar,2012,Delitzsch,4509,Carl-Friedrich-Benz-Str.,Sachsen
+1401,,,14.4,Solar,2012,Heideblick,15926,Pilzheide,Brandenburg
+1402,EVC / GLOBALFOUNDRIES,Energieversorgungscenter Dresden-Wilschdorf GmbH & Co. KG,34.3,Gas,1998,Moritzburg,1468,"Boxdorf, Ringstr. 3",Sachsen
+1403,O10,Ineos Manufacturing Deutschland GmbH,15.5,Other,1964,Köln,50769,Alte Strasse 201,Nordrhein-Westfalen
+1404,O10,Ineos Manufacturing Deutschland GmbH,19.2,Other,1964,Köln,50769,Alte Strasse 201,Nordrhein-Westfalen
+1405,O10,Ineos Manufacturing Deutschland GmbH,15.5,Other,1963,Köln,50769,Alte Strasse 201,Nordrhein-Westfalen
+1406,O10,Ineos Manufacturing Deutschland GmbH,10.4,Other,1966,Köln,50769,Alte Strasse 201,Nordrhein-Westfalen
+1407,O10,Ineos Manufacturing Deutschland GmbH,33.6,Other,1967,Köln,50769,Alte Strasse 201,Nordrhein-Westfalen
+1408,Energieanlage 3,SWISS KRONO GmbH,18.6,Biomass,2002,Heiligengrabe,16909,Wittstocker Chaussee 1,Brandenburg
+1409,Oxea GmbH,OXEA Produktion GmbH & Co.KG,38.0,Other,1929,Oberhausen,46147,Otto-Roelen-Str.3,Nordrhein-Westfalen
+1410,EZ1,"Südzucker AG, Werk Zeitz",23.3,Coal,1993,Zeitz,6712,Albrechtstr. 54,Sachsen-Anhalt
+1411,EZ1,"Südzucker AG, Werk Zeitz",23.3,Gas,1993,Zeitz,6712,Albrechtstr. 54,Sachsen-Anhalt
+1412,BoA 2,RWE Power AG,1060.0,Coal,2012,Grevenbroich,41517,Energiestraße 101,Nordrhein-Westfalen
+1413,BoA 3,RWE Power AG,1060.0,Coal,2012,Grevenbroich,41517,Energiestraße 101,Nordrhein-Westfalen
+1414,Heizkraftwerk zur Papierfabrik,Delkeskamp Verpackungswerke GmbH,18.1,Gas,1996,Nortrup,49638,Hauptstrasse 15,Niedersachsen
+1415,Steinitz,Neptune Energy Deutschland GmbH,11.4,Gas,1999,Steinitz,29416,Bobbenmärsche 11 ,Sachsen-Anhalt
+1416,Boxberg,Lausitz Energie Kraftwerke AG,640.0,Coal,2012,Boxberg,2943,Am Kraftwerk 1,Sachsen
+1417,Heizkraftwerk Magirusstraße,Fernwärme Ulm GmbH,20.7,Coal,1992,Ulm,89077,Magirusstr. 21,Baden-Württemberg
+1418,BioHKW I,Fernwärme Ulm GmbH,8.7,Biomass,2004,Ulm,89077,Magirusstr. 21,Baden-Württemberg
+1419,BioHKW II,Fernwärme Ulm GmbH,4.5,Biomass,2012,Ulm,89077,Magirusstr. 21,Baden-Württemberg
+1420,FS-Karton,FS-Karton GmbH,18879.0,Gas,1992,Neuss,41460,Düsseldorfer Str. 182-184,Nordrhein-Westfalen
+1421,STW,Schoeller Technocell GmbH & Co. KG,18.72,Gas,1997,Weißenborn,9600,Fabrikstraße 1,Sachsen
+1422,Heizkraftwerk Evonik Rheinfelden,Evonik Degussa GmbH,15.68,Gas,1979,Rheinfelden,79618,Untere Kanalstraße 3,Baden-Württemberg
+1423,DK Kraftwerk,DK Recycling und Roheisen GmbH,21.0,Other,2010,Duisburg,47053,Wörthstraße 175,Nordrhein-Westfalen
+1424,,Photovoltaikkraftwerk Groß Dölln 1 GmbH & Co. KG,15.778125,Solar,2012,Templin,17268,"Gemarkung Vietmannsdorf,Flur 4, Flurstück 10,11,18",Brandenburg
+1425,,Photovoltaikkraftwerk Groß Dölln 2 GmbH & Co. KG,17.83725,Solar,2012,Templin,17268,"Gemarkung Vietmannsdorf,Flur4,Flurst.2,10,11,12/2,13,16,17",Brandenburg
+1426,,Photovoltaikkraftwerk Groß Dölln 7 GmbH & Co. KG,13158.0,Solar,2012,Templin,17268,"Groß Väter,Fl.1,Fls.55,56,57,88,175,176/3,178,195bis198",Brandenburg
+1427,,Photovoltaikkraftwerk Groß Dölln 8 GmbH & Co. KG,13209.0,Solar,2012,Templin,17268,"Gemarkung Groß Väter,Flur1,Flurstück 9/1,10/1,69,86,87,88",Brandenburg
+1428,,,18.2,Solar,2012,Halberstadt,38805,1/3;2/4;8/1;11/2;11/3;11/4;12/3;12/4;29/1;29/2;2/5;72 etc.,Sachsen-Anhalt
+1429,,Photovoltaikkraftwerk Groß Dölln 3 GmbH & Co. KG,16.01475,Solar,2012,Templin,17268,"Gem.Vietmannsd.,Flur4,Fls.2,16,17/Gem.Grunew.,Flur4,Fls.5/1",Brandenburg
+1430,,Photovoltaikkraftwerk Groß Dölln 5 GmbH & Co. KG,18.11775,Solar,2012,Templin,17268,"Gem.Groß Dölln,Flur1,Flst.90/2,91/2,98,99,100,103,104/2,201,",Brandenburg
+1431,,,20.03232,Solar,2012,Müncheberg,15374,"62,63,64,110",Brandenburg
+1432,,,31.6,Solar,2012,Barth,18356,"an der L23 Flur:2/1,44,46/1,41/4,1/17,36/1",Mecklenburg-Vorpommern
+1433,Pütnitz,Solarparc AG,21.339055,Solar,2012,Ribnitz-Damgarten,18311,Militärflughafen Pütnitz,Mecklenburg-Vorpommern
+1434,,,11928.0,Solar,2012,Königsbrück,1936,Hoyerswerdaerstrasse,Sachsen
+1435,,,19.45104,Solar,2012,Kubschütz,2627,Gemarkung Litten 52/13 Gemarkung Purschwitz 241/6,Sachsen
+1436,,,18.87972,Solar,2012,Kubschütz,2627,Gemarkung Litten 52/13 Gemarkung Purschwitz 241/6,Sachsen
+1437,,,13.5432,Solar,2012,Stendal,39576,71/1;71/5;135;137;206/44;265/4;285/44;287/45;289/71-2;+div.,Sachsen-Anhalt
+1438,,,10.3488,Solar,2012,Jüterbog,14913,"Flur 41 Flst. 193,198,326,328,220,221,328,415,416,419,420",Brandenburg
+1439,,,22.5258,Solar,2012,Neuhardenberg,15320,,Brandenburg
+1440,,,15.2064,Solar,2012,Rothenburg,2929,"G. Lodenau Fl.9 Fls.254/2, G. Rothenburg Fl.3 Fls.7/60",Sachsen
+1441,,Photovoltaikkraftwerk Groß Dölln 6 GmbH & Co. KG,16.0905,Solar,2012,Templin,17268,"Gem.Groß Väter,Fl.1,Fls.69,111/Gem.Vietmanns.,Fl.4,Fls.10,18",Brandenburg
+1442,,Photovoltaikkraftwerk Groß Dölln 4 GmbH & Co. KG,18.2175,Solar,2012,Templin,17268,"Vietmannsd.Fl.4,Fls.2,13,17/Groß Dölln Fl.4,Fls.233,224,242",Brandenburg
+1443,,,11.35372,Solar,2012,Neuhardenberg,15320,,Brandenburg
+1444,,,24.3364,Solar,2012,Marienfließ,16945,"Gemarkung Krempendorf, Flur 5 und Flur 6",Brandenburg
+1445,,,19.68887,Solar,2012,Lutherstadt Eisleben,6295,"Kassler Straße 46( Eisleben/13,12/43,320,313,107,101/4,...)",Sachsen-Anhalt
+1446,,,22.05024,Solar,2012,Neuhardenberg,15320,,Brandenburg
+1447,,,20.07132,Solar,2012,Neuhardenberg,15320,,Brandenburg
+1448,,,19.88064,Solar,2012,Neuhardenberg,15320,,Brandenburg
+1449,,LHI Green Infrastructure Solar Deutschland I GmbH & Co. KG,19.68864,Solar,2012,Neuhardenberg,15320,Oderbruchstraße,Brandenburg
+1450,Windpark Hof,"Trasse Münchberg GmbH & Co. KG, c/o BW Partner",18.4,Wind,2012,Konradsreuth,95176,,Bayern
+1451,KWK AOS GmbH,Aluminium Oxid Stade GmbH,30.72,Gas,2012,Stade- Bützfleth,21683,Johann- Rathje- Köser- Straße,Niedersachsen
+1452,Helmstadt,ENGIE Deutschland AG,12.5,Wind,2012,Helmstadt,97264,,Bayern
+1453,Titz,innogy SE,20.5,Wind,2012,Titz,52445,,Nordrhein-Westfalen
+1454,Windpark Wirfus,MVV Energie AG,10.0,Wind,2006,Zettingen,56761,,Rheinland-Pfalz
+1455,Windpark Holdenstedt-Bornstedt,MVV Energie AG,12.0,Wind,2006,Sangerhausen,6526,Handelsweg 901R,Sachsen-Anhalt
+1456,Windpark Rastenberg,MVV Energie AG,12.0,Wind,2007,Rastenberg,99636,,Thüringen
+1457,GT1 ,Prinovis GmbH & Co. KG,4.2,Gas,1993,Nürnberg,90471,Breslauer Str. 300,Bayern
+1458,GT2 ,Prinovis GmbH & Co. KG,4.2,Gas,1993,Nürnberg,90471,Breslauer Str. 300,Bayern
+1459,GT3 ,Prinovis GmbH & Co. KG,5.1,Gas,1994,Nürnberg,90471,Breslauer Str. 300,Bayern
+1460,GT4 ,Prinovis GmbH & Co. KG,5.1,Gas,1995,Nürnberg,90471,Breslauer Str. 300,Bayern
+1461,WP Külz II,Windpark GmbH & Co. Külz II KG,13.8,Wind,2012,Külz,55471,,Rheinland-Pfalz
+1462,WP Trebbichau,Windpark GmbH & Co. Trebbichau KG,16.1,Wind,2012,Trebbichau,6369,,Sachsen-Anhalt
+1463,,Evonik Röhm GmbH,11.9,Waste,1990,Worms,67547,Im Pfaffenwinkel 6,Rheinland-Pfalz
+1464,,Evonik Röhm GmbH,6.9,Waste,2012,Worms,67547,Im Pfaffenwinkel 6,Rheinland-Pfalz
+1465,AHKW Neunkirchen,EEW Energy from Waste Saarbrücken GmbH,11.6,Waste,1977,Neunkirchen,66538,Am Blücherflöz 12,Saarland
+1466,Turbosatz 1,Zweckverband Abfallwirtschaft Raum Würzburg,8.7,Waste,1984,Würzburg,97076,Gattingerstr. 31,Bayern
+1467,Turbosatz 2,Zweckverband Abfallwirtschaft Raum Würzburg,12.0,Waste,1998,Würzburg,97076,Gattingerstr. 31,Bayern
+1468,GUD-Anlage DREWSEN,DREWSEN SPEZIALPAPIERE GmbH & Co. KG,13.0,Gas,2000,Lachendorf,29331,Georg-Drewsen-Weg 2,Niedersachsen
+1469,HKW Sachtleben,Venator Germany GmbH,27.5,Coal,1964,Duisburg,47198,,Nordrhein-Westfalen
+1470,Windpark Möthlitz,EBLD Windpark Möthlitz GmbH,10.0,Wind,2012,Möthlitz,14715,,Sachsen-Anhalt
+1471,Windpark Klettwitz,Klettwitz Green Energy GmbH & Co. KG,4.0,Wind,2000,Klettwitz,1998,,Brandenburg
+1472,Windpark Kostebrau,Klettwitz Green Energy GmbH & Co. KG,9.9,Wind,2000,Klettwitz,1998,,Brandenburg
+1473,Windpark Sitten,Momentum Gruppen A/S K/S Windpartner 26 / Itec International,10.5,Wind,1999,Blockwitz / OT Sitten,1999,,Brandenburg
+1474,Windpark Remlingen,Mainova AG,16.8,Wind,2013,Remlingen,97280,,Bayern
+1475,Windpark Hohenahr,Mainova AG,14.4,Wind,2013,Hohenahr,35644,,Hessen
+1476,,,28.0,Gas,1976,Annweiler,76855,,Rheinland-Pfalz
+1477,BKW Holleben Wind GmbH,BKW Deutschland GmbH,25.5,Wind,2005,Holleben,6179,,Sachsen-Anhalt
+1478,BKW Bippen Wind GmbH,BKW Deutschland GmbH,27.6,Wind,2005,Bippen,49626,,Niedersachsen
+1479,,CropEnergies Bioethanol GmbH Zeitz,17.5,Coal,2005,Zeitz,6712,Albrechtstr. 54,Sachsen-Anhalt
+1480,Windpark Polch,pfalzwind GmbH,10.25,Wind,2012,Polch,56751,,Rheinland-Pfalz
+1481,,Smurfit Kappa Herzberger Papierfabrik GmbH,19.5,Gas,1978,Herzberg,37412,Andreasberger Str. 1,Niedersachsen
+1482,Gas- u. Dampfturbinenanlage Südraum,ZF Friedrichshafen AG,38.61,Gas,2012,Saarbrücken,66117,Untertürkheimer Straße 5,Saarland
+1483,EBS-Kraftwerk Witzenhausen,B+T Energie GmbH,28.0,Other,2009,Witzenhausen,37213,Kasseler Landstr. 23,Hessen
+1484,Gaskraftwerk,DS Smith Paper Deutschland GmbH,13.2,Gas,1990,Witzenhausen,37213,Kasseler Landstr. 23,Hessen
+1485,Kraftwerk 3,Alzkraftwerke Heider GmbH,18.95,Hydro,1920,Unterneukirchen,84579,Mühlthal 1,Bayern
+1486,,Koehler SE,18.5,Coal,1986,Oberkirch,77704,Hauptstraße 2-4,Baden-Württemberg
+1487,WP Buckow,PROKON Regenerative Energien eG,21.0,Wind,2002,Rietz-Neuendorf,15848,,Brandenburg
+1488,WP Glienicke,PROKON Regenerative Energien eG,15.0,Wind,2001,Rietz-Neuendorf,15848,,Brandenburg
+1489,WP Eilsleben I,PROKON Regenerative Energien eG,16.9,Wind,2000,Hakenstedt,39343,Lehmberg,Sachsen-Anhalt
+1490,WP Eilsleben II,PROKON Regenerative Energien eG,20.0,Wind,2006,Hakenstedt,39343,Lehmberg,Sachsen-Anhalt
+1491,WP Hakenstedt II,PROKON Regenerative Energien eG,20.0,Wind,2006,Hakenstedt,39343,Lehmberg,Sachsen-Anhalt
+1492,WP Hakenstedt III,PROKON Regenerative Energien eG,10.0,Wind,2008,Hakenstedt,39343,Lehmberg,Sachsen-Anhalt
+1493,WP Fleetmark,PROKON Regenerative Energien eG,16.5,Wind,2002,Kalbe,39624,Thüritz,Sachsen-Anhalt
+1494,WP Hohe Wuhne II,PROKON Regenerative Energien eG,14.0,Wind,2007,Förderstedt,39443,Umspannwerk 0 c,Sachsen-Anhalt
+1495,WP Hohe Wuhne III,PROKON Regenerative Energien eG,12.5,Wind,2011,Förderstedt,39443,Umspannwerk 0 c,Sachsen-Anhalt
+1496,WP Koßdorf,PROKON Regenerative Energien GmbH,16.5,Wind,2004,Arzberg,4886,,Sachsen
+1497,WP Könnern II,PROKON Regenerative Energien eG,23.0,Wind,2003,Könnern,6420,,Sachsen-Anhalt
+1498,WP Podelzig,PROKON Regenerative Energien eG,18.2,Wind,2002,Seelow,15306,,Brandenburg
+1499,WP Quarnstedt II,PROKON Regenerative Energien eG,10.0,Wind,2011,Störkathen,25548,,Schleswig-Holstein
+1500,WP Sembten,PROKON Regenerative Energien eG,12.0,Wind,2002,Guben,3172,,Brandenburg
+1501,WP Straach,PROKON Regenerative Energien eG,15.0,Wind,2007,Zahna-Elster,6895,,Sachsen-Anhalt
+1502,UW Burg,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,16.0,Wind,2007,Schermen,39291,,Sachsen-Anhalt
+1503,UW Langensalza II,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,60.5,Wind,2012,Bad Langensalza,99947,,Thüringen
+1504,UW Buttstädt Wind,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,43.9,Wind,2012,Buttstädt,99628,,Thüringen
+1505,Grubenheizkraftwerk,ROMONTA GmbH,45.0,Coal,1979,Seegebiet Mansfelder Land,6317,Chausseestraße 1,Sachsen-Anhalt
+1506,GTKW Darmstadt,Entega AG,94.6,Gas,2013,Darmstadt,64293,Frankfurter Str. 100,Hessen
+1507,,KG Deutsche Gasrußwerke GmbH & Co.,16.0,Other,1989,Dortmund,44147,Weidenstr. 70-72,Nordrhein-Westfalen
+1508,Heizkraftwerk Stendal,"Stadtwerke - Altmärkische Gas-, Wasser- u. E-Werke Stendal GmbH",13.2,Gas,1994,Stendal,39576,Schillerstraße,Sachsen-Anhalt
+1509,EBKW Knapsack,EBS - Kraftwerk GmbH,33.4,Waste,2009,Hürth,50354,Industriestr. 300,Nordrhein-Westfalen
+1510,Windpark Meyenburg,SachsenFonds Windpark IX GmbH & Co. KG,14.4,Wind,2004,Meyenburg,16945,,Brandenburg
+1511,Kraftwerk 3,Papierfabrik Adolf Jass GmbH & Co. KG,26.2,Gas,2012,Fulda,36039,Hermann-Muth-Str. 6,Hessen
+1512,Kraftwerk 2,Papierfabrik Adolf Jass GmbH & Co. KG,7.5,Gas,1982,Fulda,36039,Hermann-Muth-Str. 6,Hessen
+1513,Windpark Schkortleben,ENGIE Windpark Schkortleben GmbH & Co. KG,28.0,Wind,2006,Schkortleben,6688,,Sachsen-Anhalt
+1514,Windpark Karstädt/Blüthen,ENGIE WP Portfolio 1 GmbH,42.0,Wind,2001,Karstädt/Blüthen,19357,,Brandenburg
+1515,Windpark Lövenich,ENGIE WP Lövenich GmbH,10.0,Wind,2001,Lövenich,41812,,Nordrhein-Westfalen
+1516,Windpark Querstedt,ENGIE WP Portfolio 1 GmbH,14.0,Wind,2002,Querstedt,39579,,Sachsen-Anhalt
+1517,Windpark Reinsfeld/Hinzert-Pölert,SachsenFonds Windpark VII GmbH & Co. KG,13.5,Wind,2002,Reinsfeld,54421,,Rheinland-Pfalz
+1518,Werk Nordstemmen,"Nordzucker AG, Werk Nordstemmen",30.6,Gas,1953,Nordstemmen,31171,Calenberger Str. 36,Niedersachsen
+1519,Werk Clauen,"Nordzucker AG, Werk Clauen",17.11,Gas,2003,Hohenhameln,31249,Zuckerfabrik 3,Niedersachsen
+1520,Werk Uelzen,Nordzucker AG,40.0,Coal,1965,Uelzen,29525,An der Zuckerfabrik 1,Niedersachsen
+1521,Bio HKW Herbrechtingen,Biomasse-Heizkraftwerk-Herbrechtingen GmbH,14.0,Biomass,2004,Herbrechtingen,89542,Oskar-von-Miller-Weg 1,Baden-Württemberg
+1522,Heizkraftwerk Krefeld,SWK ENERGIE GmbH,12.6,Gas,2011,Krefeld,47804,,Nordrhein-Westfalen
+1523,BHKW H.120,Daimler AG,21.1,Gas,2012,Düsseldorf,40476,Rather Str. 51,Nordrhein-Westfalen
+1524,BHKW,Daimler AG,13.04,Gas,2013,Woerth,76742,Daimler Str. 1,Rheinland-Pfalz
+1525,HKW Wiesengrund,Opel Automobile GmbH,22.1,Gas,1993,Eisenach,99817,Adam-Opel-Str.,Thüringen
+1526,Werk Klein Wanzleben,Nordzucker AG,23.4,Gas,1994,Klein Wanzleben,39164,Magdeburger Landstraße 1 bis 5,Sachsen-Anhalt
+1527,,Michelin Reifenwerke AG & Co. KGaA Standort Bad Kreuznach,10.7,Gas,2006,Bad Kreuznach,55543,Michelinstr. 1,Rheinland-Pfalz
+1528,Trianel Kohlekraftwerk Lünen,Trianel Kohlekraftwerk Lünen GmbH & Co. KG,735.0,Coal,2013,Lünen,44536,Frydagstr. 40,Nordrhein-Westfalen
+1529,BP Werk Lingen,BP Europa SE,66.0,Gas,1996,Lingen,49808,Raffineriestrasse,Niedersachsen
+1530,Hamburger Rieger,Spreestromerzeugungs GmbH,18.7,Waste,2013,Spremberg,3130,An der Heide B5,Brandenburg
+1531,Kessel 4,Papierfabrik Schoellershammer H. A. Schoeller Söhne GmbH & Co KG,9.3,Coal,1983,Düren,52355,Kreuzauer Str. 18,Nordrhein-Westfalen
+1532,Windpark Illschwang,FLEMMA W.1 Energie GmbH & Co. KG,12.0,Wind,2013,Illschwang,92278,,Bayern
+1533,Windpark Haiger,HSE Windpark Haiger GmbH & Co. KG,13.8,Wind,2013,Haiger,35708,,Hessen
+1534,Windpark Eisleben,Trianel Windkraftwerk Eisleben GmbH & Co. KG,26.6,Wind,2013,Eisleben,6295,Heizhausweg 6a,Sachsen-Anhalt
+1535,Windpark Niederhambach,Mainova AG,16.9,Wind,2013,Niederhambach,55767,,Rheinland-Pfalz
+1536,HKW 1 Werk Offstein,Südzucker AG Mannheim,30.0,Gas,1961,Obrigheim,67283,Wormser Straße 11,Rheinland-Pfalz
+1537,Windpark Everswinkel,Windpark Everswinkel GmbH & Co KG,5.9,Wind,2010,Everswinkel,48351,,Nordrhein-Westfalen
+1538,Windpark Everswinkel,Windpark Everswinkel GmbH & Co KG,9.8,Wind,2013,Everswinkel,48351,,Nordrhein-Westfalen
+1539,Windpark Emmendorf,Windpark Emmendorf GmbH & Co. KG,16.0,Wind,2003,Emmendorf,29579,,Niedersachsen
+1540,Offshore Windpark Riffgat,Offshore-Windpark RIFFGAT GmbH & Co. KG/EWE ERNEUERBARE ENERGIEN GmbH,113.4,Wind,2014,Nordsee,,15 Kilometer vor der Nordseeinsel Borkum,AWZ
+1541,Biomasseheizkraftwerk Wiesbaden,ESWE BioEnergie GmbH,10.5,Waste,2014,Wiesbaden,65205,Deponiestraße 14,Hessen
+1542,Solarkraftwerk Barderup,Technische Werke Ludwigshafen AG,22.8,Solar,2012,Barderup,24988,,Schleswig-Holstein
+1543,BioEnergie Park Klarsee,Geno Bioenergie Leasingfonds Erste GmbH & Co. KG,17.8,Biomass,2006,Krackow,17329,Ernst-Röwer-Ring 2,Mecklenburg-Vorpommern
+1544,Gemeinschaftskraftwerk Weig,Moritz J. Weig GmbH & Co KG,11.4,Gas,1992,Mayen,56727,Polcher Str. 113,Rheinland-Pfalz
+1545,Gemeinschaftskraftwerk Weig,Moritz J. Weig GmbH & Co KG,27.4,Gas,2013,Mayen,56727,Polcher Str. 113,Rheinland-Pfalz
+1546,Gemeinschaftskraftwerk Weig,Moritz J. Weig GmbH & Co KG,10.3,Other,1992,Mayen,56727,Polcher Str. 113,Rheinland-Pfalz
+1547,Gemeinschaftskraftwerk Weig,Moritz J. Weig GmbH & Co KG,8.4,Gas,1971,Mayen,56727,Polcher Str. 113,Rheinland-Pfalz
+1548,Heizkraftwerk Bomlitz,Sales & Solutions GmbH,12.75,Gas,1969,Bomlitz,29699,"Industriepark Walsrode, August-Wolff-Str. 13",Niedersachsen
+1549,,Windpark Geisberg GmbH & Co. KG,12.0,Wind,2013,Viernheim,68519,Industriestraße 2,Hessen
+1550,Kraftwerk Raffinerie Heide,Raffinerie Heide GmbH,44.5,Other,1961,Hemminstedt,25770,Meldorfer Str. 43,Schleswig-Holstein
+1551,Windpark Adorf,Windparkbetriebsgesellschaft Adorf/Diemelsee mbH c/o LENPower GmbH,23.0,Wind,2012,Diemelsee,34519,,Hessen
+1552,,Stadtwerke Kempen GmbH,13.2,Gas,1990,Kempen,47906,,Nordrhein-Westfalen
+1553,,Photovoltaikkraftwerk Alt Daber 1 GmbH & Co. KG,5.6,Solar,2011,Wittstock / Dosse,16909,,Brandenburg
+1554,,Photovoltaikkraftwerk Alt Daber 2 GmbH & Co. KG,7.5,Solar,2011,Wittstock / Dosse,16909,,Brandenburg
+1555,,Photovoltaikkraftwerk Alt Daber 3 GmbH & Co. KG,7.6,Solar,2011,Wittstock / Dosse,16909,,Brandenburg
+1556,,Photovoltaikkraftwerk Alt Daber 4 GmbH & Co. KG,5.4,Solar,2011,Wittstock / Dosse,16909,,Brandenburg
+1557,,Photovoltaikkraftwerk Alt Daber 5 GmbH & Co. KG,6.0,Solar,2011,Wittstock / Dosse,16909,,Brandenburg
+1558,,Photovoltaikkraftwerk Alt Daber 6 GmbH & Co. KG,7.4,Solar,2011,Wittstock / Dosse,16909,,Brandenburg
+1559,,Photovoltaikkraftwerk Alt Daber 6 GmbH & Co. KG,7.6,Solar,2011,Wittstock / Dosse,16909,,Brandenburg
+1560,,Photovoltaikkraftwerk Alt Daber 8 GmbH & Co. KG,7.6,Solar,2011,Wittstock / Dosse,16909,,Brandenburg
+1561,,Photovoltaikkraftwerk Alt Daber 9 GmbH & Co. KG,7.6,Solar,2011,Wittstock / Dosse,16909,,Brandenburg
+1562,,Photovoltaikkraftwerk Alt Daber 10 GmbH & Co. KG,5.5,Solar,2011,Wittstock / Dosse,16909,,Brandenburg
+1563,,Photovoltaikkraftwerk Bochow 1 GmbH & Co. KG,3.8,Solar,2012,Groß Kreutz (Havel),14550,,Brandenburg
+1564,,Photovoltaikkraftwerk Bochow 2 GmbH & Co. KG,6.0,Solar,2012,Groß Kreutz (Havel),14550,,Brandenburg
+1565,,Photovoltaikkraftwerk Bochow 3 GmbH & Co. KG,3.0,Solar,2012,Groß Kreutz (Havel),14550,,Brandenburg
+1566,,Photovoltaikkraftwerk Bochow 4 GmbH & Co. KG,4.5,Solar,2012,Groß Kreutz (Havel),14550,,Brandenburg
+1567,,Photovoltaikkraftwerk Bochow 5 GmbH & Co. KG,5.6,Solar,2012,Groß Kreutz (Havel),14550,,Brandenburg
+1568,,Photovoltaikkraftwerk Bochow 6 GmbH & Co. KG,5.9,Solar,2012,Groß Kreutz (Havel),14550,,Brandenburg
+1569,Industriekraftwerk Greifswald,Industriekraftwerk Greifswald GmbH,38.0,Gas,2013,Lubmin,17509,,Mecklenburg-Vorpommern
+1570,WP Fischbeck,enercity AG,11.5,Wind,2013,Wust-Fischbeck,39524,,Sachsen-Anhalt
+1571,WP Cottbus,WINDPARK COTTBUSSER SEE GmbH & Co KG,24.0,Wind,2005,Teichland,3185,,Brandenburg
+1572,,Windpark Aller-Leine-Tal GmbH & Co. KG,16.0,Wind,2012,Suderbruch,29690,Nienhagener Weg,Niedersachsen
+1573,,Windpark Schönwalde GmbH & Co. KG,22.0,Wind,2007,Sehestedt,24814,,Schleswig-Holstein
+1574,,innogy SE,10.0,Wind,2012,Schöppingen,48624,Haverbeck,Nordrhein-Westfalen
+1575,,innogy SE,12.0,Wind,2012,Heiden,46359,Heidener Str. 141,Nordrhein-Westfalen
+1576,,RWE Vertrieb AG,29.5,Wind,2012,Legden,48739,Schöppingerstr. ,Nordrhein-Westfalen
+1577,WP Kisselsheide,Windpark GmbH & Co. Kisselsheide KG,11.5,Wind,2013,Kisselsheide,55471,,Rheinland-Pfalz
+1578,WP Kassiek-Lindstedt (I),Windpark Kassieck-Lindstedt GmbH & Co. KG,13.8,Wind,2011,Lindstedt,39638,,Sachsen-Anhalt
+1579,WP Kassiek-Lindstedt (II),Windpark Kassieck-Lindstedt II GmbH & Co. KG,13.8,Wind,2011,Lindstedt,39638,,Sachsen-Anhalt
+1580,WP Kassiek-Lindstedt (III),Windpark Kassieck-Lindstedt III GmbH & Co. KG,13.8,Wind,2012,Lindstedt,39638,,Sachsen-Anhalt
+1581,HKW Freiberg,Freiberger Erdgas GmbH,13.4,Gas,2013,Freiberg,9599,,Sachsen
+1582,Windpark Neuruppin,EnBW Wind Onshore 2 GmbH,16.0,Wind,2013,Neuruppin,16816,,Brandenburg
+1583,Windpark Riegenroth,STAWAG Energie GmbH,15.8,Wind,2013,Riegenroth,55469,,Rheinland-Pfalz
+1584,Windpark Oberwesel II,STAWAG Energie GmbH,10.2,Wind,2013,Oberwesel,55430,,Rheinland-Pfalz
+1585,Windpark Oberwesel III,STAWAG Energie GmbH,10.2,Wind,2013,Oberwesel,55430,,Rheinland-Pfalz
+1586,Windpark Beltheim II,STAWAG Energie GmbH,16.0,Wind,2013,Beltheim,56920,,Rheinland-Pfalz
+1587,Windpark Büttel,Denker & Wulf AG,25.0,Wind,2007,Büttel,25572,,Schleswig-Holstein
+1588,Windpark Dahme,Denker & Wulf AG,76.5,Wind,2003,Kemlitz,15926,,Brandenburg
+1589,Windpark Pröttlin,Denker & Wulf AG,24.0,Wind,2009,Pröttlin,19357,,Brandenburg
+1590,Windpark Quitzow,Denker & Wulf AG,24.0,Wind,2009,Perleberg,19348,,Brandenburg
+1591,Windpark Werder Zinndorf,Denker & Wulf AG,30.0,Wind,2009,Rehfelde,15345,,Brandenburg
+1592,,Windpark Hangen-Weisheim GmbH & Co. KG,10.0,Wind,2013,Hangen-Weisheim,55234,,Rheinland-Pfalz
+1593,,Gunvor Raffinerie Ingolstadt GmbH,23.3,Other,1964,Kösching,85092,,Bayern
+1594,Windpark Söhrewald,Windpark Söhrewald / Niestetal GmbH & Co. KG,15375.0,Wind,2013,Söhrewald,34320,Gemarkung Wellerode,Hessen
+1595,Windpark Badeleben,Trianel Onshore Windkraftwerk Wendorfer Berg GmbH & Co. KG,10.7,Wind,2013,Völpke,39393,,Sachsen-Anhalt
+1596,,Sachsenmilch Leppersdorf GmbH,36.0,Gas,2014,Leppersdorf,1454,An den Breiten,Sachsen
+1597,,Volkswagen Sachsen GmbH ,12.9,Gas,2014,Zwickau,8056,Glauchauer Str. 40,Sachsen
+1598,Moorburg B,Vattenfall Heizkraftwerk Moorburg GmbH,800.0,Coal,2015,Hamburg,21079,Moorburger Schanze 2,Hamburg
+1599,Borkum Riffgrund 1,Borkum Riffgrund I Offshore Windpark A/S GmbH & Co. oHG,312.0,Wind,2015,Nordsee,,,AWZ
+1600,DanTysk Sanbank,DanTysk Offshore Wind GmbH & Co. KG,604.8,Wind,2014,Nordsee,,"Deutsche Bucht, 70 km vor Sylt",AWZ
+1601,Meerwind Süd I Ost,WindMW GmbH,288.0,Wind,2014,Nordsee,,vor Helgoland,AWZ
+1602,Global Tech I,Global Tech I Offshore Wind GmbH ,400.0,Wind,2014,Nordsee,,,AWZ
+1603,OWP Nordsee Ost,innogy SE,295.2,Wind,2015,Nordsee,,"AWZ, 33 km nördlich Helgoland",AWZ
+1604,Butendiek,OWP Butendiek GmbH & Co. KG,288.0,Wind,2015,Nordsee,,SylWin-Cluster (5),AWZ
+1605,Trianel Windpark Borkum,Trianel Windkraftwerk Borkum GmbH & Co. KG,200.0,Wind,2015,Nordsee,,,AWZ
+1606,Anzetel Wehlens,,12.0,Wind,2014,Wilhelmshaven,26388,,Niedersachsen
+1607,,,12.0,Wind,2014,Odelzhausen,85235,,Bayern
+1608,"Bürgerwindpark ""Wrohm - Osterrade""",,21525.0,Wind,2014,Wrohm,25799,"Gemeinde/Gemarkung: Osterrade, Flur:14; Fl.st.36",Schleswig-Holstein
+1609,Bürgerwindpark Eider,,46.2,Wind,2014,Tellingstedt,25782,,Schleswig-Holstein
+1610,Bürgerwindpark Emmelsbüll-Horsbüll GmbH & Co. KG,,23.4,Wind,2014,Emmelsbüll-Hostbüll,25924,,Schleswig-Holstein
+1611,"Bürgerwindpark Hollich Sellen, Bereich Hollich",,24.0,Wind,2015,Steinfurt,48565,,Nordrhein-Westfalen
+1612,Bürger-Windpark Holzacker-Knorburg,,12.0,Wind,2014,Stadum,25917,"Flurstück 31, Flur 22, Gemarkung Stadum",Schleswig-Holstein
+1613,Bürgerwindpark im Kirchspiel Medelby,,82.23,Wind,2014,Jardelund,24994,"Gemarkung 1171, Flur 1, Flurstück 17",Schleswig-Holstein
+1614,Bürgerwindpark Norderhof II GmbH & Co KG,,21.6,Wind,2014,Galmsbüll,25899,Flur 12 Flurstück 70,Schleswig-Holstein
+1615,Bürgerwindpark Retzstadt,,15375.0,Wind,2014,Retzstadt,97282,,Bayern
+1616,Bürgerwindpark Schafflund GmbH & Co.KG,,16.0,Wind,2014,Schafflund,24980,Flur: 2   Flurstück: 33/3,Schleswig-Holstein
+1617,Bürgerwindpark Schleiden,,18.3,Wind,2014,Schleiden,53937,,Nordrhein-Westfalen
+1618,Bürgerwindpark Süderlügum,,36.0,Wind,2014,Süderlügum,25923,"Flur 2, Flurstück 9/2, Gemarkung Süderlügum",Schleswig-Holstein
+1619,Bürgerwindpark Wanderup GmbH & Co. KG,,25.36,Wind,2015,Wanderup,24997,"Flur 20, Flurstück 7",Schleswig-Holstein
+1620,Bürgerwindpark Wesselburener Deichhausen,,11.5,Wind,2014,Wesselburener Deichhausen,25764,"Gemarkung Hassenbüttel, Flur 2, Flurstück 4/1",Schleswig-Holstein
+1621,BWP BB Wind,,19.02,Wind,2014,Weesby,24994,Flur 3; Stk. 8,Schleswig-Holstein
+1622,Eggstedt/Süderhastedt III,,28.99,Wind,2014,Süderhastedt,25727,,Schleswig-Holstein
+1623,Esche Nord,Bürgerwindpark Esche Verwaltungsgesellschaft mbH,13.8,Wind,2014,Esche,49828,,Niedersachsen
+1624,Green City Energy Windpark Maßbach,,12.0,Wind,2014,Maßbach,97711,,Bayern
+1625,Holtriem III,,34.5,Wind,2014,Westerholt,26556,,Niedersachsen
+1626,Lindtorf,,15375.0,Wind,2014,,,,Sachsen-Anhalt
+1627,Niederhausen an der Appel,,18.45,Wind,2014,Niederhausen an der Appel,67822,,Rheinland-Pfalz
+1628,Offenbach an der Queich II,,15.18,Wind,2014,Offenbach an der Queich,76877,"Gewanne im Birkenbüschel; Flurstücke 7245, 7244",Rheinland-Pfalz
+1629,Rietz 1,,15.18,Wind,2015,Treuenbrietzen OT Rietz,14929,,Brandenburg
+1630,Veer Dörper Fläche 51,,25.3,Wind,2014,Joldelund,25862,,Schleswig-Holstein
+1631,Weidehof,,18.4,Wind,2014,Reinsbüttel,25764,Flur 6 Flurstück 28,Schleswig-Holstein
+1632,Windenergiepark Heidenrod GmbH,,30.1,Wind,2014,Heidenrod,65321,,Hessen
+1633,Windpark Bad Hersfeld Wehneberg,,15.2,Wind,2014,Bad Hersfeld,36251,,Hessen
+1634,Windpark Badow,,32.2,Wind,2015,Schildetal Badow,19209,,Mecklenburg-Vorpommern
+1635,Windpark Bagband,,39.7,Wind,2014,Großefehn,26629,,Niedersachsen
+1636,Windpark Beiersdorf-Freudenberg,,16.0,Wind,2014,Beiersdorf-Freudenberg,16259,,Brandenburg
+1637,Windpark Bendorf-Oersdorf,Trianel Onshore Windkraftwerk Bendorf-Oersdorf GmbH & Co. KG,27.5,Wind,2014,Bendorf-Oersdorf,25557,Fl. 6; FlSt. 80/1,Schleswig-Holstein
+1638,Windpark Berngerode,,30.36,Wind,2014,"Schlitz, OT Rimbach",36110,,Hessen
+1639,Windpark Bernitt,,15.3,Wind,2014,Bernitt,18249,,Mecklenburg-Vorpommern
+1640,Windpark Bohmstedt GmbH & Co. KG,,20.7,Wind,2014,Bohmstedt,25853,"Neuacker, Flur 3, Flurstück 92",Schleswig-Holstein
+1641,Windpark Buchhainer Heide,,20.0,Wind,2014,Doberlug-Kirchhain OT Buchhain,3253,,Brandenburg
+1642,Windpark Büttler Balje,,11.5,Wind,2014,Friedrichsgabekoog,25764,"Gemarkung Friedrichsgabekoog, Flur 3, Flurstück 27",Schleswig-Holstein
+1643,Windpark Calau II D,CEE Windpark Calau GmbH & Co. KG,15.4,Wind,2013,Calau,3205,,Brandenburg
+1644,Windpark Dammfleth-Hochfeld,,11.5,Wind,2014,Dammfleth,25554,"Gemarkung Dammfleth, Flur 12, Flurstück 17/1",Schleswig-Holstein
+1645,Windpark der H & N Bürgerwind GmbH & Co. KG,,27.0,Wind,2014,Nordhackstedt,24980,Flur 9,Schleswig-Holstein
+1646,Windpark Englmannsberg,,12.2,Wind,2014,Hohenwart,86558,,Bayern
+1647,Windpark Galgenberg,,12.2,Wind,2014,Rothselberg,67753,,Rheinland-Pfalz
+1648,Windpark Grebbin Süd,,11.5,Wind,2014,Grebbin,19374,,Mecklenburg-Vorpommern
+1649,Windpark Hamwiede,,16.8,Wind,2015,Idsingen,29664,,Niedersachsen
+1650,Windpark Hilsberg,,15.3,Wind,2014,Bad Endbach  - Bottenhorn,35080,,Hessen
+1651,Windpark Hochfranken,,16.45,Wind,2014,Markt Stammbach,95236,,Bayern
+1652,Windpark Hohenseefeld II,,10.0,Wind,2014,Hohenseefeld,14913,,Brandenburg
+1653,Windpark Jalm,Windpark Jalm Pool GmbH & Co. KG,19.8,Wind,2014,Sieverstedt,24885,"Flurstück 4/1, Flur 1, Gemarkung Sieverstedt",Schleswig-Holstein
+1654,Windpark Karlsburg,,20.2,Wind,2014,Emsdetten,48282,,Nordrhein-Westfalen
+1655,Windpark Kasendorf-Weismain,,17.5,Wind,2014,Kasendorf,95359,,Bayern
+1656,Windpark Kastorf,,21.53,Wind,2014,Kastorf,23847,"Flur 2, Flurstück 19 (vorher Flurstück 17)",Schleswig-Holstein
+1657,Windpark Klein Leine,,62.7,Wind,2014,Schwielochsee OT Siegadel,15913,,Brandenburg
+1658,Windpark Klettwitz,KGE Windpark Schipkau-Nord GmbH & Co. KG,89.1,Wind,2015,Schipkau,1998,,Brandenburg
+1659,Windpark Kletzin,,15.0,Wind,2014,Kletzin,17111,,Mecklenburg-Vorpommern
+1660,Windpark Kniphagen,,15.0,Wind,2014,Kniphagen,23744,,Schleswig-Holstein
+1661,Windpark Kohldamm GmbH & Co. KG,,33.0,Wind,2014,Risum-Lindholm,25920,,Schleswig-Holstein
+1662,Windpark Kohlenbek,,12.3,Wind,2014,Bokelrehm,25596,,Schleswig-Holstein
+1663,Windpark Königshovener Höhe,innogy SE,66.6,Wind,2014,Bedburg/Königshofen,50181,,Nordrhein-Westfalen
+1664,Windpark Kräft,,12.5,Wind,2014,Neumarkt,92318,,Bayern
+1665,Windpark Kündelmoor,,45.8,Wind,2014,Bösel,26219,,Niedersachsen
+1666,Windpark Langenzenn,,18.45,Wind,2014,Langenzenn,90579,Gemarkung Labendorf; Flurstück: 849,Bayern
+1667,Windpark Pritzwalk,LHI SolarWind Pritzwalk GmbH & Co. KG,10.0,Wind,2014,Pritzwalk,16928,,Brandenburg
+1668,Windpark Rödeser Berg,,12.2,Wind,2014,Wolfhagen,34466,,Hessen
+1669,Windpark Storbeck,,23.0,Wind,2014,Hansestadt Osterburg,39606,"Gemarkung Storbeck, Flur 2, Flurstück 13/5",Sachsen-Anhalt
+1670,Windpark Ullersdorf,STEAG New Energies GmbH,41.7,Wind,2014,Ullersdorf,15868,,Brandenburg
+1671,Windpark Uthlede Süd,,33.0,Wind,2014,Uthlede,27628,,Niedersachsen
+1672,Windpark Völschow,,11.0,Wind,2014,Völschow,17129,,Mecklenburg-Vorpommern
+1673,Windpark Walsleben Goldbeck,,18.3,Wind,2014,Goldbeck,39596,,Sachsen-Anhalt
+1674,Windpark Wanderup,,34.52,Wind,2014,Wanderup,24997,"Gemarkung Wanderup, Flur 14, Flurstück 21",Schleswig-Holstein
+1675,Windpark Wanderup West GmbH & Co. KG,,15.85,Wind,2015,Wanderup,24997,"Flur 20, Flurstück 2",Schleswig-Holstein
+1676,Windpark Wangelau,,14.4,Wind,2014,Wangelau,21483,"Gemarkung Wangelau, Flur: 4, Flurstück: 4/1",Schleswig-Holstein
+1677,Windpark Weilrod,,16.8,Wind,2014,Weilrod,61276,,Hessen
+1678,Windpark Zedtwitz,,12.2,Wind,2014,Gemeinde Feilitzsch,95183,,Bayern
+1679,Windwald Blaues Eck,CHORUS Wind Freiensteinau GmbH & Co. KG,21.4,Wind,2014,Freiensteinau,36399,,Hessen
+1680,WP Bredstedt-Land,,13.8,Wind,2014,Breklum,25821,,Schleswig-Holstein
+1681,WP Dornum,,30.1,Wind,2014,Dornum,26553,,Niedersachsen
+1682,WP Eimsheim II,,15.3,Wind,2014,Guntersblum,67583,"Gemarkung Eimsheim, Flur 6, Flurstück 2",Rheinland-Pfalz
+1683,WP Göllheim,,12.7,Wind,2014,Göllheim,67307,,Rheinland-Pfalz
+1684,WP Hamer-Steenfeld / Projektnummer: 43787,,19194.0,Wind,2015,Steenfeld,25557,"Gemarkung Hademarschen, Flur 2, Flurstück 24",Schleswig-Holstein
+1685,WP Hohenmölsen,e.n.o. energy finance GmbH & Co. KG,26.4,Wind,2014,Hohenmölsen,6679,"Werschen, Flur 5, Flurstück 8",Sachsen-Anhalt
+1686,WP Holtsee-Altenhof,,12.8,Wind,2014,Altenhof,24340,"Gemarkung Altenhof, Flur 7, Flurstück 4/1",Schleswig-Holstein
+1687,WP Hoppenrade,Windpark Hoppenrade GmbH & Co. KG,27.6,Wind,2014,Hoppenrade,14641,,Brandenburg
+1688,WP Kusey,LHI SolarWind Kusey GmbH & Co. KG,30.5,Wind,2014,Klötze,38486,,Sachsen-Anhalt
+1689,WP Lindenberg,,12.0,Wind,2014,Schauenburg,34270,,Hessen
+1690,WP Mörsdorf Nord GmbH & Co. KG,,19.2,Wind,2014,Mörsdorf,56290,,Rheinland-Pfalz
+1691,WP Sehestedt,Windpark Eckolstädt GmbH & Co. KG ,26.0,Wind,2014,Sehestedt,24814,"Gemarkung Sehestedt, Flur 3, Flurstück 64/10",Schleswig-Holstein
+1692,WP Sontra,CHORUS Wind Sontra GmbH & Co. KG,12.0,Wind,2014,Sontra,36205,,Hessen
+1693,WP Wildberg NST/2010/3906678/RW,,13.8,Wind,2014,Wildberg,16845,,Brandenburg
+1694,WPB,,16.1,Wind,2014,Breklum,25821,,Schleswig-Holstein
+1695,WPB II,,16.1,Wind,2014,Breklum,25821,,Schleswig-Holstein
+1696,WP-Münnerstadt,,12.5,Wind,2014,Münnerstadt,97702,,Bayern
+1697,Zweite Klixbüll Energie GmbH & Co KG,,24.0,Wind,2014,Klixbüll,25899,Flurstück 69,Schleswig-Holstein
+1698,HKW-Mitte,Stadtwerke Lemgo GmbH,10.1,Gas,1980,Lemgo,32657,Bruchweg 24,Nordrhein-Westfalen
+1699,Amrumbank West,Amrum-Offshore West GmbH,302.4,Wind,2015,Nordsee,,,AWZ
+1700,Baltic 2,EnBW Baltic 2 S.C.S.,288.0,Wind,2015,Ostsee,,,AWZ
+1701,Bürgerwindpark Barlt Ost,,22.2,Wind,2015,Barlt,25719,Flur 8 Flurstück 45/1,Schleswig-Holstein
+1702,Chransdorf-West,PNE Wind AG,57.6,Wind,2015,Chransdorf,3229,,Brandenburg
+1703,Coppenbrügge Hohnsen,,21.4,Wind,2015,Coppenbrügge,31863,,Niedersachsen
+1704,Kutzleben,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,41.1,Wind,2014,Kutzleben,99955,,Thüringen
+1705,Windpark Barg-Schwensby GmbH & Co. KG,,10.25,Wind,2015,Sörup,24966,"Flur 38, Flurstück 14",Schleswig-Holstein
+1706,Windpark Kolbenstein,,16.0,Wind,2015,Kratzenburg,56283,"Flur 1, Flurstück 48/26",Rheinland-Pfalz
+1707,Windpark Looft II,,10.15,Wind,2015,Looft,25582,"Gemarkung Looft, Flur 5, Flurstück 30/4",Schleswig-Holstein
+1708,Windpark Mahlwinkel Süd,,46.0,Wind,2015,Mahlwinkel,39517,"Flur 7, Flurstück 42",Sachsen-Anhalt
+1709,Windpark Osterrade,,20.0,Wind,2015,Bovenau,24796,,Schleswig-Holstein
+1710,Bürgerwindpark Neuenkirchen,,34.9,Wind,2015,Neuenkirchen,25792,,Schleswig-Holstein
+1711,,Kronos Titan GmbH,17.1,Gas,2014,Bremerhaven,26954,,Niedersachsen
+1712,Walgauwerk,EnBW Energie Baden-Württemberg AG,86.0,Hydro,1984,Nenzing,,Eichholz 1,Österreich
+1713,Moorburg A,Vattenfall Heizkraftwerk Moorburg GmbH,800.0,Coal,2015,Hamburg,21079,Moorburger Schanze 2,Hamburg
+1714,Kraftwerk Wilhelmshaven,ENGIE Deutschland AG,731.0,Coal,2015,Wilhelmshaven,26386,Niedersachsendamm,Niedersachsen
+1715,PSW Vianden,Société Electrique de l'Our S.A.,195.0,Hydro,2015,Vianden,,B.P. 2,Luxemburg
+1716,Kraftwerk IV,Evonik Degussa GmbH,60.76,Gas,2016,Marl,45772,Paul-Baumann-Str. 1,Nordrhein-Westfalen
+1717,BHKW Braunschweig,Volkswagen AG,10.4,Gas,2014,Wolfsburg,38436,Berliner Ring,Niedersachsen
+1718,Energiezentrale 2016,Flughafen München GmbH,16.8,Gas,2014,München,85326,,Bayern
+1719,PV Wertachtal-Augsburg,,10.0,Solar,2015,Amberg,86854,"Gemarkung Amberg, Flurstück 1550",Bayern
+1720,Windpark Lobendorfer Forsten Vetschau,,14.4,Wind,2015,Vetschau/Spreewald,3226,"Flur 2, Flurstück 117/1 Gemarkung Tornitz",Brandenburg
+1721,Windpark Rehain,,16.5,Wind,2015,Lichterfeld-Schacksdorf,3238,Gem. Lieskau Flur 1 FS 129,Brandenburg
+1722,Windpark Wahlsdorf,,12.59,Wind,2016,Wahlsdorf,14913,77,Brandenburg
+1723,Windpark Feldheim V,,21.0,Wind,2015,Treuenbrietzen OT Feldheim,14979,"Gemarkung Feldheim, Flur 6, Flst. 114",Brandenburg
+1724,Windpark Duben II,,24.75,Wind,2015,Luckau OT Duben,15926,Gem. Karche Flur 2 FS 53,Brandenburg
+1725,Windpark Luckow-Petershagen,,50.98,Wind,2015,Luckow-Petershagen,16306,"Gemarkung Luckow-Petershagen , Flur 2, Flurstück 255",Brandenburg
+1726,Groß Welle,,12.0,Wind,2010,Gumtow,16866,"Flurstück 184, Flur 1",Brandenburg
+1727,GR Grünberg,,20.7,Wind,2010,Gemarkung: Wallmow,17291,"Flur:6, Flurstück: 43",Brandenburg
+1728,Bürgerwindpark Löningen,Bürgerwindpark Löningen GmbH & Co. KG,14.0,Wind,2010,Wachtum,49624,"Flur 5, Flurstück 19/3",Niedersachsen
+1729,Menslage 01 - Herberger Feld,,12.0,Wind,2015,Menslage,49637,"Letzte Lage, Gemarkung Herbergen, Flur 2, Flurstück 4",Niedersachsen
+1730,Repowering Windpark Egglingen,,12.2,Wind,2015,Wittmund,26409,"Flurstück 12/5 u. 12/6 der Flur 13, Gemarkung Eggelingen",Niedersachsen
+1731,Windpark Abens Blersum GmbH & Co. KG,,15.25,Wind,2015,Wittmund,26409,(WEA 18) Flurstück 32/1 der Flur 8 Gemarkung Uttel,Niedersachsen
+1732,Windpark Abens Nord GmbH & Co. KG,,24.4,Wind,2015,Wittmund,26409,(WEA 11) Flurstück 39/1 der Flur 2 Gemarkung Burhafe,Niedersachsen
+1733,Windpark Appeln,,11.4,Wind,2015,Beverstedt,27616,17,Niedersachsen
+1734,Windpark Coppenbrügge,,19.2,Wind,2015,Coppenbrügge,31863,"Coppenbrügge, Flur 14, Flurstück 17",Niedersachsen
+1735,"Windpark Gehrde ""Groß Drehle""",,12.0,Wind,2015,Gehrde,49596,"Gemarkung Groß Drehle, Flur 1, Flurstück 3",Niedersachsen
+1736,Windpark Horst,Dortmunder Energie- und Wasserversorgung GmbH,12.0,Wind,2016,Schneverdingen/Horst,29640,Gemarkung Wesseloh; Flur 1; Flurstück 127/50,Niedersachsen
+1737,Windpark Klingenberg,,18.3,Wind,2015,Schwanewede,28790,,Niedersachsen
+1738,Windpark Lesse II,,10.0,Wind,2010,Lesse,38228,"Gemarkung Lesse, Flur 11",Niedersachsen
+1739,Windpark Lorup,,11.5,Wind,2010,Lorup,26901,,Niedersachsen
+1740,Windpark Lunestedt-Heerstedt,,38.5,Wind,2015,Beverstedt,27616,45 und 46,Niedersachsen
+1741,Windpark Merzen,,10.0,Wind,2016,Merzen,49586,"Gemarkung Lechtrup, Flur 11, Flurstück 16/1",Niedersachsen
+1742,Windpark Moosmoor,,12.2,Wind,2015,,,"Gem. Wittstedt, Flur 8, Flurstück 24/1",Niedersachsen
+1743,Windpark Neudersum,,12.2,Wind,2015,Dersum,26906,"Gemarkung Neudersum, Flur 001, Flurstück 57",Niedersachsen
+1744,Windpark Neusustrum,,24.0,Wind,2016,Sustrum,49762,"Gemarkung Neusustrum, Flur 3, Flurstück 7/2",Niedersachsen
+1745,Windpark Sandbostel,,11.75,Wind,2015,Sandbostel,27446,"Gemarkung Sandbostel, Flur 5",Niedersachsen
+1746,Windpark Schwarme,,10.0,Wind,2010,Schwarme,27327,42378,Niedersachsen
+1747,WP Barnstorf,,11.7,Wind,2016,Drentwede,49406,Flur 3 Stk. 52/2 Gem. Aldorf,Niedersachsen
+1748,WP Berne,IFE Windpark Berne GmbH & Co. Betriebs-KG,11.5,Wind,2015,"Gemarkung Neuenhuntorf, Berne",27804,"Flurstück 339, Flur 6",Niedersachsen
+1749,WP Martfeld,,10.0,Wind,2010,Martfeld,27327,"Gemarkung Martfeld, Flur 10, Flurstück 38",Niedersachsen
+1750,Windpark Lahn-Dill-Bergland-Mitte,,21.4,Wind,2015,Bad Endbach,35080,"Gemarkung Günterod, Flur 28, Flurstück 465/329",Hessen
+1751,Energie- und Ressourcenpark Rabenau,Trianel Onshore Windkraftwerk Rabenau GmbH & Co. KG,15.18,Wind,2015,Rabenau,35466,"Zum Noll (Weitershain, Fl. 14, Flst. 5/2)",Hessen
+1752,Windpark Ludwigsau,,23.1,Wind,2016,Gemarkung Ersrode,36251,"Flur 6, Flurstück 1",Hessen
+1753,Windpark Buchonia,,19.02,Wind,2015,Sinntal,36391,"Gemarkung Sterbfritz, Flur 1, Flurstück 1",Hessen
+1754,Windpark Rohrberg,Windpark Rohrberg GmbH & Co. KG,15.0,Wind,2015,Hessisch Lichtenau,37235,"Flur 3, Flurstück 2/12",Hessen
+1755,Windpark Galgenberg,,30.4,Wind,2010,Schöneck-Kilianstädten,61137,"Gemarkung Kilianstädten, Flur 29, Flurstück 18",Hessen
+1756,Windpark Harthäuser Wald,,42.0,Wind,2015,Widdern,74259,Flurstück 4041/1,Baden-Württemberg
+1757,Windpark Kohlenstraße,,23.1,Wind,2015,Michelbach an der Bilz,74544,770/1 Gemarkung Michelbach,Baden-Württemberg
+1758,Windpark Ravenstein,,10.12,Wind,2015,Ravenstein,74747,2277 Gemarkung Merchingen,Baden-Württemberg
+1759,Windpark Berg,,12.0,Wind,2015,Berg,82335,19,Bayern
+1760,WP Titting,,21.51,Wind,2015,Titting,85135,"Flurstücke 235 & 236, Gemarkung Großnottersdorf",Bayern
+1761,Windpark Thalmässing,,15.38,Wind,2015,Thalmässing,91177,"Gemarkung Landersdorf, Fl-Nr. 238",Bayern
+1762,Windpark Lonnerstadt,,12.0,Wind,2015,Lonnerstadt,91475,Flurstücknummer: 1727 Gemarkung Lonnerstadt,Bayern
+1763,WP Dinkelsbühl-Wilburgstetten (ehemals WP Eichelberg),,13.2,Wind,2015,Dinkelsbühl,91550,"Flurstück 205, Gemarkung Sinbronn",Bayern
+1764,WP Gesater Wald,Onshore Wind Gesater Wald GmbH & Co. KG,12.0,Wind,2015,Neuendettelsau,91564,Flur 663 Gemarkung Haag,Bayern
+1765,Windpark Birkenfels,,10.0,Wind,2015,Flachslanden,91604,382 Gemarkung Kettenhöfstetten,Bayern
+1766,Windpark Velburg,LHI Green Infrastructure Wind Deutschland III GmbH & Co. KG,12.0,Wind,2015,Velburg,92355,"149, Gemarkung Mantlach",Bayern
+1767,Windpark Hohenzellig,,19.2,Wind,2015,Gemeinde Konradsreuth,95176,FlNr. 185 Gemarkung Gottfriedsreuth,Bayern
+1768,Windpark Fasanerie,,10.0,Wind,2010,Regnitzlosau,95194,498,Bayern
+1769,VR Windpark Thurnau GmbH & Co. KG,,24.0,Wind,2015,Thurnau,95349,449,Bayern
+1770,OSTWINDpark Rotmainquelle,,12.0,Wind,2015,Hummental,95503,Fl.-Nr. 28/8 Lindenhardter Forst-Nordwest,Bayern
+1771,Windpark Korbersdorf-Seußen,,12.0,Wind,2015,Arzberg,95659,"FlSt. 519, Gemarkung Korbersdorf-Seußen",Bayern
+1772,Bürgerwindpark Sailershäuser Wald GmbH & Co. KG,,24.0,Wind,2015,Haßfurt,97437,Gemarkung Holzhausen Fl.Nr. 3766,Bayern
+1773,Windpark Werneck-Eßleben,,12.0,Wind,2015,Werneck-Eßleben,97440,2674,Bayern
+1774,Windpark Obbach,Windpark Obbach GmbH & Co. KG,12.5,Wind,2015,Obbach,97502,1102,Bayern
+1775,Großbardorf-Sulzfeld,,13.2,Wind,2016,Großbardorf,97633,"Gemarkung Großbardorf, Fl-Nr. 15808, 15796",Bayern
+1776,Windpark Creglingen-Klosterwald,,22.8,Wind,2015,Creglingen,97993,Flurstück 152 (Freudenbach),Baden-Württemberg
+1777,Windpark Krackow-Glasow,,46.1,Wind,2015,Glasow,17322,Gemarkung Glasow Fl 105 Flst 17,Mecklenburg-Vorpommern
+1778,Windpark Kublank III,,13.8,Wind,2015,Groß Miltzow,17349,"Gemarkung Golm Flur 6, Flurstück 16",Mecklenburg-Vorpommern
+1779,Repowering WP Helmshagen,,18.5,Wind,2015,Gemarkung Hohenmühl,17498,"Flur 1, Flst. 9/1",Mecklenburg-Vorpommern
+1780,Windpark Hohen Luckow Erweiterung,,22.39,Wind,2015,Satow OT Hohen Luckow,18239,"Gemarkung Hohen Luckow, Flur 2, Flurstück 1",Mecklenburg-Vorpommern
+1781,Windpark Kurzen Trechow / Bernitt,WP Kurzen Trechow GmbH,15.25,Wind,2014,Kurzen Trechow,18246,"Trechower Weg, KNE5: FlSt:126/1, Fl 1",Mecklenburg-Vorpommern
+1782,WP Kambs NBK/2014/3924948/IW,,22.5,Wind,2015,Vorbeck,18258,"Gemarkung Kambs, Flur 1, Flurstück 18",Mecklenburg-Vorpommern
+1783,Windpark Glasewitz,,15.3,Wind,2014,Glasewitz,18276,Flurstück 65/2,Mecklenburg-Vorpommern
+1784,Windpark Tribsees,,18.3,Wind,2015,Tribsees,18465,"Flurstück 61, Flur 13, Gemarkung Tribsees",Mecklenburg-Vorpommern
+1785,Windpark Kurzen Trechow,,18.3,Wind,2014,Kurzen Trechow,18246,"Gemarkung Langen Trechow, Flur 1, Flurstück 23",Mecklenburg-Vorpommern
+1786,GLS Windpark Schleiden,,39.65,Wind,2015,Schleiden Schöneseiffen,53937,Flur 5 Flurstück 67,Nordrhein-Westfalen
+1787,Asselner Windpark,,26.5,Wind,2015,Lichtenau,33165,"Gemarkung Asseln, Flur 3, Flurstück 17",Nordrhein-Westfalen
+1788,Bürgerwindpark Hollich Sellen,,24.0,Wind,2015,Steinfurt,48565,"Gemarkung Burgsteinfurt, Flur 35, Flurstück 127",Nordrhein-Westfalen
+1789,Bürgerwindpark Lichtenau - Westernfeld-Buchgarten,,20.55,Wind,2015,Lichtenau,33165,"Gemarkung Lichtenau, Flur 2, Flurstück 246",Nordrhein-Westfalen
+1790,Windpark Huser Klee,,15.2,Wind,2015,Lichtenau,33165,"Gemarkung: Husen; Flur: 5; Flurstück: 40,41,42",Nordrhein-Westfalen
+1791,Windpark Hassel,,12.4,Wind,2015,Lichtenau,33165,"Gemarkung Grundsteinheim, Flur 1, Flurstück 138",Nordrhein-Westfalen
+1792,WP Huser Klee,,12.2,Wind,2015,Lichtenau,33165,Gemarkung: Husen; Flur: 8; Flurstück: 19;,Nordrhein-Westfalen
+1793,Bürgerwindpark Wettringen Strönfeld,,12.0,Wind,2016,Wettringen,48493,"Flur 30, Flurstück 61",Nordrhein-Westfalen
+1794,Windpark Kittelbusch,,12.0,Wind,2015,Bad Wünnenberg,33181,Gemarkung:Helmern; Flur 6; Flurstück: 1,Nordrhein-Westfalen
+1795,Windpark Haaren-Leiberg IV (Erweiterung),,10.7,Wind,2015,Bad Wünnenberg,33181,Gemarkung: Leiberg; Flur: 5; Flurstück: 147,Nordrhein-Westfalen
+1796,Windpark Galgenberg,,30.4,Wind,2010,Schöneck-Kilianstädten,61137,"Gemarkung Kilianstädten, Flur 29, Flurstück 18",Hessen
+1797,Veldenz-Gornhausen-Monzelfeld,,18.3,Wind,2015,Gemarkung Veldenz,54472,"Flur 12, Flurstück 1/18   (alt 1/16)",Rheinland-Pfalz
+1798,Windpark Kürrenberg GmbH & Co.KG,,15.25,Wind,2015,Kürrenberg,56727,Flur 32 Flurstk.110,Rheinland-Pfalz
+1799,Hartenfelser Kopf,,12.8,Wind,2015,"Höchstenbach, VG Hachenburg",57629,"Höchstenbach, Flur 26, Parzelle:  2534/6",Rheinland-Pfalz
+1800,Windpark Dittelsheim-Heßloch II,,10.1,Wind,2014,Dittelsheim-Heßloch,67596,"Gemarkung Heßloch, Flur 10, Flurstück 53/1",Rheinland-Pfalz
+1801,WP Alpenrod,,10.0,Wind,2010,Alpenrod,57642,Flur 95 / Flurstück 7608/1,Rheinland-Pfalz
+1802,WP Wawern,,14.0,Wind,2010,Wawern,54612,Flur 4 Flurstück 50,Rheinland-Pfalz
+1803,WP Himmelwald,,13.9,Wind,2015,Ottweiler,66564,"Gemarkung Wetschhausen, Flur 1, Flurstück 1",Saarland
+1804,Windpark Schiffweiler,,12.5,Wind,2014,Neunkirchen,66538,"Flur 11, Flurstück 2/1",Saarland
+1805,Weiskirchen-Schimmelkopf,,12.2,Wind,2015,Weiskirchen,66709,"Gemarkung Weiskirchen, Flur 9, Flurstück 1",Saarland
+1806,Windpark Naundorf,,14.3,Wind,2015,Casabra,4769,"Gemarkung Rochzahn, Flurstücknr. 123",Sachsen
+1807,Windpark Hüselitz,,92.4,Wind,2015,Hüselitz,39579,"Gemarkung Windberge, Flur 2, Flurstück 78/5",Sachsen-Anhalt
+1808,Windpark Garlipp III,,13.0,Wind,2014,Garlipp,39579,"Gemarkung Garlipp, Flur 2, Flurstück 33/1",Sachsen-Anhalt
+1809,WP Hüselitz 1 GmbH & Co. KG,,13.2,Wind,2015,Lüderitz,39517,"Gem. Groß Schwarzl. Grundb. Lüderitz, Flur 1 Flurstück 9/8",Sachsen-Anhalt
+1810,Windpark Zerbst,,30.0,Wind,2015,Zerbst,39264,Gemarkung Zerbst Flur 18 Flurstück 20,Sachsen-Anhalt
+1811,Windpark Walsleben Goldbeck,,21.3,Wind,2014,Hansestadt Osterburg,39606,"Gemarkung Walsleben, Flur 4, Flurstück 3/5",Sachsen-Anhalt
+1812,Windpark Dobberkau II,,12.5,Wind,2015,Bismark (Altmark),39606,"Gemarkung Dobberkau, Flur 2, Flurstück 52/1",Sachsen-Anhalt
+1813,WP Stößen,,18.0,Wind,2010,Stößen,6667,"Flurstück 61, Flur 4, Gemarkung Stößen",Sachsen-Anhalt
+1814,Windpark Beesenstedt (Ost),Voltwerk WP Beesenstedt GmbH & Co. KG,13.8,Wind,2010,Salzatal Ortsteil Beesenstedt,6198,"Gemarkung Beesenstedt, Flur 1, Flurstück 2/15",Sachsen-Anhalt
+1815,WP Hüselitz 2 GmbH & Co. KG,,13.2,Wind,2015,Tangermünde OT Hüselitz,39576,"Gemark. Hüselitz Grundb. Hüselitz, Flur 1 Flurstück 248/16",Sachsen-Anhalt
+1816,Mittelhausen,,12.0,Wind,2010,Mittelhausen,6542,Flur:  Flurstück:,Sachsen-Anhalt
+1817,Reinstedt,,12.0,Wind,2010,Reinstedt,,"Gemarkung Reinstedt Flur 4 Flurstücke 173, 176, 179",Sachsen-Anhalt
+1818,WP Löbitz-Görschen,,10.0,Wind,2010,Mertendorf OT Löbitz,6618,42401,Sachsen-Anhalt
+1819,WP Molau II,,10.0,Wind,2010,Molau,6618,"Gemarkung Sieglitz, Flur 1, Flurstück 384",Sachsen-Anhalt
+1820,Bürgerwindpark Eider,,69.3,Wind,2014,Norderheistedt,25779,Flur 2 Flurstück 3,Schleswig-Holstein
+1821,Brunsbüttel West Repowering,,36.0,Wind,2010,Brunsbüttel,25541,"Gemarkung Brunsbüttel, Flur 13, Flurstück 9",Schleswig-Holstein
+1822,Bürgerwindpark Reußenköge GmbH & Co. KG,Bürgerwindpark Reußenköge GmbH & Co. KG,208.8,Wind,2003,Reußenköge,25821,"Gemarkung Reußenköge, Flur 1, Flurstück 5",Schleswig-Holstein
+1823,Bökingharder Windpark GmbH & Co KG,,19.8,Wind,2015,Risum-Lindholm,25920,Flur 28 Flurstück 99 Gem. Risum-Lindholm,Schleswig-Holstein
+1824,Eggstedt/Süderhastedt III,,29.0,Wind,2014,Eggstedt,25721,Gem.3025 Fl.10- 8,Schleswig-Holstein
+1825,WP Hamer-Steenfeld / Projektnummer: 44666,,19.2,Wind,2015,Hanerau-Hademarschen,25557,"Gemarkung Hademarschen, Flur 1, Flurstück 18",Schleswig-Holstein
+1826,Windpark Blye Repowering,,25.6,Wind,2015,Lindewitt,24969,"Gemarkung Sillerup, Flur 1, Flurstück 42",Schleswig-Holstein
+1827,WP Sillerup Repowering,,12.74,Wind,2015,Lindewitt,24969,"Gemarkung Sillerup, Flur 15, Flurstück 10/2",Schleswig-Holstein
+1828,Bürgerwindpark Dagebüll GmbH & Co. KG,,17.0,Wind,2015,Dagebüll,25899,"Gemarkung Dagebüll, Flur 4, Flurstück 20,21",Schleswig-Holstein
+1829,BBE Windpark GmbH &Co. KG,,15.3,Wind,2015,Barlt,25719,"Gemarkung Barlt ,Flur 10, Flurstück14",Schleswig-Holstein
+1830,Alt- Bennebek,,15.3,Wind,2015,Alt Bennebek,24848,"Gem. Alt Bennebek, Fl. 3, Flst. 32",Schleswig-Holstein
+1831,Bürgerwindpark Brebek GmbH & Co.KG,,15.0,Wind,2015,Ladelund,25926,"Flur 10, Flurstück 17/1, Gemarkung Ladelund",Schleswig-Holstein
+1832,Windpark Wiesental,,17.5,Wind,2010,Wiemersdorf,24649,"Gemarkung Wiemersdorf Flur 3, Flurstück 5",Schleswig-Holstein
+1833,BWP3 Behrendorf,,16.1,Wind,2015,Behrendorf,25850,9,Schleswig-Holstein
+1834,Kattrepel/Westerbelmhusen Erweiterung,,13.6,Wind,2015,Neufeld,25742,"Gemarkung Auenbüttel, Flur 1, Flurstück 42/2",Schleswig-Holstein
+1835,BürgerWindpark Wittbek GmbH &Co.KG,,13.2,Wind,2015,Wittbek,25872,"Gemarkung Wittbek, Flur 2, Flurstück 1",Schleswig-Holstein
+1836,Windpark Grevenkop,,12.8,Wind,2015,Grevenkop,25361,Flurstück 40/5,Schleswig-Holstein
+1837,BWP Rantrum III GmbH & Co. KG,,12.68,Wind,2015,Rantrum,25873,Flurstück 13,Schleswig-Holstein
+1838,WP Beidenfleth,,12.2,Wind,2015,Beidenfleth,25573,57,Schleswig-Holstein
+1839,Bürgerwindpark Osterstedt GmbH & Co. KG,,12.0,Wind,2015,Osterstedt,25590,"Flur 4, Flurstück 15/1",Schleswig-Holstein
+1840,Bürgerwindpark Janneby eG,,11.87,Wind,2015,Janneby,24992,Eggebeker Weg / K87 bzw. Flur 7 / Flurstück 52,Schleswig-Holstein
+1841,WP Marner Neuenkoogsdeich Repowering,,11.7,Wind,2015,Neufeld,25724,"Gemarkung Diekhusen, Flur 3, Flurstück 77",Schleswig-Holstein
+1842,Windpark Norddahl,,11.5,Wind,2016,Oster-Ohrstedt,25885,Flur 7 Flurstück 90,Schleswig-Holstein
+1843,Steife Brise,,10.1,Wind,2015,Ahrenviöl,25885,91/2,Schleswig-Holstein
+1844,Windpark Oldenswort,,11.5,Wind,2015,Oldenswort,25870,Flur 37 Flurstück 17/1,Schleswig-Holstein
+1845,Bürgerwindpark Schwesing,,10.2,Wind,2015,Schwesing,25813,Peerkoppelweg/Osternweg Gem.Schwesing; Flur 8,Schleswig-Holstein
+1846,Kronprinzenkoog LEP,,10.11,Wind,2014,Kronprinzenkoog,25709,Flur 14 Flurstück 18/1,Schleswig-Holstein
+1847,Windpark Schülp bei Nortorf,,10.0,Wind,2015,Schülp bei Nortorf,24589,"Gemarkung Schülp, Flur 10, Flurstück 23",Schleswig-Holstein
+1848,Windpark Mihla,,15.25,Wind,2015,Mihla,99826,"Flur 19, Flurstück 1891",Thüringen
+1849,,Exxon Mobil Production Deutschland GmbH,30.2,Gas,2014,Hannover,30659,Riethorst 12,Niedersachsen
+1850,Großbatteriesystem (GBS)-Lünen,STEAG Battery System GmbH,15.0,Other,2016,Lünen,44536,Moltkestr. 15,Nordrhein-Westfalen
+1851,Großbatteriesystem (GBS)-Weiher,STEAG Battery System GmbH,15.0,Other,2016,Quierschied,66287,Holzer Str.,Saarland
+1852,Großbatteriesystem (GBS)-Herne,STEAG Battery System GmbH,15.0,Other,2016,Herne,44653,Hertener Str. 16,Nordrhein-Westfalen
+1853,Großbatteriesystem (GBS)-Fenne,STEAG Battery System GmbH,15.0,Other,2016,Völklingen,66333,Saarbrücker Str. 135-137,Saarland
+1854,Großbatteriesystem (GBS)-Walsum,STEAG Battery System GmbH,15.0,Other,2016,Duisburg-Walsum,47179,Dr.-Wilhelm-Roelen Str. 129,Nordrhein-Westfalen
+1855,Großbatteriesystem (GBS)-Bexbach,STEAG Battery System GmbH,15.0,Other,2016,Bexbach,66450,Grubenstr.,Saarland
+1856,GuD,Stadtwerke Düsseldorf AG,595.0,Gas,2016,Düsseldorf,40221,Auf der Lausward 75,Nordrhein-Westfalen
+1857,Niehl 3,RheinEnergie AG,459.9,Gas,2016,Köln,50735,,Nordrhein-Westfalen
+1858,Heizkraftwerk FL,Stadtwerke Flensburg GmbH,78.0,Gas,2016,Flensburg,24939,Batteriestr. 48,Schleswig-Holstein
+1859,KW Mittelsbüren,Gemeinschaftskraftwerk Bremen GmbH und Co. KG,444.5,Gas,2016,Bremen,28237,,Bremen
+1860,Energieversogung Wedding,Bayer AG,15.0,Gas,1972,Berlin,13353,Fennstr. 22,Berlin
+1861,HW Windpark Groß Welle,HelveticWind Deutschland GmbH,20.0,Wind,2006,Gumtow,16866,,Brandenburg
+1862,HW Windpark Prötzel,HelveticWind Deutschland GmbH,18.0,Wind,2006,Prötzel,15345,,Brandenburg
+1863,HW Windpark Wulkow,HelveticWind Deutschland GmbH,10.0,Wind,2007,Wulkow,15326,,Brandenburg
+1864,Gode Wind 1,Gode Wind 1 Offshore Wind Farm GmbH & Co. OHG,344.52,Wind,2016,Nordsee,,,AWZ
+1865,Gode Wind 2,Gode Wind 2 Offshore Wind Farm P/S GmbH & Co. OHG,263088.0,Wind,2016,Nordsee,,,AWZ
+1866,BSKW-SN,Batteriespeicher Schwerin GmbH & Co. KG,12.5,Other,2014,Schwerin,19053,Obotritenring 40,Mecklenburg-Vorpommern
+1867,Windpark Simmerath,STAWAG Energie GmbH,23.1,Wind,2016,Simmerath,52152,,Nordrhein-Westfalen
+1868,Windpark Aldenhoven,STAWAG Solar GmbH,15.4,Wind,2014,Aldenhoven,52457,,Nordrhein-Westfalen
+1869,Windpark Linnich,STAWAG Solar GmbH,25.6,Wind,2016,Linnich,52441,,Nordrhein-Westfalen
+1870,UWBehringenWind,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,21.8,Wind,2015,,,,Thüringen
+1871,WEPNeuenwalde ,EWE ERNEUERBARE ENERGIEN GmbH,25.2,Wind,2005,Gestland,27607,Claus-Immen-Weg,Niedersachsen
+1872,WEPRysumerNacken,EWE ERNEUERBARE ENERGIEN GmbH,26.4,Wind,,,,,Niedersachsen
+1873,HSW Windpark Groß Niendorf ,HSW Windpark Groß Niendorf GmbH & Co. KG,12.3,Wind,2014,Groß Niendorf,89522,Meeboldstr. 1,Schleswig-Holstein
+1874,Windenergie Rieste GmbH & Co. KG,Stadtwerke Osnabrück AG,12.9,Wind,2016,Rieste,49597,,Niedersachsen
+1875,Windpark Oberthal GmbH,Windpark Oberthal GmbH,12.3,Wind,2013,,,,Saarland
+1876,Windpark Perl GmbH,Windpark Perl GmbH,21.5,Wind,2013,,,,Saarland
+1877,Windpark Zölkow GmbH & Co. KG,Windpark Zölkow GmbH & Co. KG,40.0,Wind,2007,,,,Mecklenburg-Vorpommern
+1878,15712 Königs Wusterhaussen,ABO Wind UW Uckley GmbH & Co. KG,33.0,Wind,2017,Königs Wusterhausen,15712,,Brandenburg
+1879,Düshorner Heide,innogy SE,26.0,Wind,2014,Walsrode (Düshorn),29664,Fallinbosteler Straße 20,Niedersachsen
+1880,36132 Eiterfeld,Trianel Windpark Buchenau GmbH & Co. KG,17.3,Wind,2016,Eiterfeld,36132,,Hessen
+1881,Windpark Lähden GbR,Windpark Lähden GbR,10.9,Wind,2013,Lähden,49774,,Niedersachsen
+1882,Windpark Ostwestfalen,Windpark Ostwestfalen GmbH & Co. KG,15.0,Wind,2016,Rheda-Wiedenbrück,33378,,Nordrhein-Westfalen
+1883,2000-7317,GeFa Windkraft GmbH  Co. KG,16.8,Wind,2014,,,,Schleswig-Holstein
+1884,"WPBütow,17209Bütow",Windenergie Bütow GmbH & Co. KG,15.25,Wind,2016,,,,Mecklenburg-Vorpommern
+1885,"WPHeidehofIII, 14913Markendorf",Windpark GmbH & Co. Heidehof III KG,18.4,Wind,2016,Markendorf,14913,,Brandenburg
+1886,WP Kassieck-LindstedtI V,Windpark Kassieck-Lindstedt IV GmbH & Co. KG,2.3,Wind,2014,Kassieck/Lindstedt,39638,,Sachsen-Anhalt
+1887,"zum Eggeberg, 37688",Windpark Twerberg GmbH & Co. KG,13.2,Wind,2017,,,,Nordrhein-Westfalen
+1888,-,Windpark Stiftswald GmbH & Co. KG,27.0,Wind,2016,,,,Hessen
+1889,WindparkWaldow,Windpark Waldow OHG,28.0,Wind,2003,Waldow,15910,,Brandenburg
+1890,Krusemark 2,innogy SE,11.3,Wind,2001,,,,Sachsen-Anhalt
+1891,UWOettelin,ENERTRAG Aktiengesellschaft,35.0,Wind,2013,Groß Schwiesow,184246,,Mecklenburg-Vorpommern
+1892,UWNeuRietzOst,ENERTRAG Aktiengesellschaft,26.0,Wind,2014,Treuenbrietzen,14949,,Brandenburg
+1893,UWWoltersdorf,ENERTRAG Aktiengesellschaft,57.0,Wind,2015,Groß Pinnow,16306,,Brandenburg
+1894,Eggebek,Mainova AG,83.9,Solar,2011,Eggebek,24852,Bäckerweg (Nato Flugplatz),Schleswig-Holstein
+1895,Ford Saarlouis,Ford-Werke GmbH,22.0,Gas,2016,Saarlouis,66740,,Saarland
+1896,Regensburg,BMW AG,10.6,Gas,2012,Regensburg,93055,Herbert-Quandt-Allee,Bayern
+1897,Regensburg,BMW AG,2.65,Gas,2016,Regensburg,93055,Herbert-Quandt-Allee,Bayern
+1898,Gasturbinen-HKW St. Wendel,Fresenius Medical Care Deutschland GmbH,19.5,Gas,2014,St. Wendel,66606,Frankfurter Straße 6-8,Saarland
+1899,Turbine 4,KÄMMERER Energie GmbH,9.5,Other,1962,Osnabrück,49084,Römereschstrasse 33,Niedersachsen
+1900,Turbine 5,KÄMMERER Energie GmbH,9.8,Other,1972,Osnabrück,49084,Römereschstrasse 33,Niedersachsen
+1901,,Zweite Energieversorgungscenter Dresden-Wilschdorf GmbH & Co. KG,33.9,Gas,2005,Moritzburg,1468,,Sachsen
+1902,AVG Köln,AVG Köln mbH,18.0,Waste,2017,Köln,50735,Geestemünder Straße 23,Nordrhein-Westfalen
+1903,HKW West M5,Mainova AG,38.7,Gas,2018,Frankfurt am Main,60327,Gutleutstraße 231,Hessen
+1904,"Vorarlberger Illwerke AG ""Rellswerk""",EnBW Energie Baden-Württemberg AG,12.0,Hydro,2017,Vandans,,,Österreich
+1905,Werk Kalscheuren,Orion Engineered Carbons GmbH,26.5,Other,1967,Köln,50997,Harry-Kloepfer-Straße 1,Nordrhein-Westfalen
+1906,Windpark Freudenberg,MVV Energie AG,16.8,Wind,2016,Freudenberg/Main,97896,,Baden-Württemberg
+1907,Windpark Hain Ost,,13.8,Wind,2016,Markt Küps,96328,,Bayern
+1908,KWK Dingolfing BA 1,BMW AG,16.0,Gas,2017,Dingolfing,84130,Landshuter Strasse 56,Bayern
+1909,Speicherfarm Leipzig,BMW AG,12.5,Other,2018,Leipzig,4349,,Bayern
+1910,Offshore Windpark Nordergründe,OWP Nordergründe GmbH & Co. KG,110.7,Wind,2017,Nordsee,,,AWZ
+1911,Wikinger,Iberdrola Renovables Offshore Deutschland GmbH,353.5,Wind,2017,Ostsee,,,AWZ
+1912,WP Fleetmark II,PROKON Regenerative Energien eG,13.2,Wind,2017,Brenzweiler,55494,,Rheinland-Pfalz
+1913,WP Schönwalde-Altenkrempe,PROKON Regenerative Energien eG,19.8,Wind,2017,Fleemark,29416,,Sachsen-Anhalt
+1914,Windpark Wadern-Felsenberg GmbH,Windpark Wadern-Felsenberg GmbH,10.35,Wind,2017,Wadern-Felsenberg,66687,,Saarland
+1915,Windpark Creußen,Trianel Windpark Creußen GmbH & Co. KG,14.4,Wind,2017,Creußen,95473,"2974, Gemarkung Neuhof",Bayern
+1916,WP Felsberg Green Energy,Felsberg Green Energy GmbH & Co. KG,15.0,Wind,2017,Felsberg OT Beuern,34587,,Hessen
+1917,Windpark Gebersreuth,Trianel Windpark Gebersreuth GmbH & Co. KG,24.0,Wind,2017,Gefell,7926,"349, 355 Gemarkung Gebersreuth",Thüringen
+1918,Windpark Gerdau-Schwienau,PNE WIND AG,16.3,Wind,2017,Gerdau,29581,,Niedersachsen
+1919,WP Grebenau,LHI SolarWind Grebenau GmbH & Co. KG,13.2,Wind,2017,Grebenau,36323,,Hessen
+1920,Trianel Windpark Vogelherd,Trianel Windpark Vogelherd GmbH & Co. KG,19.2,Wind,2017,Thurnau,95349,"2391, Gemarkung Alladorf",Bayern
+1921,,Neuenkrug Beteiligungspool GmbH,21525.0,Wind,2012,Wöhrden,25797,,Schleswig-Holstein
+1922,WP Benzweiler,PROKON Regenerative Energien eG,13.2,Wind,2017,,,,Rheinland-Pfalz
+1923,Windpark Aachen Nord GmbH & Co. KG,STAWAG Energie GmbH,12.1,Wind,2017,Aachen,,,Nordrhein-Westfalen
+1924,Windpark Groß Eilstorf,enercity AG,52.3,Wind,2011,Walsrode,29664, Quintusstraße 57,Niedersachsen
+1925,UW Uckerthal,ENERTRAG Aktiengeselschaft,20.7,Wind,2017,Dauer,17291,,Brandenburg
+1926,EWE Windpark Hatten,EWE ERNEUERBARE ENERGIEN GmbH,19.8,Wind,2016,Hatten,26209,,Niedersachsen
+1927,HSW Windpark Ahorn-Buch,HSW Windpark Ahorn-Buch GmbH & Co. KG,11.1,Wind,2017,Ahorn,74744,,Baden-Württemberg
+1928,Windpark Kreuzstein,Windpark Kreuzstein GmbH & Co. KG,24.0,Wind,2017,Großalmerode,37247,Forstgutsbezirk Kaufunger Wald Gemarkung Großalmerode,Hessen
+1929,,Holcim (Süddeutschland) GmbH,10.1,Other,2007,Dotternhausen,72359,Dormettingerstrasse 23,Baden-Württemberg
+1930,WP Schipkau Süd,KGE Schipkau Süd 1 GmbH & Co. KG,16.5,Wind,2017,Schipkau,1993,Pößnitzstr. 999 U,Brandenburg
+1931,Wiedenfelder Höhe A+B,innogy SE,13.2,Wind,2017,Bergheim,50126,,Nordrhein-Westfalen
+1932,Eschweiler-Nord A,innogy SE,12.8,Wind,2017,Aldenhoven,52457,,Nordrhein-Westfalen
+1933,Eschweiler-Fronhoven A,innogy SE,28.5,Wind,2017,Eschweiler,52249,,Nordrhein-Westfalen
+1934,Umspannwerk Lonsheim,innogy SE,17.0,Wind,2012,Alzey-Heimersheim,55232,Flurstück 3,Rheinland-Pfalz
+1935,Windpark Rheinhessen I,innogy SE,12.2,Wind,2002,Waldalgesheim,55425,Flurstück 18,Rheinland-Pfalz
+1936,Windpark Rhede,innogy SE,14.3,Wind,2010,Rhede,46414,Burloer Diek,Nordrhein-Westfalen
+1937,Umspannwerk WP S,innogy SE,29.0,Wind,2002,Schöppingen,48624,Gemen 10,Nordrhein-Westfalen
+1938,WPD Windpark,innogy SE,19.6,Wind,2016,Damme,49401,Lembrucher Straße,Nordrhein-Westfalen
+1939,K5/T7,Stadtwerke Flensburg GmbH,29.0,Gas,2016,Flensburg,24939,Batteriestr. 48,Schleswig-Holstein
+1940,WPD Windpark,innogy SE,19.8,Wind,2017,Damme,49401,Alter Wall,Nordrhein-Westfalen
+1941,ENNI RMI Windpark Kohlenhuck Projektgesellschaft mbH,STEAG New Energies GmbH,12.0,Wind,2017,Moers,47441,,Nordrhein-Westfalen
+1942,Nordsee One,Nordsee One GmbH,332.1,Wind,2017,Nordsee,,,AWZ
+1943,OWP Veja Mate,Veja Mate Offshore Project GmbH,402.0,Wind,,Nordsee,,,AWZ
+1944,HKW 3 Stuttgart-Gaisburg,EnBW Energie Baden-Württemberg AG,29151.0,Gas,2018,Stuttgart,70188,,Baden-Württemberg
+1945,"Vorarlberger Illwerke AG ""Obervermuntwerk II""",EnBW Energie Baden-Württemberg AG,360.0,Hydro,2018,Partenen,,,Österreich
+1946,HKW Dresden-Nord,DREWAG Stadtwerke Dresden GmbH,11.5,Gas,2018,Dresden ,1099,"Hermann-Mende-Straße, 2",Sachsen
+1947,Wind Wipperdorf,Wind Wipperdorf GmbH & Co. KG,14.4,Wind,2017,Wipperdorf,99752,Wechsunger Weg,Thüringen
+1948,CHORUS Wind Kappel,CHORUS Wind Kappel GmbH & Co. KG,16.1,Wind,2015,Kappel,55483,,Rheinland-Pfalz
+1949,WP Haren - UW Niederlangen,Windpark Haren Verwaltungsgesellschaft mbH,50.7,Wind,,Haren,49733,,Niedersachsen
+1950,EWE Windpark Köhlen,EWE ERNEUERBARE ENERGIEN GmbH,27.5,Wind,2016,Ebersdorf,27432,Ebersdorfer Str.2a,Niedersachsen
+1951,Windpark Haren - NAP Röchlingstraße,Windpark Haren Verwaltungsgesellschaft mbH,22.1,Wind,,Haren,49733,,Niedersachsen
+1952,UW Hinte,Windpark Hinte GmbH & Co. Ost KG,36.8,Wind,,Krummhörn,26736,Sielmönker Kreisstr.,Niedersachsen
+1953,,Solarkraftwerk Reckahn II GmbH & Co. KG,13.31,Solar,,Kloster Lehnin,14797,Reckahner Dorfstraße,Brandenburg
+1954,Windpark Emden,VW Kraftwerk GmbH,11.5,Wind,2014,Emden,26723,Niedersachsenstraße 3,Niedersachsen
+1955,UW Genthin Ost,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,26.6,Wind,2014,Genthin,39319,An der B 107,Sachsen-Anhalt
+1956,UW Hermersberg,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,16.7,Wind,2016,Hermersberg,66929,,Rheinland-Pfalz
+1957,UW Schloßvippach West,EEV Erneuerbare Energien Verwaltungs GmbH Dresden,26.7,Wind,2017,Schloßvippach,99195,,Thüringen
+1958,Windpark Hungerberg I,Windpark Hungerberg I GmbH & Co. KG,12.2,Wind,2013,Offenbach,63067,Andréstraße 71,Hessen
+1959,Windpark Hungerberg II,Windpark Hungerberg II GmbH & Co. KG,12.2,Wind,2013,Offenbach,63067,Andréstraße 71,Hessen
+1960,HKW Lusan,ENGIE Deutschland GmbH,17.3,Gas,2018,Gera,7546,,Thüringen
+1961,HKW Tinz,ENGIE Deutschland GmbH,22.1,Gas,2018,Gera,7549,,Thüringen
+1962,GM,TEAG Thüringer Energie AG,10.0,Gas,2018,Bad Salzungen,36433,,Thüringen
+1963,Bürgerwindpark Bordelum III,Bürgerwindpark Bordelum III GmbH & Co. KG,56.3,Wind,2013,Bordelum,25852,Sandweg 5,Schleswig-Holstein
+1964,WP Grabow-Reesen,Windpark GmbH & Co. Grabow-Reesen KG,18.4,Wind,2014,Reesen,39291,,Sachsen-Anhalt
+1965,Windpark Neutz,Windpark Neutz GmbH & Co. KG,22.0,Wind,2012,Domnitz,6193,Flur 3,Sachsen-Anhalt
+1966,Windpark Zieger,Windpark Zieger GmbH & Co. KG,11.5,Wind,2011,Vehlburg,92355,"Gemarkung Lengenfeld, Flurnummer 1657",Bayern
+1967,Windpark Domnitz,Windpark Domnitz GmbH & Co. KG,12.0,Wind,2009,Domnitz,6193,"Flur 115, 126",Sachsen-Anhalt
+1968,swb Windpark Essel,swb Windpark Essel GmbH & Co. KG,13.2,Wind,2017,Kutenholz-Essel,27449,Dorfstr.,Niedersachsen
+1969,KWK Landshut,BMW AG,17.6,Gas,2019,Landshut,84030,Ohmstraße 2,Bayern
+1970,Lichterfelde,Vattenfall Wärme Berlin AG,289.0,Gas,2019,Berlin,12207,,Berlin
+1971,Hybridregelkraftwerk,swb Erzeugung GmbH & Co. KG,18.0,Other,2019,Bremen,28207,,Bremen
+1972,Dampfturbine 5,Mainova AG,38.7,Gas,2018,Frankfurt am Main,60327,Gutleutstraße 231,Hessen
+1973,KWK-Anlage Neukochen,Papierfabrik Palm GmbH & Co. KG,15.0,Gas,1960,Aalen,73432,,Baden-Württemberg
+1974,Speicherkraftwerk,Allgäuer Überlandwerk GmbH,16.0,Other,2018,Sulzberg-Graben / AU 5,87477,,Bayern
+1975,Arkona Becken Süd-Ost,AWE-Arkona-Windpark EntwicklungsGmbH,378.0,Wind,2018,Ostsee,,,AWZ
+1976,Borkum Riffgrund 2,Borkum Riffgrund 2 Offshore Wind Farm GmbH & Co. oHG,464.8,Wind,2018,Nordsee,,,AWZ
+1977,Batteriespseicher Jordelund,EnspireME GmbH,48.0,Other,2018,,,,Schleswig-Holstein
+1978,Naturstromspeicher Gaildorf,Naturstromspeicher Gaildorf GmbH & Co. KG,13.4,Wind,2017,Gaildorf,74405,"Fl.Nr. Münster/992, 910, 905/1, 10, 13Gmkg Unterrot",Baden-Württemberg
+1979,Dingolfing BA2,BMW AG,13.5,Gas,2019,Dingolfing,84130,Landshuter Straße 56,Bayern
+1980,Küstenkraftwerk K.I.E.L.,Stadtwerke Kiel AG,188.0,Gas,2019,Kiel,24149,Hasselfelde 30,Schleswig-Holstein
+1981,Werk 1.1,BMW AG,13.5,Gas,2019,München,80809,Lerchennauerstraße 76,Bayern
+1982,Werk 1.5,BMW AG,13.6,Gas,2019,München,80937,Knorrstraße 147,Bayern
